@@ -1,0 +1,988 @@
+order_id,order_date,ship_date,customer_name,email,phone,city,category,product,quantity,unit_price,discount,payment_method,status,order_datetime,gross_amount,discount_amount,net_amount
+ORD00703,2026-11-01,2026-11-08,Neha Gupta,neha.gupta3@outlook.com,3773553218,Bengaluru,Clothing,Jeans,2,45.0,0.05,Credit Card,Delivered,2026-11-01 01:26:03,90.0,4.5,85.5
+ORD00086,2026-11-01,2026-11-03,Meera Gupta,meera.gupta12@yahoo.com,0947434392,Bengaluru,Home & Kitchen,Mixer Grinder,5,70.0,0.15,Debit Card,Shipped,2026-11-01 02:20:50,350.0,52.5,297.5
+ORD00478,2026-11-01,2026-11-07,Vikram Gupta,vikram.gupta56@outlook.com,0498148666,Bengaluru,Electronics,Laptop,5,1100.0,0.2,Cash On Delivery,Delivered,2026-11-01 02:26:21,5500.0,1100.0,4400.0
+ORD00469,2026-11-01,2026-11-04,Vikram Nair,vikram.nair25@gmail.com,0442509101,Hyderabad,Home & Kitchen,Cookware Set,1,85.0,0.0,Credit Card,Returned,2026-11-01 03:22:00,85.0,0.0,85.0
+ORD00360,2026-11-01,2026-11-03,Rahul Nair,rahul.nair38@outlook.com,6105842753,Delhi,Clothing,Jeans,2,45.0,0.1,Credit Card,Shipped,2026-11-01 04:03:00,90.0,9.0,81.0
+ORD00077,2026-11-01,2026-11-08,Meera Sharma,meera.sharma55@gmail.com,8388030660,Delhi,Electronics,Laptop,1,1100.0,0.25,Cash On Delivery,Delivered,2026-11-01 04:31:00,1100.0,275.0,825.0
+ORD00350,2026-11-01,2026-11-06,Neha Reddy,neha.reddy98@gmail.com,8634119978,Bengaluru,Clothing,Jacket,3,90.0,0.0,Upi,Returned,2026-11-01 04:39:30,270.0,0.0,270.0
+ORD00455,2026-11-01,2026-11-03,Aarav Mehta,aarav.mehta5@outlook.com,8477296268,Delhi,Home & Kitchen,Cookware Set,5,85.0,0.0,Cash On Delivery,Cancelled,2026-11-01 05:45:00,425.0,0.0,425.0
+ORD00658,2026-11-01,2026-11-03,Arjun Verma,arjun.verma52@outlook.com,9807224605,Pune,Electronics,Smart Watch,2,180.0,0.25,Debit Card,Delivered,2026-11-01 05:52:00,360.0,90.0,270.0
+ORD00919,2026-11-01,2026-11-08,Meera Patel,meera.patel80@outlook.com,1171143898,Delhi,Clothing,Jeans,3,45.0,0.05,Unknown,Cancelled,2026-11-01 06:08:00,135.0,6.75,128.25
+ORD00433,2026-11-01,2026-11-04,Rohan Joshi,rohan.joshi14@gmail.com,1128255699,Bengaluru,Books,Data Science Guide,4,40.0,0.05,Credit Card,Returned,2026-11-01 06:14:00,160.0,8.0,152.0
+ORD00127,2026-11-01,2026-11-05,Arjun Nair,arjun.nair69@outlook.com,2800122807,Chennai,Clothing,Jeans,5,45.0,0.25,Net Banking,Cancelled,2026-11-01 06:25:00,225.0,56.25,168.75
+ORD00578,2026-11-01,2026-11-07,Arjun Sharma,arjun.sharma9@yahoo.com,2443552824,Mumbai,Home & Kitchen,Mixer Grinder,2,70.0,0.0,Net Banking,Pending,2026-11-01 06:53:07,140.0,0.0,140.0
+ORD00766,2026-11-01,2026-11-06,Priya Sharma,priya.sharma10@yahoo.com,6017947205,Delhi,Electronics,Laptop,3,1100.0,0.25,Net Banking,Returned,2026-11-01 06:57:00,3300.0,825.0,2475.0
+ORD00576,2026-11-01,2026-11-08,Aarav Sharma,aarav.sharma3@outlook.com,2742105579,Delhi,Home & Kitchen,Air Fryer,2,110.0,0.15,Net Banking,Pending,2026-11-01 07:34:00,220.0,33.0,187.0
+ORD00562,2026-11-01,2026-11-06,Karan Nair,karan.nair15@gmail.com,9809308769,Delhi,Clothing,Jacket,3,90.0,0.0,Debit Card,Cancelled,2026-11-01 07:38:00,270.0,0.0,270.0
+ORD00263,2026-11-01,2026-11-02,Karan Gupta,karan.gupta46@outlook.com,,Mumbai,Books,Python Handbook,2,30.0,0.25,Upi,Cancelled,2026-11-01 08:10:01,60.0,15.0,45.0
+ORD00848,2026-11-01,,Meera Nair,meera.nair29@yahoo.com,7462263879,Mumbai,Books,Data Science Guide,3,40.0,0.0,Upi,Shipped,2026-11-01 08:51:16,120.0,0.0,120.0
+ORD00953,2026-11-01,2026-11-02,Meera Gupta,meera.gupta19@gmail.com,7874907881,Delhi,Home & Kitchen,Cookware Set,5,85.0,0.1,Cash On Delivery,Cancelled,2026-11-01 09:10:05,425.0,42.5,382.5
+ORD00489,2026-11-01,2026-11-05,Neha Joshi,neha.joshi34@gmail.com,1112278346,Chennai,Home & Kitchen,Air Fryer,5,110.0,0.25,Net Banking,Shipped,2026-11-01 09:56:48,550.0,137.5,412.5
+ORD00612,2026-11-01,2026-11-03,Karan Sharma,karan.sharma44@gmail.com,2452366047,Mumbai,Books,Data Science Guide,3,40.0,0.15,Net Banking,Pending,2026-11-01 10:33:00,120.0,18.0,102.0
+ORD00899,2026-11-01,2026-11-05,Priya Patel,priya.patel94@outlook.com,7534824238,Hyderabad,Electronics,Laptop,5,1100.0,0.05,Net Banking,Delivered,2026-11-01 10:33:00,5500.0,275.0,5225.0
+ORD00516,2026-11-01,2026-11-07,Rohan Reddy,rohan.reddy25@gmail.com,4809276979,Delhi,Books,Data Science Guide,1,40.0,0.2,Net Banking,Pending,2026-11-01 11:00:00,40.0,8.0,32.0
+ORD00963,2026-11-01,2026-11-03,Anita Verma,anita.verma84@outlook.com,8261896001,Jaipur,Books,Data Science Guide,3,40.0,0.15,Cash On Delivery,Shipped,2026-11-01 12:02:00,120.0,18.0,102.0
+ORD00141,2026-11-01,2026-11-03,Sneha Singh,sneha.singh70@outlook.com,6966395202,Jaipur,Books,Data Science Guide,3,40.0,0.25,Cash On Delivery,Returned,2026-11-01 12:04:59,120.0,30.0,90.0
+ORD00777,2026-11-01,2026-11-08,Meera Sharma,meera.sharma59@outlook.com,9872481095,Chennai,Home & Kitchen,Air Fryer,5,110.0,0.15,Net Banking,Cancelled,2026-11-01 12:24:00,550.0,82.5,467.5
+ORD00701,2026-11-01,2026-11-07,Arjun Singh,arjun.singh54@gmail.com,7509070381,Chennai,Electronics,Laptop,3,1100.0,0.2,Debit Card,Cancelled,2026-11-01 13:10:27,3300.0,660.0,2640.0
+ORD00907,2026-11-01,2026-11-03,Rohan Khan,rohan.khan83@gmail.com,8538628283,Chennai,Clothing,Jeans,5,45.0,0.05,Debit Card,Pending,2026-11-01 13:16:00,225.0,11.25,213.75
+ORD00735,2026-11-01,2026-11-05,Rahul Singh,rahul.singh35@yahoo.com,6522239739,Unknown,Clothing,Jeans,2,45.0,0.05,Net Banking,Cancelled,2026-11-01 13:46:00,90.0,4.5,85.5
+ORD00193,2026-11-01,,Anita Khan,anita.khan11@gmail.com,9878673472,Kolkata,Books,Python Handbook,3,30.0,0.2,Net Banking,Shipped,2026-11-01 14:35:00,90.0,18.0,72.0
+ORD00169,2026-11-01,2026-11-06,Sneha Reddy,sneha.reddy76@outlook.com,6373078324,Hyderabad,Clothing,T-Shirt,2,15.0,0.05,Upi,Delivered,2026-11-01 17:39:37,30.0,1.5,28.5
+ORD00367,2026-11-01,2026-11-02,Meera Khan,meera.khan50@yahoo.com,,Pune,Electronics,Laptop,1,1100.0,0.2,Debit Card,Cancelled,2026-11-01 17:53:00,1100.0,220.0,880.0
+ORD00376,2026-11-01,2026-11-07,Anita Verma,anita.verma48@gmail.com,6919916277,Unknown,Clothing,Jeans,3,45.0,0.0,Cash On Delivery,Shipped,2026-11-01 17:54:16,135.0,0.0,135.0
+ORD00018,2026-11-01,2026-11-08,Meera Singh,meera.singh46@yahoo.com,7209074766,Kolkata,Books,Data Science Guide,3,40.0,0.15,Net Banking,Cancelled,2026-11-01 17:59:49,120.0,18.0,102.0
+ORD00649,2026-11-01,2026-11-06,Rohan Khan,rohan.khan41@outlook.com,5914271806,Mumbai,Clothing,T-Shirt,5,15.0,0.0,Credit Card,Returned,2026-11-01 18:14:00,75.0,0.0,75.0
+ORD00116,2026-11-01,2026-11-07,Divya Khan,divya.khan52@outlook.com,2856138581,Jaipur,Electronics,Wireless Mouse,5,25.0,0.2,Net Banking,Shipped,2026-11-01 18:27:00,125.0,25.0,100.0
+ORD00646,2026-11-01,2026-11-08,Anita Reddy,anita.reddy6@outlook.com,2182912600,Bengaluru,Books,Data Science Guide,2,40.0,0.2,Cash On Delivery,Delivered,2026-11-01 18:39:42,80.0,16.0,64.0
+ORD00251,2026-11-01,2026-11-07,Rohan Gupta,rohan.gupta49@outlook.com,7972671975,Pune,Clothing,Jeans,3,45.0,0.05,Credit Card,Pending,2026-11-01 18:41:00,135.0,6.75,128.25
+ORD00497,2026-11-01,2026-11-03,Rahul Nair,rahul.nair67@outlook.com,9646335140,Bengaluru,Books,Data Science Guide,3,40.0,0.2,Net Banking,Shipped,2026-11-01 19:13:20,120.0,24.0,96.0
+ORD00784,2026-11-01,2026-11-04,Meera Gupta,meera.gupta31@outlook.com,7000245240,Delhi,Clothing,T-Shirt,3,15.0,0.15,Cash On Delivery,Returned,2026-11-01 20:51:00,45.0,6.75,38.25
+ORD00471,2026-11-01,2026-11-07,Rohan Gupta,rohan.gupta77@yahoo.com,8189337870,Chennai,Clothing,Jeans,1,45.0,0.15,Credit Card,Cancelled,2026-11-01 20:59:00,45.0,6.75,38.25
+ORD00763,2026-11-01,2026-11-04,Aarav Reddy,aarav.reddy52@outlook.com,3341001324,Delhi,Clothing,Jacket,2,90.0,0.15,Net Banking,Returned,2026-11-01 21:11:00,180.0,27.0,153.0
+ORD00422,2026-11-01,2026-11-08,Priya Verma,priya.verma21@gmail.com,6197333715,Hyderabad,Home & Kitchen,Cookware Set,2,85.0,0.15,Cash On Delivery,Cancelled,2026-11-01 22:35:09,170.0,25.5,144.5
+ORD00602,2026-11-01,2026-11-05,Sneha Sharma,sneha.sharma1@outlook.com,8931011323,Unknown,Clothing,Jacket,2,90.0,0.15,Cash On Delivery,Returned,2026-11-01 22:36:00,180.0,27.0,153.0
+ORD00792,2026-11-01,2026-11-06,Sneha Reddy,sneha.reddy21@gmail.com,3002100733,Jaipur,Books,Data Science Guide,3,40.0,0.2,Net Banking,Cancelled,2026-11-01 23:03:59,120.0,24.0,96.0
+ORD00637,2026-11-01,2026-11-02,Rohan Sharma,rohan.sharma78@yahoo.com,1866471582,Mumbai,Home & Kitchen,Mixer Grinder,5,70.0,0.15,Cash On Delivery,Pending,2026-11-01 23:23:19,350.0,52.5,297.5
+ORD00282,2026-11-01,2026-11-08,Aarav Reddy,aarav.reddy37@gmail.com,8906008727,Jaipur,Electronics,Smart Watch,4,180.0,0.0,Credit Card,Delivered,2026-11-01 23:26:00,720.0,0.0,720.0
+ORD00653,2026-11-01,2026-11-08,Karan Joshi,,1414153622,Hyderabad,Electronics,Bluetooth Speaker,4,60.0,0.2,Cash On Delivery,Shipped,2026-11-01 23:37:00,240.0,48.0,192.0
+ORD00114,2026-11-02,2026-11-07,Rahul Nair,,7298116216,Delhi,Clothing,T-Shirt,2,15.0,0.1,Upi,Shipped,2026-11-02 00:10:00,30.0,3.0,27.0
+ORD00219,2026-11-02,2026-11-06,Neha Verma,neha.verma17@gmail.com,3606523072,Kolkata,Electronics,Wireless Mouse,3,25.0,0.0,Cash On Delivery,Cancelled,2026-11-02 01:12:00,75.0,0.0,75.0
+ORD00575,2026-11-02,2026-11-06,Neha Nair,neha.nair99@gmail.com,6879224495,Pune,Books,Data Science Guide,1,40.0,0.05,Cash On Delivery,Shipped,2026-11-02 01:49:00,40.0,2.0,38.0
+ORD00427,2026-11-02,2026-11-08,Sneha Patel,,2164341613,Pune,Clothing,Jacket,3,90.0,0.25,Debit Card,Returned,2026-11-02 02:37:00,270.0,67.5,202.5
+ORD00524,2026-11-02,2026-11-03,Rohan Joshi,rohan.joshi13@yahoo.com,9296610868,Kolkata,Clothing,Jeans,3,45.0,0.05,Debit Card,Shipped,2026-11-02 03:35:00,135.0,6.75,128.25
+ORD00266,2026-11-02,2026-11-08,Meera Khan,meera.khan21@gmail.com,2084741594,Pune,Books,Data Science Guide,3,40.0,0.0,Cash On Delivery,Returned,2026-11-02 03:51:00,120.0,0.0,120.0
+ORD00617,2026-11-02,2026-11-06,Divya Gupta,divya.gupta53@outlook.com,0060688445,Pune,Clothing,Jeans,1,45.0,0.05,Net Banking,Pending,2026-11-02 04:09:00,45.0,2.25,42.75
+ORD00564,2026-11-02,2026-11-05,Meera Singh,meera.singh52@gmail.com,7527142374,Jaipur,Home & Kitchen,Air Fryer,4,110.0,0.1,Cash On Delivery,Shipped,2026-11-02 04:56:17,440.0,44.0,396.0
+ORD00868,2026-11-02,2026-11-06,Karan Patel,karan.patel82@yahoo.com,8358705940,Jaipur,Electronics,Bluetooth Speaker,4,60.0,0.15,Upi,Returned,2026-11-02 05:02:00,240.0,36.0,204.0
+ORD00543,2026-11-02,2026-11-07,Arjun Khan,arjun.khan52@gmail.com,7148769033,Chennai,Books,Python Handbook,2,30.0,0.0,Credit Card,Pending,2026-11-02 05:31:15,60.0,0.0,60.0
+ORD00536,2026-11-02,2026-11-04,Anita Sharma,anita.sharma21@gmail.com,2317777119,Mumbai,Clothing,Jeans,2,45.0,0.0,Debit Card,Cancelled,2026-11-02 05:38:57,90.0,0.0,90.0
+ORD00552,2026-11-02,2026-11-06,Meera Sharma,meera.sharma51@yahoo.com,0815257085,Pune,Clothing,T-Shirt,5,15.0,0.25,Credit Card,Cancelled,2026-11-02 05:58:19,75.0,18.75,56.25
+ORD00568,2026-11-02,2026-11-05,Divya Nair,divya.nair98@outlook.com,2463572240,Jaipur,Home & Kitchen,Cookware Set,4,85.0,0.05,Cash On Delivery,Cancelled,2026-11-02 07:23:00,340.0,17.0,323.0
+ORD00474,2026-11-02,2026-11-03,Neha Joshi,neha.joshi71@gmail.com,7015558641,Jaipur,Electronics,Wireless Mouse,4,25.0,0.15,Debit Card,Delivered,2026-11-02 07:32:40,100.0,15.0,85.0
+ORD00388,2026-11-02,2026-11-04,Aarav Mehta,aarav.mehta90@gmail.com,8125972551,Chennai,Clothing,Jacket,4,90.0,0.25,Unknown,Shipped,2026-11-02 07:36:00,360.0,90.0,270.0
+ORD00117,2026-11-02,2026-11-09,Unknown,,2934409375,Mumbai,Books,Data Science Guide,1,40.0,0.05,Net Banking,Cancelled,2026-11-02 07:58:00,40.0,2.0,38.0
+ORD00234,2026-11-02,2026-11-08,Meera Mehta,meera.mehta18@yahoo.com,0748727320,Bengaluru,Clothing,Jacket,4,90.0,0.15,Credit Card,Delivered,2026-11-02 08:40:00,360.0,54.0,306.0
+ORD00983,2026-11-02,2026-11-04,Unknown,priya.patel32@gmail.com,1582009856,Chennai,Clothing,Jacket,3,90.0,0.0,Upi,Cancelled,2026-11-02 08:56:00,270.0,0.0,270.0
+ORD00871,2026-11-02,2026-11-06,Aarav Nair,aarav.nair81@outlook.com,7779208775,Pune,Electronics,Laptop,4,1100.0,0.15,Cash On Delivery,Shipped,2026-11-02 08:57:19,4400.0,660.0,3740.0
+ORD00499,2026-11-02,2026-11-08,Vikram Gupta,vikram.gupta14@outlook.com,4837181838,Kolkata,Electronics,Laptop,1,1100.0,0.05,Upi,Shipped,2026-11-02 09:37:00,1100.0,55.0,1045.0
+ORD00884,2026-11-02,2026-11-03,Divya Singh,divya.singh28@gmail.com,4741237705,Delhi,Electronics,Wireless Mouse,3,25.0,0.1,Net Banking,Returned,2026-11-02 11:01:15,75.0,7.5,67.5
+ORD00139,2026-11-02,2026-11-07,Anita Nair,,9975047134,Unknown,Home & Kitchen,Cookware Set,2,85.0,0.15,Net Banking,Pending,2026-11-02 11:37:00,170.0,25.5,144.5
+ORD00400,2026-11-02,2026-11-09,Sneha Mehta,sneha.mehta51@yahoo.com,7167867152,Delhi,Electronics,Laptop,3,1100.0,0.1,Cash On Delivery,Cancelled,2026-11-02 11:40:00,3300.0,330.0,2970.0
+ORD00159,2026-11-02,2026-11-07,Meera Reddy,meera.reddy66@yahoo.com,3921653726,Jaipur,Home & Kitchen,Cookware Set,1,85.0,0.05,Net Banking,Cancelled,2026-11-02 12:30:29,85.0,4.25,80.75
+ORD00937,2026-11-02,2026-11-09,Priya Singh,priya.singh48@yahoo.com,8967776303,Kolkata,Clothing,T-Shirt,1,15.0,0.15,Cash On Delivery,Pending,2026-11-02 12:53:00,15.0,2.25,12.75
+ORD00010,2026-11-02,2026-11-04,Arjun Verma,arjun.verma46@outlook.com,6198988073,Mumbai,Home & Kitchen,Air Fryer,3,110.0,0.1,Upi,Shipped,2026-11-02 13:01:00,330.0,33.0,297.0
+ORD00228,2026-11-02,,Karan Joshi,karan.joshi21@gmail.com,,Hyderabad,Electronics,Laptop,4,1100.0,0.05,Net Banking,Pending,2026-11-02 13:25:00,4400.0,220.0,4180.0
+ORD00887,2026-11-02,2026-11-07,Anita Verma,anita.verma55@yahoo.com,1506586166,Bengaluru,Electronics,Bluetooth Speaker,5,60.0,0.05,Credit Card,Shipped,2026-11-02 14:08:00,300.0,15.0,285.0
+ORD00186,2026-11-02,2026-11-05,Karan Khan,karan.khan87@yahoo.com,0513857634,Bengaluru,Clothing,Jacket,1,90.0,0.1,Credit Card,Shipped,2026-11-02 14:14:00,90.0,9.0,81.0
+ORD00611,2026-11-02,2026-11-08,Rahul Reddy,rahul.reddy84@yahoo.com,4463258906,Jaipur,Clothing,Jeans,2,45.0,0.2,Upi,Delivered,2026-11-02 14:25:00,90.0,18.0,72.0
+ORD00355,2026-11-02,2026-11-05,Rahul Joshi,rahul.joshi61@yahoo.com,2076275071,Kolkata,Clothing,Jeans,3,45.0,0.1,Debit Card,Delivered,2026-11-02 14:35:43,135.0,13.5,121.5
+ORD00138,2026-11-02,2026-11-05,Vikram Mehta,vikram.mehta75@gmail.com,0397771865,Kolkata,Clothing,T-Shirt,4,15.0,0.0,Net Banking,Returned,2026-11-02 16:45:00,60.0,0.0,60.0
+ORD00872,2026-11-02,2026-11-09,Vikram Mehta,vikram.mehta51@yahoo.com,3605119243,Mumbai,Books,Data Science Guide,2,40.0,0.05,Credit Card,Shipped,2026-11-02 17:17:09,80.0,4.0,76.0
+ORD00351,2026-11-02,2026-11-06,Neha Nair,neha.nair22@gmail.com,2409448488,Chennai,Clothing,Jeans,1,45.0,0.2,Debit Card,Shipped,2026-11-02 19:38:00,45.0,9.0,36.0
+ORD00998,2026-11-02,2026-11-07,Arjun Singh,arjun.singh13@outlook.com,3724018944,Jaipur,Home & Kitchen,Air Fryer,1,110.0,0.2,Upi,Delivered,2026-11-02 20:26:00,110.0,22.0,88.0
+ORD00571,2026-11-02,2026-11-05,Sneha Joshi,sneha.joshi54@outlook.com,1950460023,Hyderabad,Clothing,T-Shirt,2,15.0,0.2,Cash On Delivery,Delivered,2026-11-02 21:38:49,30.0,6.0,24.0
+ORD00880,2026-11-02,2026-11-03,Unknown,rahul.joshi51@outlook.com,4974377556,Unknown,Electronics,Wireless Mouse,5,25.0,0.15,Credit Card,Cancelled,2026-11-02 21:57:00,125.0,18.75,106.25
+ORD00752,2026-11-02,2026-11-08,Unknown,vikram.nair44@outlook.com,8591321706,Kolkata,Clothing,T-Shirt,1,15.0,0.05,Upi,Returned,2026-11-02 23:29:52,15.0,0.75,14.25
+ORD00803,2026-11-03,2026-11-06,Priya Nair,priya.nair73@outlook.com,5713996134,Unknown,Electronics,Laptop,2,1100.0,0.0,Unknown,Delivered,2026-11-03 00:53:32,2200.0,0.0,2200.0
+ORD00956,2026-11-03,,Aarav Verma,aarav.verma2@outlook.com,2394304916,Hyderabad,Books,Data Science Guide,1,40.0,0.0,Net Banking,Returned,2026-11-03 01:38:00,40.0,0.0,40.0
+ORD00557,2026-11-03,2026-11-06,Rahul Sharma,rahul.sharma47@yahoo.com,4223272878,Pune,Electronics,Laptop,3,1100.0,0.05,Cash On Delivery,Pending,2026-11-03 01:59:34,3300.0,165.0,3135.0
+ORD00067,2026-11-03,2026-11-06,Neha Gupta,neha.gupta95@yahoo.com,0332114540,Kolkata,Clothing,Jacket,1,90.0,0.05,Net Banking,Shipped,2026-11-03 02:59:00,90.0,4.5,85.5
+ORD00209,2026-11-03,2026-11-04,Rohan Reddy,rohan.reddy28@yahoo.com,4578569697,Hyderabad,Books,Data Science Guide,5,40.0,0.05,Cash On Delivery,Delivered,2026-11-03 03:21:31,200.0,10.0,190.0
+ORD00537,2026-11-03,2026-11-09,Meera Mehta,meera.mehta2@yahoo.com,4673802309,Pune,Books,Data Science Guide,3,40.0,0.05,Credit Card,Pending,2026-11-03 04:28:00,120.0,6.0,114.0
+ORD00693,2026-11-03,2026-11-10,Aarav Sharma,aarav.sharma93@outlook.com,2329527445,Kolkata,Electronics,Wireless Mouse,2,25.0,0.0,Upi,Cancelled,2026-11-03 05:02:09,50.0,0.0,50.0
+ORD00122,2026-11-03,2026-11-07,Karan Verma,karan.verma9@yahoo.com,0396575986,Unknown,Books,Python Handbook,2,30.0,0.1,Debit Card,Delivered,2026-11-03 05:17:00,60.0,6.0,54.0
+ORD00892,2026-11-03,2026-11-06,Rohan Singh,rohan.singh44@gmail.com,8038833013,Chennai,Clothing,T-Shirt,1,15.0,0.1,Upi,Delivered,2026-11-03 05:22:15,15.0,1.5,13.5
+ORD00886,2026-11-03,2026-11-08,Rohan Verma,rohan.verma98@gmail.com,9088800928,Chennai,Electronics,Laptop,5,1100.0,0.0,Debit Card,Shipped,2026-11-03 05:35:00,5500.0,0.0,5500.0
+ORD00976,2026-11-03,2026-11-06,Priya Joshi,priya.joshi95@yahoo.com,5189940424,Hyderabad,Books,Python Handbook,4,30.0,0.05,Credit Card,Shipped,2026-11-03 05:49:00,120.0,6.0,114.0
+ORD00115,2026-11-03,2026-11-06,Anita Khan,anita.khan85@yahoo.com,5891377623,Chennai,Home & Kitchen,Cookware Set,5,85.0,0.05,Net Banking,Cancelled,2026-11-03 07:02:00,425.0,21.25,403.75
+ORD00804,2026-11-03,2026-11-05,Priya Reddy,,3030778942,Jaipur,Electronics,Smart Watch,3,180.0,0.1,Cash On Delivery,Shipped,2026-11-03 08:25:00,540.0,54.0,486.0
+ORD00721,2026-11-03,2026-11-10,Rohan Reddy,,7123131055,Bengaluru,Electronics,Wireless Mouse,3,25.0,0.15,Debit Card,Pending,2026-11-03 08:52:07,75.0,11.25,63.75
+ORD00843,2026-11-03,2026-11-07,Rohan Reddy,,2868488656,Chennai,Books,Python Handbook,4,30.0,0.05,Upi,Delivered,2026-11-03 09:32:00,120.0,6.0,114.0
+ORD00284,2026-11-03,2026-11-10,Priya Mehta,priya.mehta72@gmail.com,2090028112,Hyderabad,Books,Python Handbook,2,30.0,0.15,Net Banking,Shipped,2026-11-03 09:36:00,60.0,9.0,51.0
+ORD00140,2026-11-03,2026-11-10,Arjun Khan,arjun.khan12@gmail.com,3350396941,Mumbai,Clothing,T-Shirt,2,15.0,0.1,Credit Card,Delivered,2026-11-03 09:41:38,30.0,3.0,27.0
+ORD00768,2026-11-03,2026-11-08,Sneha Sharma,sneha.sharma86@gmail.com,2368518593,Hyderabad,Books,Data Science Guide,1,40.0,0.2,Cash On Delivery,Pending,2026-11-03 09:45:00,40.0,8.0,32.0
+ORD00417,2026-11-03,,Anita Khan,anita.khan31@outlook.com,,Mumbai,Clothing,Jacket,3,90.0,0.0,Unknown,Cancelled,2026-11-03 10:17:04,270.0,0.0,270.0
+ORD00924,2026-11-03,2026-11-06,Unknown,karan.patel84@gmail.com,9675055375,Mumbai,Home & Kitchen,Mixer Grinder,2,70.0,0.05,Debit Card,Shipped,2026-11-03 11:54:00,140.0,7.0,133.0
+ORD00250,2026-11-03,2026-11-09,Unknown,anita.patel19@gmail.com,,Delhi,Electronics,Laptop,3,1100.0,0.2,Net Banking,Returned,2026-11-03 11:59:00,3300.0,660.0,2640.0
+ORD00131,2026-11-03,,Divya Patel,divya.patel37@outlook.com,4812662610,Pune,Clothing,Jeans,1,45.0,0.15,Debit Card,Returned,2026-11-03 15:22:23,45.0,6.75,38.25
+ORD00913,2026-11-03,2026-11-07,Anita Khan,anita.khan65@yahoo.com,8569950990,Chennai,Clothing,Jacket,1,90.0,0.05,Credit Card,Pending,2026-11-03 15:35:00,90.0,4.5,85.5
+ORD00045,2026-11-03,,Unknown,rohan.nair38@yahoo.com,2471447964,Kolkata,Electronics,Laptop,1,1100.0,0.15,Credit Card,Delivered,2026-11-03 15:40:40,1100.0,165.0,935.0
+ORD00347,2026-11-03,,Meera Gupta,meera.gupta84@yahoo.com,3568405080,Chennai,Books,Python Handbook,5,30.0,0.0,Debit Card,Shipped,2026-11-03 15:41:25,150.0,0.0,150.0
+ORD00378,2026-11-03,2026-11-09,Arjun Mehta,,1721052007,Hyderabad,Home & Kitchen,Air Fryer,1,110.0,0.25,Credit Card,Delivered,2026-11-03 16:22:00,110.0,27.5,82.5
+ORD00416,2026-11-03,2026-11-08,Rohan Nair,rohan.nair13@yahoo.com,0866835274,Bengaluru,Home & Kitchen,Mixer Grinder,1,70.0,0.0,Debit Card,Returned,2026-11-03 16:49:00,70.0,0.0,70.0
+ORD00439,2026-11-03,2026-11-10,Karan Patel,karan.patel81@yahoo.com,3281773511,Hyderabad,Home & Kitchen,Air Fryer,3,110.0,0.2,Net Banking,Shipped,2026-11-03 16:49:10,330.0,66.0,264.0
+ORD00879,2026-11-03,,Sneha Sharma,sneha.sharma7@gmail.com,6799336933,Mumbai,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Cash On Delivery,Returned,2026-11-03 17:06:00,280.0,0.0,280.0
+ORD00546,2026-11-03,2026-11-10,Rohan Joshi,rohan.joshi76@outlook.com,5565170244,Unknown,Books,Python Handbook,5,30.0,0.05,Credit Card,Cancelled,2026-11-03 17:09:02,150.0,7.5,142.5
+ORD00601,2026-11-03,2026-11-07,Anita Patel,anita.patel21@gmail.com,5865939013,Bengaluru,Books,Python Handbook,3,30.0,0.2,Cash On Delivery,Returned,2026-11-03 17:31:01,90.0,18.0,72.0
+ORD00465,2026-11-03,2026-11-10,Arjun Reddy,arjun.reddy49@outlook.com,3514140617,Jaipur,Clothing,Jacket,5,90.0,0.15,Debit Card,Returned,2026-11-03 18:36:00,450.0,67.5,382.5
+ORD00928,2026-11-03,2026-11-06,Arjun Patel,arjun.patel75@yahoo.com,3101649829,Hyderabad,Clothing,Jacket,1,90.0,0.0,Net Banking,Shipped,2026-11-03 19:15:03,90.0,0.0,90.0
+ORD00298,2026-11-03,2026-11-08,Rahul Khan,rahul.khan65@yahoo.com,6149203237,Jaipur,Clothing,Jeans,5,45.0,0.0,Upi,Returned,2026-11-03 19:27:00,225.0,0.0,225.0
+ORD00091,2026-11-03,2026-11-04,Divya Reddy,divya.reddy91@gmail.com,6403945956,Hyderabad,Clothing,Jacket,1,90.0,0.2,Cash On Delivery,Delivered,2026-11-03 19:55:02,90.0,18.0,72.0
+ORD00498,2026-11-03,,Anita Gupta,anita.gupta10@yahoo.com,9142074310,Delhi,Electronics,Smart Watch,2,180.0,0.05,Net Banking,Cancelled,2026-11-03 20:08:00,360.0,18.0,342.0
+ORD00853,2026-11-03,2026-11-05,Rohan Mehta,rohan.mehta17@outlook.com,1998765706,Mumbai,Home & Kitchen,Air Fryer,3,110.0,0.05,Credit Card,Shipped,2026-11-03 20:21:00,330.0,16.5,313.5
+ORD00527,2026-11-03,2026-11-10,Anita Mehta,,9075235314,Kolkata,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Debit Card,Delivered,2026-11-03 20:36:56,280.0,0.0,280.0
+ORD00434,2026-11-03,2026-11-04,Rohan Sharma,rohan.sharma30@outlook.com,1495715521,Bengaluru,Books,Data Science Guide,5,40.0,0.2,Debit Card,Delivered,2026-11-03 21:10:00,200.0,40.0,160.0
+ORD00755,2026-11-03,2026-11-09,Vikram Reddy,,,Unknown,Home & Kitchen,Air Fryer,5,110.0,0.25,Net Banking,Returned,2026-11-03 21:26:57,550.0,137.5,412.5
+ORD00329,2026-11-03,2026-11-05,Sneha Sharma,sneha.sharma28@yahoo.com,6423809416,Delhi,Electronics,Laptop,2,1100.0,0.15,Credit Card,Returned,2026-11-03 23:30:17,2200.0,330.0,1870.0
+ORD00610,2026-11-03,2026-11-04,Aarav Khan,aarav.khan44@gmail.com,8491323507,Pune,Books,Data Science Guide,4,40.0,0.15,Net Banking,Cancelled,2026-11-03 23:46:00,160.0,24.0,136.0
+ORD00220,2026-11-04,2026-11-09,Divya Singh,divya.singh74@gmail.com,,Pune,Clothing,T-Shirt,1,15.0,0.05,Credit Card,Pending,2026-11-04 00:26:50,15.0,0.75,14.25
+ORD00348,2026-11-04,2026-11-09,Aarav Gupta,aarav.gupta70@yahoo.com,3223429231,Hyderabad,Home & Kitchen,Mixer Grinder,4,70.0,0.15,Net Banking,Delivered,2026-11-04 00:57:17,280.0,42.0,238.0
+ORD00997,2026-11-04,2026-11-07,Vikram Khan,vikram.khan94@outlook.com,9835577699,Pune,Books,Data Science Guide,3,40.0,0.2,Upi,Delivered,2026-11-04 01:40:00,120.0,24.0,96.0
+ORD00932,2026-11-04,2026-11-09,Vikram Joshi,vikram.joshi47@outlook.com,2237334808,Hyderabad,Electronics,Smart Watch,1,180.0,0.25,Upi,Delivered,2026-11-04 01:49:00,180.0,45.0,135.0
+ORD00345,2026-11-04,2026-11-10,Rahul Mehta,rahul.mehta57@yahoo.com,7374112102,Pune,Books,Python Handbook,1,30.0,0.25,Upi,Returned,2026-11-04 02:02:00,30.0,7.5,22.5
+ORD00531,2026-11-04,2026-11-09,Karan Singh,karan.singh55@yahoo.com,3258876326,Bengaluru,Home & Kitchen,Air Fryer,3,110.0,0.2,Net Banking,Pending,2026-11-04 05:52:00,330.0,66.0,264.0
+ORD00724,2026-11-04,2026-11-09,Rahul Reddy,rahul.reddy96@yahoo.com,7267969378,Jaipur,Clothing,Jeans,4,45.0,0.1,Debit Card,Delivered,2026-11-04 07:07:17,180.0,18.0,162.0
+ORD00685,2026-11-04,2026-11-09,Aarav Patel,,1460562644,Mumbai,Electronics,Bluetooth Speaker,1,60.0,0.1,Cash On Delivery,Cancelled,2026-11-04 08:23:48,60.0,6.0,54.0
+ORD00889,2026-11-04,2026-11-05,Rahul Singh,rahul.singh35@yahoo.com,5380683954,Kolkata,Electronics,Laptop,5,1100.0,0.25,Unknown,Cancelled,2026-11-04 09:20:00,5500.0,1375.0,4125.0
+ORD00034,2026-11-04,2026-11-11,Priya Patel,priya.patel74@gmail.com,,Mumbai,Books,Python Handbook,1,30.0,0.15,Cash On Delivery,Cancelled,2026-11-04 12:44:00,30.0,4.5,25.5
+ORD00837,2026-11-04,2026-11-06,Meera Verma,meera.verma93@gmail.com,2295754194,Jaipur,Books,Data Science Guide,1,40.0,0.0,Debit Card,Cancelled,2026-11-04 13:21:45,40.0,0.0,40.0
+ORD00384,2026-11-04,,Anita Verma,anita.verma68@yahoo.com,9703177374,Hyderabad,Home & Kitchen,Cookware Set,4,85.0,0.2,Debit Card,Shipped,2026-11-04 13:59:00,340.0,68.0,272.0
+ORD00183,2026-11-04,2026-11-07,Neha Patel,neha.patel88@yahoo.com,9488893066,Delhi,Home & Kitchen,Air Fryer,1,110.0,0.0,Upi,Cancelled,2026-11-04 14:00:00,110.0,0.0,110.0
+ORD00665,2026-11-04,2026-11-08,Sneha Nair,sneha.nair19@gmail.com,0929160360,Bengaluru,Clothing,T-Shirt,5,15.0,0.05,Upi,Pending,2026-11-04 14:37:44,75.0,3.75,71.25
+ORD00155,2026-11-04,2026-11-11,Priya Mehta,priya.mehta72@outlook.com,4522140264,Bengaluru,Clothing,Jacket,5,90.0,0.15,Upi,Delivered,2026-11-04 14:46:00,450.0,67.5,382.5
+ORD00104,2026-11-04,2026-11-09,Divya Reddy,divya.reddy24@outlook.com,,Bengaluru,Electronics,Bluetooth Speaker,5,60.0,0.05,Cash On Delivery,Returned,2026-11-04 15:08:00,300.0,15.0,285.0
+ORD00894,2026-11-04,2026-11-09,Priya Singh,priya.singh63@outlook.com,,Bengaluru,Clothing,T-Shirt,4,15.0,0.1,Debit Card,Shipped,2026-11-04 15:32:00,60.0,6.0,54.0
+ORD00368,2026-11-04,2026-11-06,Neha Mehta,neha.mehta10@outlook.com,6092690288,Jaipur,Electronics,Bluetooth Speaker,3,60.0,0.2,Upi,Cancelled,2026-11-04 16:38:50,180.0,36.0,144.0
+ORD00278,2026-11-04,2026-11-09,Rohan Patel,rohan.patel34@gmail.com,,Jaipur,Electronics,Wireless Mouse,1,25.0,0.1,Cash On Delivery,Pending,2026-11-04 16:42:58,25.0,2.5,22.5
+ORD00408,2026-11-04,2026-11-09,Neha Gupta,neha.gupta20@outlook.com,0875050101,Hyderabad,Clothing,Jacket,2,90.0,0.0,Credit Card,Shipped,2026-11-04 16:50:00,180.0,0.0,180.0
+ORD00678,2026-11-04,2026-11-06,Aarav Reddy,aarav.reddy53@gmail.com,,Pune,Electronics,Smart Watch,5,180.0,0.0,Debit Card,Delivered,2026-11-04 17:41:00,900.0,0.0,900.0
+ORD00230,2026-11-04,2026-11-11,Karan Reddy,karan.reddy22@yahoo.com,0664331027,Hyderabad,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Credit Card,Delivered,2026-11-04 18:21:00,280.0,0.0,280.0
+ORD00716,2026-11-04,2026-11-11,Karan Gupta,karan.gupta2@outlook.com,5082726307,Chennai,Home & Kitchen,Cookware Set,2,85.0,0.15,Cash On Delivery,Delivered,2026-11-04 18:36:00,170.0,25.5,144.5
+ORD00126,2026-11-04,2026-11-08,Aarav Sharma,aarav.sharma87@gmail.com,3812293144,Mumbai,Clothing,Jeans,1,45.0,0.0,Cash On Delivery,Shipped,2026-11-04 18:52:00,45.0,0.0,45.0
+ORD00558,2026-11-04,2026-11-06,Priya Singh,priya.singh31@outlook.com,1955885315,Chennai,Clothing,T-Shirt,4,15.0,0.25,Debit Card,Shipped,2026-11-04 19:17:00,60.0,15.0,45.0
+ORD00935,2026-11-04,2026-11-10,Karan Sharma,karan.sharma98@gmail.com,6780558706,Delhi,Clothing,Jeans,5,45.0,0.0,Debit Card,Returned,2026-11-04 21:09:00,225.0,0.0,225.0
+ORD00294,2026-11-04,2026-11-08,Vikram Joshi,vikram.joshi50@outlook.com,8121350664,Hyderabad,Home & Kitchen,Cookware Set,5,85.0,0.2,Cash On Delivery,Delivered,2026-11-04 21:26:10,425.0,85.0,340.0
+ORD00960,2026-11-05,,Vikram Reddy,vikram.reddy98@gmail.com,2146509089,Delhi,Electronics,Laptop,2,1100.0,0.1,Upi,Delivered,2026-11-05 00:19:00,2200.0,220.0,1980.0
+ORD00691,2026-11-05,2026-11-12,Rohan Reddy,rohan.reddy54@outlook.com,,Mumbai,Home & Kitchen,Mixer Grinder,1,70.0,0.15,Net Banking,Shipped,2026-11-05 01:58:00,70.0,10.5,59.5
+ORD00959,2026-11-05,2026-11-11,Arjun Verma,arjun.verma99@yahoo.com,2083677629,Kolkata,Books,Python Handbook,5,30.0,0.0,Debit Card,Delivered,2026-11-05 01:59:00,150.0,0.0,150.0
+ORD00955,2026-11-05,2026-11-10,Priya Patel,priya.patel4@outlook.com,5906447172,Mumbai,Electronics,Wireless Mouse,4,25.0,0.1,Upi,Delivered,2026-11-05 02:27:56,100.0,10.0,90.0
+ORD00235,2026-11-05,2026-11-07,Sneha Singh,sneha.singh65@gmail.com,1146359284,Hyderabad,Clothing,T-Shirt,4,15.0,0.0,Cash On Delivery,Delivered,2026-11-05 03:20:00,60.0,0.0,60.0
+ORD00170,2026-11-05,2026-11-12,Karan Gupta,karan.gupta98@yahoo.com,1799552458,Kolkata,Electronics,Smart Watch,5,180.0,0.05,Net Banking,Returned,2026-11-05 04:02:00,900.0,45.0,855.0
+ORD00705,2026-11-05,2026-11-11,Rahul Verma,rahul.verma45@outlook.com,,Bengaluru,Electronics,Wireless Mouse,2,25.0,0.1,Debit Card,Pending,2026-11-05 04:59:30,50.0,5.0,45.0
+ORD00094,2026-11-05,2026-11-10,Priya Verma,priya.verma73@gmail.com,8826541466,Jaipur,Electronics,Laptop,3,1100.0,0.15,Credit Card,Shipped,2026-11-05 05:23:00,3300.0,495.0,2805.0
+ORD00204,2026-11-05,2026-11-07,Meera Verma,meera.verma54@yahoo.com,0083188004,Pune,Electronics,Laptop,5,1100.0,0.25,Net Banking,Delivered,2026-11-05 06:18:00,5500.0,1375.0,4125.0
+ORD00144,2026-11-05,2026-11-06,Divya Khan,divya.khan35@outlook.com,2636456738,Jaipur,Clothing,T-Shirt,2,15.0,0.05,Credit Card,Pending,2026-11-05 06:43:35,30.0,1.5,28.5
+ORD00813,2026-11-05,2026-11-09,Priya Joshi,priya.joshi78@gmail.com,9608402250,Mumbai,Clothing,T-Shirt,4,15.0,0.2,Debit Card,Pending,2026-11-05 06:54:00,60.0,12.0,48.0
+ORD00412,2026-11-05,2026-11-06,Vikram Joshi,,0141784592,Hyderabad,Home & Kitchen,Mixer Grinder,4,70.0,0.1,Net Banking,Cancelled,2026-11-05 07:08:53,280.0,28.0,252.0
+ORD00435,2026-11-05,2026-11-11,Rahul Gupta,rahul.gupta80@yahoo.com,5731280777,Mumbai,Books,Python Handbook,2,30.0,0.0,Upi,Pending,2026-11-05 08:01:42,60.0,0.0,60.0
+ORD00029,2026-11-05,2026-11-12,Arjun Joshi,arjun.joshi72@yahoo.com,2137236364,Delhi,Books,Python Handbook,4,30.0,0.0,Upi,Delivered,2026-11-05 08:12:00,120.0,0.0,120.0
+ORD00739,2026-11-05,2026-11-07,Karan Verma,karan.verma61@outlook.com,3430108858,Pune,Home & Kitchen,Mixer Grinder,2,70.0,0.05,Cash On Delivery,Delivered,2026-11-05 09:37:00,140.0,7.0,133.0
+ORD00068,2026-11-05,2026-11-08,Rohan Verma,rohan.verma22@yahoo.com,7397464103,Kolkata,Books,Python Handbook,5,30.0,0.1,Debit Card,Cancelled,2026-11-05 09:47:00,150.0,15.0,135.0
+ORD00299,2026-11-05,2026-11-11,Aarav Reddy,aarav.reddy65@gmail.com,3890078586,Unknown,Electronics,Laptop,5,1100.0,0.2,Upi,Shipped,2026-11-05 09:50:00,5500.0,1100.0,4400.0
+ORD00189,2026-11-05,,Anita Verma,anita.verma82@gmail.com,2162210734,Mumbai,Clothing,T-Shirt,3,15.0,0.0,Cash On Delivery,Delivered,2026-11-05 10:55:00,45.0,0.0,45.0
+ORD00164,2026-11-05,2026-11-09,Rahul Reddy,rahul.reddy62@yahoo.com,,Chennai,Books,Data Science Guide,3,40.0,0.0,Cash On Delivery,Shipped,2026-11-05 12:00:00,120.0,0.0,120.0
+ORD00214,2026-11-05,2026-11-10,Sneha Nair,sneha.nair55@outlook.com,4829094583,Pune,Electronics,Bluetooth Speaker,1,60.0,0.0,Debit Card,Pending,2026-11-05 13:35:29,60.0,0.0,60.0
+ORD00030,2026-11-05,2026-11-09,Neha Nair,neha.nair54@outlook.com,4044903498,Chennai,Clothing,Jacket,1,90.0,0.0,Debit Card,Pending,2026-11-05 14:09:00,90.0,0.0,90.0
+ORD00570,2026-11-05,2026-11-08,Divya Joshi,,4212286241,Unknown,Electronics,Laptop,2,1100.0,0.2,Cash On Delivery,Shipped,2026-11-05 14:11:28,2200.0,440.0,1760.0
+ORD00630,2026-11-05,2026-11-09,Unknown,anita.nair36@outlook.com,1311542469,Jaipur,Clothing,Jacket,3,90.0,0.0,Net Banking,Shipped,2026-11-05 14:11:31,270.0,0.0,270.0
+ORD00760,2026-11-05,2026-11-06,Karan Reddy,karan.reddy35@outlook.com,7403298251,Hyderabad,Clothing,Jacket,5,90.0,0.0,Upi,Shipped,2026-11-05 14:18:00,450.0,0.0,450.0
+ORD00437,2026-11-05,2026-11-09,Sneha Joshi,sneha.joshi20@yahoo.com,3031575044,Chennai,Home & Kitchen,Cookware Set,5,85.0,0.1,Credit Card,Returned,2026-11-05 14:45:00,425.0,42.5,382.5
+ORD00291,2026-11-05,2026-11-10,Vikram Verma,vikram.verma39@outlook.com,1780565633,Jaipur,Clothing,Jeans,3,45.0,0.1,Debit Card,Pending,2026-11-05 15:09:00,135.0,13.5,121.5
+ORD00706,2026-11-05,,Karan Mehta,karan.mehta83@gmail.com,8460438659,Chennai,Electronics,Smart Watch,2,180.0,0.2,Debit Card,Returned,2026-11-05 15:22:00,360.0,72.0,288.0
+ORD00206,2026-11-05,2026-11-09,Meera Nair,meera.nair88@yahoo.com,7750347430,Pune,Books,Python Handbook,3,30.0,0.1,Credit Card,Pending,2026-11-05 15:36:00,90.0,9.0,81.0
+ORD00916,2026-11-05,2026-11-08,Divya Mehta,divya.mehta13@outlook.com,3445573300,Chennai,Clothing,Jacket,4,90.0,0.0,Upi,Pending,2026-11-05 15:53:00,360.0,0.0,360.0
+ORD00553,2026-11-05,,Aarav Sharma,,3361873299,Bengaluru,Clothing,T-Shirt,3,15.0,0.2,Cash On Delivery,Delivered,2026-11-05 16:16:00,45.0,9.0,36.0
+ORD00968,2026-11-05,2026-11-10,Rohan Singh,rohan.singh55@gmail.com,9573767368,Bengaluru,Home & Kitchen,Air Fryer,3,110.0,0.0,Credit Card,Shipped,2026-11-05 16:44:43,330.0,0.0,330.0
+ORD00690,2026-11-05,2026-11-07,Anita Mehta,anita.mehta29@gmail.com,6376924241,Delhi,Home & Kitchen,Mixer Grinder,3,70.0,0.05,Net Banking,Cancelled,2026-11-05 17:45:00,210.0,10.5,199.5
+ORD00831,2026-11-05,2026-11-09,Sneha Khan,sneha.khan93@outlook.com,4017257989,Mumbai,Clothing,Jacket,3,90.0,0.15,Net Banking,Returned,2026-11-05 17:46:23,270.0,40.5,229.5
+ORD00864,2026-11-05,2026-11-12,Sneha Nair,sneha.nair49@outlook.com,1089482723,Hyderabad,Books,Python Handbook,5,30.0,0.1,Credit Card,Delivered,2026-11-05 18:04:00,150.0,15.0,135.0
+ORD00737,2026-11-05,2026-11-10,Sneha Patel,sneha.patel37@outlook.com,6544554417,Delhi,Home & Kitchen,Air Fryer,3,110.0,0.2,Upi,Returned,2026-11-05 20:02:00,330.0,66.0,264.0
+ORD00878,2026-11-05,2026-11-10,Divya Verma,divya.verma94@gmail.com,3831354942,Pune,Books,Python Handbook,2,30.0,0.25,Upi,Cancelled,2026-11-05 20:22:16,60.0,15.0,45.0
+ORD00940,2026-11-05,2026-11-07,Arjun Reddy,,7527837639,Delhi,Clothing,T-Shirt,2,15.0,0.25,Upi,Cancelled,2026-11-05 21:04:00,30.0,7.5,22.5
+ORD00502,2026-11-05,2026-11-08,Meera Verma,meera.verma53@outlook.com,,Kolkata,Books,Data Science Guide,3,40.0,0.0,Cash On Delivery,Pending,2026-11-05 21:40:00,120.0,0.0,120.0
+ORD00293,2026-11-05,2026-11-06,Sneha Singh,,5392412826,Mumbai,Electronics,Wireless Mouse,2,25.0,0.2,Debit Card,Returned,2026-11-05 21:59:00,50.0,10.0,40.0
+ORD00789,2026-11-05,2026-11-12,Anita Khan,anita.khan68@outlook.com,1568963446,Jaipur,Electronics,Smart Watch,2,180.0,0.05,Cash On Delivery,Delivered,2026-11-05 22:13:00,360.0,18.0,342.0
+ORD00623,2026-11-05,2026-11-11,Priya Patel,priya.patel95@outlook.com,8752128416,Kolkata,Books,Data Science Guide,2,40.0,0.25,Debit Card,Delivered,2026-11-05 22:27:43,80.0,20.0,60.0
+ORD00249,2026-11-05,2026-11-09,Vikram Patel,vikram.patel49@outlook.com,0246507961,Mumbai,Home & Kitchen,Air Fryer,4,110.0,0.05,Credit Card,Delivered,2026-11-05 22:39:00,440.0,22.0,418.0
+ORD00867,2026-11-05,,Anita Reddy,anita.reddy52@gmail.com,8879326817,Mumbai,Books,Python Handbook,2,30.0,0.0,Cash On Delivery,Returned,2026-11-05 22:40:00,60.0,0.0,60.0
+ORD00464,2026-11-05,2026-11-06,Divya Verma,divya.verma8@yahoo.com,5442535747,Hyderabad,Clothing,Jacket,5,90.0,0.15,Debit Card,Delivered,2026-11-05 23:29:20,450.0,67.5,382.5
+ORD00720,2026-11-05,2026-11-09,Rahul Singh,rahul.singh72@yahoo.com,2968133706,Pune,Clothing,T-Shirt,3,15.0,0.25,Debit Card,Returned,2026-11-05 23:31:00,45.0,11.25,33.75
+ORD00549,2026-11-06,2026-11-12,Rahul Nair,rahul.nair13@outlook.com,0169196355,Chennai,Home & Kitchen,Cookware Set,1,85.0,0.0,Cash On Delivery,Cancelled,2026-11-06 00:13:00,85.0,0.0,85.0
+ORD00216,2026-11-06,2026-11-07,Sneha Reddy,sneha.reddy2@gmail.com,6718682990,Jaipur,Home & Kitchen,Air Fryer,3,110.0,0.2,Debit Card,Pending,2026-11-06 00:18:00,330.0,66.0,264.0
+ORD00411,2026-11-06,2026-11-07,Neha Nair,,2504746205,Jaipur,Home & Kitchen,Cookware Set,5,85.0,0.15,Upi,Returned,2026-11-06 00:24:00,425.0,63.75,361.25
+ORD00197,2026-11-06,2026-11-10,Neha Reddy,neha.reddy56@gmail.com,0374488108,Bengaluru,Electronics,Bluetooth Speaker,2,60.0,0.15,Credit Card,Delivered,2026-11-06 01:18:00,120.0,18.0,102.0
+ORD00470,2026-11-06,2026-11-07,Aarav Reddy,aarav.reddy18@outlook.com,5429722132,Pune,Electronics,Bluetooth Speaker,3,60.0,0.0,Net Banking,Returned,2026-11-06 01:31:00,180.0,0.0,180.0
+ORD00544,2026-11-06,2026-11-13,Rohan Gupta,rohan.gupta13@gmail.com,2687585592,Pune,Clothing,Jacket,3,90.0,0.0,Credit Card,Shipped,2026-11-06 02:20:19,270.0,0.0,270.0
+ORD00982,2026-11-06,2026-11-10,Vikram Khan,vikram.khan80@outlook.com,5594221465,Hyderabad,Home & Kitchen,Air Fryer,3,110.0,0.15,Debit Card,Returned,2026-11-06 02:34:00,330.0,49.5,280.5
+ORD00324,2026-11-06,,Arjun Sharma,,3072869171,Mumbai,Electronics,Wireless Mouse,2,25.0,0.1,Upi,Returned,2026-11-06 03:08:00,50.0,5.0,45.0
+ORD00242,2026-11-06,2026-11-07,Neha Sharma,neha.sharma21@yahoo.com,2248115706,Chennai,Clothing,T-Shirt,4,15.0,0.15,Debit Card,Cancelled,2026-11-06 03:15:00,60.0,9.0,51.0
+ORD00180,2026-11-06,2026-11-08,Sneha Singh,sneha.singh72@outlook.com,8778491103,Chennai,Books,Data Science Guide,1,40.0,0.0,Debit Card,Shipped,2026-11-06 03:43:00,40.0,0.0,40.0
+ORD00561,2026-11-06,2026-11-07,Divya Reddy,divya.reddy94@outlook.com,,Chennai,Electronics,Wireless Mouse,2,25.0,0.2,Credit Card,Shipped,2026-11-06 05:13:00,50.0,10.0,40.0
+ORD00148,2026-11-06,2026-11-07,Aarav Gupta,aarav.gupta5@outlook.com,3019126655,Delhi,Clothing,T-Shirt,3,15.0,0.05,Credit Card,Cancelled,2026-11-06 05:23:00,45.0,2.25,42.75
+ORD00833,2026-11-06,2026-11-10,Aarav Nair,aarav.nair17@gmail.com,4240254587,Mumbai,Books,Python Handbook,1,30.0,0.05,Cash On Delivery,Pending,2026-11-06 06:18:39,30.0,1.5,28.5
+ORD00555,2026-11-06,2026-11-13,Divya Sharma,divya.sharma43@gmail.com,6404435635,Bengaluru,Home & Kitchen,Air Fryer,2,110.0,0.05,Credit Card,Pending,2026-11-06 06:42:28,220.0,11.0,209.0
+ORD00443,2026-11-06,2026-11-11,Rohan Verma,rohan.verma31@yahoo.com,0207715903,Kolkata,Clothing,Jacket,1,90.0,0.0,Credit Card,Delivered,2026-11-06 07:50:57,90.0,0.0,90.0
+ORD00657,2026-11-06,2026-11-08,Priya Joshi,priya.joshi95@yahoo.com,7557042234,Chennai,Home & Kitchen,Cookware Set,4,85.0,0.2,Credit Card,Delivered,2026-11-06 08:15:00,340.0,68.0,272.0
+ORD00666,2026-11-06,2026-11-12,Anita Joshi,anita.joshi87@yahoo.com,1372471541,Bengaluru,Electronics,Bluetooth Speaker,2,60.0,0.25,Upi,Pending,2026-11-06 08:51:00,120.0,30.0,90.0
+ORD00337,2026-11-06,2026-11-10,Priya Sharma,priya.sharma96@gmail.com,5437985769,Pune,Electronics,Smart Watch,5,180.0,0.0,Credit Card,Cancelled,2026-11-06 08:54:00,900.0,0.0,900.0
+ORD00418,2026-11-06,2026-11-10,Anita Gupta,anita.gupta6@gmail.com,9974767830,Chennai,Clothing,T-Shirt,3,15.0,0.0,Net Banking,Returned,2026-11-06 09:07:26,45.0,0.0,45.0
+ORD00597,2026-11-06,2026-11-09,Sneha Verma,sneha.verma57@gmail.com,,Delhi,Books,Data Science Guide,2,40.0,0.15,Debit Card,Delivered,2026-11-06 09:14:00,80.0,12.0,68.0
+ORD00547,2026-11-06,2026-11-08,Sneha Nair,sneha.nair91@gmail.com,1481770454,Bengaluru,Electronics,Smart Watch,2,180.0,0.25,Credit Card,Cancelled,2026-11-06 09:50:09,360.0,90.0,270.0
+ORD00814,2026-11-06,2026-11-08,Karan Patel,karan.patel34@yahoo.com,9874755880,Pune,Home & Kitchen,Mixer Grinder,3,70.0,0.1,Upi,Cancelled,2026-11-06 11:23:48,210.0,21.0,189.0
+ORD00147,2026-11-06,2026-11-11,Unknown,rohan.gupta19@gmail.com,3792189070,Hyderabad,Books,Python Handbook,4,30.0,0.2,Credit Card,Pending,2026-11-06 12:12:00,120.0,24.0,96.0
+ORD00073,2026-11-06,2026-11-12,Karan Joshi,karan.joshi77@gmail.com,4599112186,Kolkata,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Credit Card,Delivered,2026-11-06 13:35:00,280.0,0.0,280.0
+ORD00548,2026-11-06,2026-11-10,Karan Nair,,0151971687,Delhi,Electronics,Laptop,1,1100.0,0.0,Credit Card,Delivered,2026-11-06 14:28:00,1100.0,0.0,1100.0
+ORD00554,2026-11-06,2026-11-12,Unknown,aarav.verma81@gmail.com,1293915046,Pune,Electronics,Laptop,2,1100.0,0.2,Net Banking,Returned,2026-11-06 15:05:00,2200.0,440.0,1760.0
+ORD00421,2026-11-06,2026-11-08,Anita Verma,anita.verma98@yahoo.com,5098802779,Hyderabad,Home & Kitchen,Air Fryer,3,110.0,0.0,Upi,Returned,2026-11-06 15:31:00,330.0,0.0,330.0
+ORD00501,2026-11-06,2026-11-07,Aarav Mehta,aarav.mehta30@yahoo.com,1004309279,Chennai,Electronics,Smart Watch,2,180.0,0.15,Net Banking,Pending,2026-11-06 15:33:00,360.0,54.0,306.0
+ORD00954,2026-11-06,2026-11-12,Divya Joshi,divya.joshi32@yahoo.com,0692989512,Jaipur,Electronics,Wireless Mouse,1,25.0,0.2,Upi,Delivered,2026-11-06 16:03:00,25.0,5.0,20.0
+ORD00677,2026-11-06,2026-11-12,Meera Gupta,meera.gupta50@yahoo.com,4030002991,Mumbai,Home & Kitchen,Mixer Grinder,1,70.0,0.25,Cash On Delivery,Pending,2026-11-06 16:19:00,70.0,17.5,52.5
+ORD00488,2026-11-06,2026-11-10,Meera Reddy,meera.reddy40@yahoo.com,0002909882,Jaipur,Clothing,Jeans,4,45.0,0.2,Debit Card,Delivered,2026-11-06 16:27:00,180.0,36.0,144.0
+ORD00698,2026-11-06,,Karan Joshi,karan.joshi76@outlook.com,3687115949,Hyderabad,Home & Kitchen,Mixer Grinder,2,70.0,0.05,Cash On Delivery,Returned,2026-11-06 16:49:00,140.0,7.0,133.0
+ORD00044,2026-11-06,2026-11-12,Rohan Gupta,rohan.gupta9@outlook.com,2010959527,Pune,Home & Kitchen,Cookware Set,4,85.0,0.25,Cash On Delivery,Pending,2026-11-06 16:54:59,340.0,85.0,255.0
+ORD00014,2026-11-06,2026-11-10,Sneha Patel,sneha.patel99@outlook.com,4723801312,Jaipur,Books,Data Science Guide,3,40.0,0.15,Cash On Delivery,Cancelled,2026-11-06 17:16:00,120.0,18.0,102.0
+ORD00311,2026-11-06,2026-11-09,Arjun Nair,arjun.nair87@gmail.com,9497386806,Bengaluru,Electronics,Smart Watch,2,180.0,0.05,Credit Card,Shipped,2026-11-06 18:27:00,360.0,18.0,342.0
+ORD00309,2026-11-06,2026-11-12,Priya Singh,priya.singh39@yahoo.com,8584331187,Chennai,Home & Kitchen,Air Fryer,3,110.0,0.05,Upi,Pending,2026-11-06 18:31:00,330.0,16.5,313.5
+ORD00627,2026-11-06,2026-11-11,Vikram Mehta,vikram.mehta50@gmail.com,8530377838,Chennai,Clothing,Jacket,4,90.0,0.15,Credit Card,Cancelled,2026-11-06 19:35:00,360.0,54.0,306.0
+ORD00179,2026-11-06,2026-11-07,Unknown,meera.gupta46@gmail.com,6902601675,Pune,Electronics,Smart Watch,5,180.0,0.0,Net Banking,Cancelled,2026-11-06 21:10:00,900.0,0.0,900.0
+ORD00550,2026-11-06,2026-11-13,Priya Gupta,priya.gupta42@yahoo.com,5813666042,Hyderabad,Books,Data Science Guide,3,40.0,0.2,Cash On Delivery,Delivered,2026-11-06 22:16:08,120.0,24.0,96.0
+ORD00321,2026-11-06,2026-11-13,Rohan Joshi,rohan.joshi72@yahoo.com,6543034672,Jaipur,Electronics,Bluetooth Speaker,1,60.0,0.1,Upi,Delivered,2026-11-06 23:04:00,60.0,6.0,54.0
+ORD00090,2026-11-06,2026-11-07,Arjun Mehta,arjun.mehta58@gmail.com,0210379843,Bengaluru,Home & Kitchen,Air Fryer,1,110.0,0.0,Credit Card,Shipped,2026-11-06 23:09:00,110.0,0.0,110.0
+ORD00060,2026-11-07,2026-11-08,Meera Khan,meera.khan87@outlook.com,0457719295,Mumbai,Electronics,Bluetooth Speaker,3,60.0,0.25,Debit Card,Returned,2026-11-07 02:26:00,180.0,45.0,135.0
+ORD00714,2026-11-07,2026-11-14,Priya Verma,priya.verma19@gmail.com,2841425831,Chennai,Books,Data Science Guide,3,40.0,0.0,Upi,Returned,2026-11-07 02:51:00,120.0,0.0,120.0
+ORD00762,2026-11-07,2026-11-11,Divya Nair,divya.nair23@outlook.com,5664443384,Bengaluru,Clothing,Jeans,4,45.0,0.0,Upi,Pending,2026-11-07 03:39:00,180.0,0.0,180.0
+ORD00349,2026-11-07,2026-11-11,Anita Mehta,anita.mehta54@gmail.com,,Bengaluru,Electronics,Bluetooth Speaker,4,60.0,0.1,Upi,Shipped,2026-11-07 04:22:00,240.0,24.0,216.0
+ORD00494,2026-11-07,2026-11-12,Aarav Khan,aarav.khan72@gmail.com,8028063419,Hyderabad,Clothing,Jacket,1,90.0,0.0,Upi,Shipped,2026-11-07 06:16:00,90.0,0.0,90.0
+ORD00223,2026-11-07,2026-11-12,Anita Mehta,anita.mehta77@yahoo.com,0615730788,Hyderabad,Clothing,T-Shirt,4,15.0,0.2,Upi,Pending,2026-11-07 06:58:44,60.0,12.0,48.0
+ORD00828,2026-11-07,2026-11-13,Anita Patel,anita.patel2@gmail.com,5393772799,Hyderabad,Clothing,T-Shirt,3,15.0,0.05,Upi,Delivered,2026-11-07 07:11:00,45.0,2.25,42.75
+ORD00451,2026-11-07,2026-11-11,Rohan Mehta,rohan.mehta46@outlook.com,9449429960,Bengaluru,Electronics,Bluetooth Speaker,4,60.0,0.15,Credit Card,Shipped,2026-11-07 07:22:43,240.0,36.0,204.0
+ORD00914,2026-11-07,2026-11-08,Rohan Singh,rohan.singh46@yahoo.com,9055827014,Chennai,Books,Data Science Guide,3,40.0,0.05,Credit Card,Pending,2026-11-07 07:58:17,120.0,6.0,114.0
+ORD00340,2026-11-07,2026-11-09,Neha Verma,neha.verma84@gmail.com,9988752263,Delhi,Clothing,Jeans,2,45.0,0.25,Debit Card,Returned,2026-11-07 08:10:00,90.0,22.5,67.5
+ORD00125,2026-11-07,2026-11-09,Unknown,divya.mehta20@gmail.com,9408983388,Pune,Clothing,Jeans,5,45.0,0.2,Credit Card,Cancelled,2026-11-07 08:20:00,225.0,45.0,180.0
+ORD00403,2026-11-07,2026-11-11,Rahul Khan,rahul.khan36@outlook.com,0495431138,Pune,Electronics,Wireless Mouse,2,25.0,0.0,Credit Card,Cancelled,2026-11-07 09:16:00,50.0,0.0,50.0
+ORD00743,2026-11-07,2026-11-08,Meera Singh,meera.singh84@gmail.com,7608773352,Unknown,Books,Data Science Guide,3,40.0,0.25,Debit Card,Returned,2026-11-07 10:51:00,120.0,30.0,90.0
+ORD00152,2026-11-07,2026-11-11,Rahul Patel,rahul.patel42@gmail.com,9592038130,Delhi,Books,Python Handbook,5,30.0,0.05,Upi,Shipped,2026-11-07 12:22:00,150.0,7.5,142.5
+ORD00736,2026-11-07,2026-11-14,Divya Mehta,divya.mehta21@outlook.com,8968988249,Chennai,Books,Data Science Guide,1,40.0,0.2,Net Banking,Delivered,2026-11-07 12:22:00,40.0,8.0,32.0
+ORD00133,2026-11-07,,Sneha Verma,sneha.verma31@outlook.com,7532956617,Unknown,Books,Data Science Guide,2,40.0,0.05,Cash On Delivery,Cancelled,2026-11-07 13:07:21,80.0,4.0,76.0
+ORD00041,2026-11-07,2026-11-13,Meera Reddy,meera.reddy99@yahoo.com,4116804397,Pune,Home & Kitchen,Air Fryer,1,110.0,0.15,Upi,Returned,2026-11-07 13:23:00,110.0,16.5,93.5
+ORD00824,2026-11-07,2026-11-13,Karan Sharma,karan.sharma1@outlook.com,6066857094,Bengaluru,Electronics,Bluetooth Speaker,4,60.0,0.0,Cash On Delivery,Cancelled,2026-11-07 13:47:00,240.0,0.0,240.0
+ORD00770,2026-11-07,2026-11-11,Aarav Mehta,aarav.mehta19@gmail.com,6154943072,Mumbai,Home & Kitchen,Mixer Grinder,5,70.0,0.1,Credit Card,Delivered,2026-11-07 13:54:00,350.0,35.0,315.0
+ORD00906,2026-11-07,2026-11-10,Meera Sharma,meera.sharma22@yahoo.com,8687338234,Pune,Clothing,Jacket,2,90.0,0.1,Upi,Delivered,2026-11-07 14:57:00,180.0,18.0,162.0
+ORD00380,2026-11-07,2026-11-10,Neha Singh,neha.singh68@gmail.com,2700376807,Chennai,Books,Data Science Guide,1,40.0,0.1,Cash On Delivery,Returned,2026-11-07 15:31:00,40.0,4.0,36.0
+ORD00994,2026-11-07,2026-11-13,Meera Joshi,meera.joshi53@gmail.com,9306452415,Mumbai,Home & Kitchen,Cookware Set,2,85.0,0.0,Upi,Returned,2026-11-07 16:29:56,170.0,0.0,170.0
+ORD00280,2026-11-07,2026-11-11,Karan Khan,karan.khan96@yahoo.com,6453601055,Jaipur,Home & Kitchen,Mixer Grinder,2,70.0,0.25,Upi,Shipped,2026-11-07 17:45:00,140.0,35.0,105.0
+ORD00971,2026-11-07,2026-11-08,Anita Reddy,anita.reddy32@gmail.com,0515265342,Hyderabad,Books,Data Science Guide,5,40.0,0.0,Cash On Delivery,Cancelled,2026-11-07 18:05:05,200.0,0.0,200.0
+ORD00135,2026-11-07,2026-11-13,Rahul Gupta,rahul.gupta79@yahoo.com,1508182405,Pune,Electronics,Laptop,1,1100.0,0.25,Cash On Delivery,Returned,2026-11-07 19:04:00,1100.0,275.0,825.0
+ORD00334,2026-11-07,2026-11-10,Anita Reddy,,6134909542,Delhi,Home & Kitchen,Mixer Grinder,5,70.0,0.0,Net Banking,Cancelled,2026-11-07 19:16:00,350.0,0.0,350.0
+ORD00260,2026-11-07,,Arjun Khan,arjun.khan48@yahoo.com,5746308829,Delhi,Electronics,Bluetooth Speaker,3,60.0,0.2,Debit Card,Shipped,2026-11-07 19:27:00,180.0,36.0,144.0
+ORD00049,2026-11-07,2026-11-11,Unknown,aarav.reddy81@outlook.com,,Kolkata,Home & Kitchen,Cookware Set,3,85.0,0.15,Debit Card,Delivered,2026-11-07 20:49:00,255.0,38.25,216.75
+ORD00596,2026-11-07,2026-11-14,Rohan Sharma,rohan.sharma24@outlook.com,5509262805,Delhi,Books,Python Handbook,3,30.0,0.1,Net Banking,Shipped,2026-11-07 21:16:00,90.0,9.0,81.0
+ORD00062,2026-11-07,2026-11-13,Sneha Reddy,sneha.reddy27@yahoo.com,,Chennai,Electronics,Wireless Mouse,4,25.0,0.0,Upi,Cancelled,2026-11-07 21:23:00,100.0,0.0,100.0
+ORD00268,2026-11-07,2026-11-08,Vikram Singh,vikram.singh71@gmail.com,2955703903,Kolkata,Electronics,Wireless Mouse,1,25.0,0.0,Net Banking,Delivered,2026-11-07 21:44:00,25.0,0.0,25.0
+ORD00903,2026-11-07,,Karan Verma,,0213931194,Jaipur,Clothing,T-Shirt,4,15.0,0.1,Cash On Delivery,Pending,2026-11-07 22:07:00,60.0,6.0,54.0
+ORD00108,2026-11-07,2026-11-13,Anita Gupta,anita.gupta91@outlook.com,5677559768,Jaipur,Clothing,T-Shirt,2,15.0,0.1,Upi,Delivered,2026-11-07 22:43:30,30.0,3.0,27.0
+ORD00365,2026-11-07,2026-11-12,Rahul Singh,rahul.singh45@gmail.com,5587811800,Chennai,Electronics,Bluetooth Speaker,1,60.0,0.2,Upi,Pending,2026-11-07 23:10:00,60.0,12.0,48.0
+ORD00800,2026-11-08,2026-11-12,Neha Patel,neha.patel14@yahoo.com,6327166357,Kolkata,Home & Kitchen,Cookware Set,1,85.0,0.0,Upi,Returned,2026-11-08 00:38:47,85.0,0.0,85.0
+ORD00817,2026-11-08,2026-11-14,Neha Gupta,neha.gupta74@gmail.com,5529870475,Kolkata,Home & Kitchen,Air Fryer,2,110.0,0.0,Unknown,Delivered,2026-11-08 01:10:00,220.0,0.0,220.0
+ORD00987,2026-11-08,2026-11-14,Anita Khan,anita.khan97@outlook.com,2112273437,Jaipur,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Upi,Delivered,2026-11-08 01:57:00,280.0,0.0,280.0
+ORD00203,2026-11-08,,Anita Nair,anita.nair9@yahoo.com,4493602132,Hyderabad,Books,Data Science Guide,4,40.0,0.05,Net Banking,Cancelled,2026-11-08 02:12:00,160.0,8.0,152.0
+ORD00390,2026-11-08,2026-11-13,Aarav Sharma,aarav.sharma80@gmail.com,9335102148,Jaipur,Home & Kitchen,Cookware Set,2,85.0,0.25,Credit Card,Shipped,2026-11-08 02:49:00,170.0,42.5,127.5
+ORD00352,2026-11-08,2026-11-14,Karan Patel,karan.patel79@gmail.com,7374559283,Kolkata,Clothing,T-Shirt,1,15.0,0.05,Debit Card,Cancelled,2026-11-08 02:59:00,15.0,0.75,14.25
+ORD00407,2026-11-08,2026-11-14,Priya Khan,priya.khan90@outlook.com,9428292352,Unknown,Home & Kitchen,Mixer Grinder,4,70.0,0.2,Credit Card,Delivered,2026-11-08 03:16:00,280.0,56.0,224.0
+ORD00633,2026-11-08,2026-11-13,Rohan Joshi,,0849996226,Pune,Books,Data Science Guide,1,40.0,0.2,Credit Card,Pending,2026-11-08 04:04:00,40.0,8.0,32.0
+ORD00024,2026-11-08,2026-11-12,Arjun Gupta,arjun.gupta64@outlook.com,4444115710,Jaipur,Books,Python Handbook,5,30.0,0.05,Cash On Delivery,Returned,2026-11-08 04:07:00,150.0,7.5,142.5
+ORD00031,2026-11-08,2026-11-15,Priya Nair,priya.nair27@outlook.com,3190811216,Chennai,Electronics,Smart Watch,4,180.0,0.15,Cash On Delivery,Pending,2026-11-08 04:35:00,720.0,108.0,612.0
+ORD00860,2026-11-08,2026-11-10,Aarav Joshi,aarav.joshi44@outlook.com,8551814505,Mumbai,Books,Python Handbook,3,30.0,0.0,Credit Card,Returned,2026-11-08 06:38:00,90.0,0.0,90.0
+ORD00458,2026-11-08,2026-11-13,Divya Verma,,6353949315,Chennai,Home & Kitchen,Air Fryer,2,110.0,0.0,Net Banking,Returned,2026-11-08 07:05:02,220.0,0.0,220.0
+ORD00825,2026-11-08,2026-11-13,Neha Nair,neha.nair67@outlook.com,5795636577,Unknown,Books,Python Handbook,4,30.0,0.2,Net Banking,Cancelled,2026-11-08 07:41:00,120.0,24.0,96.0
+ORD00765,2026-11-08,2026-11-14,Arjun Patel,arjun.patel57@gmail.com,2894729648,Chennai,Books,Python Handbook,1,30.0,0.1,Upi,Returned,2026-11-08 07:46:00,30.0,3.0,27.0
+ORD00300,2026-11-08,2026-11-09,Sneha Joshi,sneha.joshi96@outlook.com,0780110362,Unknown,Books,Python Handbook,5,30.0,0.1,Debit Card,Cancelled,2026-11-08 08:26:00,150.0,15.0,135.0
+ORD00829,2026-11-08,2026-11-12,Vikram Joshi,vikram.joshi79@yahoo.com,7334991012,Pune,Clothing,T-Shirt,1,15.0,0.25,Net Banking,Shipped,2026-11-08 09:45:00,15.0,3.75,11.25
+ORD00856,2026-11-08,2026-11-15,Priya Gupta,priya.gupta4@gmail.com,7590285156,Kolkata,Clothing,Jeans,2,45.0,0.0,Net Banking,Delivered,2026-11-08 10:34:00,90.0,0.0,90.0
+ORD00192,2026-11-08,2026-11-10,Rohan Reddy,rohan.reddy81@yahoo.com,4088944878,Delhi,Home & Kitchen,Mixer Grinder,5,70.0,0.0,Credit Card,Shipped,2026-11-08 10:49:00,350.0,0.0,350.0
+ORD00065,2026-11-08,2026-11-14,Priya Sharma,priya.sharma12@yahoo.com,0014475805,Pune,Clothing,Jacket,3,90.0,0.0,Net Banking,Returned,2026-11-08 10:55:00,270.0,0.0,270.0
+ORD00509,2026-11-08,2026-11-11,Priya Sharma,priya.sharma95@gmail.com,8802695420,Hyderabad,Clothing,T-Shirt,3,15.0,0.15,Upi,Pending,2026-11-08 11:12:12,45.0,6.75,38.25
+ORD00013,2026-11-08,2026-11-10,Rohan Sharma,rohan.sharma6@gmail.com,7485733168,Hyderabad,Home & Kitchen,Mixer Grinder,4,70.0,0.2,Net Banking,Cancelled,2026-11-08 11:18:00,280.0,56.0,224.0
+ORD00517,2026-11-08,2026-11-15,Arjun Khan,arjun.khan74@outlook.com,5887924986,Bengaluru,Clothing,Jacket,3,90.0,0.1,Upi,Returned,2026-11-08 11:19:41,270.0,27.0,243.0
+ORD00927,2026-11-08,2026-11-15,Aarav Nair,aarav.nair12@outlook.com,1158447286,Bengaluru,Electronics,Bluetooth Speaker,5,60.0,0.15,Unknown,Cancelled,2026-11-08 11:31:00,300.0,45.0,255.0
+ORD00598,2026-11-08,2026-11-14,Divya Joshi,divya.joshi8@gmail.com,4684163246,Jaipur,Electronics,Laptop,1,1100.0,0.1,Cash On Delivery,Shipped,2026-11-08 12:40:21,1100.0,110.0,990.0
+ORD00722,2026-11-08,,Divya Patel,divya.patel83@yahoo.com,0306004012,Chennai,Electronics,Laptop,5,1100.0,0.2,Credit Card,Cancelled,2026-11-08 13:50:00,5500.0,1100.0,4400.0
+ORD00042,2026-11-08,2026-11-09,Aarav Mehta,aarav.mehta13@outlook.com,1286174002,Kolkata,Books,Data Science Guide,1,40.0,0.2,Cash On Delivery,Delivered,2026-11-08 14:03:00,40.0,8.0,32.0
+ORD00921,2026-11-08,,Aarav Khan,aarav.khan88@gmail.com,4598956003,Delhi,Books,Python Handbook,2,30.0,0.2,Debit Card,Shipped,2026-11-08 14:14:05,60.0,12.0,48.0
+ORD00656,2026-11-08,2026-11-14,Vikram Sharma,vikram.sharma9@yahoo.com,3246839371,Bengaluru,Home & Kitchen,Mixer Grinder,2,70.0,0.0,Upi,Cancelled,2026-11-08 15:24:37,140.0,0.0,140.0
+ORD00184,2026-11-08,2026-11-14,Neha Khan,,9369951414,Jaipur,Books,Python Handbook,2,30.0,0.05,Unknown,Pending,2026-11-08 15:27:46,60.0,3.0,57.0
+ORD00256,2026-11-08,2026-11-10,Priya Nair,,6114211018,Bengaluru,Home & Kitchen,Cookware Set,5,85.0,0.0,Upi,Cancelled,2026-11-08 15:37:00,425.0,0.0,425.0
+ORD00361,2026-11-08,2026-11-14,Rohan Sharma,rohan.sharma38@gmail.com,4459115359,Kolkata,Clothing,T-Shirt,3,15.0,0.1,Debit Card,Pending,2026-11-08 16:01:00,45.0,4.5,40.5
+ORD00713,2026-11-08,2026-11-10,Divya Mehta,divya.mehta35@outlook.com,6629015336,Jaipur,Books,Data Science Guide,2,40.0,0.0,Net Banking,Shipped,2026-11-08 17:50:28,80.0,0.0,80.0
+ORD00779,2026-11-08,2026-11-12,Neha Reddy,neha.reddy9@outlook.com,4231516059,Bengaluru,Clothing,Jeans,2,45.0,0.1,Upi,Pending,2026-11-08 18:05:43,90.0,9.0,81.0
+ORD00301,2026-11-08,2026-11-11,Rahul Nair,,9409853517,Hyderabad,Home & Kitchen,Cookware Set,3,85.0,0.0,Credit Card,Pending,2026-11-08 19:10:54,255.0,0.0,255.0
+ORD00717,2026-11-08,2026-11-13,Aarav Patel,aarav.patel65@yahoo.com,2116220657,Chennai,Clothing,Jeans,5,45.0,0.1,Upi,Delivered,2026-11-08 19:20:00,225.0,22.5,202.5
+ORD00466,2026-11-08,2026-11-13,Rohan Mehta,rohan.mehta84@yahoo.com,5825344678,Chennai,Electronics,Smart Watch,4,180.0,0.05,Cash On Delivery,Pending,2026-11-08 20:08:00,720.0,36.0,684.0
+ORD00440,2026-11-08,2026-11-14,Rohan Patel,rohan.patel43@outlook.com,8060608292,Chennai,Electronics,Smart Watch,2,180.0,0.2,Cash On Delivery,Returned,2026-11-08 20:14:47,360.0,72.0,288.0
+ORD00526,2026-11-08,2026-11-11,Arjun Nair,,6234076284,Hyderabad,Books,Data Science Guide,1,40.0,0.25,Credit Card,Delivered,2026-11-08 20:20:00,40.0,10.0,30.0
+ORD00143,2026-11-08,2026-11-10,Vikram Khan,vikram.khan43@yahoo.com,1588375199,Delhi,Clothing,Jeans,3,45.0,0.15,Upi,Cancelled,2026-11-08 20:51:30,135.0,20.25,114.75
+ORD00791,2026-11-08,2026-11-12,Vikram Mehta,vikram.mehta28@outlook.com,1935524275,Pune,Clothing,Jeans,3,45.0,0.1,Credit Card,Shipped,2026-11-08 20:55:09,135.0,13.5,121.5
+ORD00560,2026-11-08,2026-11-09,Sneha Mehta,sneha.mehta21@gmail.com,4591229727,Chennai,Home & Kitchen,Air Fryer,3,110.0,0.1,Net Banking,Pending,2026-11-08 21:01:00,330.0,33.0,297.0
+ORD00028,2026-11-08,2026-11-15,Arjun Singh,arjun.singh80@yahoo.com,6869634570,Mumbai,Books,Data Science Guide,3,40.0,0.15,Upi,Cancelled,2026-11-08 22:06:00,120.0,18.0,102.0
+ORD00432,2026-11-09,2026-11-13,Anita Reddy,anita.reddy72@outlook.com,9561820181,Mumbai,Clothing,Jacket,3,90.0,0.0,Cash On Delivery,Delivered,2026-11-09 00:00:00,270.0,0.0,270.0
+ORD00428,2026-11-09,2026-11-13,Aarav Sharma,aarav.sharma96@yahoo.com,1221747043,Kolkata,Books,Python Handbook,2,30.0,0.15,Cash On Delivery,Pending,2026-11-09 00:06:00,60.0,9.0,51.0
+ORD00969,2026-11-09,2026-11-11,Sneha Joshi,sneha.joshi86@gmail.com,4877207360,Delhi,Clothing,Jacket,3,90.0,0.1,Upi,Cancelled,2026-11-09 00:51:42,270.0,27.0,243.0
+ORD00569,2026-11-09,2026-11-15,Sneha Verma,sneha.verma79@gmail.com,4070066825,Delhi,Clothing,T-Shirt,3,15.0,0.05,Debit Card,Pending,2026-11-09 02:28:09,45.0,2.25,42.75
+ORD00496,2026-11-09,,Anita Patel,anita.patel12@outlook.com,9228516957,Bengaluru,Books,Data Science Guide,5,40.0,0.2,Net Banking,Returned,2026-11-09 03:21:00,200.0,40.0,160.0
+ORD00009,2026-11-09,2026-11-10,Rohan Patel,rohan.patel37@outlook.com,6852906803,Kolkata,Electronics,Bluetooth Speaker,2,60.0,0.0,Debit Card,Shipped,2026-11-09 04:12:09,120.0,0.0,120.0
+ORD00085,2026-11-09,2026-11-10,Arjun Patel,arjun.patel91@outlook.com,8179302819,Delhi,Home & Kitchen,Air Fryer,1,110.0,0.15,Upi,Delivered,2026-11-09 04:21:00,110.0,16.5,93.5
+ORD00945,2026-11-09,2026-11-11,Sneha Joshi,sneha.joshi51@yahoo.com,5959347316,Mumbai,Electronics,Smart Watch,3,180.0,0.2,Credit Card,Delivered,2026-11-09 04:26:00,540.0,108.0,432.0
+ORD00593,2026-11-09,,Karan Singh,karan.singh19@yahoo.com,7925946318,Kolkata,Books,Data Science Guide,5,40.0,0.15,Unknown,Shipped,2026-11-09 04:57:00,200.0,30.0,170.0
+ORD00167,2026-11-09,2026-11-16,Neha Mehta,neha.mehta71@gmail.com,0086704010,Mumbai,Electronics,Wireless Mouse,4,25.0,0.2,Credit Card,Shipped,2026-11-09 05:08:00,100.0,20.0,80.0
+ORD00310,2026-11-09,2026-11-10,Rahul Gupta,rahul.gupta4@outlook.com,5708029575,Delhi,Clothing,Jacket,2,90.0,0.0,Upi,Shipped,2026-11-09 05:08:01,180.0,0.0,180.0
+ORD00991,2026-11-09,2026-11-11,Neha Sharma,,9935340699,Jaipur,Books,Python Handbook,3,30.0,0.2,Credit Card,Pending,2026-11-09 05:21:00,90.0,18.0,72.0
+ORD00194,2026-11-09,2026-11-10,Karan Khan,karan.khan34@gmail.com,9174946171,Kolkata,Books,Python Handbook,3,30.0,0.05,Cash On Delivery,Delivered,2026-11-09 06:08:00,90.0,4.5,85.5
+ORD00989,2026-11-09,2026-11-13,Rohan Verma,rohan.verma45@gmail.com,,Bengaluru,Clothing,Jacket,2,90.0,0.0,Debit Card,Delivered,2026-11-09 06:31:00,180.0,0.0,180.0
+ORD00718,2026-11-09,2026-11-10,Unknown,neha.singh83@yahoo.com,,Delhi,Home & Kitchen,Cookware Set,3,85.0,0.05,Net Banking,Returned,2026-11-09 07:03:58,255.0,12.75,242.25
+ORD00852,2026-11-09,2026-11-12,Aarav Gupta,aarav.gupta82@outlook.com,7033663658,Chennai,Clothing,Jeans,2,45.0,0.2,Credit Card,Delivered,2026-11-09 07:11:00,90.0,18.0,72.0
+ORD00672,2026-11-09,2026-11-13,Karan Reddy,karan.reddy85@gmail.com,7285600046,Kolkata,Clothing,Jeans,5,45.0,0.0,Credit Card,Shipped,2026-11-09 07:50:00,225.0,0.0,225.0
+ORD00776,2026-11-09,2026-11-12,Arjun Khan,arjun.khan92@yahoo.com,2077022777,Jaipur,Electronics,Laptop,3,1100.0,0.0,Debit Card,Pending,2026-11-09 08:10:00,3300.0,0.0,3300.0
+ORD00074,2026-11-09,2026-11-14,Meera Khan,meera.khan96@yahoo.com,1783807591,Pune,Home & Kitchen,Mixer Grinder,4,70.0,0.25,Upi,Pending,2026-11-09 08:11:00,280.0,70.0,210.0
+ORD00882,2026-11-09,2026-11-16,Aarav Khan,aarav.khan52@outlook.com,0131086833,Pune,Clothing,Jeans,5,45.0,0.05,Credit Card,Pending,2026-11-09 08:56:19,225.0,11.25,213.75
+ORD00858,2026-11-09,2026-11-14,Aarav Reddy,aarav.reddy10@yahoo.com,3074717610,Jaipur,Electronics,Bluetooth Speaker,5,60.0,0.25,Credit Card,Returned,2026-11-09 09:35:37,300.0,75.0,225.0
+ORD00333,2026-11-09,2026-11-13,Arjun Mehta,arjun.mehta13@gmail.com,,Hyderabad,Books,Python Handbook,2,30.0,0.0,Net Banking,Returned,2026-11-09 09:43:00,60.0,0.0,60.0
+ORD00711,2026-11-09,2026-11-15,Karan Joshi,,9568575869,Hyderabad,Home & Kitchen,Mixer Grinder,5,70.0,0.25,Cash On Delivery,Cancelled,2026-11-09 12:01:00,350.0,87.5,262.5
+ORD00984,2026-11-09,2026-11-13,Rahul Singh,rahul.singh41@gmail.com,8157023346,Chennai,Books,Data Science Guide,3,40.0,0.05,Upi,Returned,2026-11-09 12:36:00,120.0,6.0,114.0
+ORD00723,2026-11-09,2026-11-13,Rohan Khan,rohan.khan51@yahoo.com,6442461754,Kolkata,Home & Kitchen,Air Fryer,4,110.0,0.05,Credit Card,Cancelled,2026-11-09 13:13:47,440.0,22.0,418.0
+ORD00429,2026-11-09,2026-11-14,Priya Patel,priya.patel85@outlook.com,0582287656,Jaipur,Clothing,T-Shirt,5,15.0,0.15,Debit Card,Delivered,2026-11-09 13:30:05,75.0,11.25,63.75
+ORD00476,2026-11-09,2026-11-13,Vikram Mehta,,0144490722,Pune,Electronics,Wireless Mouse,1,25.0,0.1,Net Banking,Pending,2026-11-09 14:40:19,25.0,2.5,22.5
+ORD00095,2026-11-09,,Sneha Reddy,sneha.reddy28@yahoo.com,8851351880,Hyderabad,Books,Data Science Guide,3,40.0,0.0,Credit Card,Cancelled,2026-11-09 15:10:27,120.0,0.0,120.0
+ORD00098,2026-11-09,2026-11-13,Aarav Khan,aarav.khan91@outlook.com,7664933165,Mumbai,Books,Data Science Guide,3,40.0,0.0,Upi,Pending,2026-11-09 15:14:22,120.0,0.0,120.0
+ORD00285,2026-11-09,2026-11-11,Divya Verma,divya.verma19@yahoo.com,2810642904,Jaipur,Clothing,T-Shirt,4,15.0,0.1,Unknown,Shipped,2026-11-09 15:24:00,60.0,6.0,54.0
+ORD00753,2026-11-09,2026-11-16,Divya Mehta,divya.mehta6@outlook.com,0575492093,Hyderabad,Home & Kitchen,Air Fryer,4,110.0,0.2,Net Banking,Delivered,2026-11-09 16:25:33,440.0,88.0,352.0
+ORD00744,2026-11-09,2026-11-10,Divya Verma,divya.verma9@gmail.com,5734065578,Chennai,Electronics,Wireless Mouse,3,25.0,0.25,Upi,Returned,2026-11-09 16:58:00,75.0,18.75,56.25
+ORD00944,2026-11-09,2026-11-15,Arjun Sharma,arjun.sharma54@gmail.com,5804933306,Mumbai,Electronics,Smart Watch,4,180.0,0.2,Upi,Cancelled,2026-11-09 17:11:43,720.0,144.0,576.0
+ORD00420,2026-11-09,2026-11-16,Karan Sharma,karan.sharma65@outlook.com,3609262129,Bengaluru,Electronics,Wireless Mouse,2,25.0,0.05,Upi,Cancelled,2026-11-09 19:29:17,50.0,2.5,47.5
+ORD00327,2026-11-09,2026-11-13,Rohan Nair,rohan.nair22@yahoo.com,9197139937,Jaipur,Books,Data Science Guide,3,40.0,0.05,Cash On Delivery,Shipped,2026-11-09 21:01:00,120.0,6.0,114.0
+ORD00541,2026-11-09,,Sneha Singh,,5192490555,Jaipur,Home & Kitchen,Cookware Set,4,85.0,0.0,Net Banking,Shipped,2026-11-09 21:31:17,340.0,0.0,340.0
+ORD00542,2026-11-09,2026-11-15,Karan Joshi,karan.joshi82@outlook.com,5321947131,Mumbai,Books,Data Science Guide,5,40.0,0.2,Upi,Delivered,2026-11-09 22:42:00,200.0,40.0,160.0
+ORD00438,2026-11-09,2026-11-15,Arjun Gupta,arjun.gupta71@yahoo.com,5375021066,Pune,Electronics,Wireless Mouse,4,25.0,0.25,Net Banking,Shipped,2026-11-09 22:46:00,100.0,25.0,75.0
+ORD00079,2026-11-09,2026-11-10,Divya Khan,divya.khan93@outlook.com,0882613677,Delhi,Clothing,T-Shirt,3,15.0,0.1,Net Banking,Pending,2026-11-09 23:28:11,45.0,4.5,40.5
+ORD00695,2026-11-10,2026-11-13,Anita Joshi,anita.joshi50@outlook.com,8161523351,Chennai,Electronics,Wireless Mouse,4,25.0,0.2,Credit Card,Returned,2026-11-10 02:14:12,100.0,20.0,80.0
+ORD00190,2026-11-10,2026-11-14,Arjun Verma,,5516575405,Kolkata,Home & Kitchen,Cookware Set,4,85.0,0.1,Cash On Delivery,Cancelled,2026-11-10 02:18:00,340.0,34.0,306.0
+ORD00375,2026-11-10,2026-11-13,Anita Khan,anita.khan58@yahoo.com,3818119456,Mumbai,Clothing,T-Shirt,4,15.0,0.0,Net Banking,Cancelled,2026-11-10 02:24:00,60.0,0.0,60.0
+ORD00530,2026-11-10,2026-11-14,Karan Mehta,karan.mehta55@outlook.com,3023215324,Chennai,Books,Data Science Guide,3,40.0,0.2,Cash On Delivery,Delivered,2026-11-10 03:14:00,120.0,24.0,96.0
+ORD00918,2026-11-10,2026-11-12,Meera Gupta,meera.gupta37@outlook.com,4404788528,Delhi,Clothing,Jeans,5,45.0,0.15,Credit Card,Cancelled,2026-11-10 04:16:00,225.0,33.75,191.25
+ORD00608,2026-11-10,2026-11-12,Karan Mehta,,4463398746,Jaipur,Electronics,Laptop,3,1100.0,0.0,Credit Card,Pending,2026-11-10 04:59:00,3300.0,0.0,3300.0
+ORD00781,2026-11-10,2026-11-15,Anita Singh,anita.singh57@yahoo.com,1305945950,Mumbai,Home & Kitchen,Air Fryer,3,110.0,0.1,Net Banking,Returned,2026-11-10 05:12:00,330.0,33.0,297.0
+ORD00890,2026-11-10,2026-11-16,Aarav Patel,aarav.patel80@yahoo.com,6918662430,Kolkata,Home & Kitchen,Mixer Grinder,4,70.0,0.25,Cash On Delivery,Cancelled,2026-11-10 05:12:33,280.0,70.0,210.0
+ORD00589,2026-11-10,2026-11-14,Meera Sharma,meera.sharma28@gmail.com,9678187668,Delhi,Electronics,Laptop,1,1100.0,0.0,Credit Card,Shipped,2026-11-10 05:17:00,1100.0,0.0,1100.0
+ORD00942,2026-11-10,2026-11-17,Neha Khan,neha.khan61@yahoo.com,8190875866,Bengaluru,Electronics,Wireless Mouse,3,25.0,0.0,Credit Card,Returned,2026-11-10 05:18:44,75.0,0.0,75.0
+ORD00047,2026-11-10,2026-11-16,Neha Gupta,neha.gupta47@outlook.com,7243549180,Kolkata,Electronics,Smart Watch,3,180.0,0.25,Net Banking,Shipped,2026-11-10 05:44:00,540.0,135.0,405.0
+ORD00788,2026-11-10,2026-11-14,Neha Gupta,neha.gupta17@yahoo.com,0450772899,Delhi,Books,Python Handbook,1,30.0,0.1,Cash On Delivery,Delivered,2026-11-10 06:06:00,30.0,3.0,27.0
+ORD00609,2026-11-10,2026-11-11,Vikram Nair,vikram.nair29@yahoo.com,0423775325,Chennai,Clothing,T-Shirt,2,15.0,0.1,Cash On Delivery,Shipped,2026-11-10 06:39:00,30.0,3.0,27.0
+ORD00948,2026-11-10,2026-11-15,Neha Sharma,neha.sharma94@gmail.com,7213869193,Kolkata,Clothing,T-Shirt,1,15.0,0.25,Debit Card,Pending,2026-11-10 06:39:50,15.0,3.75,11.25
+ORD00642,2026-11-10,2026-11-12,Sneha Khan,sneha.khan33@yahoo.com,7595669329,Mumbai,Books,Data Science Guide,2,40.0,0.2,Net Banking,Cancelled,2026-11-10 07:52:54,80.0,16.0,64.0
+ORD00019,2026-11-10,2026-11-12,Sneha Mehta,sneha.mehta16@outlook.com,1247952112,Pune,Books,Data Science Guide,2,40.0,0.0,Credit Card,Cancelled,2026-11-10 09:09:00,80.0,0.0,80.0
+ORD00377,2026-11-10,2026-11-14,Anita Sharma,anita.sharma35@outlook.com,6308905314,Kolkata,Clothing,Jacket,3,90.0,0.1,Upi,Shipped,2026-11-10 09:34:00,270.0,27.0,243.0
+ORD00103,2026-11-10,2026-11-14,Rohan Sharma,rohan.sharma38@yahoo.com,7070861346,Delhi,Clothing,Jeans,4,45.0,0.15,Debit Card,Shipped,2026-11-10 09:36:00,180.0,27.0,153.0
+ORD00452,2026-11-10,2026-11-15,Rohan Khan,rohan.khan42@gmail.com,5902922214,Mumbai,Electronics,Smart Watch,1,180.0,0.0,Debit Card,Shipped,2026-11-10 09:38:00,180.0,0.0,180.0
+ORD00463,2026-11-10,2026-11-17,Divya Joshi,divya.joshi50@outlook.com,1969487724,Mumbai,Electronics,Smart Watch,3,180.0,0.0,Debit Card,Delivered,2026-11-10 10:21:00,540.0,0.0,540.0
+ORD00802,2026-11-10,2026-11-13,Rohan Gupta,rohan.gupta34@outlook.com,5372443098,Kolkata,Home & Kitchen,Cookware Set,1,85.0,0.2,Debit Card,Pending,2026-11-10 11:01:21,85.0,17.0,68.0
+ORD00343,2026-11-10,2026-11-17,Priya Patel,priya.patel79@gmail.com,1778619967,Pune,Home & Kitchen,Cookware Set,3,85.0,0.15,Unknown,Returned,2026-11-10 11:39:05,255.0,38.25,216.75
+ORD00089,2026-11-10,2026-11-12,Neha Joshi,neha.joshi82@yahoo.com,9697251361,Jaipur,Electronics,Smart Watch,3,180.0,0.15,Debit Card,Delivered,2026-11-10 11:44:00,540.0,81.0,459.0
+ORD00317,2026-11-10,2026-11-17,Anita Khan,,2544924457,Kolkata,Home & Kitchen,Air Fryer,1,110.0,0.0,Credit Card,Returned,2026-11-10 12:18:00,110.0,0.0,110.0
+ORD00929,2026-11-10,2026-11-17,Meera Verma,meera.verma37@yahoo.com,0264204430,Chennai,Books,Data Science Guide,3,40.0,0.05,Cash On Delivery,Shipped,2026-11-10 12:20:53,120.0,6.0,114.0
+ORD00923,2026-11-10,2026-11-13,Karan Patel,karan.patel36@gmail.com,1614844730,Unknown,Books,Data Science Guide,1,40.0,0.15,Net Banking,Pending,2026-11-10 17:30:00,40.0,6.0,34.0
+ORD00655,2026-11-10,2026-11-11,Neha Verma,neha.verma97@gmail.com,7815437876,Hyderabad,Home & Kitchen,Mixer Grinder,3,70.0,0.2,Upi,Returned,2026-11-10 17:35:00,210.0,42.0,168.0
+ORD00551,2026-11-10,2026-11-13,Arjun Khan,arjun.khan74@yahoo.com,5888142493,Kolkata,Electronics,Laptop,3,1100.0,0.05,Net Banking,Delivered,2026-11-10 18:07:00,3300.0,165.0,3135.0
+ORD00270,2026-11-10,2026-11-17,Priya Reddy,priya.reddy13@yahoo.com,1230172428,Unknown,Electronics,Bluetooth Speaker,5,60.0,0.1,Net Banking,Cancelled,2026-11-10 19:55:14,300.0,30.0,270.0
+ORD00974,2026-11-10,2026-11-17,Rohan Singh,rohan.singh51@yahoo.com,1143517139,Jaipur,Home & Kitchen,Mixer Grinder,4,70.0,0.25,Debit Card,Pending,2026-11-10 22:31:00,280.0,70.0,210.0
+ORD00281,2026-11-11,2026-11-17,Meera Khan,meera.khan42@gmail.com,6512688084,Jaipur,Electronics,Wireless Mouse,4,25.0,0.2,Upi,Returned,2026-11-11 00:23:00,100.0,20.0,80.0
+ORD00113,2026-11-11,2026-11-15,Rahul Sharma,rahul.sharma83@outlook.com,5709173074,Bengaluru,Books,Data Science Guide,5,40.0,0.1,Upi,Pending,2026-11-11 00:36:53,200.0,20.0,180.0
+ORD00830,2026-11-11,2026-11-15,Priya Gupta,priya.gupta22@gmail.com,,Mumbai,Electronics,Laptop,1,1100.0,0.2,Net Banking,Cancelled,2026-11-11 01:04:00,1100.0,220.0,880.0
+ORD00257,2026-11-11,2026-11-13,Aarav Mehta,aarav.mehta28@yahoo.com,1193300583,Chennai,Books,Python Handbook,4,30.0,0.25,Net Banking,Delivered,2026-11-11 01:43:00,120.0,30.0,90.0
+ORD00632,2026-11-11,2026-11-15,Karan Joshi,karan.joshi31@yahoo.com,1566486502,Bengaluru,Books,Python Handbook,1,30.0,0.25,Unknown,Cancelled,2026-11-11 01:53:13,30.0,7.5,22.5
+ORD00715,2026-11-11,2026-11-12,Vikram Mehta,vikram.mehta46@yahoo.com,4071184143,Hyderabad,Electronics,Bluetooth Speaker,2,60.0,0.0,Debit Card,Delivered,2026-11-11 03:24:50,120.0,0.0,120.0
+ORD00591,2026-11-11,2026-11-13,Anita Khan,anita.khan64@outlook.com,1867842317,Hyderabad,Books,Data Science Guide,4,40.0,0.0,Net Banking,Delivered,2026-11-11 03:35:00,160.0,0.0,160.0
+ORD00582,2026-11-11,2026-11-17,Meera Gupta,meera.gupta51@yahoo.com,8733641199,Pune,Clothing,T-Shirt,1,15.0,0.25,Debit Card,Delivered,2026-11-11 03:41:00,15.0,3.75,11.25
+ORD00012,2026-11-11,2026-11-17,Rahul Patel,rahul.patel86@yahoo.com,5163715483,Hyderabad,Home & Kitchen,Cookware Set,4,85.0,0.25,Unknown,Delivered,2026-11-11 04:32:00,340.0,85.0,255.0
+ORD00682,2026-11-11,2026-11-15,Sneha Joshi,sneha.joshi85@outlook.com,5120243668,Chennai,Electronics,Laptop,2,1100.0,0.05,Debit Card,Pending,2026-11-11 05:14:00,2200.0,110.0,2090.0
+ORD00676,2026-11-11,2026-11-14,Arjun Reddy,arjun.reddy95@yahoo.com,6270755659,Bengaluru,Home & Kitchen,Air Fryer,3,110.0,0.25,Cash On Delivery,Cancelled,2026-11-11 06:05:00,330.0,82.5,247.5
+ORD00037,2026-11-11,2026-11-12,Priya Nair,priya.nair66@gmail.com,7882116761,Unknown,Home & Kitchen,Mixer Grinder,5,70.0,0.1,Debit Card,Delivered,2026-11-11 06:07:00,350.0,35.0,315.0
+ORD00866,2026-11-11,,Priya Joshi,priya.joshi96@outlook.com,4246275268,Pune,Clothing,Jeans,1,45.0,0.0,Credit Card,Returned,2026-11-11 06:08:12,45.0,0.0,45.0
+ORD00020,2026-11-11,2026-11-12,Meera Verma,meera.verma9@yahoo.com,6189025456,Kolkata,Books,Data Science Guide,1,40.0,0.05,Upi,Delivered,2026-11-11 06:42:00,40.0,2.0,38.0
+ORD00154,2026-11-11,2026-11-17,Rahul Verma,rahul.verma97@yahoo.com,8603674918,Chennai,Home & Kitchen,Air Fryer,4,110.0,0.05,Upi,Pending,2026-11-11 07:12:00,440.0,22.0,418.0
+ORD00758,2026-11-11,2026-11-14,Anita Mehta,anita.mehta10@yahoo.com,8645279093,Bengaluru,Books,Data Science Guide,4,40.0,0.1,Debit Card,Pending,2026-11-11 08:09:22,160.0,16.0,144.0
+ORD00793,2026-11-11,2026-11-16,Aarav Reddy,,2993072662,Delhi,Electronics,Bluetooth Speaker,4,60.0,0.15,Cash On Delivery,Shipped,2026-11-11 08:28:00,240.0,36.0,204.0
+ORD00688,2026-11-11,2026-11-13,Arjun Reddy,,8367632408,Bengaluru,Books,Python Handbook,5,30.0,0.05,Credit Card,Shipped,2026-11-11 08:57:33,150.0,7.5,142.5
+ORD00505,2026-11-11,,Arjun Gupta,arjun.gupta1@gmail.com,,Chennai,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Cash On Delivery,Delivered,2026-11-11 09:45:33,280.0,0.0,280.0
+ORD00764,2026-11-11,2026-11-17,Arjun Reddy,arjun.reddy40@gmail.com,6463213358,Pune,Electronics,Bluetooth Speaker,4,60.0,0.2,Unknown,Delivered,2026-11-11 09:50:00,240.0,48.0,192.0
+ORD00651,2026-11-11,2026-11-18,Rahul Reddy,rahul.reddy8@outlook.com,4432644350,Jaipur,Electronics,Laptop,1,1100.0,0.15,Net Banking,Pending,2026-11-11 09:55:00,1100.0,165.0,935.0
+ORD00011,2026-11-11,2026-11-18,Vikram Mehta,vikram.mehta83@outlook.com,,Bengaluru,Clothing,Jeans,5,45.0,0.25,Debit Card,Returned,2026-11-11 10:08:00,225.0,56.25,168.75
+ORD00445,2026-11-11,2026-11-13,Arjun Nair,arjun.nair95@outlook.com,2370646603,Mumbai,Books,Python Handbook,5,30.0,0.25,Net Banking,Returned,2026-11-11 10:51:57,150.0,37.5,112.5
+ORD00529,2026-11-11,2026-11-13,Rahul Khan,rahul.khan82@yahoo.com,0108743954,Jaipur,Electronics,Laptop,3,1100.0,0.15,Cash On Delivery,Cancelled,2026-11-11 11:14:30,3300.0,495.0,2805.0
+ORD00750,2026-11-11,2026-11-15,Neha Joshi,neha.joshi31@outlook.com,8159504692,Delhi,Home & Kitchen,Cookware Set,4,85.0,0.0,Net Banking,Shipped,2026-11-11 11:38:00,340.0,0.0,340.0
+ORD00799,2026-11-11,2026-11-12,Anita Patel,anita.patel76@gmail.com,0598546251,Pune,Home & Kitchen,Air Fryer,1,110.0,0.1,Debit Card,Shipped,2026-11-11 11:41:46,110.0,11.0,99.0
+ORD00645,2026-11-11,2026-11-18,Meera Mehta,meera.mehta13@gmail.com,0053745163,Mumbai,Books,Data Science Guide,5,40.0,0.1,Unknown,Shipped,2026-11-11 11:56:00,200.0,20.0,180.0
+ORD00681,2026-11-11,2026-11-16,Anita Reddy,anita.reddy48@outlook.com,0718049502,Jaipur,Books,Python Handbook,3,30.0,0.15,Upi,Returned,2026-11-11 12:05:00,90.0,13.5,76.5
+ORD00823,2026-11-11,2026-11-16,Anita Reddy,anita.reddy64@outlook.com,1145503341,Kolkata,Clothing,T-Shirt,3,15.0,0.0,Credit Card,Shipped,2026-11-11 12:50:00,45.0,0.0,45.0
+ORD00335,2026-11-11,2026-11-17,Arjun Mehta,arjun.mehta65@outlook.com,4729184087,Kolkata,Books,Data Science Guide,5,40.0,0.2,Credit Card,Pending,2026-11-11 13:13:22,200.0,40.0,160.0
+ORD00069,2026-11-11,2026-11-14,Karan Mehta,karan.mehta15@outlook.com,1707927808,Pune,Books,Python Handbook,4,30.0,0.2,Cash On Delivery,Returned,2026-11-11 13:41:00,120.0,24.0,96.0
+ORD00436,2026-11-11,2026-11-17,Rahul Patel,rahul.patel97@yahoo.com,8654490175,Kolkata,Clothing,Jeans,1,45.0,0.0,Upi,Cancelled,2026-11-11 13:48:00,45.0,0.0,45.0
+ORD00003,2026-11-11,2026-11-14,Divya Mehta,divya.mehta28@outlook.com,6117574539,Mumbai,Clothing,T-Shirt,1,15.0,0.15,Net Banking,Pending,2026-11-11 14:36:21,15.0,2.25,12.75
+ORD00424,2026-11-11,2026-11-12,Anita Verma,anita.verma64@yahoo.com,0210155119,Bengaluru,Clothing,Jeans,3,45.0,0.0,Net Banking,Pending,2026-11-11 15:00:05,135.0,0.0,135.0
+ORD00053,2026-11-11,2026-11-13,Sneha Joshi,sneha.joshi65@outlook.com,,Pune,Electronics,Laptop,3,1100.0,0.1,Upi,Shipped,2026-11-11 15:14:00,3300.0,330.0,2970.0
+ORD00283,2026-11-11,2026-11-13,Sneha Mehta,sneha.mehta69@gmail.com,2719036821,Mumbai,Clothing,T-Shirt,1,15.0,0.15,Cash On Delivery,Cancelled,2026-11-11 15:51:45,15.0,2.25,12.75
+ORD00153,2026-11-11,2026-11-17,Rohan Gupta,,6523317220,Mumbai,Home & Kitchen,Cookware Set,4,85.0,0.05,Net Banking,Returned,2026-11-11 16:03:00,340.0,17.0,323.0
+ORD00359,2026-11-11,2026-11-17,Vikram Gupta,vikram.gupta27@outlook.com,3438883678,Kolkata,Books,Python Handbook,4,30.0,0.0,Upi,Cancelled,2026-11-11 16:40:57,120.0,0.0,120.0
+ORD00522,2026-11-11,2026-11-17,Sneha Verma,sneha.verma55@gmail.com,5772386410,Mumbai,Home & Kitchen,Mixer Grinder,4,70.0,0.15,Debit Card,Shipped,2026-11-11 16:51:00,280.0,42.0,238.0
+ORD00346,2026-11-11,2026-11-13,Anita Singh,anita.singh87@outlook.com,9164878093,Hyderabad,Clothing,T-Shirt,1,15.0,0.0,Net Banking,Pending,2026-11-11 17:03:00,15.0,0.0,15.0
+ORD00055,2026-11-11,2026-11-12,Rohan Sharma,rohan.sharma71@gmail.com,8419369055,Jaipur,Electronics,Laptop,3,1100.0,0.0,Upi,Returned,2026-11-11 17:11:58,3300.0,0.0,3300.0
+ORD00674,2026-11-11,2026-11-12,Priya Reddy,priya.reddy15@gmail.com,0698934819,Delhi,Electronics,Wireless Mouse,3,25.0,0.25,Credit Card,Shipped,2026-11-11 17:29:46,75.0,18.75,56.25
+ORD00539,2026-11-11,,Rohan Gupta,,9733579712,Mumbai,Books,Python Handbook,1,30.0,0.2,Credit Card,Cancelled,2026-11-11 18:24:00,30.0,6.0,24.0
+ORD00393,2026-11-11,2026-11-18,Rohan Khan,rohan.khan44@outlook.com,8597838895,Mumbai,Clothing,T-Shirt,3,15.0,0.1,Net Banking,Pending,2026-11-11 18:26:08,45.0,4.5,40.5
+ORD00052,2026-11-11,2026-11-18,Meera Khan,meera.khan39@yahoo.com,6957760497,Hyderabad,Home & Kitchen,Cookware Set,4,85.0,0.0,Net Banking,Delivered,2026-11-11 18:28:14,340.0,0.0,340.0
+ORD00740,2026-11-11,2026-11-14,Neha Verma,neha.verma3@gmail.com,5339627653,Kolkata,Books,Python Handbook,4,30.0,0.25,Cash On Delivery,Pending,2026-11-11 18:38:00,120.0,30.0,90.0
+ORD00026,2026-11-11,2026-11-15,Arjun Reddy,arjun.reddy70@gmail.com,6220977112,Chennai,Books,Python Handbook,5,30.0,0.05,Credit Card,Returned,2026-11-11 19:25:42,150.0,7.5,142.5
+ORD00622,2026-11-11,2026-11-17,Karan Nair,karan.nair66@yahoo.com,1943250988,Bengaluru,Clothing,T-Shirt,4,15.0,0.0,Upi,Delivered,2026-11-11 20:07:00,60.0,0.0,60.0
+ORD00386,2026-11-11,2026-11-15,Anita Joshi,anita.joshi71@gmail.com,3380255807,Delhi,Electronics,Wireless Mouse,3,25.0,0.15,Unknown,Returned,2026-11-11 20:07:07,75.0,11.25,63.75
+ORD00106,2026-11-11,2026-11-18,Meera Mehta,meera.mehta92@yahoo.com,2389257011,Bengaluru,Clothing,Jeans,2,45.0,0.15,Credit Card,Pending,2026-11-11 20:23:00,90.0,13.5,76.5
+ORD00757,2026-11-11,2026-11-15,Priya Singh,priya.singh46@outlook.com,3373697454,Pune,Home & Kitchen,Cookware Set,4,85.0,0.25,Credit Card,Pending,2026-11-11 20:55:45,340.0,85.0,255.0
+ORD00534,2026-11-11,2026-11-14,Meera Sharma,meera.sharma72@yahoo.com,5207516320,Pune,Books,Python Handbook,2,30.0,0.1,Cash On Delivery,Shipped,2026-11-11 21:12:00,60.0,6.0,54.0
+ORD00775,2026-11-11,2026-11-15,Meera Verma,,0440502933,Chennai,Electronics,Bluetooth Speaker,3,60.0,0.15,Cash On Delivery,Returned,2026-11-11 21:57:00,180.0,27.0,153.0
+ORD00336,2026-11-11,2026-11-13,Arjun Reddy,arjun.reddy88@gmail.com,6735194724,Delhi,Books,Python Handbook,2,30.0,0.05,Debit Card,Pending,2026-11-11 22:12:00,60.0,3.0,57.0
+ORD00462,2026-11-11,2026-11-14,Rohan Patel,rohan.patel79@gmail.com,4318808326,Chennai,Books,Data Science Guide,3,40.0,0.25,Cash On Delivery,Shipped,2026-11-11 22:20:32,120.0,30.0,90.0
+ORD00679,2026-11-12,2026-11-19,Anita Singh,anita.singh41@yahoo.com,6590926934,Jaipur,Electronics,Bluetooth Speaker,4,60.0,0.25,Upi,Cancelled,2026-11-12 01:04:00,240.0,60.0,180.0
+ORD00640,2026-11-12,2026-11-14,Unknown,aarav.mehta79@yahoo.com,3608672082,Mumbai,Clothing,Jacket,5,90.0,0.0,Credit Card,Shipped,2026-11-12 01:54:00,450.0,0.0,450.0
+ORD00590,2026-11-12,2026-11-16,Anita Nair,anita.nair50@outlook.com,2698250388,Hyderabad,Clothing,T-Shirt,3,15.0,0.1,Credit Card,Pending,2026-11-12 02:35:00,45.0,4.5,40.5
+ORD00801,2026-11-12,2026-11-18,Divya Sharma,divya.sharma34@gmail.com,1880040511,Pune,Electronics,Bluetooth Speaker,5,60.0,0.0,Upi,Returned,2026-11-12 02:52:00,300.0,0.0,300.0
+ORD00747,2026-11-12,2026-11-17,Arjun Joshi,arjun.joshi53@yahoo.com,4002351151,Chennai,Books,Python Handbook,3,30.0,0.15,Net Banking,Cancelled,2026-11-12 02:59:00,90.0,13.5,76.5
+ORD00121,2026-11-12,2026-11-14,Divya Patel,divya.patel34@outlook.com,,Delhi,Home & Kitchen,Air Fryer,2,110.0,0.1,Net Banking,Delivered,2026-11-12 03:52:00,220.0,22.0,198.0
+ORD00210,2026-11-12,2026-11-17,Priya Verma,priya.verma48@outlook.com,1332017493,Delhi,Clothing,Jacket,3,90.0,0.1,Cash On Delivery,Pending,2026-11-12 04:19:00,270.0,27.0,243.0
+ORD00897,2026-11-12,2026-11-17,Divya Joshi,divya.joshi40@yahoo.com,9256486322,Kolkata,Home & Kitchen,Air Fryer,1,110.0,0.1,Debit Card,Cancelled,2026-11-12 05:10:00,110.0,11.0,99.0
+ORD00862,2026-11-12,2026-11-17,Karan Sharma,karan.sharma16@yahoo.com,5172045777,Delhi,Books,Data Science Guide,3,40.0,0.05,Cash On Delivery,Delivered,2026-11-12 06:08:00,120.0,6.0,114.0
+ORD00873,2026-11-12,2026-11-15,Sneha Singh,sneha.singh2@outlook.com,9472772051,Chennai,Books,Data Science Guide,2,40.0,0.2,Credit Card,Cancelled,2026-11-12 06:15:00,80.0,16.0,64.0
+ORD00353,2026-11-12,2026-11-18,Divya Joshi,divya.joshi58@gmail.com,4765391387,Pune,Books,Data Science Guide,5,40.0,0.15,Credit Card,Pending,2026-11-12 06:50:00,200.0,30.0,170.0
+ORD00221,2026-11-12,2026-11-14,Sneha Verma,sneha.verma44@gmail.com,9535964147,Bengaluru,Electronics,Laptop,3,1100.0,0.05,Credit Card,Delivered,2026-11-12 07:06:52,3300.0,165.0,3135.0
+ORD00967,2026-11-12,2026-11-17,Priya Joshi,priya.joshi8@outlook.com,9287441939,Delhi,Home & Kitchen,Air Fryer,3,110.0,0.0,Net Banking,Shipped,2026-11-12 07:12:00,330.0,0.0,330.0
+ORD00767,2026-11-12,2026-11-19,Sneha Mehta,sneha.mehta87@yahoo.com,0015279231,Jaipur,Books,Python Handbook,3,30.0,0.15,Debit Card,Returned,2026-11-12 07:12:24,90.0,13.5,76.5
+ORD00083,2026-11-12,2026-11-15,Vikram Khan,vikram.khan32@yahoo.com,9775719056,Kolkata,Books,Python Handbook,5,30.0,0.0,Debit Card,Cancelled,2026-11-12 07:18:00,150.0,0.0,150.0
+ORD00523,2026-11-12,2026-11-14,Rohan Reddy,rohan.reddy30@outlook.com,6128687231,Hyderabad,Home & Kitchen,Cookware Set,4,85.0,0.2,Cash On Delivery,Pending,2026-11-12 07:45:00,340.0,68.0,272.0
+ORD00111,2026-11-12,2026-11-14,Anita Mehta,anita.mehta38@gmail.com,4576132692,Pune,Books,Python Handbook,5,30.0,0.2,Cash On Delivery,Delivered,2026-11-12 08:03:00,150.0,30.0,120.0
+ORD00276,2026-11-12,2026-11-17,Arjun Patel,arjun.patel40@yahoo.com,9007857315,Kolkata,Books,Python Handbook,4,30.0,0.1,Net Banking,Returned,2026-11-12 08:09:00,120.0,12.0,108.0
+ORD00594,2026-11-12,,Arjun Nair,arjun.nair78@gmail.com,7938420163,Hyderabad,Electronics,Smart Watch,2,180.0,0.25,Credit Card,Pending,2026-11-12 08:34:00,360.0,90.0,270.0
+ORD00057,2026-11-12,2026-11-13,Meera Patel,meera.patel21@yahoo.com,8766932944,Unknown,Home & Kitchen,Cookware Set,5,85.0,0.15,Unknown,Cancelled,2026-11-12 08:36:00,425.0,63.75,361.25
+ORD00208,2026-11-12,2026-11-18,Priya Sharma,priya.sharma97@outlook.com,5032757968,Mumbai,Electronics,Wireless Mouse,1,25.0,0.1,Cash On Delivery,Shipped,2026-11-12 09:27:00,25.0,2.5,22.5
+ORD00490,2026-11-12,2026-11-13,Karan Patel,karan.patel40@outlook.com,3118191747,Delhi,Home & Kitchen,Air Fryer,2,110.0,0.25,Debit Card,Shipped,2026-11-12 09:46:00,220.0,55.0,165.0
+ORD00662,2026-11-12,2026-11-16,Neha Verma,neha.verma48@outlook.com,1316554821,Pune,Electronics,Smart Watch,4,180.0,0.25,Net Banking,Pending,2026-11-12 10:02:54,720.0,180.0,540.0
+ORD00820,2026-11-12,2026-11-15,Aarav Joshi,aarav.joshi13@yahoo.com,0627303642,Jaipur,Electronics,Smart Watch,3,180.0,0.0,Cash On Delivery,Pending,2026-11-12 10:08:00,540.0,0.0,540.0
+ORD00354,2026-11-12,,Unknown,priya.nair24@yahoo.com,5167175755,Mumbai,Home & Kitchen,Mixer Grinder,5,70.0,0.25,Debit Card,Pending,2026-11-12 11:10:00,350.0,87.5,262.5
+ORD00620,2026-11-12,2026-11-14,Karan Patel,karan.patel65@gmail.com,7720247885,Bengaluru,Home & Kitchen,Mixer Grinder,4,70.0,0.05,Debit Card,Delivered,2026-11-12 12:55:00,280.0,14.0,266.0
+ORD00504,2026-11-12,2026-11-14,Rohan Sharma,rohan.sharma77@gmail.com,7146766800,Jaipur,Home & Kitchen,Mixer Grinder,4,70.0,0.25,Debit Card,Delivered,2026-11-12 14:27:00,280.0,70.0,210.0
+ORD00338,2026-11-12,2026-11-18,Sneha Reddy,sneha.reddy27@yahoo.com,0842224765,Jaipur,Electronics,Bluetooth Speaker,3,60.0,0.2,Upi,Returned,2026-11-12 15:01:58,180.0,36.0,144.0
+ORD00905,2026-11-12,2026-11-17,Meera Reddy,meera.reddy1@gmail.com,6096287809,Kolkata,Electronics,Smart Watch,5,180.0,0.2,Cash On Delivery,Pending,2026-11-12 16:09:00,900.0,180.0,720.0
+ORD00708,2026-11-12,2026-11-13,Priya Patel,priya.patel16@yahoo.com,3455919883,Delhi,Clothing,Jacket,3,90.0,0.2,Debit Card,Cancelled,2026-11-12 19:22:00,270.0,54.0,216.0
+ORD00070,2026-11-12,2026-11-17,Priya Verma,priya.verma99@gmail.com,6096379402,Bengaluru,Books,Python Handbook,5,30.0,0.0,Cash On Delivery,Cancelled,2026-11-12 19:32:00,150.0,0.0,150.0
+ORD00774,2026-11-12,2026-11-14,Vikram Singh,vikram.singh88@outlook.com,3288432577,Jaipur,Clothing,T-Shirt,1,15.0,0.25,Net Banking,Returned,2026-11-12 19:51:00,15.0,3.75,11.25
+ORD00051,2026-11-12,2026-11-15,Rahul Reddy,rahul.reddy98@outlook.com,6193739715,Chennai,Electronics,Bluetooth Speaker,5,60.0,0.1,Debit Card,Pending,2026-11-12 20:08:32,300.0,30.0,270.0
+ORD00965,2026-11-12,2026-11-15,Anita Nair,anita.nair8@outlook.com,9365008387,Bengaluru,Clothing,T-Shirt,3,15.0,0.15,Cash On Delivery,Cancelled,2026-11-12 20:12:00,45.0,6.75,38.25
+ORD00150,2026-11-12,2026-11-19,Aarav Singh,aarav.singh89@yahoo.com,3571335981,Mumbai,Electronics,Smart Watch,5,180.0,0.15,Credit Card,Cancelled,2026-11-12 20:24:00,900.0,135.0,765.0
+ORD00325,2026-11-12,2026-11-15,Arjun Nair,arjun.nair58@outlook.com,9515946623,Bengaluru,Electronics,Laptop,1,1100.0,0.15,Debit Card,Pending,2026-11-12 21:04:00,1100.0,165.0,935.0
+ORD00198,2026-11-12,2026-11-13,Unknown,rohan.sharma11@yahoo.com,4950969377,Pune,Electronics,Laptop,5,1100.0,0.05,Debit Card,Delivered,2026-11-12 21:29:36,5500.0,275.0,5225.0
+ORD00947,2026-11-12,2026-11-15,Neha Nair,neha.nair19@yahoo.com,1646999326,Delhi,Books,Data Science Guide,3,40.0,0.05,Debit Card,Cancelled,2026-11-12 22:43:40,120.0,6.0,114.0
+ORD00061,2026-11-12,2026-11-18,Rahul Mehta,rahul.mehta90@yahoo.com,1522814044,Chennai,Books,Python Handbook,1,30.0,0.0,Cash On Delivery,Pending,2026-11-12 23:25:20,30.0,0.0,30.0
+ORD00007,2026-11-13,2026-11-17,Meera Patel,meera.patel55@outlook.com,5712955705,Delhi,Electronics,Bluetooth Speaker,2,60.0,0.2,Debit Card,Pending,2026-11-13 00:04:42,120.0,24.0,96.0
+ORD00981,2026-11-13,,Rahul Khan,rahul.khan30@outlook.com,6736476489,Pune,Books,Data Science Guide,2,40.0,0.1,Debit Card,Pending,2026-11-13 00:15:00,80.0,8.0,72.0
+ORD00577,2026-11-13,2026-11-18,Anita Patel,anita.patel70@gmail.com,5422098956,Hyderabad,Books,Python Handbook,3,30.0,0.1,Upi,Pending,2026-11-13 00:19:27,90.0,9.0,81.0
+ORD00101,2026-11-13,2026-11-15,Rohan Singh,rohan.singh94@gmail.com,3608250966,Kolkata,Clothing,T-Shirt,2,15.0,0.0,Upi,Delivered,2026-11-13 00:41:46,30.0,0.0,30.0
+ORD00262,2026-11-13,2026-11-14,Arjun Sharma,arjun.sharma17@gmail.com,9570758801,Hyderabad,Electronics,Laptop,3,1100.0,0.0,Credit Card,Cancelled,2026-11-13 00:45:15,3300.0,0.0,3300.0
+ORD00093,2026-11-13,2026-11-18,Rahul Khan,rahul.khan87@outlook.com,4912100628,Delhi,Home & Kitchen,Mixer Grinder,3,70.0,0.0,Net Banking,Pending,2026-11-13 01:15:00,210.0,0.0,210.0
+ORD00425,2026-11-13,2026-11-16,Unknown,karan.verma85@yahoo.com,0951443525,Mumbai,Home & Kitchen,Mixer Grinder,4,70.0,0.05,Net Banking,Returned,2026-11-13 01:28:59,280.0,14.0,266.0
+ORD00156,2026-11-13,2026-11-18,Divya Joshi,divya.joshi42@yahoo.com,2157876426,Pune,Clothing,Jeans,5,45.0,0.15,Debit Card,Delivered,2026-11-13 02:32:00,225.0,33.75,191.25
+ORD00002,2026-11-13,2026-11-18,Arjun Khan,arjun.khan47@outlook.com,6798834813,Mumbai,Books,Python Handbook,4,30.0,0.25,Net Banking,Cancelled,2026-11-13 02:52:00,120.0,30.0,90.0
+ORD00265,2026-11-13,2026-11-18,Rahul Khan,rahul.khan89@outlook.com,3283411938,Kolkata,Books,Python Handbook,2,30.0,0.05,Cash On Delivery,Delivered,2026-11-13 03:02:00,60.0,3.0,57.0
+ORD00667,2026-11-13,2026-11-16,Karan Joshi,karan.joshi48@yahoo.com,4893260941,Chennai,Clothing,Jeans,3,45.0,0.25,Upi,Shipped,2026-11-13 03:21:13,135.0,33.75,101.25
+ORD00389,2026-11-13,2026-11-19,Sneha Singh,sneha.singh98@outlook.com,6253462882,Bengaluru,Electronics,Wireless Mouse,4,25.0,0.05,Cash On Delivery,Pending,2026-11-13 03:53:09,100.0,5.0,95.0
+ORD00292,2026-11-13,2026-11-17,Meera Nair,meera.nair59@gmail.com,9158568155,Hyderabad,Home & Kitchen,Mixer Grinder,2,70.0,0.0,Cash On Delivery,Shipped,2026-11-13 04:35:06,140.0,0.0,140.0
+ORD00556,2026-11-13,2026-11-19,Priya Verma,priya.verma92@yahoo.com,,Pune,Electronics,Bluetooth Speaker,3,60.0,0.2,Upi,Cancelled,2026-11-13 04:39:01,180.0,36.0,144.0
+ORD00810,2026-11-13,,Rahul Khan,rahul.khan25@yahoo.com,4855096634,Pune,Electronics,Wireless Mouse,1,25.0,0.15,Net Banking,Cancelled,2026-11-13 04:57:00,25.0,3.75,21.25
+ORD00482,2026-11-13,2026-11-15,Anita Khan,anita.khan98@gmail.com,5155725556,Mumbai,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Credit Card,Delivered,2026-11-13 05:10:00,280.0,0.0,280.0
+ORD00253,2026-11-13,2026-11-16,Anita Singh,anita.singh70@gmail.com,2063999589,Hyderabad,Books,Data Science Guide,3,40.0,0.1,Credit Card,Returned,2026-11-13 06:12:25,120.0,12.0,108.0
+ORD00218,2026-11-13,2026-11-16,Divya Sharma,divya.sharma95@gmail.com,,Bengaluru,Home & Kitchen,Mixer Grinder,2,70.0,0.2,Cash On Delivery,Returned,2026-11-13 07:05:07,140.0,28.0,112.0
+ORD00363,2026-11-13,2026-11-19,Rahul Patel,rahul.patel43@gmail.com,9156306731,Mumbai,Books,Python Handbook,2,30.0,0.15,Credit Card,Delivered,2026-11-13 07:50:07,60.0,9.0,51.0
+ORD00684,2026-11-13,2026-11-14,Rohan Khan,rohan.khan56@yahoo.com,6014968004,Bengaluru,Clothing,Jacket,2,90.0,0.0,Cash On Delivery,Shipped,2026-11-13 08:14:29,180.0,0.0,180.0
+ORD00565,2026-11-13,2026-11-18,Unknown,rohan.mehta45@gmail.com,3601524485,Chennai,Home & Kitchen,Air Fryer,4,110.0,0.25,Cash On Delivery,Delivered,2026-11-13 08:42:00,440.0,110.0,330.0
+ORD00966,2026-11-13,2026-11-20,Aarav Patel,aarav.patel55@yahoo.com,0589351748,Chennai,Home & Kitchen,Cookware Set,1,85.0,0.0,Upi,Returned,2026-11-13 09:37:00,85.0,0.0,85.0
+ORD00022,2026-11-13,2026-11-18,Meera Verma,meera.verma77@gmail.com,6026850785,Hyderabad,Home & Kitchen,Cookware Set,4,85.0,0.15,Upi,Delivered,2026-11-13 09:54:00,340.0,51.0,289.0
+ORD00406,2026-11-13,2026-11-15,Sneha Joshi,sneha.joshi77@yahoo.com,5607053044,Pune,Home & Kitchen,Air Fryer,2,110.0,0.2,Net Banking,Delivered,2026-11-13 09:58:00,220.0,44.0,176.0
+ORD00629,2026-11-13,2026-11-19,Divya Singh,divya.singh27@outlook.com,1019285507,Hyderabad,Home & Kitchen,Mixer Grinder,1,70.0,0.2,Upi,Delivered,2026-11-13 10:17:00,70.0,14.0,56.0
+ORD00178,2026-11-13,2026-11-18,Vikram Khan,vikram.khan39@yahoo.com,0029846844,Hyderabad,Clothing,T-Shirt,4,15.0,0.0,Cash On Delivery,Delivered,2026-11-13 10:32:20,60.0,0.0,60.0
+ORD00396,2026-11-13,2026-11-15,Unknown,meera.sharma42@yahoo.com,4606560501,Jaipur,Electronics,Laptop,4,1100.0,0.05,Credit Card,Pending,2026-11-13 12:17:00,4400.0,220.0,4180.0
+ORD00123,2026-11-13,,Divya Singh,divya.singh67@gmail.com,0289392619,Delhi,Electronics,Smart Watch,1,180.0,0.0,Cash On Delivery,Pending,2026-11-13 12:51:25,180.0,0.0,180.0
+ORD00700,2026-11-13,2026-11-19,Anita Joshi,anita.joshi52@yahoo.com,6652220719,Chennai,Books,Python Handbook,2,30.0,0.0,Upi,Pending,2026-11-13 13:16:00,60.0,0.0,60.0
+ORD00177,2026-11-13,2026-11-14,Anita Patel,anita.patel58@outlook.com,4982894815,Chennai,Books,Data Science Guide,4,40.0,0.05,Net Banking,Pending,2026-11-13 13:34:00,160.0,8.0,152.0
+ORD00302,2026-11-13,2026-11-17,Sneha Joshi,sneha.joshi24@outlook.com,3530689985,Kolkata,Books,Python Handbook,5,30.0,0.25,Upi,Returned,2026-11-13 14:00:00,150.0,37.5,112.5
+ORD00444,2026-11-13,2026-11-18,Aarav Joshi,aarav.joshi20@outlook.com,7012838515,Mumbai,Clothing,Jeans,3,45.0,0.05,Upi,Delivered,2026-11-13 14:29:00,135.0,6.75,128.25
+ORD00199,2026-11-13,2026-11-16,Arjun Gupta,arjun.gupta16@yahoo.com,8361685484,Mumbai,Clothing,T-Shirt,5,15.0,0.05,Debit Card,Pending,2026-11-13 14:39:02,75.0,3.75,71.25
+ORD00207,2026-11-13,2026-11-19,Rahul Khan,rahul.khan80@outlook.com,8678053785,Pune,Clothing,Jacket,1,90.0,0.1,Debit Card,Returned,2026-11-13 16:14:42,90.0,9.0,81.0
+ORD00456,2026-11-13,2026-11-17,Rahul Gupta,rahul.gupta4@outlook.com,0676464585,Chennai,Clothing,Jacket,1,90.0,0.25,Net Banking,Returned,2026-11-13 16:17:00,90.0,22.5,67.5
+ORD00303,2026-11-13,2026-11-19,Sneha Gupta,sneha.gupta2@yahoo.com,0253363678,Chennai,Home & Kitchen,Mixer Grinder,4,70.0,0.1,Cash On Delivery,Pending,2026-11-13 17:00:00,280.0,28.0,252.0
+ORD00382,2026-11-13,2026-11-15,Sneha Sharma,,8216448463,Pune,Electronics,Wireless Mouse,3,25.0,0.25,Debit Card,Cancelled,2026-11-13 17:11:00,75.0,18.75,56.25
+ORD00374,2026-11-13,2026-11-17,Meera Sharma,meera.sharma89@gmail.com,2751471448,Jaipur,Clothing,Jacket,1,90.0,0.0,Upi,Shipped,2026-11-13 18:50:00,90.0,0.0,90.0
+ORD00669,2026-11-13,,Meera Khan,meera.khan82@gmail.com,7700865185,Unknown,Books,Python Handbook,1,30.0,0.0,Unknown,Pending,2026-11-13 19:36:09,30.0,0.0,30.0
+ORD00454,2026-11-13,2026-11-15,Rohan Gupta,rohan.gupta29@outlook.com,0383754125,Mumbai,Home & Kitchen,Mixer Grinder,5,70.0,0.2,Upi,Returned,2026-11-13 19:41:00,350.0,70.0,280.0
+ORD00046,2026-11-13,2026-11-14,Arjun Reddy,arjun.reddy48@yahoo.com,1332901591,Pune,Home & Kitchen,Air Fryer,1,110.0,0.0,Upi,Cancelled,2026-11-13 20:39:00,110.0,0.0,110.0
+ORD00962,2026-11-13,2026-11-15,Aarav Patel,aarav.patel68@gmail.com,1049228968,Delhi,Clothing,Jeans,2,45.0,0.05,Debit Card,Returned,2026-11-13 20:53:04,90.0,4.5,85.5
+ORD00447,2026-11-13,2026-11-14,Karan Sharma,karan.sharma83@yahoo.com,5926369685,Chennai,Books,Python Handbook,5,30.0,0.2,Debit Card,Pending,2026-11-13 23:18:37,150.0,30.0,120.0
+ORD00850,2026-11-13,2026-11-17,Karan Mehta,,9268747276,Chennai,Books,Data Science Guide,3,40.0,0.0,Unknown,Cancelled,2026-11-13 23:28:51,120.0,0.0,120.0
+ORD00326,2026-11-13,2026-11-18,Anita Verma,anita.verma81@yahoo.com,4361934108,Kolkata,Home & Kitchen,Cookware Set,5,85.0,0.1,Credit Card,Pending,2026-11-13 23:58:00,425.0,42.5,382.5
+ORD00795,2026-11-14,2026-11-19,Divya Sharma,divya.sharma14@gmail.com,7787545505,Bengaluru,Clothing,Jacket,5,90.0,0.1,Credit Card,Cancelled,2026-11-14 00:52:00,450.0,45.0,405.0
+ORD00181,2026-11-14,,Karan Sharma,,6549030016,Jaipur,Clothing,T-Shirt,3,15.0,0.0,Debit Card,Pending,2026-11-14 04:04:03,45.0,0.0,45.0
+ORD00078,2026-11-14,2026-11-18,Karan Verma,karan.verma94@gmail.com,2388660561,Kolkata,Home & Kitchen,Mixer Grinder,4,70.0,0.25,Cash On Delivery,Returned,2026-11-14 04:48:00,280.0,70.0,210.0
+ORD00920,2026-11-14,2026-11-15,Rahul Singh,rahul.singh27@yahoo.com,4974086738,Jaipur,Home & Kitchen,Air Fryer,3,110.0,0.2,Unknown,Delivered,2026-11-14 06:49:00,330.0,66.0,264.0
+ORD00980,2026-11-14,2026-11-20,Divya Gupta,divya.gupta11@outlook.com,2885891504,Jaipur,Books,Python Handbook,3,30.0,0.15,Credit Card,Cancelled,2026-11-14 07:32:43,90.0,13.5,76.5
+ORD00379,2026-11-14,2026-11-16,Priya Joshi,priya.joshi42@outlook.com,1961268010,Bengaluru,Electronics,Wireless Mouse,2,25.0,0.05,Debit Card,Pending,2026-11-14 08:29:00,50.0,2.5,47.5
+ORD00950,2026-11-14,2026-11-19,Unknown,neha.gupta29@outlook.com,1959696746,Mumbai,Clothing,Jeans,3,45.0,0.1,Net Banking,Delivered,2026-11-14 08:31:00,135.0,13.5,121.5
+ORD00404,2026-11-14,2026-11-16,Divya Khan,divya.khan97@yahoo.com,2057193501,Delhi,Home & Kitchen,Air Fryer,5,110.0,0.05,Upi,Delivered,2026-11-14 08:45:00,550.0,27.5,522.5
+ORD00922,2026-11-14,2026-11-18,Rohan Sharma,rohan.sharma86@outlook.com,6599052294,Bengaluru,Clothing,Jacket,5,90.0,0.0,Debit Card,Shipped,2026-11-14 08:50:00,450.0,0.0,450.0
+ORD00794,2026-11-14,2026-11-15,Karan Verma,karan.verma96@yahoo.com,6868721804,Chennai,Clothing,Jeans,3,45.0,0.15,Cash On Delivery,Cancelled,2026-11-14 08:57:00,135.0,20.25,114.75
+ORD00430,2026-11-14,2026-11-20,Divya Singh,divya.singh81@yahoo.com,5336838375,Delhi,Home & Kitchen,Cookware Set,1,85.0,0.25,Credit Card,Pending,2026-11-14 09:08:00,85.0,21.25,63.75
+ORD00330,2026-11-14,2026-11-20,Divya Reddy,divya.reddy65@yahoo.com,8911478009,Hyderabad,Electronics,Smart Watch,1,180.0,0.0,Unknown,Cancelled,2026-11-14 09:25:01,180.0,0.0,180.0
+ORD00909,2026-11-14,2026-11-20,Karan Joshi,karan.joshi96@gmail.com,9917623109,Mumbai,Home & Kitchen,Cookware Set,5,85.0,0.0,Unknown,Pending,2026-11-14 09:42:07,425.0,0.0,425.0
+ORD00172,2026-11-14,2026-11-20,Rahul Khan,rahul.khan27@outlook.com,7096813631,Mumbai,Electronics,Smart Watch,4,180.0,0.25,Debit Card,Shipped,2026-11-14 09:49:00,720.0,180.0,540.0
+ORD00851,2026-11-14,2026-11-15,Aarav Nair,aarav.nair77@yahoo.com,9082562948,Kolkata,Home & Kitchen,Mixer Grinder,5,70.0,0.2,Credit Card,Cancelled,2026-11-14 09:59:50,350.0,70.0,280.0
+ORD00163,2026-11-14,2026-11-17,Priya Patel,priya.patel8@yahoo.com,2810923615,Pune,Books,Data Science Guide,3,40.0,0.15,Debit Card,Delivered,2026-11-14 11:46:00,120.0,18.0,102.0
+ORD00581,2026-11-14,2026-11-16,Neha Patel,neha.patel40@yahoo.com,,Bengaluru,Books,Data Science Guide,3,40.0,0.15,Credit Card,Returned,2026-11-14 11:50:00,120.0,18.0,102.0
+ORD00033,2026-11-14,2026-11-21,Karan Verma,karan.verma41@yahoo.com,9640047310,Unknown,Books,Python Handbook,3,30.0,0.2,Net Banking,Shipped,2026-11-14 12:20:00,90.0,18.0,72.0
+ORD00273,2026-11-14,2026-11-21,Sneha Mehta,sneha.mehta54@yahoo.com,1636307506,Chennai,Electronics,Wireless Mouse,3,25.0,0.15,Upi,Delivered,2026-11-14 12:27:00,75.0,11.25,63.75
+ORD00344,2026-11-14,2026-11-20,Meera Patel,meera.patel3@outlook.com,2804357764,Hyderabad,Books,Python Handbook,1,30.0,0.25,Cash On Delivery,Cancelled,2026-11-14 12:52:28,30.0,7.5,22.5
+ORD00513,2026-11-14,2026-11-19,Sneha Sharma,sneha.sharma87@gmail.com,1692718143,Bengaluru,Electronics,Wireless Mouse,3,25.0,0.15,Debit Card,Delivered,2026-11-14 13:06:13,75.0,11.25,63.75
+ORD00975,2026-11-14,2026-11-18,Aarav Reddy,aarav.reddy72@outlook.com,4589895469,Mumbai,Home & Kitchen,Mixer Grinder,5,70.0,0.2,Net Banking,Shipped,2026-11-14 13:45:00,350.0,70.0,280.0
+ORD00364,2026-11-14,2026-11-20,Anita Gupta,anita.gupta13@yahoo.com,8414296375,Chennai,Books,Data Science Guide,5,40.0,0.1,Credit Card,Pending,2026-11-14 13:52:56,200.0,20.0,180.0
+ORD00614,2026-11-14,2026-11-16,Aarav Verma,aarav.verma52@gmail.com,8018575665,Mumbai,Books,Python Handbook,2,30.0,0.0,Cash On Delivery,Delivered,2026-11-14 14:13:00,60.0,0.0,60.0
+ORD00834,2026-11-14,2026-11-17,Anita Gupta,anita.gupta95@yahoo.com,,Hyderabad,Home & Kitchen,Air Fryer,5,110.0,0.25,Net Banking,Returned,2026-11-14 15:15:00,550.0,137.5,412.5
+ORD00373,2026-11-14,2026-11-20,Karan Reddy,karan.reddy47@yahoo.com,7221186695,Bengaluru,Books,Data Science Guide,4,40.0,0.0,Credit Card,Shipped,2026-11-14 16:46:00,160.0,0.0,160.0
+ORD00957,2026-11-14,2026-11-20,Unknown,anita.verma28@outlook.com,1255566705,Pune,Books,Data Science Guide,5,40.0,0.15,Debit Card,Delivered,2026-11-14 17:20:00,200.0,30.0,170.0
+ORD00515,2026-11-14,2026-11-15,Anita Joshi,anita.joshi72@yahoo.com,9398023158,Pune,Clothing,T-Shirt,4,15.0,0.1,Net Banking,Shipped,2026-11-14 17:43:00,60.0,6.0,54.0
+ORD00970,2026-11-14,2026-11-18,Rohan Singh,rohan.singh80@gmail.com,9268177524,Jaipur,Clothing,Jeans,4,45.0,0.05,Upi,Pending,2026-11-14 17:51:13,180.0,9.0,171.0
+ORD00048,2026-11-14,2026-11-21,Priya Nair,priya.nair20@yahoo.com,7398826513,Mumbai,Clothing,T-Shirt,5,15.0,0.0,Credit Card,Delivered,2026-11-14 18:18:00,75.0,0.0,75.0
+ORD00503,2026-11-14,2026-11-15,Vikram Nair,vikram.nair56@gmail.com,5272251318,Jaipur,Home & Kitchen,Mixer Grinder,4,70.0,0.15,Upi,Pending,2026-11-14 19:17:00,280.0,42.0,238.0
+ORD00900,2026-11-14,2026-11-16,Vikram Reddy,vikram.reddy18@yahoo.com,5102769417,Pune,Clothing,Jacket,2,90.0,0.05,Upi,Cancelled,2026-11-14 19:33:00,180.0,9.0,171.0
+ORD00574,2026-11-14,2026-11-18,Neha Patel,neha.patel94@outlook.com,2579542300,Bengaluru,Electronics,Bluetooth Speaker,5,60.0,0.1,Net Banking,Shipped,2026-11-14 19:40:00,300.0,30.0,270.0
+ORD00972,2026-11-14,,Aarav Reddy,,6489157215,Mumbai,Electronics,Bluetooth Speaker,5,60.0,0.0,Cash On Delivery,Delivered,2026-11-14 19:48:00,300.0,0.0,300.0
+ORD00297,2026-11-14,2026-11-19,Anita Gupta,anita.gupta88@outlook.com,5128538884,Pune,Electronics,Smart Watch,5,180.0,0.1,Upi,Cancelled,2026-11-14 20:41:00,900.0,90.0,810.0
+ORD00639,2026-11-14,2026-11-20,Priya Singh,priya.singh71@gmail.com,8792174679,Delhi,Books,Data Science Guide,1,40.0,0.1,Cash On Delivery,Returned,2026-11-14 20:41:00,40.0,4.0,36.0
+ORD00728,2026-11-14,2026-11-17,Unknown,sneha.reddy72@outlook.com,8565553910,Kolkata,Books,Python Handbook,2,30.0,0.25,Debit Card,Delivered,2026-11-14 21:43:28,60.0,15.0,45.0
+ORD00342,2026-11-14,2026-11-17,Rohan Mehta,rohan.mehta65@yahoo.com,,Unknown,Electronics,Smart Watch,4,180.0,0.05,Debit Card,Shipped,2026-11-14 21:53:00,720.0,36.0,684.0
+ORD00528,2026-11-14,2026-11-18,Divya Reddy,divya.reddy52@gmail.com,2144067166,Hyderabad,Clothing,Jacket,2,90.0,0.25,Upi,Delivered,2026-11-14 22:35:00,180.0,45.0,135.0
+ORD00100,2026-11-14,2026-11-18,Meera Joshi,meera.joshi1@gmail.com,9875007283,Delhi,Clothing,Jacket,5,90.0,0.25,Debit Card,Returned,2026-11-14 23:03:00,450.0,112.5,337.5
+ORD00754,2026-11-14,2026-11-16,Rohan Khan,rohan.khan3@gmail.com,8502827905,Delhi,Books,Python Handbook,3,30.0,0.25,Debit Card,Shipped,2026-11-14 23:33:43,90.0,22.5,67.5
+ORD00845,2026-11-15,2026-11-21,Divya Patel,divya.patel67@gmail.com,1074920891,Kolkata,Clothing,T-Shirt,4,15.0,0.05,Credit Card,Shipped,2026-11-15 01:01:00,60.0,3.0,57.0
+ORD00132,2026-11-15,2026-11-18,Rohan Sharma,rohan.sharma35@yahoo.com,1888172747,Bengaluru,Books,Data Science Guide,3,40.0,0.25,Net Banking,Delivered,2026-11-15 01:09:00,120.0,30.0,90.0
+ORD00606,2026-11-15,2026-11-17,Aarav Patel,aarav.patel44@gmail.com,1086020702,Unknown,Clothing,Jacket,5,90.0,0.0,Cash On Delivery,Pending,2026-11-15 01:26:00,450.0,0.0,450.0
+ORD00835,2026-11-15,2026-11-19,Divya Nair,divya.nair65@outlook.com,5157171477,Jaipur,Books,Data Science Guide,5,40.0,0.15,Cash On Delivery,Pending,2026-11-15 01:55:28,200.0,30.0,170.0
+ORD00631,2026-11-15,,Priya Khan,priya.khan74@yahoo.com,4789142759,Delhi,Clothing,T-Shirt,3,15.0,0.15,Credit Card,Returned,2026-11-15 02:18:46,45.0,6.75,38.25
+ORD00076,2026-11-15,2026-11-21,Priya Joshi,priya.joshi66@outlook.com,3930777463,Bengaluru,Books,Data Science Guide,3,40.0,0.15,Upi,Delivered,2026-11-15 02:44:00,120.0,18.0,102.0
+ORD00460,2026-11-15,2026-11-18,Sneha Verma,sneha.verma28@outlook.com,2479074306,Pune,Home & Kitchen,Air Fryer,4,110.0,0.0,Net Banking,Returned,2026-11-15 03:54:00,440.0,0.0,440.0
+ORD00205,2026-11-15,2026-11-16,Divya Verma,divya.verma72@gmail.com,1237774813,Jaipur,Electronics,Laptop,2,1100.0,0.15,Upi,Shipped,2026-11-15 04:02:19,2200.0,330.0,1870.0
+ORD00356,2026-11-15,2026-11-21,Anita Sharma,anita.sharma82@gmail.com,7524856187,Delhi,Clothing,T-Shirt,4,15.0,0.0,Credit Card,Pending,2026-11-15 05:11:05,60.0,0.0,60.0
+ORD00423,2026-11-15,,Aarav Mehta,aarav.mehta84@yahoo.com,9808551149,Chennai,Electronics,Wireless Mouse,3,25.0,0.1,Debit Card,Cancelled,2026-11-15 06:50:52,75.0,7.5,67.5
+ORD00185,2026-11-15,2026-11-18,Meera Nair,meera.nair34@outlook.com,5904933340,Kolkata,Electronics,Laptop,1,1100.0,0.2,Net Banking,Returned,2026-11-15 07:21:00,1100.0,220.0,880.0
+ORD00854,2026-11-15,2026-11-16,Rahul Gupta,rahul.gupta39@gmail.com,6270198271,Jaipur,Books,Data Science Guide,1,40.0,0.25,Debit Card,Returned,2026-11-15 07:22:19,40.0,10.0,30.0
+ORD00520,2026-11-15,2026-11-16,Arjun Sharma,arjun.sharma4@outlook.com,,Mumbai,Clothing,Jacket,4,90.0,0.25,Debit Card,Delivered,2026-11-15 08:13:00,360.0,90.0,270.0
+ORD00241,2026-11-15,2026-11-20,Neha Khan,neha.khan11@yahoo.com,9989721155,Delhi,Home & Kitchen,Cookware Set,4,85.0,0.0,Cash On Delivery,Pending,2026-11-15 08:30:12,340.0,0.0,340.0
+ORD00749,2026-11-15,2026-11-22,Divya Verma,,9292410831,Bengaluru,Home & Kitchen,Cookware Set,4,85.0,0.0,Credit Card,Returned,2026-11-15 08:49:00,340.0,0.0,340.0
+ORD00145,2026-11-15,2026-11-19,Aarav Khan,aarav.khan95@yahoo.com,9556701488,Kolkata,Books,Data Science Guide,4,40.0,0.1,Cash On Delivery,Returned,2026-11-15 08:59:00,160.0,16.0,144.0
+ORD00097,2026-11-15,2026-11-21,Divya Joshi,,,Pune,Home & Kitchen,Mixer Grinder,1,70.0,0.25,Debit Card,Delivered,2026-11-15 11:00:00,70.0,17.5,52.5
+ORD00990,2026-11-15,2026-11-20,Neha Mehta,neha.mehta41@yahoo.com,2170911878,Jaipur,Electronics,Bluetooth Speaker,3,60.0,0.1,Upi,Shipped,2026-11-15 12:37:00,180.0,18.0,162.0
+ORD00943,2026-11-15,2026-11-19,Priya Joshi,priya.joshi37@outlook.com,8334199832,Bengaluru,Clothing,Jeans,1,45.0,0.1,Debit Card,Returned,2026-11-15 13:27:00,45.0,4.5,40.5
+ORD01000,2026-11-15,2026-11-22,Sneha Gupta,,2894302441,Hyderabad,Electronics,Wireless Mouse,2,25.0,0.0,Net Banking,Pending,2026-11-15 13:41:51,50.0,0.0,50.0
+ORD00995,2026-11-15,,Divya Mehta,divya.mehta26@outlook.com,,Pune,Home & Kitchen,Mixer Grinder,1,70.0,0.1,Debit Card,Returned,2026-11-15 15:44:00,70.0,7.0,63.0
+ORD00200,2026-11-15,2026-11-16,Meera Patel,meera.patel20@gmail.com,2455955447,Jaipur,Electronics,Smart Watch,2,180.0,0.25,Upi,Pending,2026-11-15 15:55:00,360.0,90.0,270.0
+ORD00822,2026-11-15,,Rahul Gupta,rahul.gupta52@gmail.com,2590939857,Pune,Books,Python Handbook,2,30.0,0.25,Upi,Cancelled,2026-11-15 16:12:00,60.0,15.0,45.0
+ORD00514,2026-11-15,2026-11-18,Divya Verma,divya.verma79@outlook.com,6690689028,Bengaluru,Clothing,Jeans,5,45.0,0.15,Debit Card,Pending,2026-11-15 16:44:00,225.0,33.75,191.25
+ORD00124,2026-11-15,2026-11-20,Meera Verma,meera.verma34@gmail.com,2784357223,Hyderabad,Clothing,Jeans,3,45.0,0.05,Cash On Delivery,Shipped,2026-11-15 16:46:27,135.0,6.75,128.25
+ORD00807,2026-11-15,2026-11-22,Arjun Reddy,arjun.reddy41@outlook.com,8894190174,Mumbai,Electronics,Wireless Mouse,3,25.0,0.15,Upi,Shipped,2026-11-15 17:42:00,75.0,11.25,63.75
+ORD00588,2026-11-15,,Arjun Patel,arjun.patel25@gmail.com,1915736334,Chennai,Home & Kitchen,Air Fryer,2,110.0,0.1,Debit Card,Cancelled,2026-11-15 18:13:21,220.0,22.0,198.0
+ORD00158,2026-11-15,2026-11-19,Meera Joshi,meera.joshi46@gmail.com,5825453957,Pune,Books,Python Handbook,5,30.0,0.25,Credit Card,Pending,2026-11-15 18:32:00,150.0,37.5,112.5
+ORD00709,2026-11-15,2026-11-22,Anita Reddy,anita.reddy7@outlook.com,1117160580,Chennai,Clothing,Jacket,2,90.0,0.0,Net Banking,Returned,2026-11-15 20:25:54,180.0,0.0,180.0
+ORD00579,2026-11-15,2026-11-22,Aarav Gupta,,3846947394,Jaipur,Clothing,Jacket,5,90.0,0.1,Unknown,Delivered,2026-11-15 21:42:00,450.0,45.0,405.0
+ORD00603,2026-11-15,2026-11-17,Neha Patel,neha.patel17@gmail.com,2866751190,Hyderabad,Clothing,Jeans,2,45.0,0.2,Net Banking,Returned,2026-11-15 22:02:00,90.0,18.0,72.0
+ORD00938,2026-11-15,2026-11-17,Divya Khan,divya.khan86@outlook.com,3536571100,Delhi,Home & Kitchen,Air Fryer,1,110.0,0.2,Debit Card,Cancelled,2026-11-15 22:06:00,110.0,22.0,88.0
+ORD00274,2026-11-15,2026-11-20,Sneha Singh,sneha.singh54@outlook.com,3399508085,Kolkata,Clothing,Jacket,4,90.0,0.0,Debit Card,Returned,2026-11-15 23:15:00,360.0,0.0,360.0
+ORD00146,2026-11-15,2026-11-19,Rahul Verma,rahul.verma24@outlook.com,1441572426,Delhi,Electronics,Bluetooth Speaker,1,60.0,0.2,Net Banking,Returned,2026-11-15 23:31:00,60.0,12.0,48.0
+ORD00187,2026-11-15,2026-11-22,Rahul Joshi,rahul.joshi35@gmail.com,,Bengaluru,Home & Kitchen,Mixer Grinder,5,70.0,0.1,Net Banking,Shipped,2026-11-15 23:56:00,350.0,35.0,315.0
+ORD00461,2026-11-16,2026-11-19,Sneha Nair,sneha.nair68@outlook.com,1138840375,Pune,Electronics,Bluetooth Speaker,5,60.0,0.25,Upi,Cancelled,2026-11-16 00:14:00,300.0,75.0,225.0
+ORD00398,2026-11-16,2026-11-19,Neha Joshi,,6452910011,Hyderabad,Electronics,Laptop,1,1100.0,0.05,Upi,Returned,2026-11-16 01:13:00,1100.0,55.0,1045.0
+ORD00099,2026-11-16,2026-11-23,Divya Khan,divya.khan10@yahoo.com,8320812459,Hyderabad,Books,Python Handbook,1,30.0,0.05,Net Banking,Returned,2026-11-16 01:57:00,30.0,1.5,28.5
+ORD00726,2026-11-16,2026-11-20,Sneha Patel,sneha.patel9@gmail.com,7650411450,Jaipur,Electronics,Bluetooth Speaker,5,60.0,0.0,Unknown,Returned,2026-11-16 02:05:00,300.0,0.0,300.0
+ORD00702,2026-11-16,2026-11-21,Vikram Khan,vikram.khan52@yahoo.com,3979932880,Kolkata,Clothing,Jeans,2,45.0,0.1,Net Banking,Returned,2026-11-16 03:14:00,90.0,9.0,81.0
+ORD00988,2026-11-16,2026-11-22,Sneha Mehta,sneha.mehta90@outlook.com,7462434013,Delhi,Electronics,Laptop,4,1100.0,0.25,Debit Card,Shipped,2026-11-16 03:30:00,4400.0,1100.0,3300.0
+ORD00977,2026-11-16,2026-11-18,Meera Gupta,meera.gupta10@gmail.com,5368353133,Jaipur,Clothing,Jeans,5,45.0,0.0,Debit Card,Delivered,2026-11-16 04:17:21,225.0,0.0,225.0
+ORD00812,2026-11-16,2026-11-18,Sneha Verma,sneha.verma8@yahoo.com,4899298997,Mumbai,Electronics,Laptop,1,1100.0,0.1,Credit Card,Returned,2026-11-16 04:39:18,1100.0,110.0,990.0
+ORD00587,2026-11-16,2026-11-23,Aarav Singh,aarav.singh60@gmail.com,0616918685,Bengaluru,Books,Python Handbook,4,30.0,0.0,Debit Card,Pending,2026-11-16 05:00:00,120.0,0.0,120.0
+ORD00625,2026-11-16,2026-11-23,Neha Patel,neha.patel1@yahoo.com,4112016340,Delhi,Books,Data Science Guide,1,40.0,0.05,Credit Card,Cancelled,2026-11-16 05:34:05,40.0,2.0,38.0
+ORD00328,2026-11-16,2026-11-19,Rahul Joshi,rahul.joshi90@gmail.com,8770171788,Delhi,Home & Kitchen,Mixer Grinder,5,70.0,0.0,Upi,Cancelled,2026-11-16 05:48:00,350.0,0.0,350.0
+ORD00595,2026-11-16,2026-11-23,Rohan Reddy,rohan.reddy94@gmail.com,1641043841,Mumbai,Clothing,T-Shirt,3,15.0,0.05,Credit Card,Shipped,2026-11-16 07:38:52,45.0,2.25,42.75
+ORD00742,2026-11-16,2026-11-23,Anita Khan,anita.khan35@outlook.com,2535844280,Kolkata,Electronics,Laptop,2,1100.0,0.0,Upi,Cancelled,2026-11-16 09:38:00,2200.0,0.0,2200.0
+ORD00290,2026-11-16,2026-11-17,Arjun Sharma,arjun.sharma7@yahoo.com,7595971749,Kolkata,Electronics,Wireless Mouse,3,25.0,0.25,Upi,Shipped,2026-11-16 11:08:00,75.0,18.75,56.25
+ORD00381,2026-11-16,2026-11-21,Sneha Singh,,3449894841,Kolkata,Books,Data Science Guide,4,40.0,0.05,Debit Card,Shipped,2026-11-16 11:24:47,160.0,8.0,152.0
+ORD00225,2026-11-16,2026-11-19,Rohan Reddy,rohan.reddy30@yahoo.com,0856790002,Pune,Books,Data Science Guide,5,40.0,0.1,Upi,Returned,2026-11-16 11:32:00,200.0,20.0,180.0
+ORD00533,2026-11-16,2026-11-19,Rahul Mehta,rahul.mehta25@yahoo.com,3458120243,Jaipur,Books,Python Handbook,3,30.0,0.15,Upi,Pending,2026-11-16 11:53:00,90.0,13.5,76.5
+ORD00518,2026-11-16,2026-11-23,Divya Patel,divya.patel93@outlook.com,9459237738,Chennai,Books,Data Science Guide,1,40.0,0.2,Upi,Delivered,2026-11-16 12:02:41,40.0,8.0,32.0
+ORD00174,2026-11-16,2026-11-20,Arjun Sharma,,2964363568,Mumbai,Books,Python Handbook,3,30.0,0.1,Upi,Shipped,2026-11-16 12:37:00,90.0,9.0,81.0
+ORD00054,2026-11-16,2026-11-21,Neha Patel,,8337109096,Pune,Books,Data Science Guide,2,40.0,0.2,Debit Card,Shipped,2026-11-16 12:41:58,80.0,16.0,64.0
+ORD00660,2026-11-16,2026-11-21,Priya Reddy,priya.reddy58@outlook.com,3812627348,Jaipur,Clothing,Jeans,2,45.0,0.2,Upi,Returned,2026-11-16 13:02:00,90.0,18.0,72.0
+ORD00738,2026-11-16,2026-11-20,Unknown,anita.sharma84@yahoo.com,4004257122,Chennai,Home & Kitchen,Air Fryer,1,110.0,0.15,Net Banking,Returned,2026-11-16 13:03:00,110.0,16.5,93.5
+ORD00264,2026-11-16,2026-11-19,Neha Verma,neha.verma1@gmail.com,1479814713,Kolkata,Electronics,Smart Watch,3,180.0,0.05,Cash On Delivery,Pending,2026-11-16 13:26:00,540.0,27.0,513.0
+ORD00675,2026-11-16,2026-11-19,Sneha Khan,sneha.khan10@gmail.com,0639637916,Bengaluru,Books,Data Science Guide,4,40.0,0.25,Debit Card,Delivered,2026-11-16 13:51:21,160.0,40.0,120.0
+ORD00806,2026-11-16,2026-11-18,Aarav Verma,aarav.verma4@outlook.com,2712090225,Pune,Electronics,Smart Watch,1,180.0,0.0,Credit Card,Returned,2026-11-16 14:26:00,180.0,0.0,180.0
+ORD00567,2026-11-16,2026-11-19,Arjun Khan,arjun.khan81@outlook.com,1589578738,Mumbai,Electronics,Laptop,2,1100.0,0.2,Net Banking,Delivered,2026-11-16 14:38:00,2200.0,440.0,1760.0
+ORD00006,2026-11-16,2026-11-18,Arjun Joshi,arjun.joshi46@yahoo.com,0660781151,Delhi,Books,Python Handbook,1,30.0,0.0,Cash On Delivery,Shipped,2026-11-16 14:49:14,30.0,0.0,30.0
+ORD00240,2026-11-16,2026-11-23,Karan Mehta,karan.mehta48@outlook.com,8963033146,Pune,Books,Data Science Guide,4,40.0,0.0,Upi,Cancelled,2026-11-16 17:13:47,160.0,0.0,160.0
+ORD00492,2026-11-16,2026-11-19,Priya Joshi,priya.joshi45@gmail.com,6320588646,Chennai,Books,Data Science Guide,5,40.0,0.25,Upi,Pending,2026-11-16 18:23:31,200.0,50.0,150.0
+ORD00401,2026-11-16,2026-11-20,Neha Khan,neha.khan89@outlook.com,6540435622,Chennai,Home & Kitchen,Air Fryer,3,110.0,0.25,Cash On Delivery,Cancelled,2026-11-16 18:37:00,330.0,82.5,247.5
+ORD00161,2026-11-16,2026-11-18,Neha Joshi,neha.joshi61@yahoo.com,0946960969,Pune,Books,Data Science Guide,4,40.0,0.25,Net Banking,Pending,2026-11-16 19:23:00,160.0,40.0,120.0
+ORD00005,2026-11-16,2026-11-18,Divya Joshi,divya.joshi28@outlook.com,7363842005,Jaipur,Clothing,Jacket,3,90.0,0.05,Net Banking,Pending,2026-11-16 20:01:03,270.0,13.5,256.5
+ORD00312,2026-11-16,2026-11-21,Rohan Sharma,rohan.sharma54@outlook.com,5646132247,Delhi,Books,Python Handbook,4,30.0,0.0,Debit Card,Cancelled,2026-11-16 20:18:00,120.0,0.0,120.0
+ORD00782,2026-11-16,2026-11-21,Unknown,rohan.nair64@gmail.com,2133451953,Jaipur,Clothing,Jacket,1,90.0,0.1,Credit Card,Delivered,2026-11-16 20:36:08,90.0,9.0,81.0
+ORD00902,2026-11-16,2026-11-23,Priya Singh,priya.singh98@yahoo.com,3444543274,Delhi,Electronics,Bluetooth Speaker,5,60.0,0.2,Upi,Returned,2026-11-16 20:53:30,300.0,60.0,240.0
+ORD00096,2026-11-16,2026-11-21,Rohan Patel,rohan.patel96@outlook.com,0872222658,Mumbai,Books,Python Handbook,3,30.0,0.1,Cash On Delivery,Cancelled,2026-11-16 21:22:03,90.0,9.0,81.0
+ORD00142,2026-11-16,2026-11-21,Sneha Nair,sneha.nair59@outlook.com,2533133629,Jaipur,Electronics,Smart Watch,4,180.0,0.15,Net Banking,Pending,2026-11-16 21:44:00,720.0,108.0,612.0
+ORD00805,2026-11-16,2026-11-19,Meera Patel,,4266946267,Kolkata,Home & Kitchen,Cookware Set,1,85.0,0.15,Upi,Delivered,2026-11-16 21:49:00,85.0,12.75,72.25
+ORD00710,2026-11-16,,Vikram Gupta,vikram.gupta50@outlook.com,7534769638,Chennai,Electronics,Wireless Mouse,4,25.0,0.05,Upi,Cancelled,2026-11-16 23:15:00,100.0,5.0,95.0
+ORD00247,2026-11-16,2026-11-22,Divya Gupta,divya.gupta13@yahoo.com,7180558455,Unknown,Clothing,Jeans,5,45.0,0.0,Debit Card,Shipped,2026-11-16 23:28:08,225.0,0.0,225.0
+ORD00399,2026-11-17,2026-11-18,Vikram Khan,vikram.khan68@gmail.com,3242642156,Mumbai,Home & Kitchen,Mixer Grinder,1,70.0,0.15,Upi,Cancelled,2026-11-17 00:26:34,70.0,10.5,59.5
+ORD00936,2026-11-17,2026-11-20,Unknown,arjun.nair60@yahoo.com,7064658154,Kolkata,Books,Python Handbook,3,30.0,0.25,Unknown,Delivered,2026-11-17 00:52:00,90.0,22.5,67.5
+ORD00370,2026-11-17,2026-11-21,Priya Singh,priya.singh5@yahoo.com,8264150971,Mumbai,Clothing,T-Shirt,2,15.0,0.15,Debit Card,Pending,2026-11-17 01:17:58,30.0,4.5,25.5
+ORD00112,2026-11-17,2026-11-18,Rahul Nair,rahul.nair1@outlook.com,7841579769,Chennai,Clothing,Jeans,3,45.0,0.05,Upi,Returned,2026-11-17 02:59:53,135.0,6.75,128.25
+ORD00680,2026-11-17,2026-11-23,Meera Nair,meera.nair53@yahoo.com,1005560239,Hyderabad,Home & Kitchen,Mixer Grinder,1,70.0,0.25,Cash On Delivery,Shipped,2026-11-17 03:28:51,70.0,17.5,52.5
+ORD00239,2026-11-17,2026-11-21,Sneha Gupta,sneha.gupta26@gmail.com,1984916001,Hyderabad,Books,Python Handbook,1,30.0,0.0,Credit Card,Pending,2026-11-17 04:00:00,30.0,0.0,30.0
+ORD00277,2026-11-17,2026-11-23,Karan Patel,karan.patel71@gmail.com,0465079037,Mumbai,Electronics,Bluetooth Speaker,5,60.0,0.25,Credit Card,Delivered,2026-11-17 04:18:00,300.0,75.0,225.0
+ORD00915,2026-11-17,2026-11-24,Vikram Nair,,2993572548,Mumbai,Electronics,Laptop,3,1100.0,0.0,Net Banking,Returned,2026-11-17 04:35:00,3300.0,0.0,3300.0
+ORD00861,2026-11-17,2026-11-24,Karan Reddy,karan.reddy70@outlook.com,4356120222,Kolkata,Clothing,Jeans,4,45.0,0.05,Credit Card,Shipped,2026-11-17 06:00:00,180.0,9.0,171.0
+ORD00624,2026-11-17,2026-11-19,Sneha Sharma,sneha.sharma73@yahoo.com,9195619985,Mumbai,Clothing,T-Shirt,2,15.0,0.2,Cash On Delivery,Delivered,2026-11-17 06:39:00,30.0,6.0,24.0
+ORD00912,2026-11-17,2026-11-24,Arjun Patel,arjun.patel57@outlook.com,1028329326,Mumbai,Electronics,Laptop,1,1100.0,0.2,Debit Card,Returned,2026-11-17 07:27:00,1100.0,220.0,880.0
+ORD00182,2026-11-17,2026-11-23,Vikram Gupta,,7998461618,Kolkata,Electronics,Wireless Mouse,5,25.0,0.25,Upi,Delivered,2026-11-17 07:54:02,125.0,31.25,93.75
+ORD00032,2026-11-17,2026-11-22,Arjun Nair,arjun.nair39@yahoo.com,9841748311,Kolkata,Electronics,Laptop,5,1100.0,0.0,Net Banking,Shipped,2026-11-17 08:03:00,5500.0,0.0,5500.0
+ORD00725,2026-11-17,2026-11-18,Rahul Joshi,rahul.joshi27@yahoo.com,2355599257,Hyderabad,Clothing,Jeans,2,45.0,0.1,Net Banking,Shipped,2026-11-17 08:15:00,90.0,9.0,81.0
+ORD00279,2026-11-17,2026-11-18,Aarav Nair,aarav.nair3@outlook.com,,Hyderabad,Electronics,Bluetooth Speaker,4,60.0,0.0,Cash On Delivery,Pending,2026-11-17 09:15:00,240.0,0.0,240.0
+ORD00475,2026-11-17,2026-11-21,Karan Gupta,,,Mumbai,Home & Kitchen,Air Fryer,3,110.0,0.2,Debit Card,Returned,2026-11-17 10:01:56,330.0,66.0,264.0
+ORD00931,2026-11-17,2026-11-23,Unknown,anita.verma54@yahoo.com,4211502327,Delhi,Home & Kitchen,Air Fryer,3,110.0,0.0,Upi,Cancelled,2026-11-17 10:15:00,330.0,0.0,330.0
+ORD00699,2026-11-17,2026-11-19,Neha Reddy,neha.reddy84@outlook.com,7040087216,Hyderabad,Electronics,Wireless Mouse,1,25.0,0.0,Credit Card,Pending,2026-11-17 10:38:57,25.0,0.0,25.0
+ORD00583,2026-11-17,2026-11-22,Vikram Gupta,vikram.gupta17@gmail.com,2078759136,Chennai,Books,Python Handbook,4,30.0,0.1,Credit Card,Delivered,2026-11-17 11:02:00,120.0,12.0,108.0
+ORD00267,2026-11-17,2026-11-23,Unknown,rohan.patel12@outlook.com,7403896064,Chennai,Home & Kitchen,Cookware Set,1,85.0,0.1,Credit Card,Cancelled,2026-11-17 11:08:00,85.0,8.5,76.5
+ORD00827,2026-11-17,2026-11-21,Sneha Reddy,sneha.reddy43@yahoo.com,0438964929,Kolkata,Books,Data Science Guide,3,40.0,0.15,Net Banking,Shipped,2026-11-17 11:26:00,120.0,18.0,102.0
+ORD00613,2026-11-17,2026-11-23,Aarav Joshi,aarav.joshi61@gmail.com,6156879087,Mumbai,Home & Kitchen,Mixer Grinder,3,70.0,0.25,Unknown,Returned,2026-11-17 11:59:00,210.0,52.5,157.5
+ORD00641,2026-11-17,2026-11-23,Karan Patel,karan.patel53@outlook.com,2562525767,Pune,Books,Python Handbook,5,30.0,0.0,Upi,Shipped,2026-11-17 12:59:00,150.0,0.0,150.0
+ORD00040,2026-11-17,2026-11-18,Rohan Singh,rohan.singh44@yahoo.com,1275575686,Mumbai,Electronics,Laptop,2,1100.0,0.25,Cash On Delivery,Pending,2026-11-17 13:10:25,2200.0,550.0,1650.0
+ORD00635,2026-11-17,2026-11-18,Sneha Sharma,sneha.sharma9@yahoo.com,9483055313,Pune,Electronics,Smart Watch,3,180.0,0.1,Cash On Delivery,Delivered,2026-11-17 13:17:00,540.0,54.0,486.0
+ORD00686,2026-11-17,2026-11-20,Vikram Sharma,vikram.sharma94@yahoo.com,8227791296,Kolkata,Books,Python Handbook,2,30.0,0.0,Net Banking,Pending,2026-11-17 13:24:55,60.0,0.0,60.0
+ORD00485,2026-11-17,2026-11-22,Priya Mehta,priya.mehta44@outlook.com,6167606436,Delhi,Books,Data Science Guide,1,40.0,0.2,Cash On Delivery,Returned,2026-11-17 13:52:39,40.0,8.0,32.0
+ORD00308,2026-11-17,2026-11-21,Karan Nair,karan.nair31@outlook.com,8361709996,Mumbai,Clothing,Jacket,5,90.0,0.0,Upi,Returned,2026-11-17 14:07:00,450.0,0.0,450.0
+ORD00772,2026-11-17,2026-11-24,Unknown,aarav.singh86@gmail.com,3464164397,Jaipur,Home & Kitchen,Mixer Grinder,1,70.0,0.25,Credit Card,Pending,2026-11-17 14:11:00,70.0,17.5,52.5
+ORD00084,2026-11-17,2026-11-23,Meera Verma,meera.verma75@gmail.com,,Bengaluru,Electronics,Bluetooth Speaker,2,60.0,0.0,Net Banking,Pending,2026-11-17 15:02:00,120.0,0.0,120.0
+ORD00173,2026-11-17,2026-11-20,Anita Mehta,anita.mehta58@yahoo.com,4588436698,Mumbai,Home & Kitchen,Air Fryer,1,110.0,0.05,Net Banking,Delivered,2026-11-17 15:23:54,110.0,5.5,104.5
+ORD00992,2026-11-17,2026-11-23,Meera Mehta,meera.mehta37@yahoo.com,4534028627,Pune,Clothing,Jeans,2,45.0,0.15,Debit Card,Delivered,2026-11-17 15:26:00,90.0,13.5,76.5
+ORD00305,2026-11-17,2026-11-18,Sneha Singh,sneha.singh42@outlook.com,4681373464,Jaipur,Electronics,Wireless Mouse,5,25.0,0.25,Net Banking,Cancelled,2026-11-17 16:09:31,125.0,31.25,93.75
+ORD00271,2026-11-17,2026-11-20,Arjun Sharma,arjun.sharma80@outlook.com,,Delhi,Electronics,Laptop,4,1100.0,0.1,Credit Card,Cancelled,2026-11-17 16:23:00,4400.0,440.0,3960.0
+ORD00883,2026-11-17,,Aarav Singh,aarav.singh43@yahoo.com,4950422491,Mumbai,Electronics,Bluetooth Speaker,2,60.0,0.0,Upi,Pending,2026-11-17 16:27:00,120.0,0.0,120.0
+ORD00056,2026-11-17,2026-11-20,Priya Mehta,priya.mehta21@outlook.com,1775718885,Hyderabad,Books,Python Handbook,2,30.0,0.1,Upi,Pending,2026-11-17 17:02:24,60.0,6.0,54.0
+ORD00626,2026-11-17,2026-11-19,Aarav Singh,aarav.singh39@outlook.com,9245024494,Hyderabad,Electronics,Bluetooth Speaker,5,60.0,0.0,Net Banking,Delivered,2026-11-17 17:37:00,300.0,0.0,300.0
+ORD00619,2026-11-17,2026-11-18,Aarav Patel,aarav.patel85@outlook.com,8255912305,Bengaluru,Home & Kitchen,Air Fryer,1,110.0,0.05,Cash On Delivery,Shipped,2026-11-17 17:38:00,110.0,5.5,104.5
+ORD00745,2026-11-17,,Neha Khan,neha.khan53@yahoo.com,8516773363,Mumbai,Electronics,Laptop,2,1100.0,0.15,Upi,Cancelled,2026-11-17 17:43:33,2200.0,330.0,1870.0
+ORD00128,2026-11-17,2026-11-24,Priya Joshi,priya.joshi79@yahoo.com,8694649033,Kolkata,Home & Kitchen,Cookware Set,5,85.0,0.05,Credit Card,Shipped,2026-11-17 17:44:00,425.0,21.25,403.75
+ORD00409,2026-11-17,2026-11-23,Rahul Nair,rahul.nair93@yahoo.com,6575842918,Unknown,Home & Kitchen,Air Fryer,3,110.0,0.15,Debit Card,Shipped,2026-11-17 17:50:19,330.0,49.5,280.5
+ORD00196,2026-11-17,2026-11-20,Rohan Verma,rohan.verma41@outlook.com,1018879286,Mumbai,Home & Kitchen,Mixer Grinder,2,70.0,0.25,Unknown,Shipped,2026-11-17 17:56:00,140.0,35.0,105.0
+ORD00809,2026-11-17,2026-11-23,Sneha Nair,sneha.nair45@outlook.com,6814856209,Kolkata,Clothing,Jeans,3,45.0,0.05,Upi,Pending,2026-11-17 18:02:01,135.0,6.75,128.25
+ORD00254,2026-11-17,2026-11-19,Meera Sharma,meera.sharma20@outlook.com,3385296417,Pune,Clothing,T-Shirt,3,15.0,0.05,Cash On Delivery,Pending,2026-11-17 18:43:32,45.0,2.25,42.75
+ORD00707,2026-11-17,2026-11-18,Neha Singh,neha.singh58@outlook.com,9319685645,Mumbai,Books,Data Science Guide,4,40.0,0.2,Cash On Delivery,Cancelled,2026-11-17 18:44:00,160.0,32.0,128.0
+ORD00039,2026-11-17,2026-11-22,Anita Patel,anita.patel50@yahoo.com,0633532896,Chennai,Books,Data Science Guide,2,40.0,0.1,Net Banking,Cancelled,2026-11-17 19:01:00,80.0,8.0,72.0
+ORD00895,2026-11-17,2026-11-19,Meera Gupta,meera.gupta41@yahoo.com,6218967539,Mumbai,Home & Kitchen,Cookware Set,3,85.0,0.15,Cash On Delivery,Delivered,2026-11-17 19:24:45,255.0,38.25,216.75
+ORD00563,2026-11-17,,Unknown,neha.sharma99@outlook.com,3715702815,Delhi,Home & Kitchen,Cookware Set,1,85.0,0.2,Credit Card,Delivered,2026-11-17 19:36:00,85.0,17.0,68.0
+ORD00559,2026-11-17,,Karan Reddy,karan.reddy25@yahoo.com,0479539928,Kolkata,Electronics,Wireless Mouse,5,25.0,0.0,Credit Card,Pending,2026-11-17 20:33:00,125.0,0.0,125.0
+ORD00704,2026-11-17,2026-11-22,Rahul Reddy,rahul.reddy67@gmail.com,3891693905,Bengaluru,Electronics,Wireless Mouse,4,25.0,0.15,Cash On Delivery,Pending,2026-11-17 21:40:00,100.0,15.0,85.0
+ORD00797,2026-11-17,,Divya Mehta,divya.mehta14@outlook.com,6240320457,Delhi,Books,Data Science Guide,1,40.0,0.1,Cash On Delivery,Cancelled,2026-11-17 21:47:00,40.0,4.0,36.0
+ORD00652,2026-11-17,2026-11-24,Karan Gupta,karan.gupta52@outlook.com,5458963156,Chennai,Home & Kitchen,Air Fryer,3,110.0,0.2,Net Banking,Returned,2026-11-17 22:09:00,330.0,66.0,264.0
+ORD00712,2026-11-17,2026-11-20,Arjun Joshi,arjun.joshi99@outlook.com,,Mumbai,Books,Python Handbook,1,30.0,0.05,Net Banking,Pending,2026-11-17 22:10:00,30.0,1.5,28.5
+ORD00130,2026-11-17,2026-11-23,Anita Reddy,anita.reddy70@gmail.com,3230883409,Pune,Books,Data Science Guide,2,40.0,0.15,Debit Card,Returned,2026-11-17 23:17:00,80.0,12.0,68.0
+ORD00246,2026-11-17,2026-11-20,Rohan Joshi,rohan.joshi32@gmail.com,3517796048,Jaipur,Electronics,Wireless Mouse,5,25.0,0.2,Cash On Delivery,Delivered,2026-11-17 23:40:00,125.0,25.0,100.0
+ORD00901,2026-11-17,2026-11-20,Karan Mehta,karan.mehta13@gmail.com,0325070572,Kolkata,Electronics,Wireless Mouse,3,25.0,0.0,Upi,Cancelled,2026-11-17 23:57:00,75.0,0.0,75.0
+ORD00120,2026-11-18,2026-11-25,Karan Nair,karan.nair54@yahoo.com,4947389854,Kolkata,Clothing,Jacket,1,90.0,0.0,Cash On Delivery,Shipped,2026-11-18 00:02:37,90.0,0.0,90.0
+ORD00162,2026-11-18,,Aarav Joshi,aarav.joshi13@outlook.com,2210096896,Kolkata,Clothing,Jeans,2,45.0,0.1,Upi,Delivered,2026-11-18 00:23:06,90.0,9.0,81.0
+ORD00846,2026-11-18,2026-11-22,Rohan Nair,rohan.nair63@outlook.com,3062655333,Mumbai,Electronics,Bluetooth Speaker,4,60.0,0.1,Net Banking,Returned,2026-11-18 00:31:00,240.0,24.0,216.0
+ORD00151,2026-11-18,2026-11-20,Anita Mehta,,9685358773,Chennai,Home & Kitchen,Cookware Set,2,85.0,0.05,Credit Card,Pending,2026-11-18 00:40:53,170.0,8.5,161.5
+ORD00670,2026-11-18,2026-11-23,Karan Patel,karan.patel74@gmail.com,9317741687,Pune,Books,Data Science Guide,3,40.0,0.2,Net Banking,Cancelled,2026-11-18 00:41:43,120.0,24.0,96.0
+ORD00087,2026-11-18,2026-11-22,Anita Reddy,anita.reddy70@yahoo.com,3205082843,Bengaluru,Clothing,Jacket,2,90.0,0.15,Upi,Shipped,2026-11-18 00:42:39,180.0,27.0,153.0
+ORD00314,2026-11-18,,Priya Mehta,priya.mehta46@outlook.com,2598372134,Delhi,Clothing,Jacket,3,90.0,0.25,Debit Card,Cancelled,2026-11-18 00:43:30,270.0,67.5,202.5
+ORD00487,2026-11-18,2026-11-23,Vikram Mehta,vikram.mehta29@gmail.com,0183787814,Chennai,Books,Data Science Guide,1,40.0,0.15,Debit Card,Pending,2026-11-18 01:03:45,40.0,6.0,34.0
+ORD00109,2026-11-18,2026-11-21,Priya Khan,priya.khan87@outlook.com,6357660347,Pune,Home & Kitchen,Mixer Grinder,3,70.0,0.2,Debit Card,Shipped,2026-11-18 01:10:34,210.0,42.0,168.0
+ORD00730,2026-11-18,2026-11-24,Vikram Reddy,vikram.reddy54@gmail.com,7118152530,Delhi,Clothing,Jeans,5,45.0,0.0,Cash On Delivery,Cancelled,2026-11-18 02:25:00,225.0,0.0,225.0
+ORD00697,2026-11-18,2026-11-23,Anita Reddy,anita.reddy91@gmail.com,9955711414,Delhi,Home & Kitchen,Cookware Set,4,85.0,0.05,Credit Card,Delivered,2026-11-18 02:26:00,340.0,17.0,323.0
+ORD00773,2026-11-18,2026-11-24,Rahul Khan,rahul.khan13@gmail.com,5402132563,Mumbai,Electronics,Wireless Mouse,1,25.0,0.1,Upi,Delivered,2026-11-18 02:31:03,25.0,2.5,22.5
+ORD00021,2026-11-18,,Neha Khan,,2280227581,Mumbai,Clothing,T-Shirt,5,15.0,0.1,Cash On Delivery,Returned,2026-11-18 02:43:00,75.0,7.5,67.5
+ORD00881,2026-11-18,2026-11-19,Meera Singh,meera.singh92@yahoo.com,8242924507,Jaipur,Home & Kitchen,Cookware Set,1,85.0,0.1,Cash On Delivery,Delivered,2026-11-18 03:54:00,85.0,8.5,76.5
+ORD00222,2026-11-18,2026-11-20,Sneha Khan,,0118735108,Delhi,Home & Kitchen,Mixer Grinder,3,70.0,0.2,Cash On Delivery,Delivered,2026-11-18 04:11:00,210.0,42.0,168.0
+ORD00771,2026-11-18,,Rahul Reddy,rahul.reddy51@yahoo.com,7046492416,Delhi,Books,Python Handbook,4,30.0,0.2,Net Banking,Pending,2026-11-18 07:32:00,120.0,24.0,96.0
+ORD00248,2026-11-18,2026-11-25,Priya Verma,priya.verma65@yahoo.com,4903957645,Bengaluru,Clothing,T-Shirt,2,15.0,0.05,Debit Card,Pending,2026-11-18 09:20:00,30.0,1.5,28.5
+ORD00288,2026-11-18,2026-11-24,Anita Reddy,anita.reddy2@yahoo.com,5688425614,Bengaluru,Books,Data Science Guide,3,40.0,0.15,Credit Card,Pending,2026-11-18 09:22:00,120.0,18.0,102.0
+ORD00964,2026-11-18,2026-11-24,Karan Verma,karan.verma16@yahoo.com,6673747583,Mumbai,Home & Kitchen,Mixer Grinder,5,70.0,0.0,Upi,Shipped,2026-11-18 09:40:00,350.0,0.0,350.0
+ORD00341,2026-11-18,2026-11-19,Neha Verma,neha.verma17@outlook.com,2740807044,Hyderabad,Electronics,Smart Watch,1,180.0,0.25,Debit Card,Pending,2026-11-18 10:06:00,180.0,45.0,135.0
+ORD00952,2026-11-18,2026-11-24,Neha Gupta,neha.gupta21@yahoo.com,1810302526,Kolkata,Electronics,Smart Watch,2,180.0,0.0,Cash On Delivery,Pending,2026-11-18 10:10:00,360.0,0.0,360.0
+ORD00175,2026-11-18,2026-11-20,Neha Gupta,neha.gupta21@gmail.com,5432769149,Mumbai,Clothing,Jacket,5,90.0,0.25,Upi,Cancelled,2026-11-18 10:23:07,450.0,112.5,337.5
+ORD00362,2026-11-18,2026-11-19,Divya Singh,divya.singh93@yahoo.com,5945064491,Hyderabad,Electronics,Laptop,1,1100.0,0.1,Credit Card,Pending,2026-11-18 11:24:00,1100.0,110.0,990.0
+ORD00472,2026-11-18,2026-11-23,Vikram Gupta,vikram.gupta28@gmail.com,7114016452,Delhi,Books,Data Science Guide,2,40.0,0.0,Credit Card,Cancelled,2026-11-18 11:53:33,80.0,0.0,80.0
+ORD00694,2026-11-18,2026-11-22,Neha Sharma,neha.sharma15@gmail.com,7052068013,Unknown,Clothing,T-Shirt,5,15.0,0.25,Credit Card,Cancelled,2026-11-18 13:29:00,75.0,18.75,56.25
+ORD00191,2026-11-18,2026-11-24,Anita Nair,anita.nair55@yahoo.com,8937809686,Kolkata,Electronics,Laptop,1,1100.0,0.15,Cash On Delivery,Pending,2026-11-18 13:38:00,1100.0,165.0,935.0
+ORD00512,2026-11-18,2026-11-23,Rahul Khan,rahul.khan62@gmail.com,9300517105,Mumbai,Clothing,T-Shirt,3,15.0,0.25,Debit Card,Shipped,2026-11-18 13:40:09,45.0,11.25,33.75
+ORD00025,2026-11-18,2026-11-22,Sneha Singh,sneha.singh74@yahoo.com,0778368940,Delhi,Home & Kitchen,Cookware Set,4,85.0,0.0,Cash On Delivery,Cancelled,2026-11-18 13:44:00,340.0,0.0,340.0
+ORD00491,2026-11-18,2026-11-24,Priya Reddy,,5807982713,Mumbai,Clothing,Jacket,2,90.0,0.25,Credit Card,Delivered,2026-11-18 13:49:00,180.0,45.0,135.0
+ORD00231,2026-11-18,2026-11-20,Aarav Patel,aarav.patel20@yahoo.com,,Kolkata,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Upi,Delivered,2026-11-18 14:13:00,280.0,0.0,280.0
+ORD00961,2026-11-18,2026-11-22,Aarav Verma,aarav.verma65@yahoo.com,2376627418,Pune,Home & Kitchen,Cookware Set,1,85.0,0.2,Credit Card,Returned,2026-11-18 15:05:00,85.0,17.0,68.0
+ORD00136,2026-11-18,2026-11-25,Neha Sharma,neha.sharma79@yahoo.com,8025123165,Unknown,Electronics,Smart Watch,4,180.0,0.05,Net Banking,Pending,2026-11-18 15:08:00,720.0,36.0,684.0
+ORD00673,2026-11-18,2026-11-25,Unknown,priya.joshi70@gmail.com,6021825735,Delhi,Clothing,Jacket,1,90.0,0.2,Credit Card,Pending,2026-11-18 15:11:27,90.0,18.0,72.0
+ORD00818,2026-11-18,2026-11-21,Priya Joshi,priya.joshi88@outlook.com,4863173360,Pune,Home & Kitchen,Mixer Grinder,2,70.0,0.25,Credit Card,Shipped,2026-11-18 17:06:38,140.0,35.0,105.0
+ORD00392,2026-11-18,2026-11-25,Neha Sharma,neha.sharma37@yahoo.com,8539753645,Hyderabad,Electronics,Laptop,4,1100.0,0.05,Upi,Returned,2026-11-18 17:47:00,4400.0,220.0,4180.0
+ORD00252,2026-11-18,2026-11-25,Karan Nair,karan.nair94@gmail.com,9864697777,Jaipur,Electronics,Smart Watch,5,180.0,0.1,Debit Card,Cancelled,2026-11-18 17:56:00,900.0,90.0,810.0
+ORD00896,2026-11-18,2026-11-21,Neha Nair,neha.nair58@gmail.com,6308295617,Jaipur,Clothing,Jacket,3,90.0,0.0,Credit Card,Pending,2026-11-18 18:01:39,270.0,0.0,270.0
+ORD00255,2026-11-18,2026-11-25,Rohan Mehta,rohan.mehta97@yahoo.com,,Hyderabad,Books,Data Science Guide,4,40.0,0.2,Debit Card,Cancelled,2026-11-18 18:02:00,160.0,32.0,128.0
+ORD00058,2026-11-18,2026-11-20,Rohan Gupta,rohan.gupta42@outlook.com,,Bengaluru,Electronics,Wireless Mouse,1,25.0,0.0,Cash On Delivery,Cancelled,2026-11-18 18:24:00,25.0,0.0,25.0
+ORD00616,2026-11-18,2026-11-24,Arjun Singh,arjun.singh7@outlook.com,6745459336,Jaipur,Home & Kitchen,Mixer Grinder,4,70.0,0.25,Net Banking,Cancelled,2026-11-18 18:39:51,280.0,70.0,210.0
+ORD00015,2026-11-18,2026-11-25,Sneha Reddy,sneha.reddy29@yahoo.com,3641416035,Mumbai,Books,Data Science Guide,4,40.0,0.15,Upi,Cancelled,2026-11-18 19:53:00,160.0,24.0,136.0
+ORD00413,2026-11-18,2026-11-25,Arjun Mehta,arjun.mehta68@gmail.com,5687284293,Pune,Home & Kitchen,Cookware Set,2,85.0,0.05,Credit Card,Pending,2026-11-18 19:56:57,170.0,8.5,161.5
+ORD00584,2026-11-18,2026-11-19,Meera Singh,meera.singh1@outlook.com,3528510554,Chennai,Books,Python Handbook,2,30.0,0.25,Upi,Shipped,2026-11-18 20:02:00,60.0,15.0,45.0
+ORD00446,2026-11-18,2026-11-23,Neha Reddy,neha.reddy12@outlook.com,3392310536,Mumbai,Books,Data Science Guide,4,40.0,0.0,Cash On Delivery,Delivered,2026-11-18 23:21:55,160.0,0.0,160.0
+ORD00481,2026-11-18,,Vikram Nair,vikram.nair72@gmail.com,1958661689,Bengaluru,Electronics,Laptop,3,1100.0,0.0,Cash On Delivery,Shipped,2026-11-18 23:23:00,3300.0,0.0,3300.0
+ORD00538,2026-11-19,2026-11-20,Unknown,rohan.gupta85@gmail.com,0879284719,Kolkata,Books,Python Handbook,3,30.0,0.2,Debit Card,Returned,2026-11-19 00:35:00,90.0,18.0,72.0
+ORD00227,2026-11-19,2026-11-24,Rohan Gupta,rohan.gupta43@outlook.com,6892351154,Mumbai,Home & Kitchen,Air Fryer,2,110.0,0.15,Upi,Shipped,2026-11-19 00:50:46,220.0,33.0,187.0
+ORD00269,2026-11-19,2026-11-22,Arjun Reddy,arjun.reddy11@outlook.com,,Kolkata,Books,Data Science Guide,2,40.0,0.05,Net Banking,Returned,2026-11-19 01:21:00,80.0,4.0,76.0
+ORD00229,2026-11-19,2026-11-25,Arjun Reddy,arjun.reddy45@outlook.com,3884164366,Pune,Books,Data Science Guide,1,40.0,0.05,Cash On Delivery,Pending,2026-11-19 01:25:22,40.0,2.0,38.0
+ORD00855,2026-11-19,,Divya Patel,divya.patel12@gmail.com,9340909177,Chennai,Home & Kitchen,Cookware Set,5,85.0,0.15,Cash On Delivery,Returned,2026-11-19 02:13:00,425.0,63.75,361.25
+ORD00080,2026-11-19,2026-11-20,Aarav Sharma,aarav.sharma51@outlook.com,7446510099,Delhi,Electronics,Wireless Mouse,2,25.0,0.15,Credit Card,Pending,2026-11-19 02:27:00,50.0,7.5,42.5
+ORD00304,2026-11-19,2026-11-22,Rahul Mehta,rahul.mehta9@yahoo.com,2816160106,Bengaluru,Books,Python Handbook,1,30.0,0.0,Credit Card,Shipped,2026-11-19 02:53:00,30.0,0.0,30.0
+ORD00636,2026-11-19,2026-11-26,Rahul Khan,rahul.khan69@yahoo.com,3754312874,Jaipur,Books,Python Handbook,2,30.0,0.25,Cash On Delivery,Delivered,2026-11-19 02:54:00,60.0,15.0,45.0
+ORD00358,2026-11-19,2026-11-20,Sneha Mehta,sneha.mehta75@outlook.com,8706448038,Mumbai,Electronics,Wireless Mouse,4,25.0,0.0,Upi,Shipped,2026-11-19 03:27:00,100.0,0.0,100.0
+ORD00999,2026-11-19,2026-11-22,Priya Singh,priya.singh32@yahoo.com,6205041154,Jaipur,Clothing,T-Shirt,4,15.0,0.2,Credit Card,Delivered,2026-11-19 03:37:09,60.0,12.0,48.0
+ORD00217,2026-11-19,2026-11-25,Unknown,vikram.khan30@outlook.com,8096668046,Delhi,Clothing,T-Shirt,5,15.0,0.0,Upi,Pending,2026-11-19 04:40:00,75.0,0.0,75.0
+ORD00410,2026-11-19,2026-11-25,Karan Singh,karan.singh19@gmail.com,2373219216,Kolkata,Clothing,Jeans,3,45.0,0.15,Unknown,Cancelled,2026-11-19 05:05:29,135.0,20.25,114.75
+ORD00027,2026-11-19,2026-11-21,Vikram Reddy,,8961435642,Bengaluru,Clothing,Jeans,3,45.0,0.0,Credit Card,Pending,2026-11-19 05:12:00,135.0,0.0,135.0
+ORD00661,2026-11-19,,Arjun Reddy,arjun.reddy49@yahoo.com,0287839730,Pune,Home & Kitchen,Air Fryer,5,110.0,0.0,Upi,Shipped,2026-11-19 05:45:00,550.0,0.0,550.0
+ORD00756,2026-11-19,2026-11-22,Arjun Nair,arjun.nair85@gmail.com,,Kolkata,Books,Python Handbook,1,30.0,0.1,Net Banking,Returned,2026-11-19 06:04:00,30.0,3.0,27.0
+ORD00599,2026-11-19,2026-11-24,Rohan Verma,rohan.verma48@yahoo.com,0250283120,Chennai,Electronics,Wireless Mouse,3,25.0,0.1,Upi,Delivered,2026-11-19 06:15:12,75.0,7.5,67.5
+ORD00467,2026-11-19,2026-11-23,Aarav Mehta,aarav.mehta32@outlook.com,5414835592,Kolkata,Electronics,Bluetooth Speaker,2,60.0,0.2,Cash On Delivery,Returned,2026-11-19 06:20:49,120.0,24.0,96.0
+ORD00510,2026-11-19,,Neha Khan,neha.khan99@yahoo.com,2848106431,Mumbai,Books,Data Science Guide,3,40.0,0.2,Credit Card,Shipped,2026-11-19 06:46:28,120.0,24.0,96.0
+ORD00934,2026-11-19,2026-11-23,Meera Sharma,meera.sharma67@outlook.com,2378293175,Hyderabad,Electronics,Laptop,4,1100.0,0.2,Upi,Shipped,2026-11-19 07:42:00,4400.0,880.0,3520.0
+ORD00844,2026-11-19,2026-11-23,Aarav Mehta,aarav.mehta78@yahoo.com,6062326188,Kolkata,Clothing,Jacket,1,90.0,0.15,Debit Card,Shipped,2026-11-19 07:45:00,90.0,13.5,76.5
+ORD00063,2026-11-19,2026-11-25,Vikram Nair,vikram.nair75@outlook.com,1252593747,Mumbai,Books,Python Handbook,5,30.0,0.2,Credit Card,Delivered,2026-11-19 08:03:22,150.0,30.0,120.0
+ORD00066,2026-11-19,2026-11-24,Karan Nair,karan.nair43@yahoo.com,9759048379,Hyderabad,Home & Kitchen,Mixer Grinder,4,70.0,0.25,Cash On Delivery,Pending,2026-11-19 08:45:19,280.0,70.0,210.0
+ORD00780,2026-11-19,2026-11-25,Aarav Joshi,aarav.joshi79@yahoo.com,4831313480,Chennai,Electronics,Laptop,3,1100.0,0.2,Net Banking,Cancelled,2026-11-19 09:24:00,3300.0,660.0,2640.0
+ORD00671,2026-11-19,2026-11-24,Priya Verma,priya.verma24@outlook.com,7504906522,Chennai,Clothing,Jeans,2,45.0,0.2,Credit Card,Shipped,2026-11-19 09:32:00,90.0,18.0,72.0
+ORD00188,2026-11-19,2026-11-22,Rahul Reddy,rahul.reddy55@gmail.com,8526342565,Hyderabad,Electronics,Wireless Mouse,3,25.0,0.0,Net Banking,Cancelled,2026-11-19 12:15:00,75.0,0.0,75.0
+ORD00394,2026-11-19,,Priya Singh,priya.singh82@outlook.com,8107511092,Bengaluru,Books,Python Handbook,2,30.0,0.0,Credit Card,Pending,2026-11-19 12:47:00,60.0,0.0,60.0
+ORD00605,2026-11-19,2026-11-21,Rohan Gupta,rohan.gupta45@gmail.com,3794794517,Unknown,Home & Kitchen,Mixer Grinder,5,70.0,0.0,Net Banking,Returned,2026-11-19 14:15:52,350.0,0.0,350.0
+ORD00808,2026-11-19,2026-11-25,Anita Gupta,anita.gupta30@outlook.com,6873987365,Kolkata,Home & Kitchen,Cookware Set,4,85.0,0.05,Net Banking,Returned,2026-11-19 14:49:00,340.0,17.0,323.0
+ORD00668,2026-11-19,2026-11-21,Divya Nair,divya.nair44@outlook.com,8794523068,Bengaluru,Clothing,Jacket,3,90.0,0.15,Debit Card,Pending,2026-11-19 14:50:40,270.0,40.5,229.5
+ORD00072,2026-11-19,,Sneha Patel,sneha.patel97@outlook.com,1813428565,Hyderabad,Clothing,Jeans,3,45.0,0.25,Debit Card,Delivered,2026-11-19 15:38:22,135.0,33.75,101.25
+ORD00532,2026-11-19,2026-11-22,Vikram Joshi,vikram.joshi34@gmail.com,6510346499,Pune,Home & Kitchen,Air Fryer,1,110.0,0.15,Debit Card,Shipped,2026-11-19 16:24:00,110.0,16.5,93.5
+ORD00849,2026-11-19,2026-11-21,Rohan Reddy,rohan.reddy29@outlook.com,,Bengaluru,Home & Kitchen,Cookware Set,3,85.0,0.2,Net Banking,Cancelled,2026-11-19 17:06:00,255.0,51.0,204.0
+ORD00647,2026-11-19,2026-11-21,Anita Gupta,anita.gupta72@yahoo.com,6529437749,Bengaluru,Books,Data Science Guide,3,40.0,0.2,Credit Card,Returned,2026-11-19 17:43:00,120.0,24.0,96.0
+ORD00869,2026-11-19,2026-11-21,Divya Reddy,divya.reddy47@yahoo.com,8498698791,Hyderabad,Electronics,Wireless Mouse,5,25.0,0.1,Debit Card,Cancelled,2026-11-19 18:22:00,125.0,12.5,112.5
+ORD00946,2026-11-19,2026-11-24,Priya Patel,,0896351184,Delhi,Home & Kitchen,Mixer Grinder,5,70.0,0.25,Upi,Pending,2026-11-19 21:13:21,350.0,87.5,262.5
+ORD00320,2026-11-19,,Neha Khan,neha.khan86@yahoo.com,2296140091,Unknown,Books,Data Science Guide,4,40.0,0.1,Upi,Cancelled,2026-11-19 21:33:00,160.0,16.0,144.0
+ORD00405,2026-11-19,2026-11-26,Sneha Singh,,,Kolkata,Home & Kitchen,Air Fryer,1,110.0,0.15,Debit Card,Shipped,2026-11-19 21:50:00,110.0,16.5,93.5
+ORD00261,2026-11-19,2026-11-26,Karan Gupta,karan.gupta58@gmail.com,,Bengaluru,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Net Banking,Delivered,2026-11-19 22:55:00,280.0,0.0,280.0
+ORD00910,2026-11-19,2026-11-23,Sneha Singh,sneha.singh3@yahoo.com,8462952399,Jaipur,Books,Data Science Guide,5,40.0,0.15,Credit Card,Delivered,2026-11-19 23:04:00,200.0,30.0,170.0
+ORD00372,2026-11-19,2026-11-23,Divya Joshi,divya.joshi58@outlook.com,2964848227,Jaipur,Electronics,Laptop,4,1100.0,0.05,Cash On Delivery,Cancelled,2026-11-19 23:28:00,4400.0,220.0,4180.0
+ORD00958,2026-11-19,2026-11-23,Neha Sharma,neha.sharma32@outlook.com,8856919623,Bengaluru,Electronics,Laptop,5,1100.0,0.15,Debit Card,Cancelled,2026-11-19 23:55:00,5500.0,825.0,4675.0
+ORD00118,2026-11-20,2026-11-25,Meera Gupta,meera.gupta30@gmail.com,1168643164,Jaipur,Books,Data Science Guide,5,40.0,0.0,Debit Card,Shipped,2026-11-20 00:14:00,200.0,0.0,200.0
+ORD00323,2026-11-20,2026-11-23,Anita Gupta,anita.gupta76@outlook.com,9486085704,Mumbai,Clothing,Jacket,5,90.0,0.2,Credit Card,Returned,2026-11-20 00:36:00,450.0,90.0,360.0
+ORD00973,2026-11-20,2026-11-22,Aarav Nair,aarav.nair68@outlook.com,0694097120,Chennai,Home & Kitchen,Air Fryer,5,110.0,0.2,Upi,Delivered,2026-11-20 01:04:00,550.0,110.0,440.0
+ORD00604,2026-11-20,2026-11-22,Neha Nair,neha.nair86@yahoo.com,8357758593,Jaipur,Electronics,Smart Watch,2,180.0,0.1,Upi,Cancelled,2026-11-20 02:04:52,360.0,36.0,324.0
+ORD00785,2026-11-20,2026-11-23,Rohan Sharma,rohan.sharma16@outlook.com,,Chennai,Clothing,T-Shirt,2,15.0,0.2,Debit Card,Returned,2026-11-20 04:42:00,30.0,6.0,24.0
+ORD00383,2026-11-20,2026-11-25,Neha Mehta,neha.mehta89@gmail.com,0442328399,Bengaluru,Books,Python Handbook,2,30.0,0.05,Cash On Delivery,Returned,2026-11-20 04:42:00,60.0,3.0,57.0
+ORD00102,2026-11-20,2026-11-24,Priya Nair,priya.nair93@outlook.com,1112527204,Jaipur,Home & Kitchen,Cookware Set,4,85.0,0.2,Credit Card,Delivered,2026-11-20 04:59:00,340.0,68.0,272.0
+ORD00402,2026-11-20,2026-11-27,Vikram Singh,vikram.singh88@outlook.com,3751786278,Kolkata,Books,Python Handbook,3,30.0,0.1,Credit Card,Pending,2026-11-20 05:04:00,90.0,9.0,81.0
+ORD00075,2026-11-20,2026-11-27,Sneha Sharma,,1925959817,Mumbai,Books,Python Handbook,2,30.0,0.15,Debit Card,Cancelled,2026-11-20 05:04:00,60.0,9.0,51.0
+ORD00519,2026-11-20,2026-11-23,Anita Khan,anita.khan49@yahoo.com,1908227511,Bengaluru,Clothing,Jeans,3,45.0,0.0,Credit Card,Pending,2026-11-20 05:11:30,135.0,0.0,135.0
+ORD00275,2026-11-20,2026-11-25,Vikram Joshi,vikram.joshi82@yahoo.com,9008009176,Jaipur,Clothing,Jacket,4,90.0,0.15,Credit Card,Returned,2026-11-20 05:55:00,360.0,54.0,306.0
+ORD00160,2026-11-20,2026-11-25,Arjun Reddy,arjun.reddy48@gmail.com,4783019149,Mumbai,Electronics,Wireless Mouse,1,25.0,0.0,Credit Card,Returned,2026-11-20 06:21:00,25.0,0.0,25.0
+ORD00911,2026-11-20,2026-11-22,Karan Verma,karan.verma28@outlook.com,4365266992,Jaipur,Electronics,Bluetooth Speaker,4,60.0,0.0,Cash On Delivery,Delivered,2026-11-20 06:38:00,240.0,0.0,240.0
+ORD00441,2026-11-20,2026-11-22,Arjun Singh,arjun.singh64@gmail.com,9040007749,Jaipur,Electronics,Wireless Mouse,1,25.0,0.15,Credit Card,Pending,2026-11-20 07:13:00,25.0,3.75,21.25
+ORD00874,2026-11-20,2026-11-22,Karan Singh,karan.singh28@yahoo.com,3477217826,Bengaluru,Books,Data Science Guide,1,40.0,0.1,Debit Card,Shipped,2026-11-20 07:36:16,40.0,4.0,36.0
+ORD00648,2026-11-20,2026-11-23,Aarav Singh,,7328013007,Hyderabad,Clothing,Jacket,1,90.0,0.15,Upi,Pending,2026-11-20 09:08:00,90.0,13.5,76.5
+ORD00615,2026-11-20,2026-11-22,Vikram Gupta,vikram.gupta4@gmail.com,6690793960,Jaipur,Books,Data Science Guide,3,40.0,0.1,Upi,Pending,2026-11-20 09:33:00,120.0,12.0,108.0
+ORD00201,2026-11-20,2026-11-23,Rohan Singh,rohan.singh24@gmail.com,8150114689,Chennai,Books,Data Science Guide,3,40.0,0.05,Credit Card,Shipped,2026-11-20 09:39:00,120.0,6.0,114.0
+ORD00525,2026-11-20,2026-11-23,Anita Nair,anita.nair86@outlook.com,6681943869,Hyderabad,Electronics,Wireless Mouse,1,25.0,0.15,Upi,Shipped,2026-11-20 10:37:57,25.0,3.75,21.25
+ORD00500,2026-11-20,2026-11-26,Vikram Sharma,vikram.sharma8@gmail.com,9512409095,Jaipur,Clothing,Jacket,1,90.0,0.0,Net Banking,Returned,2026-11-20 11:56:44,90.0,0.0,90.0
+ORD00816,2026-11-20,2026-11-24,Anita Mehta,anita.mehta9@outlook.com,2460423907,Kolkata,Books,Python Handbook,5,30.0,0.0,Credit Card,Pending,2026-11-20 13:04:00,150.0,0.0,150.0
+ORD00787,2026-11-20,2026-11-23,Anita Joshi,anita.joshi97@outlook.com,5601908250,Jaipur,Books,Python Handbook,3,30.0,0.25,Upi,Shipped,2026-11-20 13:42:00,90.0,22.5,67.5
+ORD00859,2026-11-20,2026-11-27,Aarav Joshi,,3645836279,Hyderabad,Clothing,Jacket,1,90.0,0.0,Upi,Delivered,2026-11-20 13:48:00,90.0,0.0,90.0
+ORD00908,2026-11-20,2026-11-23,Rahul Sharma,rahul.sharma90@yahoo.com,2298008287,Mumbai,Clothing,Jeans,5,45.0,0.05,Debit Card,Returned,2026-11-20 13:49:37,225.0,11.25,213.75
+ORD00480,2026-11-20,2026-11-21,Arjun Verma,arjun.verma21@outlook.com,5754917396,Jaipur,Electronics,Smart Watch,3,180.0,0.2,Cash On Delivery,Cancelled,2026-11-20 14:40:00,540.0,108.0,432.0
+ORD00050,2026-11-20,,Rohan Mehta,rohan.mehta74@outlook.com,4543095923,Hyderabad,Home & Kitchen,Air Fryer,4,110.0,0.1,Cash On Delivery,Delivered,2026-11-20 15:13:00,440.0,44.0,396.0
+ORD00137,2026-11-20,2026-11-23,Rahul Mehta,rahul.mehta48@yahoo.com,7652792943,Mumbai,Clothing,Jacket,2,90.0,0.25,Upi,Pending,2026-11-20 16:07:00,180.0,45.0,135.0
+ORD00195,2026-11-20,2026-11-22,Arjun Reddy,arjun.reddy11@gmail.com,9323450509,Unknown,Home & Kitchen,Mixer Grinder,3,70.0,0.05,Net Banking,Pending,2026-11-20 16:25:00,210.0,10.5,199.5
+ORD00286,2026-11-20,2026-11-25,Arjun Sharma,arjun.sharma83@gmail.com,0020126731,Mumbai,Home & Kitchen,Cookware Set,5,85.0,0.05,Net Banking,Pending,2026-11-20 17:58:00,425.0,21.25,403.75
+ORD00842,2026-11-20,2026-11-26,Aarav Mehta,aarav.mehta43@yahoo.com,5899516988,Pune,Clothing,Jeans,2,45.0,0.0,Unknown,Pending,2026-11-20 18:02:00,90.0,0.0,90.0
+ORD00477,2026-11-20,2026-11-24,Rahul Reddy,rahul.reddy82@gmail.com,5683524302,Pune,Home & Kitchen,Cookware Set,4,85.0,0.2,Net Banking,Cancelled,2026-11-20 18:05:00,340.0,68.0,272.0
+ORD00215,2026-11-20,2026-11-27,Arjun Mehta,arjun.mehta82@yahoo.com,2632939196,Hyderabad,Books,Python Handbook,1,30.0,0.0,Credit Card,Returned,2026-11-20 18:22:00,30.0,0.0,30.0
+ORD00729,2026-11-20,2026-11-23,Aarav Sharma,aarav.sharma40@outlook.com,4132532698,Mumbai,Electronics,Laptop,2,1100.0,0.1,Credit Card,Cancelled,2026-11-20 19:10:00,2200.0,220.0,1980.0
+ORD00696,2026-11-20,2026-11-26,Neha Singh,neha.singh62@outlook.com,3947915484,Bengaluru,Electronics,Laptop,1,1100.0,0.0,Debit Card,Shipped,2026-11-20 19:11:00,1100.0,0.0,1100.0
+ORD00746,2026-11-20,2026-11-24,Rohan Verma,,0304425827,Pune,Books,Python Handbook,3,30.0,0.25,Debit Card,Shipped,2026-11-20 19:28:00,90.0,22.5,67.5
+ORD00790,2026-11-20,2026-11-21,Neha Sharma,neha.sharma56@yahoo.com,8634487360,Kolkata,Clothing,T-Shirt,1,15.0,0.1,Upi,Shipped,2026-11-20 20:29:00,15.0,1.5,13.5
+ORD00885,2026-11-20,2026-11-27,Sneha Joshi,sneha.joshi81@outlook.com,3567585504,Jaipur,Electronics,Smart Watch,3,180.0,0.2,Unknown,Pending,2026-11-20 20:41:00,540.0,108.0,432.0
+ORD00621,2026-11-20,2026-11-25,Divya Verma,divya.verma17@yahoo.com,4989102631,Kolkata,Books,Data Science Guide,3,40.0,0.0,Net Banking,Shipped,2026-11-20 22:45:10,120.0,0.0,120.0
+ORD00840,2026-11-20,2026-11-21,Rahul Patel,rahul.patel79@outlook.com,2500975176,Kolkata,Books,Data Science Guide,2,40.0,0.25,Net Banking,Delivered,2026-11-20 23:55:00,80.0,20.0,60.0
+ORD00689,2026-11-20,2026-11-26,Karan Joshi,karan.joshi79@gmail.com,9716264583,Delhi,Books,Data Science Guide,3,40.0,0.1,Debit Card,Returned,2026-11-20 23:58:57,120.0,12.0,108.0
+ORD00166,2026-11-21,2026-11-25,Divya Sharma,divya.sharma32@outlook.com,6980680815,Kolkata,Clothing,Jeans,2,45.0,0.05,Credit Card,Shipped,2026-11-21 00:41:38,90.0,4.5,85.5
+ORD00796,2026-11-21,2026-11-27,Anita Joshi,anita.joshi98@outlook.com,4509710656,Bengaluru,Electronics,Smart Watch,1,180.0,0.25,Credit Card,Shipped,2026-11-21 01:16:00,180.0,45.0,135.0
+ORD00811,2026-11-21,,Karan Sharma,karan.sharma1@gmail.com,7170844845,Delhi,Clothing,Jacket,5,90.0,0.05,Net Banking,Returned,2026-11-21 01:59:00,450.0,22.5,427.5
+ORD00939,2026-11-21,2026-11-23,Meera Nair,meera.nair28@gmail.com,1774233411,Delhi,Electronics,Bluetooth Speaker,5,60.0,0.1,Upi,Returned,2026-11-21 02:46:00,300.0,30.0,270.0
+ORD00650,2026-11-21,2026-11-24,Rahul Verma,rahul.verma60@outlook.com,1333365041,Hyderabad,Clothing,Jacket,5,90.0,0.05,Debit Card,Pending,2026-11-21 03:08:51,450.0,22.5,427.5
+ORD00535,2026-11-21,2026-11-22,Arjun Reddy,arjun.reddy92@outlook.com,6675059937,Mumbai,Books,Python Handbook,4,30.0,0.15,Upi,Delivered,2026-11-21 03:55:00,120.0,18.0,102.0
+ORD00202,2026-11-21,2026-11-27,Arjun Nair,arjun.nair25@gmail.com,4011794852,Delhi,Clothing,Jeans,4,45.0,0.2,Upi,Returned,2026-11-21 05:17:05,180.0,36.0,144.0
+ORD00105,2026-11-21,2026-11-26,Meera Gupta,meera.gupta10@yahoo.com,,Delhi,Electronics,Wireless Mouse,1,25.0,0.0,Cash On Delivery,Cancelled,2026-11-21 05:42:00,25.0,0.0,25.0
+ORD00643,2026-11-21,2026-11-24,Meera Nair,meera.nair90@yahoo.com,5192554358,Delhi,Home & Kitchen,Mixer Grinder,5,70.0,0.15,Net Banking,Pending,2026-11-21 05:53:03,350.0,52.5,297.5
+ORD00839,2026-11-21,2026-11-22,Karan Patel,karan.patel15@yahoo.com,2978081476,Hyderabad,Home & Kitchen,Cookware Set,4,85.0,0.2,Upi,Returned,2026-11-21 06:02:00,340.0,68.0,272.0
+ORD00580,2026-11-21,2026-11-28,Anita Mehta,anita.mehta73@gmail.com,3806224012,Mumbai,Books,Python Handbook,4,30.0,0.0,Upi,Cancelled,2026-11-21 06:25:59,120.0,0.0,120.0
+ORD00978,2026-11-21,2026-11-23,Anita Joshi,anita.joshi94@outlook.com,6888804004,Unknown,Books,Data Science Guide,1,40.0,0.1,Unknown,Returned,2026-11-21 06:52:00,40.0,4.0,36.0
+ORD00371,2026-11-21,2026-11-24,Meera Sharma,meera.sharma57@gmail.com,,Bengaluru,Clothing,T-Shirt,4,15.0,0.05,Credit Card,Pending,2026-11-21 07:04:32,60.0,3.0,57.0
+ORD00734,2026-11-21,2026-11-24,Divya Patel,divya.patel24@outlook.com,,Pune,Electronics,Wireless Mouse,2,25.0,0.2,Debit Card,Shipped,2026-11-21 07:16:00,50.0,10.0,40.0
+ORD00566,2026-11-21,2026-11-24,Arjun Patel,,3115042242,Unknown,Books,Data Science Guide,5,40.0,0.05,Credit Card,Returned,2026-11-21 07:27:15,200.0,10.0,190.0
+ORD00064,2026-11-21,2026-11-22,Aarav Singh,aarav.singh65@yahoo.com,6644050529,Delhi,Books,Python Handbook,5,30.0,0.0,Credit Card,Returned,2026-11-21 08:25:00,150.0,0.0,150.0
+ORD00457,2026-11-21,2026-11-24,Vikram Sharma,vikram.sharma85@yahoo.com,7340618178,Kolkata,Clothing,Jacket,5,90.0,0.25,Debit Card,Pending,2026-11-21 08:38:00,450.0,112.5,337.5
+ORD00495,2026-11-21,2026-11-27,Divya Nair,divya.nair97@gmail.com,7751349360,Mumbai,Home & Kitchen,Air Fryer,3,110.0,0.0,Credit Card,Returned,2026-11-21 08:52:57,330.0,0.0,330.0
+ORD00926,2026-11-21,2026-11-26,Karan Singh,,4241220206,Chennai,Books,Data Science Guide,5,40.0,0.1,Credit Card,Returned,2026-11-21 09:18:00,200.0,20.0,180.0
+ORD00322,2026-11-21,2026-11-27,Aarav Patel,aarav.patel36@outlook.com,0746417651,Mumbai,Home & Kitchen,Mixer Grinder,1,70.0,0.0,Upi,Pending,2026-11-21 10:00:00,70.0,0.0,70.0
+ORD00092,2026-11-21,2026-11-22,Priya Patel,priya.patel51@yahoo.com,0518342422,Chennai,Clothing,T-Shirt,1,15.0,0.25,Cash On Delivery,Shipped,2026-11-21 10:37:00,15.0,3.75,11.25
+ORD00168,2026-11-21,2026-11-24,Rahul Singh,rahul.singh25@gmail.com,6895462011,Jaipur,Books,Python Handbook,4,30.0,0.15,Credit Card,Delivered,2026-11-21 10:57:00,120.0,18.0,102.0
+ORD00332,2026-11-21,2026-11-25,Rohan Patel,rohan.patel93@outlook.com,9975965760,Mumbai,Electronics,Smart Watch,4,180.0,0.1,Credit Card,Shipped,2026-11-21 10:59:00,720.0,72.0,648.0
+ORD00004,2026-11-21,2026-11-22,Rohan Reddy,rohan.reddy1@outlook.com,5198266175,Hyderabad,Electronics,Smart Watch,3,180.0,0.0,Cash On Delivery,Pending,2026-11-21 12:23:07,540.0,0.0,540.0
+ORD00634,2026-11-21,2026-11-26,Unknown,vikram.mehta51@yahoo.com,7316063281,Jaipur,Books,Data Science Guide,2,40.0,0.15,Credit Card,Shipped,2026-11-21 12:45:00,80.0,12.0,68.0
+ORD00165,2026-11-21,2026-11-25,Unknown,arjun.reddy95@gmail.com,7540535849,Kolkata,Books,Python Handbook,4,30.0,0.0,Net Banking,Delivered,2026-11-21 13:04:00,120.0,0.0,120.0
+ORD00233,2026-11-21,2026-11-27,Neha Gupta,neha.gupta43@gmail.com,3843653625,Pune,Electronics,Smart Watch,5,180.0,0.15,Upi,Shipped,2026-11-21 14:08:50,900.0,135.0,765.0
+ORD00572,2026-11-21,2026-11-25,Priya Sharma,priya.sharma33@yahoo.com,,Pune,Books,Python Handbook,1,30.0,0.1,Debit Card,Pending,2026-11-21 14:11:38,30.0,3.0,27.0
+ORD00387,2026-11-21,2026-11-27,Priya Singh,priya.singh58@gmail.com,2265082022,Kolkata,Electronics,Laptop,3,1100.0,0.25,Cash On Delivery,Delivered,2026-11-21 14:25:00,3300.0,825.0,2475.0
+ORD00315,2026-11-21,2026-11-23,Vikram Verma,vikram.verma10@gmail.com,7075905388,Pune,Electronics,Laptop,5,1100.0,0.0,Debit Card,Pending,2026-11-21 14:35:00,5500.0,0.0,5500.0
+ORD00211,2026-11-21,2026-11-28,Meera Gupta,meera.gupta94@yahoo.com,6393064201,Delhi,Clothing,Jacket,5,90.0,0.2,Net Banking,Returned,2026-11-21 16:46:00,450.0,90.0,360.0
+ORD00618,2026-11-21,2026-11-27,Priya Joshi,priya.joshi70@gmail.com,1588143001,Mumbai,Clothing,Jacket,3,90.0,0.2,Cash On Delivery,Shipped,2026-11-21 17:00:01,270.0,54.0,216.0
+ORD00930,2026-11-21,2026-11-27,Meera Mehta,,9989950539,Delhi,Clothing,Jeans,2,45.0,0.05,Net Banking,Shipped,2026-11-21 17:13:26,90.0,4.5,85.5
+ORD00592,2026-11-21,2026-11-26,Sneha Reddy,sneha.reddy86@outlook.com,3957820387,Mumbai,Books,Data Science Guide,4,40.0,0.0,Net Banking,Delivered,2026-11-21 17:30:04,160.0,0.0,160.0
+ORD00307,2026-11-21,2026-11-26,Karan Singh,karan.singh73@gmail.com,9666731451,Mumbai,Electronics,Smart Watch,4,180.0,0.0,Cash On Delivery,Pending,2026-11-21 17:37:39,720.0,0.0,720.0
+ORD00459,2026-11-21,2026-11-26,Karan Nair,karan.nair42@gmail.com,7220368880,Jaipur,Home & Kitchen,Mixer Grinder,2,70.0,0.1,Debit Card,Cancelled,2026-11-21 17:49:00,140.0,14.0,126.0
+ORD00226,2026-11-21,2026-11-28,Karan Singh,karan.singh30@outlook.com,5777473176,Unknown,Electronics,Laptop,3,1100.0,0.15,Cash On Delivery,Returned,2026-11-21 18:39:00,3300.0,495.0,2805.0
+ORD00545,2026-11-21,2026-11-25,Anita Nair,anita.nair42@outlook.com,2877141216,Bengaluru,Books,Data Science Guide,1,40.0,0.2,Unknown,Cancelled,2026-11-21 19:05:36,40.0,8.0,32.0
+ORD00586,2026-11-21,2026-11-25,Neha Verma,neha.verma81@yahoo.com,9379972529,Delhi,Electronics,Laptop,3,1100.0,0.0,Cash On Delivery,Pending,2026-11-21 20:11:00,3300.0,0.0,3300.0
+ORD00870,2026-11-21,2026-11-28,Rohan Gupta,rohan.gupta52@yahoo.com,6640537298,Pune,Clothing,T-Shirt,1,15.0,0.0,Debit Card,Returned,2026-11-21 20:12:00,15.0,0.0,15.0
+ORD00295,2026-11-21,2026-11-24,Rohan Patel,rohan.patel98@outlook.com,,Kolkata,Clothing,Jeans,3,45.0,0.25,Cash On Delivery,Shipped,2026-11-21 20:30:00,135.0,33.75,101.25
+ORD00741,2026-11-21,2026-11-24,Divya Joshi,divya.joshi96@outlook.com,5612444894,Chennai,Home & Kitchen,Mixer Grinder,4,70.0,0.15,Cash On Delivery,Cancelled,2026-11-21 21:40:00,280.0,42.0,238.0
+ORD00511,2026-11-21,2026-11-27,Priya Mehta,priya.mehta68@gmail.com,7654752350,Hyderabad,Clothing,T-Shirt,5,15.0,0.1,Debit Card,Pending,2026-11-21 22:08:00,75.0,7.5,67.5
+ORD00507,2026-11-21,2026-11-22,Arjun Mehta,arjun.mehta79@outlook.com,3723513009,Kolkata,Electronics,Smart Watch,5,180.0,0.1,Unknown,Shipped,2026-11-21 22:20:03,900.0,90.0,810.0
+ORD00876,2026-11-21,2026-11-25,Neha Mehta,neha.mehta40@yahoo.com,0467464021,Chennai,Books,Python Handbook,2,30.0,0.25,Net Banking,Shipped,2026-11-21 22:51:00,60.0,15.0,45.0
+ORD00473,2026-11-21,2026-11-22,Neha Patel,neha.patel5@gmail.com,3995744763,Mumbai,Clothing,Jacket,2,90.0,0.0,Credit Card,Pending,2026-11-21 23:22:00,180.0,0.0,180.0
+ORD00059,2026-11-21,2026-11-25,Karan Reddy,karan.reddy49@yahoo.com,8181931987,Kolkata,Clothing,T-Shirt,3,15.0,0.25,Credit Card,Pending,2026-11-21 23:30:00,45.0,11.25,33.75
+ORD00798,2026-11-21,2026-11-25,Rohan Sharma,rohan.sharma93@gmail.com,9472774260,Mumbai,Electronics,Wireless Mouse,4,25.0,0.0,Debit Card,Delivered,2026-11-21 23:52:00,100.0,0.0,100.0
+ORD00778,2026-11-22,2026-11-29,Aarav Khan,aarav.khan65@yahoo.com,8704771868,Hyderabad,Home & Kitchen,Air Fryer,3,110.0,0.25,Debit Card,Pending,2026-11-22 00:54:01,330.0,82.5,247.5
+ORD00244,2026-11-22,2026-11-27,Rahul Verma,rahul.verma36@outlook.com,2290817892,Pune,Clothing,Jacket,3,90.0,0.1,Cash On Delivery,Delivered,2026-11-22 01:15:00,270.0,27.0,243.0
+ORD00607,2026-11-22,2026-11-25,Karan Verma,karan.verma88@outlook.com,4412773034,Mumbai,Books,Data Science Guide,2,40.0,0.25,Net Banking,Cancelled,2026-11-22 01:21:25,80.0,20.0,60.0
+ORD00540,2026-11-22,2026-11-26,Meera Patel,meera.patel89@gmail.com,5356235781,Pune,Books,Python Handbook,2,30.0,0.0,Credit Card,Shipped,2026-11-22 02:41:30,60.0,0.0,60.0
+ORD00110,2026-11-22,2026-11-24,Neha Nair,,2218049095,Unknown,Books,Python Handbook,3,30.0,0.2,Credit Card,Shipped,2026-11-22 02:42:00,90.0,18.0,72.0
+ORD00951,2026-11-22,2026-11-28,Sneha Patel,sneha.patel91@yahoo.com,8990405995,Chennai,Books,Python Handbook,4,30.0,0.2,Credit Card,Pending,2026-11-22 02:56:00,120.0,24.0,96.0
+ORD00769,2026-11-22,2026-11-24,Rohan Verma,rohan.verma34@outlook.com,,Pune,Electronics,Bluetooth Speaker,3,60.0,0.1,Credit Card,Pending,2026-11-22 04:40:00,180.0,18.0,162.0
+ORD00893,2026-11-22,2026-11-24,Neha Verma,neha.verma1@outlook.com,8227772672,Pune,Clothing,Jeans,4,45.0,0.2,Debit Card,Cancelled,2026-11-22 05:26:00,180.0,36.0,144.0
+ORD00306,2026-11-22,2026-11-26,Arjun Verma,arjun.verma10@gmail.com,6751876653,Bengaluru,Books,Python Handbook,1,30.0,0.15,Upi,Cancelled,2026-11-22 05:27:00,30.0,4.5,25.5
+ORD00397,2026-11-22,2026-11-29,Meera Reddy,meera.reddy32@gmail.com,6133285478,Mumbai,Books,Python Handbook,4,30.0,0.0,Net Banking,Cancelled,2026-11-22 05:38:09,120.0,0.0,120.0
+ORD00468,2026-11-22,2026-11-28,Unknown,,5979780092,Delhi,Books,Data Science Guide,2,40.0,0.0,Credit Card,Pending,2026-11-22 07:40:00,80.0,0.0,80.0
+ORD00857,2026-11-22,2026-11-24,Rahul Singh,rahul.singh13@yahoo.com,4830398990,Delhi,Clothing,T-Shirt,4,15.0,0.0,Credit Card,Shipped,2026-11-22 07:53:00,60.0,0.0,60.0
+ORD00448,2026-11-22,2026-11-23,Karan Khan,karan.khan49@yahoo.com,8044661155,Kolkata,Clothing,Jeans,3,45.0,0.0,Credit Card,Returned,2026-11-22 09:41:00,135.0,0.0,135.0
+ORD00838,2026-11-22,2026-11-27,Arjun Singh,arjun.singh91@outlook.com,0668366246,Unknown,Clothing,Jeans,3,45.0,0.1,Debit Card,Pending,2026-11-22 10:31:00,135.0,13.5,121.5
+ORD00331,2026-11-22,2026-11-29,Unknown,rahul.patel23@yahoo.com,3653072007,Bengaluru,Books,Data Science Guide,1,40.0,0.2,Credit Card,Pending,2026-11-22 10:46:00,40.0,8.0,32.0
+ORD00644,2026-11-22,2026-11-27,Meera Khan,meera.khan35@outlook.com,8598842805,Kolkata,Books,Python Handbook,3,30.0,0.25,Net Banking,Pending,2026-11-22 11:49:00,90.0,22.5,67.5
+ORD00888,2026-11-22,2026-11-27,Arjun Nair,arjun.nair90@outlook.com,8876545933,Unknown,Electronics,Smart Watch,1,180.0,0.0,Upi,Returned,2026-11-22 12:24:35,180.0,0.0,180.0
+ORD00289,2026-11-22,2026-11-25,Karan Patel,,5364497294,Pune,Clothing,Jeans,4,45.0,0.0,Cash On Delivery,Shipped,2026-11-22 12:42:00,180.0,0.0,180.0
+ORD00891,2026-11-22,2026-11-24,Meera Joshi,meera.joshi11@gmail.com,7547352985,Jaipur,Electronics,Bluetooth Speaker,4,60.0,0.0,Debit Card,Cancelled,2026-11-22 14:06:00,240.0,0.0,240.0
+ORD00395,2026-11-22,2026-11-23,Vikram Mehta,vikram.mehta50@yahoo.com,5460403078,Chennai,Books,Data Science Guide,4,40.0,0.1,Net Banking,Delivered,2026-11-22 14:40:22,160.0,16.0,144.0
+ORD00687,2026-11-22,2026-11-26,Karan Joshi,karan.joshi44@gmail.com,6700558640,Mumbai,Electronics,Wireless Mouse,4,25.0,0.15,Credit Card,Returned,2026-11-22 16:26:00,100.0,15.0,85.0
+ORD00986,2026-11-22,,Rohan Verma,rohan.verma47@outlook.com,,Bengaluru,Clothing,Jacket,3,90.0,0.05,Upi,Pending,2026-11-22 16:32:12,270.0,13.5,256.5
+ORD00357,2026-11-22,2026-11-29,Karan Joshi,karan.joshi8@outlook.com,8796362307,Kolkata,Home & Kitchen,Mixer Grinder,4,70.0,0.0,Unknown,Returned,2026-11-22 18:00:00,280.0,0.0,280.0
+ORD00761,2026-11-22,2026-11-26,Anita Nair,anita.nair18@gmail.com,4263627057,Delhi,Clothing,T-Shirt,3,15.0,0.25,Upi,Delivered,2026-11-22 18:05:00,45.0,11.25,33.75
+ORD00449,2026-11-22,2026-11-26,Karan Verma,karan.verma8@gmail.com,5068398005,Delhi,Electronics,Wireless Mouse,2,25.0,0.2,Cash On Delivery,Returned,2026-11-22 18:42:37,50.0,10.0,40.0
+ORD00877,2026-11-22,2026-11-29,Sneha Verma,,1535697767,Kolkata,Books,Data Science Guide,4,40.0,0.15,Cash On Delivery,Cancelled,2026-11-22 18:51:00,160.0,24.0,136.0
+ORD00212,2026-11-22,2026-11-24,Vikram Singh,vikram.singh32@outlook.com,0535493105,Mumbai,Electronics,Wireless Mouse,1,25.0,0.25,Debit Card,Pending,2026-11-22 19:21:51,25.0,6.25,18.75
+ORD00366,2026-11-22,2026-11-23,Anita Gupta,anita.gupta31@yahoo.com,,Kolkata,Books,Python Handbook,2,30.0,0.25,Cash On Delivery,Returned,2026-11-22 20:11:00,60.0,15.0,45.0
+ORD00008,2026-11-22,2026-11-27,Vikram Singh,vikram.singh86@outlook.com,1649906505,Chennai,Electronics,Laptop,3,1100.0,0.25,Net Banking,Pending,2026-11-22 21:15:00,3300.0,825.0,2475.0
+ORD00107,2026-11-22,2026-11-27,Meera Sharma,,9845915713,Bengaluru,Books,Data Science Guide,4,40.0,0.25,Net Banking,Pending,2026-11-22 21:27:00,160.0,40.0,120.0
+ORD00483,2026-11-22,2026-11-28,Sneha Joshi,sneha.joshi14@gmail.com,8390250380,Pune,Clothing,Jeans,1,45.0,0.1,Credit Card,Returned,2026-11-22 21:50:00,45.0,4.5,40.5
+ORD00759,2026-11-22,2026-11-24,Karan Nair,karan.nair7@outlook.com,4698892713,Bengaluru,Clothing,Jeans,4,45.0,0.1,Upi,Delivered,2026-11-22 21:51:09,180.0,18.0,162.0
+ORD00904,2026-11-22,2026-11-27,Anita Reddy,anita.reddy29@outlook.com,4936310618,Bengaluru,Home & Kitchen,Cookware Set,4,85.0,0.05,Upi,Pending,2026-11-22 21:56:48,340.0,17.0,323.0
+ORD00979,2026-11-22,2026-11-29,Karan Singh,,0344303984,Hyderabad,Books,Python Handbook,5,30.0,0.0,Upi,Pending,2026-11-22 23:11:00,150.0,0.0,150.0
+ORD00826,2026-11-22,2026-11-28,Vikram Patel,vikram.patel15@gmail.com,8716922789,Bengaluru,Home & Kitchen,Air Fryer,3,110.0,0.2,Credit Card,Pending,2026-11-22 23:23:42,330.0,66.0,264.0
+ORD00081,2026-11-22,2026-11-28,Aarav Gupta,aarav.gupta90@gmail.com,5771172870,Delhi,Electronics,Smart Watch,4,180.0,0.05,Upi,Pending,2026-11-22 23:57:00,720.0,36.0,684.0
+ORD00213,2026-11-23,2026-11-26,Anita Gupta,anita.gupta53@yahoo.com,8025255923,Bengaluru,Clothing,T-Shirt,1,15.0,0.05,Unknown,Returned,2026-11-23 02:07:00,15.0,0.75,14.25
+ORD00748,2026-11-23,2026-11-25,Rahul Joshi,rahul.joshi43@yahoo.com,9147159025,Jaipur,Electronics,Smart Watch,4,180.0,0.2,Debit Card,Shipped,2026-11-23 02:45:00,720.0,144.0,576.0
+ORD00129,2026-11-23,2026-11-25,Priya Verma,priya.verma9@yahoo.com,3702168322,Jaipur,Home & Kitchen,Cookware Set,4,85.0,0.05,Net Banking,Pending,2026-11-23 02:54:00,340.0,17.0,323.0
+ORD00319,2026-11-23,2026-11-28,Priya Sharma,,6830129473,Bengaluru,Clothing,T-Shirt,2,15.0,0.0,Debit Card,Pending,2026-11-23 03:25:00,30.0,0.0,30.0
+ORD00786,2026-11-23,2026-11-30,Rohan Patel,rohan.patel72@yahoo.com,1165561699,Kolkata,Books,Data Science Guide,3,40.0,0.05,Upi,Pending,2026-11-23 04:01:00,120.0,6.0,114.0
+ORD00043,2026-11-23,2026-11-26,Divya Mehta,divya.mehta31@outlook.com,0905595346,Delhi,Electronics,Bluetooth Speaker,1,60.0,0.1,Debit Card,Cancelled,2026-11-23 05:13:00,60.0,6.0,54.0
+ORD00815,2026-11-23,2026-11-30,Meera Khan,meera.khan7@gmail.com,6079941173,Pune,Electronics,Laptop,3,1100.0,0.2,Cash On Delivery,Shipped,2026-11-23 06:04:35,3300.0,660.0,2640.0
+ORD00732,2026-11-23,2026-11-26,Rohan Gupta,rohan.gupta95@yahoo.com,8828491239,Unknown,Home & Kitchen,Mixer Grinder,5,70.0,0.25,Credit Card,Cancelled,2026-11-23 06:33:46,350.0,87.5,262.5
+ORD00506,2026-11-23,2026-11-30,Divya Nair,divya.nair7@yahoo.com,3027003969,Delhi,Electronics,Laptop,1,1100.0,0.2,Net Banking,Pending,2026-11-23 06:57:49,1100.0,220.0,880.0
+ORD00245,2026-11-23,2026-11-29,Karan Verma,karan.verma17@yahoo.com,8874116212,Delhi,Home & Kitchen,Air Fryer,4,110.0,0.0,Credit Card,Returned,2026-11-23 07:06:00,440.0,0.0,440.0
+ORD00600,2026-11-23,2026-11-28,Sneha Singh,sneha.singh21@yahoo.com,1405375618,Jaipur,Books,Data Science Guide,5,40.0,0.0,Credit Card,Shipped,2026-11-23 07:34:42,200.0,0.0,200.0
+ORD00149,2026-11-23,2026-11-28,Divya Nair,divya.nair12@yahoo.com,7748256964,Bengaluru,Books,Python Handbook,1,30.0,0.25,Debit Card,Returned,2026-11-23 07:36:00,30.0,7.5,22.5
+ORD00865,2026-11-23,2026-11-30,Aarav Singh,aarav.singh36@outlook.com,,Chennai,Clothing,Jeans,4,45.0,0.0,Cash On Delivery,Cancelled,2026-11-23 09:27:09,180.0,0.0,180.0
+ORD00017,2026-11-23,2026-11-30,Priya Khan,priya.khan6@yahoo.com,0604443841,Hyderabad,Clothing,T-Shirt,3,15.0,0.0,Cash On Delivery,Returned,2026-11-23 10:58:00,45.0,0.0,45.0
+ORD00238,2026-11-23,2026-11-28,Arjun Joshi,arjun.joshi76@yahoo.com,9815782276,Delhi,Books,Data Science Guide,3,40.0,0.1,Debit Card,Shipped,2026-11-23 11:00:00,120.0,12.0,108.0
+ORD00731,2026-11-23,2026-11-26,Divya Nair,divya.nair60@gmail.com,0968746839,Delhi,Electronics,Laptop,4,1100.0,0.05,Credit Card,Shipped,2026-11-23 11:08:00,4400.0,220.0,4180.0
+ORD00628,2026-11-23,2026-11-26,Priya Nair,priya.nair36@gmail.com,9710565319,Kolkata,Clothing,T-Shirt,1,15.0,0.0,Debit Card,Cancelled,2026-11-23 11:20:00,15.0,0.0,15.0
+ORD00941,2026-11-23,,Divya Gupta,divya.gupta59@gmail.com,0737369161,Jaipur,Electronics,Wireless Mouse,4,25.0,0.2,Upi,Delivered,2026-11-23 12:01:00,100.0,20.0,80.0
+ORD00088,2026-11-23,,Divya Khan,divya.khan19@outlook.com,8951006043,Chennai,Home & Kitchen,Cookware Set,2,85.0,0.0,Upi,Returned,2026-11-23 13:03:00,170.0,0.0,170.0
+ORD00224,2026-11-23,2026-11-28,Neha Reddy,neha.reddy61@yahoo.com,7628422431,Delhi,Clothing,Jeans,5,45.0,0.1,Cash On Delivery,Returned,2026-11-23 13:36:00,225.0,22.5,202.5
+ORD00442,2026-11-23,2026-11-26,Neha Reddy,neha.reddy34@outlook.com,,Pune,Electronics,Bluetooth Speaker,4,60.0,0.0,Net Banking,Returned,2026-11-23 13:44:12,240.0,0.0,240.0
+ORD00949,2026-11-23,2026-11-27,Rahul Reddy,rahul.reddy63@gmail.com,3780220780,Pune,Books,Data Science Guide,4,40.0,0.0,Net Banking,Shipped,2026-11-23 14:23:00,160.0,0.0,160.0
+ORD00313,2026-11-23,2026-11-29,Unknown,meera.reddy77@yahoo.com,2284536484,Bengaluru,Electronics,Smart Watch,4,180.0,0.0,Credit Card,Pending,2026-11-23 14:29:00,720.0,0.0,720.0
+ORD00585,2026-11-23,2026-11-24,Neha Nair,neha.nair55@gmail.com,1765001925,Delhi,Electronics,Wireless Mouse,3,25.0,0.0,Debit Card,Returned,2026-11-23 14:36:00,75.0,0.0,75.0
+ORD00258,2026-11-23,2026-11-24,Rahul Khan,rahul.khan44@yahoo.com,2701528899,Kolkata,Clothing,T-Shirt,5,15.0,0.1,Debit Card,Delivered,2026-11-23 16:13:00,75.0,7.5,67.5
+ORD00654,2026-11-23,2026-11-24,Meera Singh,meera.singh95@gmail.com,6813667493,Bengaluru,Home & Kitchen,Air Fryer,3,110.0,0.2,Net Banking,Delivered,2026-11-23 16:14:00,330.0,66.0,264.0
+ORD00272,2026-11-23,2026-11-24,Aarav Nair,aarav.nair20@yahoo.com,5970879220,Mumbai,Books,Python Handbook,1,30.0,0.15,Net Banking,Cancelled,2026-11-23 17:20:00,30.0,4.5,25.5
+ORD00237,2026-11-23,2026-11-29,Neha Sharma,neha.sharma84@yahoo.com,2086666246,Jaipur,Home & Kitchen,Cookware Set,4,85.0,0.0,Net Banking,Returned,2026-11-23 17:47:00,340.0,0.0,340.0
+ORD00023,2026-11-23,2026-11-26,Karan Nair,karan.nair5@yahoo.com,1788084056,Mumbai,Home & Kitchen,Air Fryer,1,110.0,0.05,Debit Card,Pending,2026-11-23 18:02:22,110.0,5.5,104.5
+ORD00841,2026-11-23,2026-11-26,Priya Nair,priya.nair33@yahoo.com,6675803516,Bengaluru,Electronics,Wireless Mouse,3,25.0,0.05,Debit Card,Returned,2026-11-23 18:51:00,75.0,3.75,71.25
+ORD00316,2026-11-23,2026-11-28,Unknown,aarav.reddy94@yahoo.com,7450744131,Bengaluru,Books,Data Science Guide,4,40.0,0.25,Net Banking,Delivered,2026-11-23 19:24:48,160.0,40.0,120.0
+ORD00157,2026-11-23,2026-11-30,Priya Patel,priya.patel4@gmail.com,6744211583,Jaipur,Electronics,Wireless Mouse,4,25.0,0.05,Credit Card,Returned,2026-11-23 20:23:00,100.0,5.0,95.0
+ORD00493,2026-11-23,2026-11-24,Unknown,,2413007573,Bengaluru,Books,Python Handbook,2,30.0,0.0,Net Banking,Delivered,2026-11-23 21:48:12,60.0,0.0,60.0
+ORD00733,2026-11-23,2026-11-26,Anita Verma,anita.verma16@outlook.com,0390823366,Pune,Home & Kitchen,Mixer Grinder,1,70.0,0.2,Debit Card,Delivered,2026-11-23 21:52:00,70.0,14.0,56.0
+ORD00933,2026-11-23,2026-11-25,Arjun Singh,arjun.singh28@outlook.com,0683546330,Jaipur,Clothing,Jeans,3,45.0,0.15,Net Banking,Shipped,2026-11-23 22:39:00,135.0,20.25,114.75
+ORD00863,2026-11-23,2026-11-26,Anita Patel,anita.patel23@outlook.com,3799994020,Chennai,Home & Kitchen,Air Fryer,4,110.0,0.05,Credit Card,Delivered,2026-11-23 22:57:00,440.0,22.0,418.0
+ORD00836,2026-11-23,2026-11-27,Meera Khan,meera.khan48@outlook.com,5887916236,Delhi,Clothing,T-Shirt,1,15.0,0.25,Credit Card,Delivered,2026-11-23 23:20:51,15.0,3.75,11.25
+ORD00486,2026-11-23,2026-11-25,Divya Patel,divya.patel42@yahoo.com,0065829209,Kolkata,Clothing,Jeans,4,45.0,0.1,Upi,Cancelled,2026-11-23 23:34:00,180.0,18.0,162.0
+ORD00692,2026-11-23,2026-11-24,Sneha Singh,sneha.singh84@outlook.com,4699124710,Kolkata,Electronics,Smart Watch,4,180.0,0.25,Debit Card,Returned,2026-11-23 23:51:00,720.0,180.0,540.0
+ORD00783,2026-11-23,,Anita Patel,anita.patel47@yahoo.com,4180824837,Hyderabad,Clothing,Jacket,2,90.0,0.15,Net Banking,Cancelled,2026-11-23 23:53:14,180.0,27.0,153.0
+ORD00415,2026-11-24,2026-11-26,Meera Verma,meera.verma90@outlook.com,,Jaipur,Electronics,Wireless Mouse,4,25.0,0.2,Upi,Pending,2026-11-24 00:18:32,100.0,20.0,80.0
+ORD00573,2026-11-24,2026-11-29,Neha Reddy,neha.reddy61@gmail.com,6463214663,Chennai,Electronics,Bluetooth Speaker,1,60.0,0.25,Credit Card,Pending,2026-11-24 00:37:10,60.0,15.0,45.0
+ORD00917,2026-11-24,2026-11-29,Arjun Patel,arjun.patel37@yahoo.com,9094933672,Mumbai,Electronics,Smart Watch,3,180.0,0.15,Cash On Delivery,Cancelled,2026-11-24 01:06:00,540.0,81.0,459.0
+ORD00385,2026-11-24,2026-11-30,Rahul Nair,rahul.nair37@gmail.com,8021067049,Hyderabad,Electronics,Smart Watch,2,180.0,0.05,Net Banking,Cancelled,2026-11-24 02:12:00,360.0,18.0,342.0
+ORD00832,2026-11-24,2026-11-27,Rohan Sharma,rohan.sharma8@gmail.com,3044111066,Delhi,Books,Python Handbook,4,30.0,0.0,Credit Card,Shipped,2026-11-24 02:26:00,120.0,0.0,120.0
+ORD00664,2026-11-24,2026-11-27,Rohan Singh,,1094369903,Delhi,Clothing,T-Shirt,4,15.0,0.1,Upi,Pending,2026-11-24 02:37:00,60.0,6.0,54.0
+ORD00751,2026-11-24,2026-11-28,Karan Nair,karan.nair17@gmail.com,4946367901,Jaipur,Home & Kitchen,Mixer Grinder,3,70.0,0.2,Cash On Delivery,Shipped,2026-11-24 04:29:00,210.0,42.0,168.0
+ORD00339,2026-11-24,2026-11-26,Karan Patel,,,Chennai,Home & Kitchen,Mixer Grinder,5,70.0,0.15,Credit Card,Pending,2026-11-24 04:40:00,350.0,52.5,297.5
+ORD00071,2026-11-24,2026-11-27,Meera Singh,meera.singh67@yahoo.com,7400703189,Chennai,Electronics,Wireless Mouse,4,25.0,0.25,Cash On Delivery,Delivered,2026-11-24 05:09:29,100.0,25.0,75.0
+ORD00521,2026-11-24,2026-11-26,Meera Reddy,meera.reddy17@outlook.com,4102089631,Chennai,Books,Data Science Guide,1,40.0,0.25,Debit Card,Shipped,2026-11-24 05:22:24,40.0,10.0,30.0
+ORD00232,2026-11-24,2026-11-25,Priya Mehta,priya.mehta42@outlook.com,9342130602,Chennai,Electronics,Bluetooth Speaker,5,60.0,0.25,Net Banking,Shipped,2026-11-24 06:04:00,300.0,75.0,225.0
+ORD00236,2026-11-24,2026-11-27,Vikram Reddy,,3719087344,Pune,Clothing,Jacket,1,90.0,0.2,Debit Card,Returned,2026-11-24 06:23:00,90.0,18.0,72.0
+ORD00426,2026-11-24,2026-11-28,Aarav Joshi,aarav.joshi28@outlook.com,5345922814,Bengaluru,Home & Kitchen,Cookware Set,2,85.0,0.05,Debit Card,Delivered,2026-11-24 06:49:42,170.0,8.5,161.5
+ORD00134,2026-11-24,2026-11-25,Anita Gupta,anita.gupta33@gmail.com,2611372895,Chennai,Home & Kitchen,Air Fryer,2,110.0,0.1,Net Banking,Cancelled,2026-11-24 07:01:00,220.0,22.0,198.0
+ORD00821,2026-11-24,2026-11-25,Rohan Mehta,rohan.mehta48@gmail.com,1750559662,Unknown,Books,Python Handbook,3,30.0,0.0,Upi,Cancelled,2026-11-24 07:06:17,90.0,0.0,90.0
+ORD00431,2026-11-24,2026-11-26,Aarav Patel,aarav.patel2@outlook.com,6880960257,Pune,Clothing,T-Shirt,1,15.0,0.05,Unknown,Delivered,2026-11-24 07:48:39,15.0,0.75,14.25
+ORD00391,2026-11-24,2026-11-28,Divya Nair,,5062330441,Pune,Electronics,Wireless Mouse,1,25.0,0.05,Debit Card,Returned,2026-11-24 08:32:00,25.0,1.25,23.75
+ORD00001,2026-11-24,2026-11-26,Neha Verma,neha.verma87@outlook.com,4025016525,Chennai,Electronics,Wireless Mouse,3,25.0,0.1,Upi,Cancelled,2026-11-24 10:00:48,75.0,7.5,67.5
+ORD00119,2026-11-24,2026-11-25,Divya Reddy,divya.reddy62@gmail.com,1576516950,Kolkata,Books,Python Handbook,5,30.0,0.0,Credit Card,Pending,2026-11-24 10:19:12,150.0,0.0,150.0
+ORD00035,2026-11-24,2026-12-01,Divya Verma,divya.verma7@gmail.com,6264427142,Jaipur,Home & Kitchen,Air Fryer,2,110.0,0.05,Upi,Cancelled,2026-11-24 11:48:00,220.0,11.0,209.0
+ORD00996,2026-11-24,,Anita Khan,anita.khan24@yahoo.com,5735829148,Mumbai,Clothing,Jacket,4,90.0,0.25,Debit Card,Cancelled,2026-11-24 12:57:00,360.0,90.0,270.0
+ORD00450,2026-11-24,2026-11-26,Vikram Sharma,vikram.sharma64@yahoo.com,1741486535,Kolkata,Clothing,T-Shirt,5,15.0,0.0,Cash On Delivery,Pending,2026-11-24 13:24:00,75.0,0.0,75.0
+ORD00259,2026-11-24,2026-11-28,Rahul Verma,rahul.verma22@yahoo.com,7421126874,Pune,Electronics,Bluetooth Speaker,2,60.0,0.0,Debit Card,Shipped,2026-11-24 14:28:00,120.0,0.0,120.0
+ORD00414,2026-11-24,2026-11-28,Vikram Verma,vikram.verma32@gmail.com,,Unknown,Home & Kitchen,Air Fryer,5,110.0,0.1,Net Banking,Delivered,2026-11-24 14:33:00,550.0,55.0,495.0
+ORD00036,2026-11-24,2026-11-26,Rahul Singh,rahul.singh65@outlook.com,0800985574,Hyderabad,Electronics,Laptop,1,1100.0,0.2,Credit Card,Cancelled,2026-11-24 15:40:00,1100.0,220.0,880.0
+ORD00985,2026-11-24,2026-11-26,Karan Khan,karan.khan40@outlook.com,1186515319,Jaipur,Electronics,Wireless Mouse,4,25.0,0.2,Upi,Shipped,2026-11-24 15:44:00,100.0,20.0,80.0
+ORD00176,2026-11-24,2026-11-27,Neha Reddy,neha.reddy6@gmail.com,0623361577,Delhi,Clothing,Jacket,5,90.0,0.25,Upi,Shipped,2026-11-24 16:05:00,450.0,112.5,337.5
+ORD00875,2026-11-24,2026-11-25,Sneha Singh,sneha.singh98@gmail.com,5822370345,Delhi,Electronics,Bluetooth Speaker,3,60.0,0.0,Cash On Delivery,Pending,2026-11-24 16:13:00,180.0,0.0,180.0
+ORD00484,2026-11-24,2026-11-30,Rahul Gupta,rahul.gupta90@yahoo.com,5059048124,Mumbai,Electronics,Laptop,3,1100.0,0.05,Net Banking,Pending,2026-11-24 17:37:50,3300.0,165.0,3135.0
+ORD00993,2026-11-24,2026-11-28,Karan Mehta,karan.mehta91@outlook.com,3409992271,Pune,Home & Kitchen,Mixer Grinder,2,70.0,0.0,Upi,Cancelled,2026-11-24 18:11:00,140.0,0.0,140.0
+ORD00719,2026-11-24,2026-11-28,Divya Gupta,divya.gupta21@gmail.com,5032471015,Chennai,Electronics,Wireless Mouse,1,25.0,0.1,Upi,Delivered,2026-11-24 18:19:00,25.0,2.5,22.5
+ORD00171,2026-11-24,2026-11-25,Karan Reddy,karan.reddy90@gmail.com,5079126043,Hyderabad,Electronics,Laptop,3,1100.0,0.0,Credit Card,Cancelled,2026-11-24 18:21:00,3300.0,0.0,3300.0
+ORD00082,2026-11-24,2026-11-25,Aarav Singh,aarav.singh6@yahoo.com,1908762293,Jaipur,Electronics,Bluetooth Speaker,4,60.0,0.1,Unknown,Delivered,2026-11-24 18:31:00,240.0,24.0,216.0
+ORD00638,2026-11-24,2026-12-01,Rohan Sharma,rohan.sharma18@gmail.com,0604171219,Mumbai,Clothing,T-Shirt,3,15.0,0.1,Upi,Returned,2026-11-24 19:28:00,45.0,4.5,40.5
+ORD00663,2026-11-24,2026-11-28,Priya Patel,priya.patel27@outlook.com,0244690704,Chennai,Electronics,Wireless Mouse,4,25.0,0.25,Unknown,Returned,2026-11-24 19:30:00,100.0,25.0,75.0
+ORD00479,2026-11-24,2026-11-29,Vikram Nair,vikram.nair4@gmail.com,8317483595,Mumbai,Books,Python Handbook,4,30.0,0.0,Debit Card,Returned,2026-11-24 19:34:00,120.0,0.0,120.0
+ORD00016,2026-11-24,2026-11-25,Anita Singh,anita.singh84@gmail.com,7910116526,Delhi,Books,Python Handbook,3,30.0,0.15,Cash On Delivery,Shipped,2026-11-24 19:38:00,90.0,13.5,76.5
+ORD00898,2026-11-24,2026-11-30,Rahul Joshi,rahul.joshi81@gmail.com,0950798151,Mumbai,Books,Data Science Guide,3,40.0,0.05,Net Banking,Cancelled,2026-11-24 19:45:00,120.0,6.0,114.0
+ORD00318,2026-11-24,2026-11-28,Vikram Verma,vikram.verma56@yahoo.com,2385126893,Mumbai,Books,Python Handbook,1,30.0,0.15,Credit Card,Cancelled,2026-11-24 19:55:00,30.0,4.5,25.5
+ORD00419,2026-11-24,2026-11-29,Meera Sharma,,5908448598,Bengaluru,Electronics,Laptop,1,1100.0,0.15,Debit Card,Delivered,2026-11-24 21:31:00,1100.0,165.0,935.0

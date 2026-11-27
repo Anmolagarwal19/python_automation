@@ -1,0 +1,1066 @@
+Order ID, Order Date,Order Time,Ship Date,Customer Name,Email,Phone,City,Category,Product,Quantity,Unit Price,Discount,Payment Method,Status
+ORD00332,21/11/2026,10:59 AM,25-11-2026,Rohan  Patel,rohan.patel93@outlook.com,9975965760,mumbai,Electronics   ,Smart  Watch,4,$180.00,0.10,  Credit Card  ,Shipped
+ORD00468,2026-11-22,07:40,"November 28, 2026",,,5979780092,  Delhi  ,Books,data science guide, 2 ,$40.00,,CREDIT CARD,PENDING
+ORD00533,16/11/2026,11:53,"November 19, 2026",RAHUL MEHTA,rahul.mehta25@yahoo.com,3458120243,Jaipur,BOOKS,Python  Handbook,,30.00 $,15%,  UPI  ,
+ORD00061,12 Nov 2026,23:25:20,18-11-2026,RAHUL MEHTA,rahul.mehta90@yahoo.com,1522814044,Chennai,Books,  Python Handbook  , 1 ,USD 30,NA,Cash  on  Delivery,
+ORD00072,"November 19, 2026",15:38:22,17-11-2026,sneha patel,sneha.patel97@outlook.com,1813428565,Hyderabad   ,CLOTHING,Jeans,three,$45.00,25,debit card,DELIVERED
+ORD00664,24/11/2026,02:37 AM,2026/11/27,Rohan Singh,rohan.singh2yahoo.com,1094369903,delhi,CLOTHING,T-Shirt,4,$15.00,10%,UPI,Pending   
+ORD00132,15 Nov 2026,01:09,2026-11-18,Rohan Sharma   ,rohan.sharma35@yahoo.com,+91-18881 72747,  Bengaluru  ,  Books  ,Data  Science  Guide,3.0,$40.00,0.25,Net Banking   ,delivered
+ORD00579,15/11/2026,09:42 PM,22 Nov 2026,Aarav Gupta,aarav.gupta51gmail.com,+91-38469 47394,jaipur,Clothing,JACKET,5 units,$90.00,10,,Delivered
+ORD00335,2026/11/11,13:13:22,17 Nov 2026,Arjun Mehta   ,arjun.mehta65@outlook.com,4729184087,  Kolkata  ,  Books  ,DATA SCIENCE GUIDE,5 units,$40.00,20,Credit Card   ,Pending
+ORD00149,23 Nov 2026,07:36 AM,28/11/2026,Divya Nair   ,divya.nair12@yahoo.com,7748256964,Bengaluru,books,PYTHON HANDBOOK,1,30.00,0.25,Debit Card   ,  Returned  
+ORD00541,09-11-2026,21:31:17,,  Sneha Singh  ,sneha.singh95outlook.com,5192490555,JAIPUR,Home & Kitchen,cookware set,4 units,85.00 $,0.00,net banking,Shipped
+ORD00973,2026/11/20,01:04,22 Nov 2026,  Aarav Nair  ,aarav.nair68@outlook.com,0694097120,Chennai   ,Home  &  Kitchen,  Air Fryer  ,5,110.00,20 %,UPI   ,delivered
+ORD00688,11/11/2026,08:57:33,2026-11-13,Arjun Reddy,,8367632408,  Bengaluru  ,books,PYTHON HANDBOOK,5 units,USD 30,0.05,CREDIT CARD,shipped
+ORD00041,2026-11-07,01:23 PM,2026-11-13,MEERA REDDY,meera.reddy99@yahoo.com,4116804397,  Pune  ,Home & Kitchen   ,AIR FRYER, 1 ,$110.00,15%,UPI,Returned
+ORD00758,11/11/2026,08:09:22,2026-11-14,  Anita Mehta  ,anita.mehta10@yahoo.com,8645279093,Bengaluru,Books,Data  Science  Guide,4,$ 40,10%,DEBIT CARD,pending
+ORD00814,06/11/2026,11:23:48,2026-11-08,  Karan Patel  ,karan.patel34@yahoo.com,9874755880,Pune,Home & Kitchen   ,Mixer  Grinder,3,USD 70,10,UPI,Cancelled   
+ORD00202,21 Nov 2026,05:17:05,27-11-2026,Arjun Nair,arjun.nair25@gmail.com,4011794852,Delhi,Clothing,  Jeans  ,4.0,$ 45,20,UPI,  Returned  
+ORD00247,2026/11/16,23:28:08,22/11/2026,Divya  Gupta,divya.gupta13@yahoo.com,7180558455,,Clothing   ,Jeans,5,45.00,0%,Debit Card   ,Shipped
+ORD00516,01-11-2026,11:00 AM,2026/11/07,ROHAN REDDY,rohan.reddy25@gmail.com,4809276979,Delhi,Books   ,Data Science Guide   ,1 units,USD 40,20,Net Banking,  Pending  
+ORD00470,06/11/2026,01:31 AM,2026/11/07,Aarav  Reddy,aarav.reddy18@outlook.com,+91-54297 22132,Pune   ,Electronics,BLUETOOTH SPEAKER,three,$60.00,0%,Net  Banking,Returned
+ORD00825,08 Nov 2026,07:41 AM,2026/11/13,NEHA NAIR,neha.nair67@outlook.com,5795636577,,Books   ,Python Handbook,4 units,$30.00,20,Net Banking   ,cancelled
+ORD00427,02 Nov 2026,02:37,"November 08, 2026",Sneha  Patel,sneha.patel15outlook.com,2164341613,  Pune  ,Clothing,JACKET,,90.00,25%,  Debit Card  ,returned
+,2026/11/19,19:53:01,,Meera  Khan,meera.khan57@gmail.com,2821559435,  Kolkata  ,Books,Python Handbook,1,30.00,5 %,Cash on Delivery   ,Shipped
+ORD00166,2026-11-21,00:41:38,25 Nov 2026,divya sharma,DIVYA.SHARMA32@OUTLOOK.COM,6980680815,kolkata,Clothing,Jeans,2 units,45.00,5 %,Credit Card   ,shipped
+ORD00956,"November 03, 2026",01:38 AM,30 Oct 2026,Aarav  Verma,aarav.verma2@outlook.com,2394304916,HYDERABAD,Books,Data Science Guide,1,$ 40,-,Net Banking   ,Returned
+ORD00223,07 Nov 2026,06:58:44,2026/11/12,Anita Mehta,anita.mehta77@yahoo.com,0615730788,Hyderabad,Clothing   ,T-Shirt,4,15.00 $,20,  UPI  ,  Pending  
+ORD00313,2026-11-23,02:29 PM,29 Nov 2026,,MEERA.REDDY77@YAHOO.COM,(228) 453-6484,bengaluru,Electronics,Smart Watch,4,$180.00,,Credit Card   ,pending
+ORD00208,12-11-2026,09:27 AM,2026/11/18,Priya  Sharma,priya.sharma97@outlook.com,(503) 275-7968,Mumbai,  Electronics  ,Wireless Mouse   ,one,25.00,10,Cash on Delivery,Shipped
+ORD00087,18/11/2026,00:42:39,2026-11-22,ANITA REDDY,anita.reddy70@yahoo.com,3205082843,bengaluru,Clothing   ,Jacket,2,USD 90,15 %,UPI,SHIPPED
+ORD00795,14 Nov 2026,00:52,2026-11-19,  Divya Sharma  ,divya.sharma14@gmail.com,+91-77875 45505,Bengaluru   ,Clothing   ,Jacket,5,90.00,10,Credit Card   ,  Cancelled  
+ORD00310,09-11-2026,05:08:01,2026/11/10,Rahul  Gupta,rahul.gupta4@outlook.com,5708029575,  Delhi  ,  Clothing  ,  Jacket  ,2,$90.00,0.00,UPI,Shipped
+ORD00834,14-11-2026,03:15 PM,17/11/2026,  Anita Gupta  ,ANITA.GUPTA95@YAHOO.COM,588689,Hyderabad,home & kitchen,  Air Fryer  ,5,$110.00,25,net banking,returned
+ORD00012,"November 11, 2026",04:32,2026/11/17,rahul patel,rahul.patel86@yahoo.com,(516) 371-5483,  Hyderabad  ,  Home & Kitchen  ,Cookware  Set,4,85.00 $,25 %,,delivered
+ORD00721,03/11/2026,08:52:07,2026-11-10,Rohan Reddy   ,rohan.reddy23gmail.com,7123131055,Bengaluru,Electronics,Wireless Mouse,none,$25.00,0.15,  Debit Card  ,
+ORD00910,2026/11/19,23:04,23/11/2026,  Sneha Singh  ,sneha.singh3@yahoo.com,8462952399,JAIPUR,  Books  ,Data Science Guide,five,40.00,15,  Credit Card  ,Delivered
+ORD00856,2026/11/08,10:34,2026/11/15,Priya Gupta,priya.gupta4@gmail.com,7590285156,Kolkata,  Clothing  ,jeans, 2 ,$45.00,-,Net Banking   ,Delivered   
+ORD00367,2026-11-01,17:53,2026-11-02,Meera Khan,meera.khan50@yahoo.com,260810,  Pune  ,ELECTRONICS,laptop,1.0,null,0.20,Debit Card   ,Cancelled
+ORD00555,06-11-2026,06:42:28,2026-11-13,DIVYA SHARMA,divya.sharma43@gmail.com,6404435635,bengaluru,Home & Kitchen,  Air Fryer  , 2 ,$110.00,0.05,CREDIT CARD,Pending
+ORD00421,2026-11-06,03:31 PM,08-11-2026,Anita Verma,anita.verma98@yahoo.com,5098802779,Hyderabad   ,Home & Kitchen,  Air Fryer  ,3 units,110.00 $,0%,UPI,RETURNED
+ORD00822,2026-11-15,16:12,,Rahul Gupta,rahul.gupta52@gmail.com,2590939857,PUNE,BOOKS,Python Handbook   ,2.0,30.00,0.25,UPI,Cancelled   
+ORD00036,2026-11-24,03:40 PM,26/11/2026,Rahul Singh   ,rahul.singh65@outlook.com,+91-08009 85574,Hyderabad,electronics,Laptop,1,"$1,100.00",20,  Credit Card  ,Cancelled
+ORD00647,2026-11-19,17:43,21-11-2026,  Anita Gupta  ,anita.gupta72@yahoo.com,6529437749,Bengaluru   ,books,Data  Science  Guide,3,USD 40,20,CREDIT CARD,Returned
+ORD00635,"November 17, 2026",01:17 PM,18-11-2026,  Sneha Sharma  ,sneha.sharma9@yahoo.com,(948) 305-5313,Pune,Electronics,  Smart Watch  ,3.0,$180.00,0.10,Cash on Delivery   ,delivered
+ORD00200,15-11-2026,03:55 PM,"November 16, 2026",Meera Patel,meera.patel20@gmail.com,2455955447,Jaipur,Electronics,Smart  Watch,2,N/A,25%,upi,Pending
+ORD00750,11 Nov 2026,11:38 AM,2026/11/15,Neha Joshi,neha.joshi31@outlook.com,+91-81595 04692,Delhi,  Home & Kitchen  ,Cookware Set,-2,$ 85,0%,Net  Banking,SHIPPED
+ORD00213,2026-11-23,02:07 AM,2026-11-26,  Anita Gupta  ,anita.gupta53@yahoo.com,8025255923,Bengaluru,clothing,T-Shirt   ,1.0,$15.00,5,,  Returned  
+ORD00780,19-11-2026,09:24 AM,"November 25, 2026",Aarav Joshi   ,aarav.joshi79@yahoo.com,4831313480,chennai,Electronics   ,  Laptop  ,three,"$1,100.00",20%,Net Banking,CANCELLED
+ORD00907,2026-11-01,01:16 PM,"November 03, 2026",Rohan Khan,rohan.khan83@gmail.com,8538628283,CHENNAI,Clothing   ,JEANS,5,45.00,5,Debit  Card,Pending
+ORD00452,10/11/2026,09:38 AM,2026/11/15,  Rohan Khan  ,rohan.khan42@gmail.com,+91-59029 22214,MUMBAI,Electronics,Smart Watch, 1 ,90000.00,-,Debit Card,shipped
+ORD00438,09/11/2026,22:46,"November 15, 2026",Arjun  Gupta,arjun.gupta71@yahoo.com,(537) 502-1066,  Pune  ,electronics,WIRELESS MOUSE,4,25.00 $,25%,  Net Banking  ,Shipped
+ORD00760,2026/11/05,14:18,06-11-2026,  Karan Reddy  ,karan.reddy35@outlook.com,7403298251,Hyderabad,Clothing,Jacket,5,90.00,0%,upi,Shipped   
+ORD00818,2026-11-18,17:06:38,"November 21, 2026",PRIYA JOSHI,priya.joshi88@outlook.com,4863173360,Pune,Home & Kitchen   ,mixer grinder,two,70.00,25%,Credit Card,  Shipped  
+ORD00592,21 Nov 2026,17:30:04,26/11/2026,Sneha Reddy   ,sneha.reddy86@outlook.com,3957820387,mumbai,books,  Data Science Guide  ,4 units,$40.00,-,net banking,  Delivered  
+ORD00296,not a date,01:59 PM,13 Nov 2026,Priya  Sharma,priya.sharma79@yahoo.com,+91-07689 36395,PUNE,CLOTHING,T-Shirt,5,,0%,CREDIT CARD,DELIVERED
+ORD00035,24 Nov 2026,11:48,2026/12/01,divya verma,divya.verma7@gmail.com,6264427142,JAIPUR,  Home & Kitchen  ,Air Fryer   ,2,110.00,5%,upi,Cancelled
+ORD00122,03/11/2026,05:17,"November 07, 2026",karan verma,karan.verma9@yahoo.com,0396575986,,Books   ,Python Handbook   ,2,USD 30,0.10,Debit  Card,DELIVERED
+ORD00655,"November 10, 2026",17:35,11 Nov 2026,  Neha Verma  ,neha.verma97@gmail.com,7815437876,Hyderabad   ,Home & Kitchen,MIXER GRINDER,3,-,20%,upi,  Returned  
+ORD00163,"November 14, 2026",11:46,2026-11-17,  Priya Patel  ,priya.patel8@yahoo.com,2810923615,Pune,Books,Data Science Guide,3,40.00 $,15%,Debit  Card,Delivered
+ORD00808,2026/11/19,02:49 PM,25-11-2026,ANITA GUPTA,anita.gupta30@outlook.com,+91-68739 87365,Kolkata,Home & Kitchen,Cookware  Set,4 units,$85.00,5 %,net banking,Returned
+ORD00396,"November 13, 2026",12:17 PM,"November 15, 2026",,meera.sharma42@yahoo.com,(460) 656-0501,jaipur,Electronics   ,Laptop,4 units,"$1,100.00",5,credit card,pending
+ORD00437,"November 05, 2026",14:45,"November 09, 2026",  Sneha Joshi  ,sneha.joshi20@yahoo.com,(303) 157-5044,Chennai,Home & Kitchen   ,Cookware  Set,5.0,$85.00,10%,Credit Card,returned
+ORD00034,04-11-2026,12:44 PM,2026-11-11,PRIYA PATEL,priya.patel74@gmail.com,986609,Mumbai   ,Books,  Python Handbook  ,1,$30.00,15,  Cash on Delivery  ,CANCELLED
+ORD00986,22 Nov 2026,16:32:12,,ROHAN VERMA,ROHAN.VERMA47@OUTLOOK.COM,237139,Bengaluru,clothing,Jacket,3,$90.00,5%,UPI,Pending
+ORD00073,2026-11-06,01:35 PM,12/11/2026,KARAN JOSHI,karan.joshi77@gmail.com,4599112186,Kolkata   ,Home & Kitchen   ,Mixer  Grinder,4,70.00,,Credit Card   ,DELIVERED
+ORD00799,11 Nov 2026,11:41:46,2026-11-12,ANITA PATEL,anita.patel76@gmail.com,0598546251,PUNE,Home & Kitchen   ,AIR FRYER,one,$110.00,10,debit card,Shipped   
+ORD00751,"November 24, 2026",04:29,2026-11-28,Karan  Nair,karan.nair17@gmail.com,(494) 636-7901,Jaipur,home & kitchen,Mixer Grinder   ,3,70.00,0.20,Cash on Delivery,SHIPPED
+ORD00521,"November 24, 2026",05:22:24,2026-11-26,MEERA REDDY,meera.reddy17@outlook.com,4102089631,Chennai,Books   ,Data  Science  Guide,1.0,$40.00,25%,Debit  Card,Shipped
+ORD00699,2026/11/17,10:38:57,19-11-2026,Neha  Reddy,neha.reddy84@outlook.com,7040087216,Hyderabad,Electronics,  Wireless Mouse  ,1.0,25.00 $,NA,Credit  Card,Pending   
+ORD00337,06 Nov 2026,08:54 AM,2026/11/10,Priya Sharma,priya.sharma96@gmail.com,5437985769,  Pune  ,Electronics,Smart Watch,5,USD 180,0,CREDIT CARD,Cancelled   
+ORD00988,16-11-2026,03:30 AM,22-11-2026,Sneha Mehta   ,sneha.mehta90@outlook.com,7462434013,delhi,  Electronics  ,Laptop,4,1100.00,25%,Debit Card   ,Shipped   
+ORD00883,2026-11-17,04:27 PM,2026-11-12,AARAV SINGH,aarav.singh43@yahoo.com,4950422491,Mumbai,electronics,Bluetooth Speaker,2.0,$ 60,-,upi,  Pending  
+ORD00964,18-11-2026,09:40,24/11/2026,  Karan Verma  ,karan.verma16@yahoo.com,(667) 374-7583,Mumbai,Home  &  Kitchen,Mixer Grinder   ,5,$70.00,-,UPI,SHIPPED
+ORD00852,09 Nov 2026,07:11 AM,"November 12, 2026",aarav gupta,aarav.gupta82@outlook.com,7033663658,chennai,Clothing,jeans,2,$ 45,20%,  Credit Card  ,delivered
+ORD00921,"November 08, 2026",14:14:05,,Aarav Khan,aarav.khan88@gmail.com,4598956003,Delhi,books,PYTHON HANDBOOK,2,30.00,20%,Debit  Card,Shipped
+ORD00004,"November 21, 2026",12:23:07,"November 22, 2026",rohan reddy,rohan.reddy1@outlook.com,5198266175,Hyderabad,Electronics,smart watch,,$180.00,,Cash on Delivery,PENDING
+ORD00432,2026-11-09,00:00,13 Nov 2026,ANITA REDDY,anita.reddy72@outlook.com,(956) 182-0181,Mumbai,Clothing,Jacket,-2,USD 90,-,CASH ON DELIVERY,DELIVERED
+ORD00841,2026/11/23,06:51 PM,2026/11/26,Priya  Nair,priya.nair33@yahoo.com,+91-66758 03516,Bengaluru,electronics,Wireless  Mouse,0,12500.00,5%,Debit  Card,returned
+ORD00171,"November 24, 2026",18:21,"November 25, 2026",KARAN REDDY,karan.reddy90@gmail.com,5079126043,  Hyderabad  ,ELECTRONICS,Laptop,3,"USD 1,100",0.00,  Credit Card  ,Cancelled   
+ORD00885,2026-11-20,08:41 PM,2026-11-27,Sneha Joshi   ,sneha.joshi81@outlook.com,3567585504,Jaipur,electronics,Smart Watch   ,0,$ 180,0.20,,
+ORD00255,"November 18, 2026",18:02,2026-11-25,  Rohan Mehta  ,rohan.mehta97@yahoo.com,831101,hyderabad,books,  Data Science Guide  ,4,$40.00,20%,DEBIT CARD,Cancelled
+ORD00107,22-11-2026,21:27,27 Nov 2026,  Meera Sharma  ,,9845915713,bengaluru,  Books  ,data science guide,4.0,,25,net banking,pending
+ORD00603,15 Nov 2026,10:02 PM,2026-11-17,  Neha Patel  ,neha.patel17@gmail.com,2866751190,Hyderabad,  Clothing  ,Jeans   ,2,-45.00,0.20,Net Banking   ,returned
+ORD00177,13/11/2026,01:34 PM,14 Nov 2026,Anita Patel   ,anita.patel58@outlook.com,+91-49828 94815,Chennai,Books   ,  Data Science Guide  ,4,USD 40,5%,  Net Banking  ,PENDING
+ORD00444,13 Nov 2026,02:29 PM,"November 18, 2026",Aarav  Joshi,aarav.joshi20@outlook.com,7012838515,Mumbai   ,CLOTHING,Jeans   , 3 ,$ 45,5%,UPI   ,Delivered   
+ORD00522,11 Nov 2026,16:51,17-11-2026,sneha verma,sneha.verma55@gmail.com,+91-57723 86410,Mumbai   ,  Home & Kitchen  ,MIXER GRINDER,0,USD 70,15,debit card,Shipped
+ORD00649,01 Nov 2026,18:14,"November 06, 2026",rohan khan,rohan.khan41@outlook.com,5914271806,  Mumbai  ,  Clothing  ,  T-Shirt  ,5,$15.00,,  Credit Card  ,RETURNED
+ORD00611,2026-11-02,14:25,08-11-2026,Rahul Reddy   ,rahul.reddy84@yahoo.com,4463258906,Jaipur,CLOTHING,  Jeans  ,2,USD 45,20%,upi,Delivered
+ORD00425,13/11/2026,01:28:59,16-11-2026,,karan.verma85@yahoo.com,0951443525,Mumbai,Home & Kitchen   ,Mixer  Grinder,N/A,$70.00,0.05,NET BANKING,Returned
+ORD00361,08-11-2026,16:01,14-11-2026,rohan sharma,rohan.sharma38@gmail.com,4459115359,kolkata,clothing,T-SHIRT,3,$15.00,0.10,Debit Card   ,PENDING
+ORD00982,06 Nov 2026,02:34,10/11/2026,Vikram Khan   ,vikram.khan80@outlook.com,5594221465,Hyderabad,HOME & KITCHEN,Air  Fryer,3,$110.00,15%,debit card,  Returned  
+ORD00974,"November 10, 2026",10:31 PM,2026/11/17,rohan singh,rohan.singh51@yahoo.com,(114) 351-7139,Jaipur,Home  &  Kitchen,mixer grinder,0,70.00,25%,debit card,PENDING
+ORD00204,2026-11-05,06:18,07/11/2026,  Meera Verma  ,meera.verma54@yahoo.com,0083188004,pune,electronics,Laptop,five,"$1,100.00",25%,Net Banking   ,Delivered
+ORD00794,2026-11-14,08:57 AM,15/11/2026,Karan Verma,karan.verma96@yahoo.com,+91-68687 21804,Chennai   ,Clothing   ,Jeans,3,$ 45,15,Cash on Delivery,CANCELLED
+ORD00220,"November 04, 2026",00:26:50,09/11/2026,  Divya Singh  ,divya.singh74@gmail.com,474270,Pune   ,clothing,t-shirt,1,USD 15,0.05,CREDIT CARD,
+ORD00965,"November 12, 2026",20:12,2026/11/15,  Anita Nair  ,anita.nair8@outlook.com,9365008387,bengaluru,clothing,t-shirt,0,$15.00,0.15,  Cash on Delivery  ,cancelled
+ORD00448,2026-11-22,09:41 AM,23/11/2026,karan khan,karan.khan49@yahoo.com,8044661155,Kolkata   ,CLOTHING,JEANS,3 units,-,0,CREDIT CARD,RETURNED
+ORD00350,2026-11-01,04:39:30,2026-11-06,  Neha Reddy  ,neha.reddy98@gmail.com,+91-86341 19978,bengaluru,  Clothing  ,Jacket,3,USD 90,0%,UPI,Returned
+ORD00666,2026-11-06,08:51,"November 12, 2026",anita joshi,anita.joshi87@yahoo.com,+91-13724 71541,  Bengaluru  ,  Electronics  ,Bluetooth  Speaker,2 units,$60.00,25,UPI,  Pending  
+ORD00268,07 Nov 2026,21:44,08/11/2026,vikram singh,VIKRAM.SINGH71@GMAIL.COM,(295) 570-3903,Kolkata,electronics,WIRELESS MOUSE,one,25.00,,NET BANKING,Delivered   
+ORD00693,"November 03, 2026",05:02:09,2026/11/10,Aarav Sharma   ,aarav.sharma93@outlook.com,+91-23295 27445,  Kolkata  ,Electronics,Wireless  Mouse,2 units,25.00,-,UPI   ,  Cancelled  
+ORD00563,17/11/2026,19:36,13-11-2026,,neha.sharma99@outlook.com,3715702815,DELHI,Home  &  Kitchen,  Cookware Set  ,1,$ 85,20%,Credit Card   ,Delivered
+ORD00624,2026-11-17,06:39,19-11-2026,  Sneha Sharma  ,sneha.sharma73@yahoo.com,9195619985,Mumbai,Clothing,  T-Shirt  ,2 units,USD 15,20%,  Cash on Delivery  ,Delivered   
+ORD00016,24/11/2026,19:38,"November 25, 2026",Anita  Singh,anita.singh84@gmail.com,7910116526,DELHI,books,Python Handbook,3 units,USD 30,15 %,Cash  on  Delivery,Shipped
+ORD00823,11-11-2026,12:50,2026-11-16,Anita Reddy,anita.reddy64@outlook.com,1145503341,Kolkata,Clothing   ,T-Shirt   ,3.0,$15.00,0,credit card,SHIPPED
+ORD00662,12-11-2026,10:02:54,"November 16, 2026",neha verma,neha.verma48@outlook.com,1316554821,PUNE,  Electronics  ,  Smart Watch  ,4 units,$180.00,25%,net banking,Pending
+ORD00344,2026-11-14,12:52:28,20/11/2026,meera patel,meera.patel3@outlook.com,(280) 435-7764,Hyderabad,Books   ,  Python Handbook  ,1.0,30.00 $,25%,CASH ON DELIVERY,Cancelled   
+ORD00566,"November 21, 2026",07:27:15,24-11-2026,Arjun  Patel,arjun.patel53yahoo.com,+91-31150 42242,,books,  Data Science Guide  ,5,$40.00,5%,Credit Card   ,Returned   
+ORD00792,01 Nov 2026,23:03:59,"November 06, 2026",sneha reddy,sneha.reddy21@gmail.com,3002100733,jaipur,BOOKS,DATA SCIENCE GUIDE,N/A,40.00,20%,NET BANKING,cancelled
+ORD00118,2026/11/20,12:14 AM,2026-11-25,MEERA GUPTA,meera.gupta30@gmail.com,1168643164,JAIPUR,Books   ,Data Science Guide   ,5,$40.00,0,debit card,Shipped   
+ORD00235,05-11-2026,03:20 AM,07 Nov 2026,SNEHA SINGH,sneha.singh65@gmail.com,1146359284,  Hyderabad  ,  Clothing  ,T-Shirt   ,4 units,15.00 $,,  Cash on Delivery  ,delivered
+ORD00910,2026/11/19,23:04,23/11/2026,  Sneha Singh  ,sneha.singh3@yahoo.com,8462952399,JAIPUR,  Books  ,Data Science Guide,five,40.00,15,  Credit Card  ,Delivered
+ORD00785,20/11/2026,04:42,2026-11-23,rohan sharma,rohan.sharma16@outlook.com,327940,chennai,Clothing,T-Shirt,2,null,20%,Debit Card,returned
+ORD00323,20/11/2026,00:36,"November 23, 2026",  Anita Gupta  ,anita.gupta76@outlook.com,(948) 608-5704,Mumbai,Clothing,Jacket,5,90.00,20%,Credit Card   ,Returned
+ORD00197,06/11/2026,01:18,"November 10, 2026",neha reddy,neha.reddy56@gmail.com,+91-03744 88108,Bengaluru   ,Electronics,Bluetooth Speaker   ,two,60.00,15%,credit card,delivered
+ORD00793,2026-11-11,08:28,2026/11/16,  Aarav Reddy  ,,2993072662,delhi,Electronics,  Bluetooth Speaker  ,N/A,60.00,15%,CASH ON DELIVERY,Shipped   
+ORD00801,12 Nov 2026,02:52,"November 18, 2026",divya sharma,divya.sharma34@gmail.com,1880040511,  Pune  ,Electronics,Bluetooth Speaker   ,5,60.00,0%,UPI,  Returned  
+ORD00575,"November 02, 2026",01:49,06 Nov 2026,neha nair,neha.nair99@gmail.com,+91-68792 24495,  Pune  ,BOOKS,DATA SCIENCE GUIDE,one,$40.00,5 %,Cash  on  Delivery,Shipped
+ORD00960,"November 05, 2026",12:19 AM,31 Oct 2026,  Vikram Reddy  ,vikram.reddy98@gmail.com,2146509089,Delhi   ,  Electronics  ,laptop,2.0,$1100.00,10%,  UPI  ,Delivered
+ORD00564,02-11-2026,04:56:17,"November 05, 2026",Meera Singh,meera.singh52@gmail.com,(752) 714-2374,Jaipur,home & kitchen,Air Fryer   ,4,$110.00,10,Cash  on  Delivery,Shipped
+ORD00426,24 Nov 2026,06:49:42,2026-11-28,  Aarav Joshi  ,aarav.joshi28@outlook.com,5345922814,Bengaluru,home & kitchen,Cookware  Set,2,N/A,5 %,Debit  Card,DELIVERED
+ORD00525,2026/11/20,10:37:57,23 Nov 2026,ANITA NAIR,anita.nair86@outlook.com,(668) 194-3869,HYDERABAD,Electronics,Wireless  Mouse,1,$25.00,0.15,UPI,Shipped
+ORD00621,"November 20, 2026",22:45:10,2026-11-25,  Divya Verma  ,divya.verma17@yahoo.com,4989102631,  Kolkata  ,Books,  Data Science Guide  ,-2,$40.00,-,Net Banking   ,Shipped   
+ORD00439,2026/11/03,16:49:10,2026/11/10,Karan Patel,karan.patel81@yahoo.com,3281773511,  Hyderabad  ,home & kitchen,  Air Fryer  , 3 ,USD 110,20 %,Net Banking,Shipped
+ORD00086,01/11/2026,02:20:50,"November 03, 2026",Meera Gupta   ,meera.gupta12@yahoo.com,0947434392,Bengaluru,home & kitchen,  Mixer Grinder  ,5,70.00,15%,  Debit Card  ,Shipped
+ORD00280,2026/11/07,17:45,11-11-2026,  Karan Khan  ,karan.khan96@yahoo.com,(645) 360-1055,Jaipur,HOME & KITCHEN,mixer grinder,2,70.00,25%,upi,shipped
+ORD00932,2026-11-04,01:49 AM,09-11-2026,VIKRAM JOSHI,vikram.joshi47@outlook.com,2237334808,  Hyderabad  ,Electronics,Smart  Watch,1 units,180.00 $,25%,  UPI  ,Delivered
+ORD00971,07 Nov 2026,18:05:05,2026-11-08,ANITA REDDY,anita.reddy32@gmail.com,(051) 526-5342,HYDERABAD,books,Data Science Guide,five,40.00,-,Cash  on  Delivery,Cancelled   
+ORD00052,"November 11, 2026",18:28:14,2026/11/18,Meera Khan,meera.khan39@yahoo.com,6957760497,HYDERABAD,Home & Kitchen   ,Cookware  Set,four,$85.00,0.00,Net  Banking,DELIVERED
+ORD00024,08 Nov 2026,04:07 AM,"November 12, 2026",arjun gupta,arjun.gupta64@outlook.com,4444115710,jaipur,Books,python handbook, 5 ,$30.00,5,Cash on Delivery   ,returned
+ORD00199,13 Nov 2026,14:39:02,16 Nov 2026,arjun gupta,arjun.gupta16@yahoo.com,8361685484,  Mumbai  ,Clothing,  T-Shirt  ,5,15.00,5,  Debit Card  ,Pending
+ORD00478,01-11-2026,02:26:21,"November 07, 2026",Vikram Gupta,vikram.gupta56@outlook.com,0498148666,bengaluru,Electronics,Laptop,five,"USD 1,100",20,CASH ON DELIVERY,Delivered
+ORD00588,15 Nov 2026,18:13:21,12 Nov 2026,  Arjun Patel  ,arjun.patel25@gmail.com,1915736334,Chennai,  Home & Kitchen  ,Air Fryer   ,2 units,USD 110,10 %,Debit Card,Cancelled
+ORD00013,2026-11-08,11:18 AM,10/11/2026,ROHAN SHARMA,rohan.sharma6@gmail.com,7485733168,Hyderabad,Home & Kitchen   ,MIXER GRINDER,-2,$70.00,20,Net Banking   ,  Cancelled  
+ORD00417,2026-11-03,10:17:04,,  Anita Khan  ,anita.khan31@outlook.com,966737,  Mumbai  ,  Clothing  ,Jacket,3.0,90.00,-,,Cancelled   
+ORD00732,"November 23, 2026",06:33:46,2026/11/26,rohan gupta,rohan.gupta95@yahoo.com,+91-88284 91239,,HOME & KITCHEN,mixer grinder,five,35000.00,25%,CREDIT CARD,CANCELLED
+ORD00870,21-11-2026,08:12 PM,2026-11-28,  Rohan Gupta  ,rohan.gupta52@yahoo.com,6640537298,  Pune  ,Clothing,T-Shirt   ,1,15.00 $,0%,Debit  Card,Returned
+ORD00393,"November 11, 2026",18:26:08,18-11-2026,Rohan Khan   ,rohan.khan44@outlook.com,8597838895,Mumbai,CLOTHING,T-Shirt,three,15.00,10%,  Net Banking  ,Pending
+ORD00877,2026-11-22,06:51 PM,29 Nov 2026,  Sneha Verma  ,sneha.verma89yahoo.com,+91-15356 97767,Kolkata,Books,Data Science Guide,4,$40.00,15%,Cash on Delivery,Cancelled   
+ORD00651,"November 11, 2026",09:55,"November 18, 2026",Rahul  Reddy,rahul.reddy8@outlook.com,4432644350,  Jaipur  ,Electronics,LAPTOP,1,1100.00,15%,Net Banking,Pending   
+ORD00209,03/11/2026,03:21:31,"November 04, 2026",ROHAN REDDY,rohan.reddy28@yahoo.com,4578569697,Hyderabad,  Books  ,DATA SCIENCE GUIDE,5.0,20000.00,5%,  Cash on Delivery  ,Delivered
+ORD00493,23-11-2026,21:48:12,24/11/2026,,,(241) 300-7573,Bengaluru   ,  Books  ,PYTHON HANDBOOK,2,USD 30,0%,  Net Banking  ,  Delivered  
+ORD00665,"November 04, 2026",14:37:44,2026-11-08,Sneha Nair,sneha.nair19@gmail.com,0929160360,bengaluru,Clothing   ,t-shirt,5,$15.00,5%,UPI,
+ORD00798,"November 21, 2026",11:52 PM,2026-11-25,Rohan Sharma   ,rohan.sharma93@gmail.com,9472774260,  Mumbai  ,Electronics,wireless mouse,4,$ 25,0%,debit card,DELIVERED
+ORD00934,19-11-2026,07:42 AM,2026-11-23,Meera  Sharma,meera.sharma67@outlook.com,2378293175,  Hyderabad  ,electronics,Laptop,4 units,"$1,100.00",20%,  UPI  ,Shipped
+ORD00832,24/11/2026,02:26,2026/11/27,Rohan  Sharma,rohan.sharma8@gmail.com,3044111066,Delhi,Books   ,PYTHON HANDBOOK,4 units,30.00 $,0,credit card,Shipped
+ORD00888,22/11/2026,12:24:35,27/11/2026,  Arjun Nair  ,arjun.nair90@outlook.com,+91-88765 45933,,Electronics,  Smart Watch  , 1 ,$180.00,NA,UPI,Returned
+ORD00616,2026/11/18,18:39:51,24-11-2026,Arjun  Singh,arjun.singh7@outlook.com,6745459336,Jaipur,  Home & Kitchen  ,Mixer  Grinder,none,$ 70,25 %,Net Banking,Cancelled
+ORD00251,01 Nov 2026,18:41,2026/11/07,ROHAN GUPTA,rohan.gupta49@outlook.com,(797) 267-1975,Pune,Clothing,jeans,3,N/A,5%,CREDIT CARD,Pending
+ORD00259,"November 24, 2026",02:28 PM,28-11-2026,RAHUL VERMA,rahul.verma22@yahoo.com,7421126874,Pune,electronics,Bluetooth Speaker   ,2,$60.00,0%,debit card,shipped
+ORD00446,18/11/2026,23:21:55,23/11/2026,Neha Reddy,neha.reddy12@outlook.com,3392310536,MUMBAI,books,DATA SCIENCE GUIDE,four,40.00,0,Cash on Delivery   ,Delivered   
+ORD00270,10/11/2026,19:55:14,"November 17, 2026",  Priya Reddy  ,priya.reddy13@yahoo.com,1230172428,,electronics,  Bluetooth Speaker  ,5,$60.00,10%,Net Banking   ,cancelled
+ORD00029,"November 05, 2026",08:12 AM,"November 12, 2026",ARJUN JOSHI,arjun.joshi72@yahoo.com,2137236364,Delhi,  Books  ,Python  Handbook,4,$30.00,0%,  UPI  ,Delivered
+ORD00718,09 Nov 2026,07:03:58,2026/11/10,,neha.singh83@yahoo.com,390061,Delhi,  Home & Kitchen  ,Cookware Set   ,3,null,5%,Net Banking,RETURNED
+ORD00167,09-11-2026,05:08 AM,2026/11/16,  Neha Mehta  ,neha.mehta71@gmail.com,0086704010,MUMBAI,ELECTRONICS,Wireless  Mouse,4,25.00,20 %,Credit Card   ,Shipped
+ORD00674,2026/11/11,17:29:46,12-11-2026,Priya Reddy,priya.reddy15@gmail.com,0698934819,DELHI,Electronics   ,  Wireless Mouse  ,N/A,$25.00,25,Credit Card   ,  Shipped  
+ORD00009,09-11-2026,04:12:09,2026/11/10,  Rohan Patel  ,rohan.patel37@outlook.com,+91-68529 06803,Kolkata   ,Electronics,Bluetooth Speaker,2,USD 60,-,  Debit Card  ,Shipped
+ORD00940,05 Nov 2026,21:04,07 Nov 2026,Arjun Reddy   ,,7527837639,  Delhi  ,clothing,T-SHIRT,2,$ 15,25%,UPI,CANCELLED
+ORD00926,21-11-2026,09:18 AM,2026/11/26,Karan Singh,karan.singh22yahoo.com,4241220206,CHENNAI,Books,DATA SCIENCE GUIDE,5,$40.00,10 %,credit card,returned
+ORD00775,11-11-2026,21:57,15/11/2026,Meera  Verma,meera.verma63outlook.com,0440502933,CHENNAI,ELECTRONICS,  Bluetooth Speaker  ,3,$60.00,15,  Cash on Delivery  ,Returned
+ORD00479,"November 24, 2026",07:34 PM,29 Nov 2026,Vikram Nair,vikram.nair4@gmail.com,8317483595,Mumbai,Books,python handbook,4,30.00,0,DEBIT CARD,Returned   
+ORD00889,04 Nov 2026,09:20 AM,05-11-2026,  Rahul Singh  ,rahul.singh35@yahoo.com,+91-53806 83954,Kolkata   ,Electronics   ,LAPTOP,5 units,$1100.00,25%,,CANCELLED
+ORD00501,"November 06, 2026",15:33,07-11-2026,Aarav Mehta   ,aarav.mehta30@yahoo.com,+91-10043 09279,Chennai,electronics,SMART WATCH, 2 ,180.00 $,15,Net Banking   ,PENDING
+ORD00748,2026-11-23,02:45,2026/11/25,Rahul Joshi,rahul.joshi43@yahoo.com,9147159025,JAIPUR,Electronics   ,Smart Watch, 4 ,$180.00,20%,debit card,Shipped
+ORD00520,15/11/2026,08:13 AM,2026/11/16,arjun sharma,arjun.sharma4@outlook.com,453190,  Mumbai  ,Clothing   ,  Jacket  ,4,$90.00,25,Debit  Card,Delivered
+ORD00248,"November 18, 2026",09:20 AM,"November 25, 2026",Priya Verma   ,priya.verma65@yahoo.com,4903957645,Bengaluru,Clothing,T-Shirt, 2 ,$15.00,5%,Debit Card   ,PENDING
+ORD00653,2026/11/01,11:37 PM,2026/11/08,karan joshi,karan.joshi92outlook.com,1414153622,Hyderabad,ELECTRONICS,Bluetooth  Speaker,4,60.00,20,Cash on Delivery   ,SHIPPED
+ORD00925,not a date,08:18 PM,2026/11/23,  Karan Verma  ,karan.verma27@outlook.com,7994297338,  Chennai  ,Clothing   ,  T-Shirt  ,1 units,$15.00,0%,  Debit Card  ,Returned
+ORD00301,2026-11-08,19:10:54,2026/11/11,  RAHUL NAIR  ,,9409853517,Hyderabad,Home & Kitchen,  Cookware Set  , 3 ,$85.00,0%,credit card,  Pending  
+ORD00810,13/11/2026,04:57,2026/11/08,RAHUL KHAN,rahul.khan25@yahoo.com,4855096634,Pune,ELECTRONICS,  Wireless Mouse  ,1 units,$ 25,15 %,NET BANKING,cancelled
+ORD00433,"November 01, 2026",06:14 AM,04 Nov 2026,ROHAN JOSHI,rohan.joshi14@gmail.com,1128255699,  Bengaluru  ,  Books  ,DATA SCIENCE GUIDE,4 units,$40.00,5%,CREDIT CARD,returned
+ORD00284,"November 03, 2026",09:36,10-11-2026,priya mehta,priya.mehta72@gmail.com,2090028112,Hyderabad,BOOKS,Python Handbook   ,2,$30.00,15%,Net Banking   ,  Shipped  
+ORD00787,20-11-2026,01:42 PM,"November 23, 2026",  Anita Joshi  ,anita.joshi97@outlook.com,(560) 190-8250,Jaipur,Books,Python  Handbook,3,$30.00,25%,  UPI  ,  Shipped  
+ORD00380,2026-11-07,15:31,2026/11/10,Neha Singh,neha.singh68@gmail.com,2700376807,Chennai   ,books,Data  Science  Guide,1 units,USD 40,0.10,cash on delivery,returned
+ORD00457,21/11/2026,08:38,24 Nov 2026,  Vikram Sharma  ,vikram.sharma85@yahoo.com,(734) 061-8178,KOLKATA,CLOTHING,jacket, 5 ,$90.00,25,Debit  Card,Pending
+ORD00480,2026/11/20,14:40,2026-11-21,arjun verma,arjun.verma21@outlook.com,5754917396,Jaipur   ,electronics,SMART WATCH,three,$180.00,20%,Cash on Delivery,  Cancelled  
+ORD00160,20/11/2026,06:21,25 Nov 2026,Arjun  Reddy,arjun.reddy48@gmail.com,4783019149,MUMBAI,Electronics   ,Wireless  Mouse, 1 ,USD 25,0.00,CREDIT CARD,  Returned  
+ORD00194,09-11-2026,06:08 AM,2026/11/10,  Karan Khan  ,karan.khan34@gmail.com,9174946171,KOLKATA,  Books  ,PYTHON HANDBOOK,3 units,$ 30,5%,CASH ON DELIVERY,delivered
+ORD00134,24/11/2026,07:01 AM,25-11-2026,anita gupta,anita.gupta33@gmail.com,+91-26113 72895,  Chennai  ,Home & Kitchen,Air  Fryer,2,-110.00,10,NET BANKING,Cancelled
+ORD00917,"November 24, 2026",01:06,2026-11-29,Arjun Patel,ARJUN.PATEL37@YAHOO.COM,9094933672,Mumbai,ELECTRONICS,  Smart Watch  ,3,180.00,0.15,  Cash on Delivery  ,cancelled
+ORD00580,2026-11-21,06:25:59,2026-11-28,Anita  Mehta,anita.mehta73@gmail.com,+91-38062 24012,MUMBAI,BOOKS,Python Handbook   ,four,$30.00,0%,UPI   ,Cancelled
+ORD00636,"November 19, 2026",02:54 AM,26 Nov 2026,Rahul Khan   ,rahul.khan69@yahoo.com,3754312874,jaipur,Books,  Python Handbook  ,2,$30.00,25 %,  Cash on Delivery  ,Delivered   
+ORD00237,"November 23, 2026",17:47,2026/11/29,NEHA SHARMA,neha.sharma84@yahoo.com,(208) 666-6246,Jaipur,Home & Kitchen,Cookware  Set,four,85.00,0,NET BANKING,RETURNED
+ORD00245,2026/11/23,07:06,2026-11-29,karan verma,karan.verma17@yahoo.com,8874116212,Delhi,HOME & KITCHEN,  Air Fryer  ,4.0,$ 110,0%,credit card,RETURNED
+ORD00345,2026/11/04,02:02 AM,"November 10, 2026",Rahul Mehta   ,rahul.mehta57@yahoo.com,7374112102,Pune,Books,PYTHON HANDBOOK,one,15000.00,0.25,upi,Returned
+ORD00764,"November 11, 2026",09:50 AM,17 Nov 2026,Arjun  Reddy,arjun.reddy40@gmail.com,6463213358,  Pune  ,electronics,Bluetooth Speaker   ,4,60.00,20%,,DELIVERED
+ORD00596,07 Nov 2026,09:16 PM,2026-11-14,ROHAN SHARMA,rohan.sharma24@outlook.com,5509262805,  Delhi  ,BOOKS,  Python Handbook  ,N/A,$ 30,10 %,NET BANKING,SHIPPED
+ORD00699,2026/11/17,10:38:57,19-11-2026,NEHA  REDDY,neha.reddy84@outlook.com,7040087216,Hyderabad,Electronics,  Wireless Mouse  ,1.0,25.00 $,NA,Credit  Card,Pending   
+ORD00487,2026-11-18,01:03:45,23 Nov 2026,Vikram  Mehta,vikram.mehta29@gmail.com,0183787814,Chennai   ,Books   ,data science guide,1,$40.00,15 %,DEBIT CARD,
+ORD00923,10 Nov 2026,05:30 PM,13-11-2026,karan patel,karan.patel36@gmail.com,1614844730,,  Books  ,Data Science Guide   ,1,40.00,15 %,NET BANKING,Pending   
+ORD00355,02/11/2026,14:35:43,05 Nov 2026,RAHUL JOSHI,rahul.joshi61@yahoo.com,2076275071,  Kolkata  ,Clothing   ,JEANS,3,$45.00,10 %,  Debit Card  ,Delivered
+ORD00405,2026-11-19,09:50 PM,"November 26, 2026",Sneha Singh   ,,188707,  Kolkata  ,Home & Kitchen   ,AIR FRYER,1,USD 110,0.15,  Debit Card  ,SHIPPED
+ORD00276,"November 12, 2026",08:09 AM,17/11/2026,Arjun Patel   ,ARJUN.PATEL40@YAHOO.COM,9007857315,Kolkata,Books   ,  Python Handbook  ,4,$30.00,10%,NET BANKING,RETURNED
+ORD00060,2026/11/07,02:26 AM,08/11/2026,meera khan,meera.khan87@outlook.com,0457719295,Mumbai,Electronics   ,BLUETOOTH SPEAKER,3,$60.00,25 %,Debit  Card,Returned   
+ORD00225,16-11-2026,11:32 AM,19-11-2026,ROHAN  REDDY,rohan.reddy30@yahoo.com,+91-08567 90002,PUNE,Books,Data Science Guide   ,5.0,$40.00,10%,upi,  Returned  
+ORD00447,"November 13, 2026",23:18:37,14-11-2026,Karan Sharma,karan.sharma83@yahoo.com,5926369685,  Chennai  ,Books,Python Handbook,5.0,USD 30,20%,  Debit Card  ,pending
+ORD00489,"November 01, 2026",09:56:48,05 Nov 2026,Neha Joshi   ,neha.joshi34@gmail.com,1112278346,Chennai,HOME & KITCHEN,air fryer,5.0,$110.00,25%,Net  Banking,Shipped   
+ORD00696,2026/11/20,19:11,26/11/2026,Neha  Singh,neha.singh62@outlook.com,3947915484,BENGALURU,  Electronics  ,Laptop,1,$ 1100,-,debit card,shipped
+ORD00459,21 Nov 2026,17:49,26 Nov 2026,KARAN NAIR,karan.nair42@gmail.com,7220368880,JAIPUR,Home & Kitchen   ,Mixer  Grinder,2,$70.00,10%,  Debit Card  ,Cancelled
+ORD00933,23/11/2026,22:39,"November 25, 2026",ARJUN SINGH,arjun.singh28@outlook.com,0683546330,Jaipur,Clothing,Jeans,3 units,-45.00,15,Net Banking   ,SHIPPED
+ORD00417,2026-11-03,10:17:04,,  Anita Khan  ,anita.khan31@outlook.com,966737,  Mumbai  ,  Clothing  ,Jacket,3.0,90.00,-,,Cancelled   
+ORD00248,"November 18, 2026",09:20 AM,"November 25, 2026",PRIYA VERMA   ,priya.verma65@yahoo.com,4903957645,Bengaluru,Clothing,T-Shirt, 2 ,$15.00,5%,Debit Card   ,PENDING
+ORD00692,2026/11/23,11:51 PM,24-11-2026,Sneha Singh,sneha.singh84@outlook.com,4699124710,  Kolkata  ,  Electronics  ,Smart  Watch,4,$180.00,25,Debit Card   ,RETURNED
+ORD00534,"November 11, 2026",09:12 PM,2026-11-14,MEERA SHARMA,meera.sharma72@yahoo.com,5207516320,PUNE,BOOKS,  Python Handbook  ,2,$30.00,10%,cash on delivery,shipped
+ORD00644,22/11/2026,11:49 AM,2026-11-27,  Meera Khan  ,meera.khan35@outlook.com,8598842805,KOLKATA,Books,Python Handbook,3,$30.00,0.25,  Net Banking  ,
+ORD00881,2026/11/18,03:54 AM,19/11/2026,Meera Singh   ,meera.singh92@yahoo.com,8242924507,Jaipur,home & kitchen,  Cookware Set  ,1,USD 85,10,  Cash on Delivery  ,Delivered   
+ORD00499,2026-11-02,09:37,2026-11-08,Vikram Gupta,vikram.gupta14@outlook.com,4837181838,KOLKATA,Electronics,laptop,1,1100.00,5%,  UPI  ,Shipped   
+ORD00949,"November 23, 2026",14:23,27 Nov 2026,RAHUL REDDY,rahul.reddy63@gmail.com,3780220780,  Pune  ,BOOKS,data science guide,4,40.00,-,Net Banking   ,Shipped   
+ORD00098,09 Nov 2026,15:14:22,2026/11/13,aarav khan,aarav.khan91@outlook.com,(766) 493-3165,Mumbai,books,Data  Science  Guide,3,$40.00,NA,upi,pending
+ORD00892,03-11-2026,05:22:15,2026-11-06,Rohan  Singh,rohan.singh44@gmail.com,8038833013,Chennai,CLOTHING,t-shirt,1,$15.00,10%,  UPI  ,delivered
+ORD00089,2026/11/10,11:44,12 Nov 2026,NEHA JOSHI   ,neha.joshi82@yahoo.com,9697251361,JAIPUR,Electronics   ,smart watch,0,USD 180,15%,debit card,DELIVERED
+ORD00565,2026/11/13,08:42 AM,18 Nov 2026,,rohan.mehta45@gmail.com,3601524485,CHENNAI,home & kitchen,AIR FRYER,4,-,25%,Cash on Delivery,Delivered
+ORD00704,17/11/2026,21:40,2026/11/22,Rahul Reddy,rahul.reddy67@gmail.com,3891693905,Bengaluru,electronics,Wireless  Mouse,4,25.00,15%,CASH ON DELIVERY,Pending
+ORD00724,04 Nov 2026,07:07:17,2026/11/09,RAHUL REDDY,RAHUL.REDDY96@YAHOO.COM,+91-72679 69378,jaipur,Clothing,Jeans,4,45.00,10%,Debit  Card,delivered
+ORD00808,2026/11/19,02:49 PM,25-11-2026,ANITA GUPTA,anita.gupta30@outlook.com,+91-68739 87365,Kolkata,Home & Kitchen,Cookware  Set,4 units,$85.00,5 %,net banking,Returned
+ORD00995,15 Nov 2026,03:44 PM,,  Divya Mehta  ,divya.mehta26@outlook.com,529244,Pune,Home & Kitchen   ,MIXER GRINDER,1,$ 70,10,Debit Card   ,Returned   
+ORD00422,01/11/2026,22:35:09,08/11/2026,Priya Verma   ,priya.verma21@gmail.com,6197333715,Hyderabad   ,Home  &  Kitchen,Cookware  Set,2,null,15,cash on delivery,CANCELLED
+ORD00871,"November 02, 2026",08:57:19,06-11-2026,Aarav Nair   ,aarav.nair81@outlook.com,7779208775,Pune   ,ELECTRONICS,Laptop,4 units,1100.00,15%,Cash  on  Delivery,Shipped   
+ORD00587,16-11-2026,05:00 AM,23 Nov 2026,Aarav Singh,aarav.singh60@gmail.com,0616918685,  Bengaluru  ,books,PYTHON HANDBOOK,4,USD 30,0%,debit card,
+ORD00306,"November 22, 2026",05:27 AM,26/11/2026,arjun verma,arjun.verma10@gmail.com,+91-67518 76653,bengaluru,BOOKS,  Python Handbook  ,1,$ 30,15,UPI,Cancelled   
+ORD00645,11-11-2026,11:56 AM,18-11-2026,Meera Mehta,meera.mehta13@gmail.com,0053745163,MUMBAI,books,data science guide,5,USD 40,10,,SHIPPED
+ORD00842,2026/11/20,06:02 PM,"November 26, 2026",Aarav  Mehta,aarav.mehta43@yahoo.com,5899516988,  Pune  ,clothing,  Jeans  ,2,USD 45,0 %,,pending
+ORD00294,04-11-2026,21:26:10,08 Nov 2026,Vikram  Joshi,vikram.joshi50@outlook.com,8121350664,hyderabad,Home & Kitchen,COOKWARE SET,5,$85.00,20 %,Cash on Delivery   ,DELIVERED
+ORD00744,2026-11-09,16:58,2026-11-10,Divya  Verma,divya.verma9@gmail.com,5734065578,Chennai   ,ELECTRONICS,Wireless  Mouse,3.0,25.00,25%,  UPI  ,  Returned  
+ORD00545,21 Nov 2026,19:05:36,25/11/2026,Anita Nair,anita.nair42@outlook.com,2877141216,BENGALURU,Books,data science guide,1 units,$40.00,20,,Cancelled
+ORD00743,07-11-2026,10:51 AM,08/11/2026,Meera Singh   ,meera.singh84@gmail.com,(760) 877-3352,,Books,  Data Science Guide  ,3,$40.00,25 %,  Debit Card  ,Returned
+ORD00906,07 Nov 2026,14:57,10-11-2026,Meera Sharma   ,meera.sharma22@yahoo.com,8687338234,  Pune  ,Clothing,Jacket,2,$90.00,10,UPI,Delivered
+ORD00229,2026/11/19,01:25:22,25/11/2026,ARJUN REDDY,arjun.reddy45@outlook.com,+91-38841 64366,Pune,Books   ,data science guide,1 units,$ 40,0.05,  Cash on Delivery  ,Pending
+ORD00231,2026-11-18,14:13,2026-11-20,Aarav Patel,aarav.patel20@yahoo.com,062688,KOLKATA,HOME & KITCHEN,mixer grinder,0,$70.00,0%,UPI,DELIVERED
+ORD00690,"November 05, 2026",05:45 PM,2026/11/07,anita mehta,anita.mehta29@gmail.com,6376924241,Delhi,home & kitchen,  Mixer Grinder  ,3 units,$70.00,5,  Net Banking  ,  Cancelled  
+ORD00959,05 Nov 2026,01:59,2026/11/11,Arjun Verma   ,arjun.verma99@yahoo.com,2083677629,  Kolkata  ,  Books  ,Python  Handbook,5.0,USD 30,-,Debit Card,Delivered
+ORD00196,17-11-2026,17:56,20-11-2026,  Rohan Verma  ,rohan.verma41@outlook.com,1018879286,mumbai,Home  &  Kitchen,  Mixer Grinder  ,two,USD 70,25 %,,SHIPPED
+ORD00371,2026-11-21,07:04:32,2026-11-24,Meera  Sharma,meera.sharma57@gmail.com,215310,Bengaluru,  Clothing  ,T-Shirt,4 units,15.00 $,5%,Credit Card   ,Pending
+ORD00105,21 Nov 2026,05:42,2026/11/26,Meera Gupta,meera.gupta10@yahoo.com,255380,  Delhi  ,  Electronics  ,Wireless Mouse,1 units,-,,cash on delivery,Cancelled
+ORD00287,not a date,06:11 AM,2026-11-11,Rohan Gupta,,4312068595,Jaipur   ,Home  &  Kitchen,cookware set, 5 ,USD 85,0.00,credit card,  Cancelled  
+ORD00628,23/11/2026,11:20,26-11-2026,Priya Nair   ,priya.nair36@gmail.com,9710565319,Kolkata,clothing,T-Shirt,1.0,$ 15,0,  Debit Card  ,CANCELLED
+ORD00715,11/11/2026,03:24:50,2026/11/12,vikram mehta,vikram.mehta46@yahoo.com,4071184143,hyderabad,  Electronics  ,Bluetooth  Speaker,two,60.00 $,0%,  Debit Card  ,Delivered   
+ORD00127,01-11-2026,06:25,"November 05, 2026",arjun nair,arjun.nair69@outlook.com,(280) 012-2807,Chennai,  Clothing  ,Jeans,5,$45.00,25,NET BANKING,cancelled
+ORD00301,2026-11-08,19:10:54,2026/11/11,  Rahul Nair  ,,9409853517,Hyderabad,Home & Kitchen,  Cookware Set  , 3 ,$85.00,0%,credit card,  Pending  
+ORD00574,14-11-2026,07:40 PM,18-11-2026,Neha Patel,neha.patel94@outlook.com,2579542300,  Bengaluru  ,Electronics,Bluetooth Speaker   ,5.0,$60.00,10%,Net Banking   ,Shipped
+ORD00356,15-11-2026,05:11:05,21 Nov 2026,anita sharma,anita.sharma82@gmail.com,7524856187,Delhi,  Clothing  ,  T-Shirt  ,4 units,15.00 $,0%,Credit  Card,Pending   
+ORD00058,2026-11-18,06:24 PM,20-11-2026,Rohan Gupta,rohan.gupta42@outlook.com,748401,Bengaluru   ,Electronics,Wireless Mouse,1,USD 25,0%,Cash on Delivery,  Cancelled  
+ORD00582,11 Nov 2026,03:41 AM,"November 17, 2026",  Meera Gupta  ,meera.gupta51@yahoo.com,8733641199,Pune   ,clothing,  T-Shirt  ,1,$ 15,25,debit card,Delivered
+ORD00597,2026/11/06,09:14,"November 09, 2026",sneha verma,sneha.verma57@gmail.com,425590,Delhi,Books   ,DATA SCIENCE GUIDE,two,$40.00,0.15,Debit Card   ,DELIVERED
+ORD00518,16-11-2026,12:02:41,2026-11-23,DIVYA PATEL,divya.patel93@outlook.com,9459237738,chennai,books,Data Science Guide,1,USD 40,20 %,UPI   ,delivered
+ORD00357,"November 22, 2026",06:00 PM,29/11/2026,Karan Joshi   ,karan.joshi8@outlook.com,8796362307,Kolkata,home & kitchen,Mixer Grinder,4.0,USD 70,-,,Returned
+ORD00845,2026/11/15,01:01,21 Nov 2026,Divya Patel,divya.patel67@gmail.com,1074920891,Kolkata,Clothing,T-SHIRT,4,7500.00,5%,Credit Card,Shipped
+ORD00506,2026-11-23,06:57:49,2026/11/30,Divya Nair   ,divya.nair7@yahoo.com,3027003969,Delhi,electronics,laptop,1,550000.00,20,Net  Banking,
+ORD00465,"November 03, 2026",18:36,"November 10, 2026",ARJUN REDDY,arjun.reddy49@outlook.com,3514140617,jaipur,CLOTHING,JACKET,5,$90.00,15%,Debit Card,returned
+ORD00505,11-11-2026,09:45:33,,ARJUN GUPTA,arjun.gupta1@gmail.com,979390,Chennai,Home  &  Kitchen,Mixer  Grinder,4 units,USD 70,0,cash on delivery,  Delivered  
+ORD00328,16 Nov 2026,05:48,19 Nov 2026,Rahul Joshi   ,rahul.joshi90@gmail.com,8770171788,delhi,  Home & Kitchen  ,Mixer  Grinder,five,$70.00,,upi,Cancelled   
+ORD00424,11-11-2026,15:00:05,12/11/2026,Anita Verma   ,anita.verma64@yahoo.com,0210155119,Bengaluru   ,Clothing,JEANS,3,N/A,-,net banking,Pending
+ORD00471,2026/11/01,20:59,"November 07, 2026",Rohan Gupta   ,ROHAN.GUPTA77@YAHOO.COM,8189337870,CHENNAI,Clothing,Jeans   ,1,45.00 $,15%,CREDIT CARD,CANCELLED
+ORD00353,2026-11-12,06:50,18-11-2026,Divya Joshi   ,divya.joshi58@gmail.com,4765391387,Pune,books,  Data Science Guide  ,5 units,$40.00,15%,Credit Card,Pending
+ORD00124,15-11-2026,16:46:27,"November 20, 2026",MEERA VERMA,meera.verma34@gmail.com,2784357223,hyderabad,clothing,JEANS,,$45.00,0.05,Cash  on  Delivery,SHIPPED
+ORD00282,"November 01, 2026",11:26 PM,08 Nov 2026,Aarav Reddy   ,aarav.reddy37@gmail.com,8906008727,  Jaipur  ,electronics,Smart  Watch,4.0,N/A,,CREDIT CARD,Delivered
+ORD00777,01 Nov 2026,12:24 PM,08-11-2026,Meera  Sharma,meera.sharma59@outlook.com,9872481095,  Chennai  ,home & kitchen,  Air Fryer  ,5,110.00 $,15%,NET BANKING,Cancelled   
+ORD00304,"November 19, 2026",02:53 AM,2026-11-22,Rahul Mehta   ,rahul.mehta9@yahoo.com,2816160106,Bengaluru,Books,python handbook,1.0,$ 30,-,Credit Card   ,shipped
+ORD00527,03/11/2026,20:36:56,10-11-2026,ANITA MEHTA,anita.mehta55yahoo.com,+91-90752 35314,KOLKATA,Home  &  Kitchen,Mixer Grinder,4,$70.00,0.00,debit card,DELIVERED
+ORD00139,"November 02, 2026",11:37 AM,07-11-2026,Anita Nair,,9975047134,,  Home & Kitchen  ,Cookware  Set,2,85.00,15%,NET BANKING,Pending   
+ORD00513,2026/11/14,13:06:13,19/11/2026,sneha sharma,sneha.sharma87@gmail.com,1692718143,Bengaluru,ELECTRONICS,Wireless Mouse   ,3,-25.00,15,Debit Card,delivered
+ORD00937,2026/11/02,12:53 PM,2026/11/09,Priya Singh   ,priya.singh48@yahoo.com,8967776303,Kolkata,  Clothing  ,T-SHIRT,1,USD 15,0.15,cash on delivery,  Pending  
+ORD00449,22-11-2026,18:42:37,26-11-2026,Karan  Verma,karan.verma8@gmail.com,5068398005,Delhi,electronics,Wireless Mouse,2,12500.00,20,Cash  on  Delivery,Returned
+ORD00627,2026/11/06,19:35,11 Nov 2026,Vikram  Mehta,VIKRAM.MEHTA50@GMAIL.COM,(853) 037-7838,CHENNAI,Clothing   ,Jacket,4,$90.00,15,Credit Card,Cancelled
+ORD00442,2026-11-23,13:44:12,"November 26, 2026",Neha  Reddy,neha.reddy34@outlook.com,174062,Pune,Electronics   ,bluetooth speaker,4,USD 60,0%,NET BANKING,RETURNED
+ORD00768,2026/11/03,09:45 AM,08/11/2026,Sneha  Sharma,sneha.sharma86@gmail.com,2368518593,Hyderabad   ,books,Data  Science  Guide,one,$40.00,20,  Cash on Delivery  ,Pending
+ORD00587,16-11-2026,05:00 AM,23 Nov 2026,Aarav Singh,aarav.singh60@gmail.com,0616918685,  Bengaluru  ,books,PYTHON HANDBOOK,4,USD 30,0%,debit card,
+ORD00317,2026-11-10,12:18 PM,2026/11/17,Anita Khan,,2544924457,KOLKATA,Home & Kitchen,AIR FRYER,1,$110.00,0,  Credit Card  ,RETURNED
+ORD00859,2026/11/20,01:48 PM,2026-11-27,Aarav Joshi,aarav.joshi52yahoo.com,(364) 583-6279,Hyderabad,Clothing,Jacket,1,90.00 $,0,UPI,Delivered   
+ORD00450,24 Nov 2026,13:24,2026/11/26,  Vikram Sharma  ,vikram.sharma64@yahoo.com,+91-17414 86535,Kolkata,CLOTHING,T-Shirt   ,5 units,$15.00,0.00,Cash on Delivery   ,pending
+ORD00658,01/11/2026,05:52,03 Nov 2026,  Arjun Verma  ,arjun.verma52@outlook.com,9807224605,Pune,Electronics,SMART WATCH,2 units,USD 180,25%,DEBIT CARD,DELIVERED
+ORD00837,04-11-2026,13:21:45,2026-11-06,Meera Verma,meera.verma93@gmail.com,2295754194,Jaipur,Books,  Data Science Guide  ,1,40.00,0.00,Debit Card,Cancelled
+ORD00094,05 Nov 2026,05:23 AM,2026/11/10,PRIYA VERMA,priya.verma73@gmail.com,8826541466,Jaipur,  Electronics  ,laptop,N/A,-,15%,CREDIT CARD,shipped
+ORD00944,2026/11/09,17:11:43,2026-11-15,ARJUN SHARMA,arjun.sharma54@gmail.com,5804933306,mumbai,Electronics,Smart Watch,4,$180.00,20,  UPI  ,Cancelled
+ORD00687,2026/11/22,16:26,2026-11-26,KARAN JOSHI,karan.joshi44@gmail.com,6700558640,MUMBAI,Electronics,Wireless  Mouse,4,USD 25,0.15,  Credit Card  ,Returned
+ORD00609,10/11/2026,06:39 AM,11-11-2026,Vikram Nair   ,vikram.nair29@yahoo.com,0423775325,Chennai,CLOTHING,  T-Shirt  , 2 ,15.00,10,CASH ON DELIVERY,Shipped   
+ORD00005,2026-11-16,20:01:03,2026/11/18,Divya  Joshi,divya.joshi28@outlook.com,7363842005,JAIPUR,Clothing,Jacket,none,$90.00,0.05,NET BANKING,Pending   
+ORD00546,2026/11/03,17:09:02,2026/11/10,Rohan Joshi,rohan.joshi76@outlook.com,5565170244,,books,PYTHON HANDBOOK,five,30.00,5,Credit Card,Cancelled
+ORD00389,2026-11-13,03:53:09,19/11/2026,sneha singh,sneha.singh98@outlook.com,+91-62534 62882,  Bengaluru  ,Electronics,  Wireless Mouse  ,four,$25.00,5,  Cash on Delivery  ,Pending   
+ORD00154,11-11-2026,07:12 AM,17/11/2026,Rahul  Verma,rahul.verma97@yahoo.com,(860) 367-4918,chennai,  Home & Kitchen  ,  Air Fryer  ,4,$110.00,5,upi,Pending   
+ORD00366,"November 22, 2026",20:11,"November 23, 2026",Anita  Gupta,anita.gupta31@yahoo.com,399897,Kolkata   ,Books,PYTHON HANDBOOK,2,30.00,25%,  Cash on Delivery  ,  Returned  
+ORD00560,2026/11/08,21:01,2026/11/09,  Sneha Mehta  ,sneha.mehta21@gmail.com,4591229727,  Chennai  ,HOME & KITCHEN,Air Fryer   ,-2,110.00,0.10,NET BANKING,Pending
+ORD00890,10-11-2026,05:12:33,2026-11-16,Aarav Patel,aarav.patel80@yahoo.com,6918662430,kolkata,  Home & Kitchen  ,MIXER GRINDER,4,$70.00,25 %,Cash on Delivery   ,Cancelled   
+ORD00858,2026/11/09,09:35:37,2026-11-14,  Aarav Reddy  ,aarav.reddy10@yahoo.com,3074717610,JAIPUR,Electronics,  Bluetooth Speaker  ,5.0,$ 60,25%,credit card,Returned
+ORD00848,01 Nov 2026,08:51:16,28-10-2026,  Meera Nair  ,meera.nair29@yahoo.com,7462263879,MUMBAI,Books,DATA SCIENCE GUIDE,N/A,USD 40,0.00,upi,shipped
+ORD00756,"November 19, 2026",06:04,22-11-2026,Arjun  Nair,arjun.nair85@gmail.com,979712,  Kolkata  ,  Books  ,Python  Handbook,1,USD 30,10%,NET BANKING,returned
+ORD00782,2026-11-16,20:36:08,21/11/2026,,rohan.nair64@gmail.com,+91-21334 51953,  Jaipur  ,Clothing,Jacket,1,$90.00,10,CREDIT CARD,DELIVERED
+ORD00038,not a date,21:31,10/11/2026,priya patel,priya.patel60yahoo.com,+91-32690 53597,Hyderabad   ,BOOKS,Data Science Guide,3,$40.00,25%,Debit Card,Shipped
+ORD00152,2026-11-07,12:22 PM,11 Nov 2026,Rahul Patel,rahul.patel42@gmail.com,9592038130,Delhi   ,Books,Python  Handbook,5,30.00 $,5,UPI,shipped
+ORD00085,"November 09, 2026",04:21,"November 10, 2026",ARJUN PATEL,arjun.patel91@outlook.com,8179302819,  Delhi  ,Home & Kitchen,AIR FRYER,1,,15%,UPI,Delivered   
+ORD00713,2026/11/08,17:50:28,10-11-2026,divya mehta,divya.mehta35@outlook.com,6629015336,Jaipur,BOOKS,Data Science Guide   ,2,40.00,NA,net banking,SHIPPED
+ORD00499,2026-11-02,09:37,2026-11-08,Vikram Gupta,vikram.gupta14@outlook.com,4837181838,KOLKATA,Electronics,laptop,1,1100.00,5%,  UPI  ,Shipped   
+ORD00343,10-11-2026,11:39:05,17-11-2026,  Priya Patel  ,priya.patel79@gmail.com,1778619967,pune,HOME & KITCHEN,cookware set,3,-,15,,Returned
+ORD00318,24 Nov 2026,07:55 PM,28/11/2026,vikram verma,vikram.verma56@yahoo.com,2385126893,MUMBAI,Books   ,Python  Handbook, 1 ,30.00,15%,Credit Card,Cancelled
+ORD00109,"November 18, 2026",01:10:34,2026-11-21,Priya  Khan,priya.khan87@outlook.com,6357660347,PUNE,Home & Kitchen   ,  Mixer Grinder  , 3 ,70.00 $,20,Debit  Card,shipped
+ORD00486,2026/11/23,11:34 PM,2026/11/25,Divya Patel   ,divya.patel42@yahoo.com,0065829209,  Kolkata  ,  Clothing  ,  Jeans  ,4,$45.00,10%,  UPI  ,  Cancelled  
+ORD00362,"November 18, 2026",11:24,2026-11-19,divya singh,divya.singh93@yahoo.com,5945064491,Hyderabad,ELECTRONICS,Laptop,1 units,$1100.00,10%,Credit  Card,  Pending  
+ORD00300,"November 08, 2026",08:26 AM,09 Nov 2026,Sneha  Joshi,sneha.joshi96@outlook.com,(078) 011-0362,,Books,Python Handbook,5,$30.00,0.10,  Debit Card  ,cancelled
+ORD00805,"November 16, 2026",09:49 PM,2026-11-19,MEERA PATEL,,4266946267,kolkata,Home & Kitchen,Cookware Set, 1 ,$85.00,15,UPI,Delivered
+ORD00757,2026/11/11,20:55:45,2026/11/15,Priya  Singh,priya.singh46@outlook.com,(337) 369-7454,Pune   ,  Home & Kitchen  ,Cookware  Set,N/A,85.00,0.25,Credit Card   ,  Pending  
+ORD00904,22 Nov 2026,21:56:48,27 Nov 2026,anita reddy,ANITA.REDDY29@OUTLOOK.COM,4936310618,Bengaluru,HOME & KITCHEN,Cookware Set,4,USD 85,5,upi,  Pending  
+ORD00428,09/11/2026,00:06,13-11-2026,  Aarav Sharma  ,aarav.sharma96@yahoo.com,(122) 174-7043,kolkata,BOOKS,  Python Handbook  ,2,$30.00,15%,CASH ON DELIVERY,Pending   
+ORD00955,05 Nov 2026,02:27:56,10/11/2026,Priya  Patel,PRIYA.PATEL4@OUTLOOK.COM,5906447172,Mumbai,electronics,WIRELESS MOUSE,4 units,$25.00,0.10,UPI,Delivered
+ORD00958,19-11-2026,11:55 PM,23-11-2026,Neha Sharma   ,neha.sharma32@outlook.com,+91-88569 19623,BENGALURU,Electronics   ,LAPTOP,5,1100.00,15%,Debit Card   ,  Cancelled  
+ORD00557,03 Nov 2026,01:59:34,06-11-2026,Rahul Sharma   ,rahul.sharma47@yahoo.com,(422) 327-2878,Pune,Electronics   ,  Laptop  ,3,,5%,Cash on Delivery   ,Pending
+ORD00385,2026/11/24,02:12 AM,"November 30, 2026",RAHUL NAIR,rahul.nair37@gmail.com,+91-80210 67049,hyderabad,Electronics,smart watch,2,$ 180,5,NET BANKING,Cancelled
+ORD00669,13 Nov 2026,19:36:09,,MEERA KHAN,meera.khan82@gmail.com,+91-77008 65185,,BOOKS,  Python Handbook  ,1,30.00,0%,,Pending   
+ORD00401,16-11-2026,18:37,"November 20, 2026",NEHA KHAN,neha.khan89@outlook.com,(654) 043-5622,chennai,HOME & KITCHEN,Air Fryer   ,3,$110.00,25%,cash on delivery,Cancelled   
+ORD00179,06-11-2026,09:10 PM,2026/11/07,,meera.gupta46@gmail.com,+91-69026 01675,Pune,Electronics,Smart  Watch,5,USD 180,,net banking,  Cancelled  
+ORD00692,2026/11/23,11:51 PM,24-11-2026,Sneha Singh,sneha.singh84@outlook.com,4699124710,  Kolkata  ,  Electronics  ,Smart  Watch,4,$180.00,25,Debit Card   ,RETURNED
+ORD00515,2026-11-14,05:43 PM,"November 15, 2026",anita joshi,anita.joshi72@yahoo.com,9398023158,pune,Clothing,T-Shirt,4,15.00,10%,NET BANKING,Shipped   
+ORD00638,2026-11-24,19:28,"December 01, 2026",Rohan Sharma   ,ROHAN.SHARMA18@GMAIL.COM,0604171219,Mumbai   ,Clothing,T-Shirt,3,7500.00,10%,UPI,Returned
+ORD00342,"November 14, 2026",09:53 PM,17 Nov 2026,ROHAN MEHTA,rohan.mehta65@yahoo.com,282253,,  Electronics  ,Smart  Watch,4,180.00,0.05,Debit Card,SHIPPED
+ORD00967,2026/11/12,07:12 AM,17-11-2026,PRIYA JOSHI,priya.joshi8@outlook.com,9287441939,Delhi,  Home & Kitchen  ,Air Fryer,3,$110.00,-,net banking,Shipped
+ORD00140,03/11/2026,09:41:38,2026/11/10,arjun khan,arjun.khan12@gmail.com,+91-33503 96941,Mumbai,Clothing,T-Shirt,two,$15.00,10 %,credit card,delivered
+ORD00359,11-11-2026,16:40:57,2026/11/17,Vikram Gupta,vikram.gupta27@outlook.com,(343) 888-3678,kolkata,Books   ,  Python Handbook  ,4 units,$30.00,NA,  UPI  ,CANCELLED
+ORD00363,"November 13, 2026",07:50:07,"November 19, 2026",  Rahul Patel  ,rahul.patel43@gmail.com,9156306731,Mumbai,BOOKS,PYTHON HANDBOOK,2.0,N/A,15,credit card,Delivered
+ORD00764,"November 11, 2026",09:50 AM,17 Nov 2026,Arjun  Reddy,arjun.reddy40@gmail.com,6463213358,  Pune  ,electronics,Bluetooth Speaker   ,4,60.00,20%,,DELIVERED
+ORD00945,09-11-2026,04:26,11 Nov 2026,Sneha Joshi   ,SNEHA.JOSHI51@YAHOO.COM,+91-59593 47316,Mumbai   ,Electronics,Smart  Watch,3,USD 180,20%,Credit  Card,Delivered
+ORD00643,"November 21, 2026",05:53:03,24 Nov 2026,Meera  Nair,meera.nair90@yahoo.com,+91-51925 54358,Delhi,HOME & KITCHEN,Mixer  Grinder,five,USD 70,15,Net Banking   ,pending
+ORD00289,22 Nov 2026,12:42,25/11/2026,Karan Patel   ,karan.patel40gmail.com,5364497294,Pune   ,Clothing   ,Jeans,4,$45.00,0.00,Cash on Delivery,shipped
+ORD00008,22/11/2026,09:15 PM,2026-11-27,VIKRAM SINGH,vikram.singh86@outlook.com,1649906505,chennai,ELECTRONICS,  Laptop  , 3 ,"USD 1,100",25 %,Net Banking,pending
+ORD00616,2026/11/18,18:39:51,24-11-2026,Arjun  Singh,arjun.singh7@outlook.com,6745459336,Jaipur,  Home & Kitchen  ,Mixer  Grinder,none,$ 70,25 %,Net Banking,Cancelled
+ORD00689,"November 20, 2026",23:58:57,2026-11-26,Karan Joshi,karan.joshi79@gmail.com,(971) 626-4583,delhi,Books,Data Science Guide, 3 ,$40.00,10,  Debit Card  ,RETURNED
+ORD00407,2026-11-08,03:16,2026/11/14,Priya  Khan,priya.khan90@outlook.com,+91-94282 92352,,Home & Kitchen   ,  Mixer Grinder  ,0,$70.00,20 %,Credit Card,delivered
+ORD00918,2026/11/10,04:16 AM,12 Nov 2026,meera gupta,meera.gupta37@outlook.com,4404788528,  Delhi  ,  Clothing  ,JEANS,5,45.00,15,CREDIT CARD,cancelled
+ORD00490,2026/11/12,09:46,13 Nov 2026,Karan  Patel,karan.patel40@outlook.com,3118191747,  Delhi  ,  Home & Kitchen  ,  Air Fryer  ,two,$ 110,25,  Debit Card  ,Shipped
+ORD00420,09-11-2026,19:29:17,"November 16, 2026",Karan  Sharma,karan.sharma65@outlook.com,3609262129,Bengaluru,Electronics,  Wireless Mouse  ,2,$25.00,5%,UPI,Cancelled
+ORD00435,2026/11/05,08:01:42,2026-11-11,rahul gupta,rahul.gupta80@yahoo.com,5731280777,Mumbai,Books,Python Handbook   ,2,30.00,-,UPI,Pending
+ORD00737,2026-11-05,08:02 PM,"November 10, 2026",Sneha Patel,sneha.patel37@outlook.com,6544554417,delhi,Home & Kitchen   ,  Air Fryer  ,0,$110.00,20%,UPI,Returned
+ORD00562,2026/11/01,07:38,2026/11/06,KARAN NAIR,karan.nair15@gmail.com,9809308769,  Delhi  ,  Clothing  ,Jacket   ,3,$90.00,-,DEBIT CARD,Cancelled
+ORD00538,2026/11/19,12:35 AM,20-11-2026,,rohan.gupta85@gmail.com,0879284719,Kolkata,Books   ,Python Handbook   ,-2,$30.00,20%,Debit Card   ,RETURNED
+ORD00702,16 Nov 2026,03:14,21/11/2026,Vikram  Khan,vikram.khan52@yahoo.com,(397) 993-2880,  Kolkata  ,clothing,JEANS,two,45.00,10,NET BANKING,Returned
+ORD00615,"November 20, 2026",09:33,22 Nov 2026,  Vikram Gupta  ,vikram.gupta4@gmail.com,(669) 079-3960,  Jaipur  ,Books   ,DATA SCIENCE GUIDE,3,null,10%,UPI   ,PENDING
+ORD00180,06/11/2026,03:43 AM,"November 08, 2026",Sneha Singh   ,sneha.singh72@outlook.com,8778491103,CHENNAI,Books,data science guide,1,$40.00,-,debit card,SHIPPED
+ORD00915,17/11/2026,04:35,"November 24, 2026",Vikram  Nair,vikram.nair16outlook.com,2993572548,mumbai,Electronics,laptop,3 units,"$1,100.00",,NET BANKING,RETURNED
+ORD00043,23-11-2026,05:13,2026-11-26,divya mehta,divya.mehta31@outlook.com,0905595346,delhi,ELECTRONICS,Bluetooth  Speaker,1 units,60.00 $,0.10,Debit Card,Cancelled   
+ORD00483,22-11-2026,09:50 PM,28 Nov 2026,SNEHA JOSHI,sneha.joshi14@gmail.com,+91-83902 50380,Pune,Clothing   ,Jeans,1,22500.00,0.10,Credit Card   ,  Returned  
+ORD00853,2026-11-03,20:21,2026/11/05,Rohan  Mehta,rohan.mehta17@outlook.com,+91-19987 65706,Mumbai,home & kitchen,air fryer,3,110.00,5%,Credit  Card,  Shipped  
+ORD00119,24/11/2026,10:19:12,2026-11-25,DIVYA REDDY,divya.reddy62@gmail.com,1576516950,KOLKATA,Books   ,Python Handbook,5,USD 30,-,Credit Card,
+ORD00526,2026-11-08,08:20 PM,2026/11/11,arjun nair,arjun.nair42gmail.com,6234076284,Hyderabad,books,data science guide,1,40.00 $,25 %,credit card,  Delivered  
+ORD00872,2026-11-02,17:17:09,09-11-2026,vikram mehta,vikram.mehta51@yahoo.com,3605119243,MUMBAI,Books,DATA SCIENCE GUIDE,2,40.00,5 %,CREDIT CARD,Shipped
+ORD00650,2026/11/21,03:08:51,24/11/2026,Rahul  Verma,rahul.verma60@outlook.com,+91-13333 65041,Hyderabad,  Clothing  ,Jacket   ,5,$90.00,5%,  Debit Card  ,Pending
+ORD00135,2026/11/07,07:04 PM,"November 13, 2026",Rahul Gupta   ,rahul.gupta79@yahoo.com,1508182405,Pune,electronics,LAPTOP,1 units,"$1,100.00",25 %,Cash on Delivery,Returned
+ORD00053,11-11-2026,15:14,2026/11/13,Sneha  Joshi,sneha.joshi65@outlook.com,701236,Pune   ,  Electronics  ,LAPTOP,3.0,"USD 1,100",10%,UPI,Shipped
+ORD00260,2026-11-07,19:27,2026/11/04,Arjun Khan   ,arjun.khan48@yahoo.com,+91-57463 08829,Delhi,Electronics,Bluetooth  Speaker,3,30000.00,20,  Debit Card  ,shipped
+ORD00464,05/11/2026,23:29:20,06-11-2026,  Divya Verma  ,divya.verma8@yahoo.com,5442535747,hyderabad,clothing,Jacket,5.0,USD 90,15,Debit Card   ,delivered
+ORD00330,14-11-2026,09:25:01,"November 20, 2026",Divya Reddy   ,divya.reddy65@yahoo.com,8911478009,  Hyderabad  ,Electronics,  Smart Watch  ,1,90000.00,0,,cancelled
+ORD00831,"November 05, 2026",17:46:23,09/11/2026,Sneha  Khan,sneha.khan93@outlook.com,4017257989,MUMBAI,Clothing,Jacket   ,3,$ 90,15,Net Banking,Returned
+ORD00298,"November 03, 2026",19:27,08-11-2026,Rahul  Khan,rahul.khan65@yahoo.com,+91-61492 03237,JAIPUR,  Clothing  ,Jeans, 5 ,$45.00,0.00,UPI,Returned   
+ORD00348,04 Nov 2026,00:57:17,09 Nov 2026,Aarav Gupta,aarav.gupta70@yahoo.com,3223429231,Hyderabad,Home  &  Kitchen,MIXER GRINDER,4,70.00,15%,Net Banking,DELIVERED
+ORD00764,"November 11, 2026",09:50 AM,17 Nov 2026,ARJUN  REDDY,arjun.reddy40@gmail.com,6463213358,  Pune  ,electronics,Bluetooth Speaker   ,4,60.00,20%,,DELIVERED
+ORD00602,2026-11-01,10:36 PM,05/11/2026,Sneha  Sharma,sneha.sharma1@outlook.com,+91-89310 11323,,Clothing   ,Jacket,2,$ 90,15%,Cash on Delivery   ,Returned
+ORD00130,17 Nov 2026,11:17 PM,2026-11-23,  Anita Reddy  ,anita.reddy70@gmail.com,3230883409,Pune   ,BOOKS,Data Science Guide,2,40.00,15,DEBIT CARD,  Returned  
+ORD00648,20 Nov 2026,09:08 AM,"November 23, 2026",  Aarav Singh  ,,7328013007,hyderabad,Clothing   ,jacket,1.0,$ 90,15%,UPI,Pending
+ORD00214,2026/11/05,13:35:29,"November 10, 2026",Sneha Nair   ,SNEHA.NAIR55@OUTLOOK.COM,4829094583,Pune,ELECTRONICS,Bluetooth  Speaker,1,60.00,0%,Debit  Card,pending
+ORD00293,2026/11/05,21:59,2026-11-06,  Sneha Singh  ,sneha.singh14yahoo.com,5392412826,Mumbai,Electronics,WIRELESS MOUSE,2,$25.00,0.20,  Debit Card  ,returned
+ORD00887,2026/11/02,14:08,"November 07, 2026",ANITA VERMA,anita.verma55@yahoo.com,(150) 658-6166,Bengaluru,ELECTRONICS,bluetooth speaker,5,60.00 $,5,  Credit Card  ,SHIPPED
+ORD00953,"November 01, 2026",09:10:05,02/11/2026,Meera Gupta   ,meera.gupta19@gmail.com,7874907881,  Delhi  ,Home & Kitchen,Cookware Set   , 5 ,85.00 $,10%,Cash  on  Delivery,CANCELLED
+ORD00467,2026/11/19,06:20:49,23/11/2026,aarav mehta,aarav.mehta32@outlook.com,+91-54148 35592,Kolkata,Electronics,Bluetooth Speaker,2,$60.00,20%,Cash on Delivery   ,Returned   
+ORD00578,2026/11/01,06:53:07,2026-11-07,Arjun Sharma,arjun.sharma9@yahoo.com,2443552824,mumbai,Home  &  Kitchen,Mixer  Grinder,2,$ 70,0,NET BANKING,
+ORD00283,11 Nov 2026,15:51:45,13/11/2026,sneha mehta,sneha.mehta69@gmail.com,+91-27190 36821,Mumbai   ,  Clothing  ,T-Shirt,1,USD 15,15%,cash on delivery,Cancelled
+ORD00631,2026-11-15,02:18:46,,  Priya Khan  ,priya.khan74@yahoo.com,4789142759,Delhi,Clothing   ,t-shirt,3,15.00,15,CREDIT CARD,Returned   
+ORD00714,2026-11-07,02:51,2026-11-14,Priya Verma   ,priya.verma19@gmail.com,2841425831,  Chennai  ,BOOKS,Data Science Guide   ,3,40.00,0%,UPI,Returned
+ORD00977,2026-11-16,04:17:21,"November 18, 2026",Meera Gupta   ,MEERA.GUPTA10@GMAIL.COM,5368353133,jaipur,  Clothing  ,Jeans   ,5,$45.00,0 %,debit card,DELIVERED
+ORD00785,20/11/2026,04:42,2026-11-23,ROHAN SHARMA,rohan.sharma16@outlook.com,327940,chennai,Clothing,T-Shirt,2,null,20%,Debit Card,returned
+ORD00601,03/11/2026,17:31:01,07 Nov 2026,anita patel,anita.patel21@gmail.com,+91-58659 39013,Bengaluru,  Books  ,PYTHON HANDBOOK,-2,30.00,0.20,cash on delivery,Returned
+ORD00133,07 Nov 2026,13:07:21,,Sneha Verma   ,SNEHA.VERMA31@OUTLOOK.COM,(753) 295-6617,,Books,Data Science Guide,2,$ 40,0.05,CASH ON DELIVERY,Cancelled   
+ORD00803,2026/11/03,00:53:32,06-11-2026,Priya Nair,priya.nair73@outlook.com,5713996134,,electronics,Laptop,2,"1,100.00 $",0,,delivered
+ORD00659,not a date,01:04:35,2026-11-29,DIVYA JOSHI,divya.joshi91@gmail.com,4417949097,MUMBAI,Books,Data  Science  Guide,3.0,USD 40,0,Debit  Card,  Returned  
+ORD00763,01-11-2026,21:11,04-11-2026,AARAV REDDY,aarav.reddy52@outlook.com,(334) 100-1324,Delhi,clothing,Jacket,2,$90.00,15 %,net banking,returned
+ORD00067,2026-11-03,02:59,"November 06, 2026",neha gupta,neha.gupta95@yahoo.com,0332114540,Kolkata,clothing,  Jacket  ,1,$ 90,5,Net Banking   ,Shipped
+ORD00150,2026/11/12,08:24 PM,19 Nov 2026,Aarav Singh,aarav.singh89@yahoo.com,3571335981,  Mumbai  ,ELECTRONICS,Smart  Watch,5,-180.00,15,Credit Card   ,Cancelled   
+ORD00698,"November 06, 2026",04:49 PM,,Karan Joshi,karan.joshi76@outlook.com,+91-36871 15949,HYDERABAD,Home  &  Kitchen,Mixer Grinder,2 units,USD 70,0.05,  Cash on Delivery  ,  Returned  
+ORD00961,"November 18, 2026",15:05,"November 22, 2026",  Aarav Verma  ,AARAV.VERMA65@YAHOO.COM,2376627418,Pune   ,Home  &  Kitchen,Cookware Set,one,$85.00,20 %,  Credit Card  ,Returned   
+ORD00963,2026/11/01,12:02,03/11/2026,Anita Verma,anita.verma84@outlook.com,8261896001,jaipur,BOOKS,DATA SCIENCE GUIDE,3,$40.00,15,Cash  on  Delivery,Shipped
+ORD00144,05/11/2026,06:43:35,06/11/2026,DIVYA KHAN,divya.khan35@outlook.com,2636456738,  Jaipur  ,Clothing,t-shirt,2.0,$ 15,5 %,CREDIT CARD,
+ORD00786,2026/11/23,04:01 AM,30/11/2026,Rohan  Patel,rohan.patel72@yahoo.com,1165561699,Kolkata,  Books  ,  Data Science Guide  ,3,$40.00,5,upi,  Pending  
+ORD00354,"November 12, 2026",11:10 AM,,,priya.nair24@yahoo.com,+91-51671 75755,mumbai,HOME & KITCHEN,Mixer Grinder,5 units,$70.00,25 %,Debit Card   ,  Pending  
+ORD00922,14 Nov 2026,08:50 AM,18 Nov 2026,  Rohan Sharma  ,rohan.sharma86@outlook.com,+91-65990 52294,Bengaluru,clothing,JACKET,five,$90.00,0,debit card,Shipped
+ORD00262,13 Nov 2026,00:45:15,14-11-2026,arjun sharma,arjun.sharma17@gmail.com,9570758801,HYDERABAD,ELECTRONICS,Laptop,3,"USD 1,100",0%,Credit Card   ,Cancelled
+ORD00931,2026/11/17,10:15,23-11-2026,,anita.verma54@yahoo.com,4211502327,Delhi   ,Home & Kitchen,AIR FRYER,three,$110.00,0.00,UPI,Cancelled   
+ORD00185,15-11-2026,07:21,18/11/2026,  Meera Nair  ,meera.nair34@outlook.com,5904933340,KOLKATA,electronics,Laptop,1,"USD 1,100",20,Net Banking   ,  Returned  
+ORD00476,"November 09, 2026",14:40:19,2026/11/13,Vikram Mehta   ,vikram.mehta81outlook.com,0144490722,Pune   ,Electronics,wireless mouse,1,25.00,10%,Net Banking   ,Pending
+ORD00659,not a date,01:04:35,2026-11-29,DIVYA JOSHI,divya.joshi91@gmail.com,4417949097,MUMBAI,Books,Data  Science  Guide,3.0,USD 40,0,Debit  Card,  Returned  
+ORD00164,2026-11-05,12:00,2026/11/09,Rahul Reddy,rahul.reddy62@yahoo.com,802367,Chennai   ,books,Data Science Guide, 3 ,USD 40,0%,Cash  on  Delivery,shipped
+ORD00875,24-11-2026,04:13 PM,25/11/2026,  Sneha Singh  ,sneha.singh98@gmail.com,5822370345,Delhi   ,Electronics   ,Bluetooth  Speaker,3 units,60.00 $,0.00,  Cash on Delivery  ,
+ORD00046,2026/11/13,08:39 PM,14/11/2026,Arjun Reddy   ,arjun.reddy48@yahoo.com,1332901591,Pune,  Home & Kitchen  ,AIR FRYER,1,110.00,,UPI,Cancelled
+ORD00591,2026/11/11,03:35 AM,13-11-2026,  Anita Khan  ,anita.khan64@outlook.com,1867842317,  Hyderabad  ,BOOKS,Data Science Guide,4,$40.00,0,  Net Banking  ,delivered
+ORD00391,2026-11-24,08:32,2026-11-28,divya nair,divya.nair35yahoo.com,+91-50623 30441,Pune,  Electronics  ,WIRELESS MOUSE, 1 ,$ 25,5 %,Debit  Card,Returned
+ORD00121,2026/11/12,03:52 AM,2026/11/14,DIVYA PATEL,divya.patel34@outlook.com,267474,Delhi,HOME & KITCHEN,  Air Fryer  , 2 ,$110.00,10,Net Banking   ,DELIVERED
+ORD00502,05/11/2026,09:40 PM,"November 08, 2026",Meera  Verma,meera.verma53@outlook.com,799235,KOLKATA,Books,DATA SCIENCE GUIDE,3,$40.00,NA,cash on delivery,PENDING
+ORD00090,2026-11-06,11:09 PM,"November 07, 2026",Arjun  Mehta,arjun.mehta58@gmail.com,0210379843,BENGALURU,  Home & Kitchen  ,Air Fryer, 1 ,$110.00,0%,credit card,  Shipped  
+ORD00898,24/11/2026,07:45 PM,30 Nov 2026,RAHUL JOSHI,rahul.joshi81@gmail.com,0950798151,  Mumbai  ,books,Data Science Guide   ,,$40.00,5%,net banking,Cancelled   
+ORD00638,2026-11-24,19:28,"December 01, 2026",Rohan Sharma   ,ROHAN.SHARMA18@GMAIL.COM,0604171219,Mumbai   ,Clothing,T-Shirt,3,7500.00,10%,UPI,Returned
+ORD00108,07 Nov 2026,22:43:30,"November 13, 2026",Anita Gupta,anita.gupta91@outlook.com,5677559768,  Jaipur  ,CLOTHING,T-Shirt,2 units,$15.00,0.10,UPI,Delivered
+ORD00157,23-11-2026,20:23,30/11/2026,PRIYA PATEL,priya.patel4@gmail.com,6744211583,Jaipur,Electronics,Wireless Mouse,4,$ 25,5 %,CREDIT CARD,  Returned  
+ORD00790,20/11/2026,20:29,21/11/2026,Neha Sharma,neha.sharma56@yahoo.com,8634487360,Kolkata   ,  Clothing  ,T-Shirt   ,1,$ 15,10,UPI   ,Shipped   
+ORD00463,10/11/2026,10:21 AM,"November 17, 2026",Divya  Joshi,divya.joshi50@outlook.com,1969487724,mumbai,electronics,SMART WATCH,0,,0.00,DEBIT CARD,DELIVERED
+ORD00267,17 Nov 2026,11:08 AM,23/11/2026,,rohan.patel12@outlook.com,7403896064,Chennai,  Home & Kitchen  ,COOKWARE SET,1,$85.00,10,CREDIT CARD,CANCELLED
+ORD00814,06/11/2026,11:23:48,2026-11-08,  Karan Patel  ,karan.patel34@yahoo.com,9874755880,Pune,Home & Kitchen   ,Mixer  Grinder,3,USD 70,10,UPI,Cancelled   
+ORD00747,12 Nov 2026,02:59 AM,"November 17, 2026",Arjun Joshi,arjun.joshi53@yahoo.com,4002351151,CHENNAI,Books   ,Python Handbook   ,three,USD 30,0.15,Net Banking   ,cancelled
+ORD00684,13/11/2026,08:14:29,14-11-2026,Rohan  Khan,rohan.khan56@yahoo.com,6014968004,Bengaluru   ,CLOTHING,  Jacket  ,2,90.00,0 %,CASH ON DELIVERY,shipped
+ORD00250,"November 03, 2026",11:59 AM,"November 09, 2026",,anita.patel19@gmail.com,929715,Delhi,ELECTRONICS,laptop,0,1100.00,0.20,Net Banking   ,  Returned  
+ORD00725,2026-11-17,08:15 AM,"November 18, 2026",RAHUL JOSHI,RAHUL.JOSHI27@YAHOO.COM,(235) 559-9257,Hyderabad,Clothing   ,Jeans,2,$ 45,10%,NET BANKING,Shipped
+ORD00811,2026/11/21,01:59,2026/11/19,Karan Sharma   ,karan.sharma1@gmail.com,7170844845,DELHI,Clothing,JACKET,5,USD 90,0.05,net banking,Returned   
+ORD00813,05/11/2026,06:54,09/11/2026,priya joshi,priya.joshi78@gmail.com,9608402250,Mumbai   ,CLOTHING,T-Shirt, 4 ,$15.00,20%,  Debit Card  ,
+ORD00297,2026-11-14,20:41,2026-11-19,ANITA GUPTA,anita.gupta88@outlook.com,5128538884,Pune,Electronics,  Smart Watch  ,5,USD 180,10%,  UPI  ,Cancelled
+ORD00141,01-11-2026,12:04:59,03 Nov 2026,Sneha  Singh,sneha.singh70@outlook.com,6966395202,Jaipur,  Books  ,Data  Science  Guide,3,20000.00,25%,CASH ON DELIVERY,Returned   
+ORD00457,21/11/2026,08:38,24 Nov 2026,  Vikram Sharma  ,vikram.sharma85@yahoo.com,(734) 061-8178,KOLKATA,CLOTHING,jacket, 5 ,$90.00,25,Debit  Card,Pending
+ORD00629,2026-11-13,10:17,2026/11/19,Divya Singh   ,divya.singh27@outlook.com,1019285507,Hyderabad,Home & Kitchen   ,MIXER GRINDER,1,USD 70,20,UPI,Delivered
+ORD00912,17-11-2026,07:27,24/11/2026,  Arjun Patel  ,arjun.patel57@outlook.com,1028329326,Mumbai   ,Electronics,Laptop   ,1,550000.00,20,Debit  Card,returned
+ORD00400,02 Nov 2026,11:40,2026-11-09,  Sneha Mehta  ,sneha.mehta51@yahoo.com,7167867152,Delhi   ,Electronics,Laptop,none,"$1,100.00",10%,Cash  on  Delivery,cancelled
+ORD00481,18-11-2026,23:23,,  Vikram Nair  ,vikram.nair72@gmail.com,1958661689,Bengaluru,electronics,Laptop   ,3,1100.00,0%,Cash on Delivery,Shipped   
+ORD00450,24 Nov 2026,13:24,2026/11/26,  Vikram Sharma  ,vikram.sharma64@yahoo.com,+91-17414 86535,Kolkata,CLOTHING,T-Shirt   ,5 units,$15.00,0.00,Cash on Delivery   ,pending
+ORD00385,2026/11/24,02:12 AM,"November 30, 2026",RAHUL NAIR,rahul.nair37@gmail.com,+91-80210 67049,hyderabad,Electronics,smart watch,2,$ 180,5,NET BANKING,Cancelled
+ORD00642,2026-11-10,07:52:54,2026/11/12,Sneha Khan,sneha.khan33@yahoo.com,(759) 566-9329,Mumbai,  Books  ,  Data Science Guide  ,two,$40.00,20%,Net  Banking,  Cancelled  
+ORD00151,18 Nov 2026,00:40:53,20 Nov 2026,ANITA MEHTA,,+91-96853 58773,  Chennai  ,home & kitchen,COOKWARE SET,2,$85.00,0.05,  Credit Card  ,Pending
+ORD00576,2026-11-01,07:34 AM,2026-11-08,Aarav Sharma,aarav.sharma3@outlook.com,+91-27421 05579,  Delhi  ,Home & Kitchen   ,Air  Fryer,2 units,$110.00,15,Net  Banking,
+ORD00740,2026/11/11,06:38 PM,14 Nov 2026,neha verma,neha.verma3@gmail.com,5339627653,  Kolkata  ,Books,PYTHON HANDBOOK,4,$30.00,25 %,CASH ON DELIVERY,
+ORD00100,"November 14, 2026",23:03,18-11-2026,MEERA JOSHI,meera.joshi1@gmail.com,+91-98750 07283,Delhi,clothing,jacket,5,USD 90,25%,debit card,returned
+ORD00857,22/11/2026,07:53,"November 24, 2026",Rahul Singh   ,rahul.singh13@yahoo.com,4830398990,Delhi   ,Clothing,T-Shirt   , 4 ,$15.00,0%,CREDIT CARD,SHIPPED
+ORD00303,2026-11-13,05:00 PM,"November 19, 2026",Sneha  Gupta,sneha.gupta2@yahoo.com,0253363678,chennai,HOME & KITCHEN,  Mixer Grinder  ,4,$70.00,10%,Cash  on  Delivery,PENDING
+ORD00670,2026/11/18,00:41:43,23 Nov 2026,Karan  Patel,karan.patel74@gmail.com,9317741687,pune,  Books  ,DATA SCIENCE GUIDE,0,40.00,0.20,Net  Banking,Cancelled
+ORD00320,19 Nov 2026,21:33,,neha khan,NEHA.KHAN86@YAHOO.COM,2296140091,,Books,DATA SCIENCE GUIDE,4 units,40.00 $,0.10,UPI   ,Cancelled   
+ORD00835,15-11-2026,01:55:28,19 Nov 2026,Divya Nair,divya.nair65@outlook.com,5157171477,jaipur,BOOKS,  Data Science Guide  ,5,$40.00,15%,Cash on Delivery   ,Pending
+ORD00125,07-11-2026,08:20 AM,09/11/2026,,divya.mehta20@gmail.com,9408983388,  Pune  ,CLOTHING,Jeans   ,5,45.00 $,20,Credit Card   ,  Cancelled  
+ORD00553,2026-11-05,16:16,,Aarav Sharma   ,aarav.sharma1gmail.com,3361873299,  Bengaluru  ,Clothing   ,T-Shirt, 3 ,15.00,20,Cash  on  Delivery,Delivered
+ORD00676,11 Nov 2026,06:05,14-11-2026,Arjun Reddy   ,ARJUN.REDDY95@YAHOO.COM,6270755659,Bengaluru,Home & Kitchen,air fryer,3,110.00,25%,CASH ON DELIVERY,cancelled
+ORD00349,2026-11-07,04:22 AM,2026/11/11,anita mehta,anita.mehta54@gmail.com,545903,Bengaluru,Electronics,Bluetooth  Speaker,4 units,30000.00,10%,UPI,SHIPPED
+,14/11/2026,13:43,17-11-2026,Sneha  Reddy,sneha.reddy33outlook.com,6071601170,kolkata,Electronics   ,laptop,5,"$1,100.00",0.15,Debit Card,  Pending  
+ORD00142,2026-11-16,21:44,21-11-2026,  Sneha Nair  ,SNEHA.NAIR59@OUTLOOK.COM,2533133629,Jaipur   ,electronics,SMART WATCH,4,$ 180,15%,Net  Banking,Pending
+ORD00600,23-11-2026,07:34:42,28/11/2026,Sneha Singh   ,sneha.singh21@yahoo.com,1405375618,  Jaipur  ,books,Data Science Guide   ,5,USD 40,0%,CREDIT CARD,  Shipped  
+ORD00778,"November 22, 2026",00:54:01,29 Nov 2026,Aarav Khan   ,aarav.khan65@yahoo.com,+91-87047 71868,Hyderabad,Home & Kitchen   ,  Air Fryer  ,N/A,USD 110,25,Debit Card   ,  Pending  
+ORD00022,13/11/2026,09:54 AM,"November 18, 2026",Meera  Verma,meera.verma77@gmail.com,6026850785,hyderabad,HOME & KITCHEN,Cookware Set   ,4,$85.00,15,upi,DELIVERED
+ORD00941,23 Nov 2026,12:01,,  Divya Gupta  ,divya.gupta59@gmail.com,0737369161,Jaipur   ,Electronics   ,wireless mouse,4,USD 25,20%,upi,Delivered
+ORD00518,16-11-2026,12:02:41,2026-11-23,DIVYA PATEL,divya.patel93@outlook.com,9459237738,chennai,books,Data Science Guide,1,USD 40,20 %,UPI   ,delivered
+ORD00927,2026-11-08,11:31 AM,15/11/2026,AARAV NAIR,aarav.nair12@outlook.com,1158447286,Bengaluru   ,Electronics,Bluetooth Speaker,5,USD 60,15%,,CANCELLED
+ORD00050,20 Nov 2026,15:13,,Rohan  Mehta,rohan.mehta74@outlook.com,+91-45430 95923,hyderabad,Home & Kitchen   ,Air Fryer, 4 ,$110.00,10%,cash on delivery,  Delivered  
+ORD00803,2026/11/03,00:53:32,06-11-2026,Priya Nair,priya.nair73@outlook.com,5713996134,,electronics,Laptop,2,"1,100.00 $",0,,delivered
+ORD00788,10/11/2026,06:06 AM,14/11/2026,Neha Gupta,neha.gupta17@yahoo.com,0450772899,  Delhi  ,BOOKS,PYTHON HANDBOOK,1,$30.00,10 %,Cash on Delivery   ,Delivered
+ORD00473,21-11-2026,11:22 PM,22-11-2026,  Neha Patel  ,NEHA.PATEL5@GMAIL.COM,3995744763,MUMBAI,clothing,  Jacket  , 2 ,-,0,Credit Card,Pending
+ORD00682,11-11-2026,05:14 AM,15 Nov 2026,SNEHA JOSHI,sneha.joshi85@outlook.com,(512) 024-3668,Chennai,Electronics   ,laptop,2 units,$ 1100,5 %,debit card,Pending
+ORD00051,2026-11-12,20:08:32,15/11/2026,Rahul  Reddy,rahul.reddy98@outlook.com,6193739715,  Chennai  ,Electronics   ,  Bluetooth Speaker  ,5,$60.00,10 %,  Debit Card  ,Pending
+ORD00324,2026/11/06,03:08 AM,,arjun sharma,,+91-30728 69171,Mumbai   ,electronics,  Wireless Mouse  ,2,$25.00,10%,UPI,returned
+ORD00581,2026-11-14,11:50 AM,16 Nov 2026,Neha  Patel,neha.patel40@yahoo.com,311498,Bengaluru,books,  Data Science Guide  , 3 ,$40.00,15,  Credit Card  ,Returned   
+ORD00327,09 Nov 2026,09:01 PM,13/11/2026,  Rohan Nair  ,rohan.nair22@yahoo.com,9197139937,Jaipur,BOOKS,DATA SCIENCE GUIDE,N/A,$40.00,5%,Cash on Delivery,SHIPPED
+ORD00495,2026/11/21,08:52:57,27 Nov 2026,  Divya Nair  ,divya.nair97@gmail.com,+91-77513 49360,Mumbai,home & kitchen,air fryer,-2,110.00,0%,  Credit Card  ,Returned
+ORD00531,04-11-2026,05:52 AM,09-11-2026,Karan  Singh,karan.singh55@yahoo.com,(325) 887-6326,bengaluru,Home  &  Kitchen,air fryer, 3 ,USD 110,20%,NET BANKING,PENDING
+ORD00685,2026-11-04,08:23:48,2026/11/09,Aarav Patel,aarav.patel69yahoo.com,1460562644,Mumbai,Electronics   ,Bluetooth  Speaker,1,60.00,10%,Cash  on  Delivery,Cancelled
+ORD00614,14/11/2026,02:13 PM,2026-11-16,Aarav Verma   ,aarav.verma52@gmail.com,8018575665,  Mumbai  ,Books,python handbook,2.0,30.00 $,0%,Cash  on  Delivery,Delivered   
+ORD00920,2026-11-14,06:49,15 Nov 2026,Rahul  Singh,rahul.singh27@yahoo.com,4974086738,jaipur,HOME & KITCHEN,Air Fryer,3,$110.00,0.20,,Delivered
+ORD00844,19-11-2026,07:45 AM,"November 23, 2026",AARAV MEHTA,aarav.mehta78@yahoo.com,6062326188,Kolkata,Clothing,jacket,1,$90.00,15,Debit  Card,Shipped
+ORD00027,19/11/2026,05:12 AM,21 Nov 2026,Vikram Reddy,vikram.reddy33outlook.com,8961435642,  Bengaluru  ,Clothing   ,jeans,3 units,$45.00,NA,Credit Card   ,
+ORD00181,14/11/2026,04:04:03,2026/11/10,karan sharma,karan.sharma26gmail.com,6549030016,Jaipur,CLOTHING,T-Shirt,-2,15.00,-,Debit Card   ,Pending
+ORD00254,2026/11/17,18:43:32,2026-11-19,MEERA SHARMA,meera.sharma20@outlook.com,+91-33852 96417,Pune,CLOTHING,  T-Shirt  ,3,$15.00,5%,Cash  on  Delivery,
+ORD00445,2026/11/11,10:51:57,13-11-2026,arjun nair,ARJUN.NAIR95@OUTLOOK.COM,2370646603,Mumbai,Books,  Python Handbook  ,5.0,null,0.25,Net Banking   ,Returned   
+ORD00784,"November 01, 2026",08:51 PM,"November 04, 2026",Meera  Gupta,meera.gupta31@outlook.com,7000245240,Delhi   ,Clothing,  T-Shirt  ,3,$15.00,15%,Cash on Delivery   ,Returned
+ORD00595,16 Nov 2026,07:38:52,2026-11-23,rohan reddy,rohan.reddy94@gmail.com,1641043841,Mumbai   ,Clothing   ,t-shirt,3,null,5,credit card,Shipped
+ORD00894,04 Nov 2026,15:32,"November 09, 2026",  Priya Singh  ,priya.singh63@outlook.com,955698,Bengaluru,clothing,t-shirt,4,$15.00,0.10,  Debit Card  ,Shipped
+ORD00791,08/11/2026,20:55:09,12 Nov 2026,VIKRAM MEHTA,vikram.mehta28@outlook.com,1935524275,pune,CLOTHING,Jeans,,$45.00,10%,CREDIT CARD,shipped
+ORD00386,2026-11-11,20:07:07,15/11/2026,ANITA JOSHI,anita.joshi71@gmail.com,+91-33802 55807,Delhi   ,ELECTRONICS,Wireless  Mouse,3,$25.00,15%,,  Returned  
+ORD00928,03/11/2026,19:15:03,06-11-2026,Arjun Patel,arjun.patel75@yahoo.com,3101649829,  Hyderabad  ,Clothing,Jacket,one,$90.00,0,NET BANKING,Shipped
+ORD00510,19 Nov 2026,06:46:28,,Neha Khan   ,neha.khan99@yahoo.com,(284) 810-6431,Mumbai,  Books  ,Data Science Guide,3,,0.20,CREDIT CARD,  Shipped  
+ORD00694,18 Nov 2026,01:29 PM,"November 22, 2026",Neha  Sharma,neha.sharma15@gmail.com,7052068013,,Clothing,T-SHIRT,5.0,USD 15,0.25,credit card,Cancelled
+ORD00612,2026-11-01,10:33,03/11/2026,KARAN SHARMA,karan.sharma44@gmail.com,2452366047,  Mumbai  ,  Books  ,  Data Science Guide  ,0,USD 40,0.15,Net  Banking,  Pending  
+ORD00267,17 Nov 2026,11:08 AM,23/11/2026,,rohan.patel12@outlook.com,7403896064,Chennai,  Home & Kitchen  ,COOKWARE SET,1,$85.00,10,CREDIT CARD,CANCELLED
+ORD00273,14-11-2026,12:27,2026/11/21,Sneha  Mehta,sneha.mehta54@yahoo.com,1636307506,Chennai,ELECTRONICS,  Wireless Mouse  ,-2,$25.00,15 %,UPI   ,  Delivered  
+ORD00434,"November 03, 2026",21:10,"November 04, 2026",Rohan Sharma,rohan.sharma30@outlook.com,1495715521,Bengaluru   ,Books   ,Data Science Guide,5,$40.00,20%,DEBIT CARD,  Delivered  
+ORD00543,"November 02, 2026",05:31:15,2026/11/07,Arjun  Khan,arjun.khan52@gmail.com,(714) 876-9033,Chennai,BOOKS,PYTHON HANDBOOK,two,$ 30,0.00,credit card,Pending   
+ORD00241,"November 15, 2026",08:30:12,20/11/2026,  Neha Khan  ,neha.khan11@yahoo.com,9989721155,delhi,Home  &  Kitchen,Cookware Set   ,4.0,$85.00,0,Cash  on  Delivery,PENDING
+ORD00812,16/11/2026,04:39:18,2026-11-18,Sneha Verma   ,sneha.verma8@yahoo.com,+91-48992 98997,MUMBAI,Electronics,  Laptop  ,1,"USD 1,100",10 %,  Credit Card  ,Returned
+ORD00311,06/11/2026,18:27,09 Nov 2026,ARJUN NAIR,arjun.nair87@gmail.com,+91-94973 86806,bengaluru,  Electronics  ,SMART WATCH,2,$ 180,5%,Credit Card   ,Shipped
+ORD00054,16/11/2026,12:41:58,"November 21, 2026",neha patel,,8337109096,PUNE,Books,Data Science Guide   ,two,$40.00,0.20,Debit  Card,Shipped
+ORD00347,03 Nov 2026,15:41:25,,MEERA GUPTA,meera.gupta84@yahoo.com,(356) 840-5080,Chennai   ,  Books  ,Python  Handbook,5 units,$30.00,-,DEBIT CARD,SHIPPED
+ORD00734,21/11/2026,07:16,24 Nov 2026,Divya Patel,divya.patel24@outlook.com,092335,Pune,Electronics,Wireless  Mouse, 2 ,USD 25,20%,debit card,shipped
+ORD00395,"November 22, 2026",14:40:22,23 Nov 2026,Vikram  Mehta,vikram.mehta50@yahoo.com,5460403078,Chennai,  Books  ,Data Science Guide,4,40.00 $,10%,Net Banking,DELIVERED
+ORD00675,16-11-2026,13:51:21,2026-11-19,Sneha  Khan,sneha.khan10@gmail.com,+91-06396 37916,Bengaluru,books,DATA SCIENCE GUIDE,4,USD 40,25,  Debit Card  ,  Delivered  
+ORD00440,08-11-2026,20:14:47,"November 14, 2026",rohan patel,rohan.patel43@outlook.com,8060608292,Chennai,Electronics,  Smart Watch  ,two,N/A,20%,Cash on Delivery   ,Returned
+ORD00905,12-11-2026,04:09 PM,"November 17, 2026",Meera Reddy   ,meera.reddy1@gmail.com,6096287809,Kolkata,Electronics,Smart Watch   ,5,180.00,20 %,  Cash on Delivery  ,pending
+ORD00387,21/11/2026,14:25,27-11-2026,priya singh,priya.singh58@gmail.com,+91-22650 82022,Kolkata,Electronics,  Laptop  ,3,1100.00,0.25,Cash on Delivery   ,Delivered
+ORD00106,2026/11/11,08:23 PM,2026-11-18,meera mehta,meera.mehta92@yahoo.com,2389257011,BENGALURU,Clothing,  Jeans  ,2,$ 45,15%,Credit  Card,Pending
+ORD00286,2026/11/20,05:58 PM,25 Nov 2026,ARJUN SHARMA,arjun.sharma83@gmail.com,0020126731,MUMBAI,home & kitchen,Cookware  Set,5,$85.00,5%,Net  Banking,  Pending  
+ORD00339,24/11/2026,04:40,"November 26, 2026",karan patel,karan.patel82gmail.com,235277,  Chennai  ,  Home & Kitchen  ,Mixer  Grinder,5,70.00,15,Credit  Card,
+ORD00951,"November 22, 2026",02:56,28 Nov 2026,SNEHA PATEL,sneha.patel91@yahoo.com,8990405995,  Chennai  ,  Books  ,Python Handbook   ,4,$30.00,20%,credit card,pending
+ORD00233,21/11/2026,14:08:50,"November 27, 2026",Neha Gupta,neha.gupta43@gmail.com,3843653625,PUNE,Electronics,  Smart Watch  ,five,$180.00,15%,UPI,  Shipped  
+ORD00156,13/11/2026,02:32,18-11-2026,divya joshi,divya.joshi42@yahoo.com,2157876426,  Pune  ,Clothing,jeans,5.0,$45.00,15 %,debit card,delivered
+ORD00418,"November 06, 2026",09:07:26,10/11/2026,ANITA GUPTA,anita.gupta6@gmail.com,9974767830,Chennai,Clothing,T-Shirt,three,USD 15,-,NET BANKING,Returned
+ORD00279,"November 17, 2026",09:15,18-11-2026,  Aarav Nair  ,aarav.nair3@outlook.com,812327,  Hyderabad  ,Electronics   ,  Bluetooth Speaker  ,0,$60.00,NA,Cash on Delivery,Pending   
+ORD00630,05-11-2026,14:11:31,"November 09, 2026",,ANITA.NAIR36@OUTLOOK.COM,+91-13115 42469,  Jaipur  ,  Clothing  ,jacket,3,$90.00,0.00,Net  Banking,Shipped
+ORD00756,"November 19, 2026",06:04,22-11-2026,ARJUN  NAIR,arjun.nair85@gmail.com,979712,  Kolkata  ,  Books  ,Python  Handbook,1,USD 30,10%,NET BANKING,returned
+ORD00514,15/11/2026,16:44,2026/11/18,Divya Verma   ,divya.verma79@outlook.com,+91-66906 89028,Bengaluru,Clothing,jeans,5,N/A,15,DEBIT CARD,Pending
+ORD00496,"November 09, 2026",03:21,2026-11-05,anita patel,anita.patel12@outlook.com,9228516957,  Bengaluru  ,  Books  ,Data Science Guide   ,5,$40.00,20,Net Banking   ,RETURNED
+ORD00930,21/11/2026,17:13:26,2026/11/27,Meera Mehta   ,,9989950539,  Delhi  ,  Clothing  ,Jeans,2 units,$45.00,5%,NET BANKING,Shipped
+ORD00693,"November 03, 2026",05:02:09,2026/11/10,Aarav Sharma   ,aarav.sharma93@outlook.com,+91-23295 27445,  Kolkata  ,Electronics,Wireless  Mouse,2 units,25.00,-,UPI   ,  Cancelled  
+ORD00307,21/11/2026,17:37:39,26 Nov 2026,Karan Singh,karan.singh73@gmail.com,9666731451,Mumbai,  Electronics  ,smart watch,four,$ 180,0%,Cash on Delivery,
+ORD00274,2026/11/15,11:15 PM,2026/11/20,  Sneha Singh  ,sneha.singh54@outlook.com,3399508085,  Kolkata  ,clothing,jacket, 4 ,USD 90,0.00,  Debit Card  ,returned
+ORD00410,19-11-2026,05:05:29,25-11-2026,  Karan Singh  ,karan.singh19@gmail.com,+91-23732 19216,Kolkata,  Clothing  ,Jeans,3 units,null,15%,,CANCELLED
+ORD00063,19 Nov 2026,08:03:22,2026/11/25,vikram nair,vikram.nair75@outlook.com,1252593747,MUMBAI,Books,Python Handbook   ,5,$30.00,20 %,Credit Card,Delivered
+ORD00948,10-11-2026,06:39:50,15/11/2026,Neha Sharma   ,neha.sharma94@gmail.com,7213869193,  Kolkata  ,Clothing,  T-Shirt  ,1,15.00,25%,Debit  Card,Pending   
+ORD00924,2026/11/03,11:54,2026-11-06,,karan.patel84@gmail.com,9675055375,MUMBAI,Home & Kitchen   ,MIXER GRINDER,2,$70.00,5,Debit Card,  Shipped  
+ORD00717,08/11/2026,07:20 PM,13/11/2026,  Aarav Patel  ,aarav.patel65@yahoo.com,(211) 622-0657,chennai,  Clothing  ,  Jeans  ,5,USD 45,10%,UPI   ,Delivered
+ORD00568,02/11/2026,07:23,2026-11-05,Divya Nair   ,divya.nair98@outlook.com,(246) 357-2240,Jaipur   ,Home & Kitchen,cookware set,4,$85.00,5%,CASH ON DELIVERY,cancelled
+ORD00820,12 Nov 2026,10:08,15/11/2026,Aarav Joshi   ,aarav.joshi13@yahoo.com,0627303642,Jaipur   ,ELECTRONICS,smart watch,3,$180.00,-,Cash on Delivery   ,Pending
+ORD00534,"November 11, 2026",09:12 PM,2026-11-14,MEERA SHARMA,meera.sharma72@yahoo.com,5207516320,PUNE,BOOKS,  Python Handbook  ,2,$30.00,10%,cash on delivery,shipped
+ORD00503,2026/11/14,07:17 PM,15 Nov 2026,VIKRAM NAIR,vikram.nair56@gmail.com,5272251318,jaipur,home & kitchen,Mixer Grinder,4,$70.00,0.15,  UPI  ,pending
+ORD00712,2026-11-17,10:10 PM,2026/11/20,Arjun Joshi,arjun.joshi99@outlook.com,638796,Mumbai   ,books,  Python Handbook  ,1,$30.00,5%,NET BANKING,Pending
+ORD00482,13/11/2026,05:10 AM,15 Nov 2026,  Anita Khan  ,anita.khan98@gmail.com,5155725556,Mumbai   ,  Home & Kitchen  ,Mixer Grinder   ,4 units,$70.00,NA,CREDIT CARD,Delivered   
+ORD00727,not a date,05:52,18-11-2026,  Meera Verma  ,meera.verma15@yahoo.com,(345) 066-9800,Bengaluru,  Books  ,PYTHON HANDBOOK, 2 ,USD 30,10 %,,
+ORD00797,2026-11-17,21:47,,  Divya Mehta  ,divya.mehta14@outlook.com,6240320457,Delhi,  Books  ,data science guide,1,40.00,10,CASH ON DELIVERY,CANCELLED
+ORD00112,17/11/2026,02:59:53,18 Nov 2026,Rahul  Nair,rahul.nair1@outlook.com,7841579769,Chennai,Clothing,Jeans,3,USD 45,5,  UPI  ,  Returned  
+ORD00789,2026-11-05,10:13 PM,12/11/2026,Anita Khan   ,anita.khan68@outlook.com,1568963446,JAIPUR,ELECTRONICS,  Smart Watch  ,two,$ 180,5,cash on delivery,Delivered
+ORD00710,2026/11/16,11:15 PM,14-11-2026,  Vikram Gupta  ,vikram.gupta50@outlook.com,7534769638,  Chennai  ,Electronics,  Wireless Mouse  ,4,USD 25,5,UPI,cancelled
+ORD00716,04-11-2026,06:36 PM,2026-11-11,Karan  Gupta,karan.gupta2@outlook.com,5082726307,Chennai,Home & Kitchen   ,Cookware Set   ,2,$85.00,0.15,CASH ON DELIVERY,DELIVERED
+ORD00878,05 Nov 2026,20:22:16,"November 10, 2026",Divya Verma   ,divya.verma94@gmail.com,3831354942,Pune   ,books,Python Handbook   ,2,USD 30,25%,  UPI  ,  Cancelled  
+ORD00455,"November 01, 2026",05:45,2026-11-03,Aarav  Mehta,aarav.mehta5@outlook.com,8477296268,delhi,home & kitchen,  Cookware Set  ,5 units,85.00,-,Cash on Delivery,CANCELLED
+ORD00821,2026/11/24,07:06:17,2026/11/25,Rohan  Mehta,rohan.mehta48@gmail.com,1750559662,,  Books  ,PYTHON HANDBOOK,-2,$30.00,0%,UPI,cancelled
+ORD00584,18 Nov 2026,08:02 PM,19-11-2026,Meera Singh,meera.singh1@outlook.com,+91-35285 10554,Chennai,Books,Python Handbook,2,-,25%,UPI,SHIPPED
+ORD00738,"November 16, 2026",13:03,20 Nov 2026,,anita.sharma84@yahoo.com,4004257122,Chennai,home & kitchen,air fryer,one,USD 110,0.15,NET BANKING,returned
+ORD00680,2026/11/17,03:28:51,2026/11/23,MEERA NAIR,meera.nair53@yahoo.com,1005560239,Hyderabad   ,Home & Kitchen   ,Mixer Grinder,1 units,$70.00,0.25,cash on delivery,Shipped
+ORD00326,"November 13, 2026",23:58,18 Nov 2026,Anita  Verma,ANITA.VERMA81@YAHOO.COM,4361934108,  Kolkata  ,HOME & KITCHEN,cookware set,five,85.00,0.10,CREDIT CARD,Pending
+ORD00198,"November 12, 2026",21:29:36,13/11/2026,,rohan.sharma11@yahoo.com,4950969377,pune,Electronics,Laptop,5,1100.00,5%,  Debit Card  ,Delivered
+ORD00908,20-11-2026,13:49:37,2026-11-23,Rahul  Sharma,RAHUL.SHARMA90@YAHOO.COM,2298008287,  Mumbai  ,clothing,Jeans   ,5,45.00,5,debit card,  Returned  
+ORD00069,2026/11/11,01:41 PM,14/11/2026,Karan  Mehta,karan.mehta15@outlook.com,1707927808,PUNE,books,Python  Handbook,4,30.00 $,20%,Cash on Delivery   ,Returned   
+ORD00731,23 Nov 2026,11:08 AM,"November 26, 2026",Divya Nair,divya.nair60@gmail.com,0968746839,DELHI,ELECTRONICS,Laptop   ,4,1100.00,5,  Credit Card  ,Shipped
+ORD00188,2026/11/19,12:15,"November 22, 2026",RAHUL REDDY,rahul.reddy55@gmail.com,8526342565,HYDERABAD,Electronics,Wireless  Mouse,-2,$25.00,0.00,NET BANKING,  Cancelled  
+ORD00397,2026-11-22,05:38:09,29/11/2026,MEERA REDDY,meera.reddy32@gmail.com,6133285478,Mumbai,Books   ,Python Handbook   ,4,30.00,0.00,Net  Banking,Cancelled
+ORD00558,04-11-2026,19:17,06 Nov 2026,PRIYA SINGH,priya.singh31@outlook.com,+91-19558 85315,Chennai,Clothing,t-shirt,4,$ 15,25,debit card,  Shipped  
+ORD00991,09-11-2026,05:21,11 Nov 2026,Neha Sharma,,9935340699,Jaipur   ,BOOKS,PYTHON HANDBOOK,3,$30.00,20%,Credit Card,
+ORD00331,22 Nov 2026,10:46 AM,29-11-2026,,RAHUL.PATEL23@YAHOO.COM,3653072007,Bengaluru,Books   ,Data Science Guide   ,1,40.00,20%,  Credit Card  ,Pending
+ORD00116,2026-11-01,06:27 PM,07-11-2026,Divya Khan   ,DIVYA.KHAN52@OUTLOOK.COM,2856138581,Jaipur,ELECTRONICS,Wireless Mouse   ,5 units,$25.00,20%,Net  Banking,Shipped
+ORD00637,"November 01, 2026",23:23:19,02-11-2026,ROHAN SHARMA,rohan.sharma78@yahoo.com,+91-18664 71582,  Mumbai  ,  Home & Kitchen  ,  Mixer Grinder  ,5 units,$ 70,15%,CASH ON DELIVERY,Pending
+ORD00364,"November 14, 2026",13:52:56,"November 20, 2026",Anita Gupta,anita.gupta13@yahoo.com,+91-84142 96375,Chennai,BOOKS,Data Science Guide,5.0,$40.00,10%,Credit Card   ,pending
+ORD00314,18/11/2026,00:43:30,2026-11-14,Priya Mehta,PRIYA.MEHTA46@OUTLOOK.COM,2598372134,Delhi   ,  Clothing  ,  Jacket  ,3,90.00,25%,Debit Card,Cancelled
+ORD00129,23/11/2026,02:54,25/11/2026,Priya Verma,PRIYA.VERMA9@YAHOO.COM,3702168322,Jaipur,home & kitchen,cookware set,none,$85.00,5,NET BANKING,Pending   
+ORD00441,2026-11-20,07:13 AM,"November 22, 2026",  Arjun Singh  ,arjun.singh64@gmail.com,9040007749,Jaipur,ELECTRONICS,WIRELESS MOUSE, 1 ,USD 25,15%,Credit Card   ,
+ORD00195,20-11-2026,16:25,2026/11/22,Arjun Reddy   ,arjun.reddy11@gmail.com,9323450509,,home & kitchen,Mixer Grinder   ,3 units,$70.00,0.05,Net Banking,PENDING
+ORD00763,01-11-2026,21:11,04-11-2026,AARAV REDDY,aarav.reddy52@outlook.com,(334) 100-1324,Delhi,clothing,Jacket,2,$90.00,15 %,net banking,returned
+ORD00994,"November 07, 2026",16:29:56,13-11-2026,Meera  Joshi,meera.joshi53@gmail.com,+91-93064 52415,mumbai,Home  &  Kitchen,COOKWARE SET,2 units,USD 85,0%,UPI   ,RETURNED
+ORD00765,08/11/2026,07:46 AM,2026-11-14,Arjun Patel   ,arjun.patel57@gmail.com,2894729648,Chennai,books,Python Handbook   ,1,USD 30,10%,UPI,Returned
+ORD00225,16-11-2026,11:32 AM,19-11-2026,Rohan  Reddy,rohan.reddy30@yahoo.com,+91-08567 90002,PUNE,Books,Data Science Guide   ,5.0,$40.00,10%,upi,  Returned  
+ORD00830,11-11-2026,01:04,15-11-2026,Priya Gupta,priya.gupta22@gmail.com,270325,  Mumbai  ,ELECTRONICS,Laptop,1,1100.00,20,Net  Banking,CANCELLED
+,2026/11/04,03:14,"November 07, 2026",SNEHA VERMA,sneha.verma74@yahoo.com,+91-37351 34779,  Delhi  ,Home & Kitchen,Mixer Grinder   ,,-,-,CASH ON DELIVERY,pending
+ORD00076,"November 15, 2026",02:44 AM,21/11/2026,  Priya Joshi  ,priya.joshi66@outlook.com,+91-39307 77463,  Bengaluru  ,books,data science guide, 3 ,USD 40,15%,UPI,Delivered
+ORD00637,"November 01, 2026",23:23:19,02-11-2026,ROHAN SHARMA,rohan.sharma78@yahoo.com,+91-18664 71582,  Mumbai  ,  Home & Kitchen  ,  Mixer Grinder  ,5 units,$ 70,15%,CASH ON DELIVERY,Pending
+ORD00909,2026-11-14,09:42:07,2026-11-20,Karan Joshi,karan.joshi96@gmail.com,9917623109,Mumbai,  Home & Kitchen  ,  Cookware Set  ,5,$85.00,,,pending
+ORD00360,2026-11-01,04:03,03-11-2026,Rahul Nair   ,rahul.nair38@outlook.com,6105842753,delhi,CLOTHING,  Jeans  , 2 ,USD 45,0.10,  Credit Card  ,Shipped
+ORD00683,not a date,04:32 PM,09 Nov 2026,Priya Mehta,priya.mehta44@gmail.com,+91-15329 93853,BENGALURU,ELECTRONICS,Smart  Watch,3,$ 180,5%,Debit Card,Cancelled
+ORD00370,17-11-2026,01:17:58,"November 21, 2026",Priya Singh,priya.singh5@yahoo.com,(826) 415-0971,mumbai,clothing,T-SHIRT,2,$15.00,15%,debit card,Pending
+ORD00729,"November 20, 2026",19:10,"November 23, 2026",Aarav Sharma,aarav.sharma40@outlook.com,(413) 253-2698,  Mumbai  ,electronics,Laptop,2,"$1,100.00",10%,  Credit Card  ,Cancelled
+ORD00954,2026/11/06,04:03 PM,"November 12, 2026",divya joshi,divya.joshi32@yahoo.com,0692989512,Jaipur,ELECTRONICS,Wireless Mouse   ,1,$25.00,20,UPI,Delivered
+ORD00873,12 Nov 2026,06:15 AM,2026/11/15,  Sneha Singh  ,sneha.singh2@outlook.com,+91-94727 72051,Chennai,BOOKS,data science guide,two,40.00,20,Credit Card,CANCELLED
+ORD00007,"November 13, 2026",00:04:42,2026-11-17,Meera Patel   ,meera.patel55@outlook.com,5712955705,DELHI,Electronics,Bluetooth Speaker   ,2,60.00,20 %,Debit Card   ,Pending
+ORD00826,22 Nov 2026,23:23:42,2026/11/28,vikram patel,vikram.patel15@gmail.com,+91-87169 22789,bengaluru,Home & Kitchen   ,Air  Fryer,-2,$110.00,20,  Credit Card  ,Pending
+ORD00249,2026/11/05,22:39,"November 09, 2026",Vikram Patel   ,vikram.patel49@outlook.com,0246507961,  Mumbai  ,HOME & KITCHEN,air fryer,4.0,110.00,5 %,credit card,Delivered   
+ORD00833,06/11/2026,06:18:39,10 Nov 2026,AARAV NAIR,aarav.nair17@gmail.com,4240254587,MUMBAI,Books,Python  Handbook,1,$30.00,5 %,Cash on Delivery   ,Pending
+ORD00569,09-11-2026,02:28:09,"November 15, 2026",Sneha  Verma,sneha.verma79@gmail.com,+91-40700 66825,Delhi,Clothing   ,  T-Shirt  ,three,$15.00,5,debit card,  Pending  
+ORD00537,03/11/2026,04:28,"November 09, 2026",Meera Mehta   ,meera.mehta2@yahoo.com,+91-46738 02309,  Pune  ,BOOKS,DATA SCIENCE GUIDE,3,$ 40,5 %,CREDIT CARD,
+ORD00761,22 Nov 2026,06:05 PM,2026-11-26,Anita  Nair,anita.nair18@gmail.com,+91-42636 27057,Delhi   ,Clothing   ,T-Shirt,3,15.00,25%,upi,delivered
+ORD00319,23-11-2026,03:25,"November 28, 2026",Priya  Sharma,,6830129473,Bengaluru,Clothing   ,T-SHIRT,2,$15.00,0%,Debit Card   ,Pending
+ORD00057,12-11-2026,08:36 AM,2026/11/13,Meera Patel   ,meera.patel21@yahoo.com,8766932944,,Home  &  Kitchen,COOKWARE SET,five,42500.00,15%,,Cancelled
+ORD00384,2026-11-04,01:59 PM,,Anita Verma   ,anita.verma68@yahoo.com,(970) 317-7374,Hyderabad   ,HOME & KITCHEN,cookware set,4.0,$85.00,20,Debit  Card,Shipped   
+ORD00556,13-11-2026,04:39:01,19/11/2026,Priya Verma   ,priya.verma92@yahoo.com,194426,PUNE,Electronics,bluetooth speaker,3,$60.00,20%,  UPI  ,Cancelled   
+ORD00358,19 Nov 2026,03:27,2026-11-20,SNEHA MEHTA,sneha.mehta75@outlook.com,8706448038,Mumbai,Electronics,wireless mouse,4,null,NA,upi,shipped
+ORD00531,04-11-2026,05:52 AM,09-11-2026,Karan  Singh,karan.singh55@yahoo.com,(325) 887-6326,bengaluru,Home  &  Kitchen,air fryer, 3 ,USD 110,20%,NET BANKING,PENDING
+ORD00511,21-11-2026,22:08,2026/11/27,  Priya Mehta  ,priya.mehta68@gmail.com,7654752350,HYDERABAD,Clothing,T-Shirt,5,USD 15,0.10,  Debit Card  ,Pending
+ORD00547,06 Nov 2026,09:50:09,08/11/2026,SNEHA NAIR,sneha.nair91@gmail.com,1481770454,Bengaluru   ,Electronics   ,  Smart Watch  ,2 units,$180.00,25,Credit Card   ,Cancelled
+ORD00620,2026/11/12,12:55,14 Nov 2026,  Karan Patel  ,karan.patel65@gmail.com,+91-77202 47885,Bengaluru   ,home & kitchen,mixer grinder,-2,$70.00,5%,  Debit Card  ,  Delivered  
+ORD00171,"November 24, 2026",18:21,"November 25, 2026",Karan Reddy,karan.reddy90@gmail.com,5079126043,  Hyderabad  ,ELECTRONICS,Laptop,3,"USD 1,100",0.00,  Credit Card  ,Cancelled   
+ORD00798,"November 21, 2026",11:52 PM,2026-11-25,Rohan Sharma   ,rohan.sharma93@gmail.com,9472774260,  Mumbai  ,Electronics,wireless mouse,4,$ 25,0%,debit card,DELIVERED
+ORD00972,14-11-2026,19:48,09 Nov 2026,Aarav Reddy,aarav.reddy20gmail.com,6489157215,MUMBAI,ELECTRONICS,Bluetooth Speaker, 5 ,$60.00,-,cash on delivery,  Delivered  
+ORD00187,"November 15, 2026",11:56 PM,22-11-2026,  Rahul Joshi  ,rahul.joshi35@gmail.com,933581,  Bengaluru  ,Home  &  Kitchen,Mixer Grinder, 5 ,$70.00,10%,  Net Banking  ,Shipped   
+ORD00011,"November 11, 2026",10:08,2026-11-18,  Vikram Mehta  ,vikram.mehta83@outlook.com,591919,bengaluru,Clothing,Jeans,5,$45.00,25,debit card,Returned
+ORD00895,17-11-2026,19:24:45,"November 19, 2026",Meera  Gupta,meera.gupta41@yahoo.com,(621) 896-7539,Mumbai   ,  Home & Kitchen  ,COOKWARE SET,3,85.00,15,Cash  on  Delivery,Delivered   
+ORD00876,21/11/2026,22:51,"November 25, 2026",  Neha Mehta  ,neha.mehta40@yahoo.com,0467464021,Chennai   ,BOOKS,python handbook,two,USD 30,25,Net Banking,Shipped   
+ORD00066,19-11-2026,08:45:19,2026/11/24,karan nair,karan.nair43@yahoo.com,9759048379,  Hyderabad  ,HOME & KITCHEN,mixer grinder,4 units,70.00,0.25,Cash on Delivery,pending
+ORD00190,10-11-2026,02:18 AM,"November 14, 2026",Arjun  Verma,,5516575405,Kolkata,Home  &  Kitchen,COOKWARE SET,0,$85.00,10%,  Cash on Delivery  ,Cancelled   
+ORD00117,2026/11/02,07:58 AM,"November 09, 2026",,priya.patel48gmail.com,2934409375,  Mumbai  ,Books,  Data Science Guide  ,1,USD 40,5%,  Net Banking  ,cancelled
+ORD00613,2026-11-17,11:59,2026/11/23,aarav joshi,aarav.joshi61@gmail.com,6156879087,MUMBAI,Home & Kitchen,Mixer  Grinder,3,USD 70,25,,Returned
+ORD00783,23-11-2026,23:53:14,,Anita  Patel,anita.patel47@yahoo.com,4180824837,hyderabad,clothing,JACKET, 2 ,45000.00,15%,net banking,Cancelled
+ORD00850,2026/11/13,23:28:51,17-11-2026,Karan Mehta   ,karan.mehta49outlook.com,+91-92687 47276,chennai,Books   ,  Data Science Guide  ,0,$40.00,,,Cancelled   
+ORD00593,"November 09, 2026",04:57 AM,,Karan Singh,karan.singh19@yahoo.com,7925946318,Kolkata,Books,Data Science Guide, 5 ,$40.00,15,,SHIPPED
+ORD00774,12/11/2026,19:51,2026-11-14,vikram singh,VIKRAM.SINGH88@OUTLOOK.COM,+91-32884 32577,Jaipur,CLOTHING,T-Shirt   ,1,USD 15,25%,Net  Banking,Returned   
+ORD00049,2026/11/07,08:49 PM,2026/11/11,,aarav.reddy81@outlook.com,486200,KOLKATA,home & kitchen,Cookware Set   ,3 units,$85.00,15%,DEBIT CARD,Delivered
+ORD00993,24 Nov 2026,18:11,28-11-2026,Karan Mehta   ,karan.mehta91@outlook.com,3409992271,Pune,HOME & KITCHEN,Mixer Grinder,2,$70.00,,upi,  Cancelled  
+ORD00126,04-11-2026,06:52 PM,08-11-2026,  Aarav Sharma  ,aarav.sharma87@gmail.com,3812293144,Mumbai   ,CLOTHING,Jeans   ,1 units,$ 45,NA,CASH ON DELIVERY,Shipped
+ORD00047,2026/11/10,05:44,16 Nov 2026,Neha Gupta   ,neha.gupta47@outlook.com,7243549180,  Kolkata  ,Electronics   ,Smart Watch,3,USD 180,25,net banking,Shipped   
+ORD00257,11-11-2026,01:43,"November 13, 2026",Aarav Mehta   ,aarav.mehta28@yahoo.com,1193300583,CHENNAI,Books,python handbook,4,$30.00,25%,Net Banking,Delivered   
+ORD00657,06/11/2026,08:15,2026-11-08,priya joshi,priya.joshi95@yahoo.com,(755) 704-2234,Chennai   ,home & kitchen,Cookware  Set,4,$85.00,20 %,  Credit Card  ,  Delivered  
+ORD00554,"November 06, 2026",03:05 PM,12-11-2026,,aarav.verma81@gmail.com,1293915046,Pune,  Electronics  ,LAPTOP, 2 ,"$1,100.00",20 %,  Net Banking  ,RETURNED
+ORD00652,2026/11/17,22:09,"November 24, 2026",Karan Gupta,karan.gupta52@outlook.com,+91-54589 63156,Chennai,Home & Kitchen,Air Fryer   ,,$110.00,20,Net  Banking,Returned
+,"November 05, 2026",04:41:48,"November 07, 2026",Rohan Nair,rohan.nair30@gmail.com,2182932145,Kolkata,  Electronics  ,LAPTOP,4,"USD 1,100",-,,SHIPPED
+ORD00607,22 Nov 2026,01:21:25,25 Nov 2026,  Karan Verma  ,karan.verma88@outlook.com,+91-44127 73034,MUMBAI,Books,Data Science Guide,2,40.00 $,25%,net banking,Cancelled
+ORD00017,"November 23, 2026",10:58,30-11-2026,Priya Khan   ,priya.khan6@yahoo.com,+91-06044 43841,  Hyderabad  ,  Clothing  ,T-Shirt,3 units,7500.00,NA,CASH ON DELIVERY,Returned   
+ORD00605,2026/11/19,14:15:52,2026-11-21,ROHAN GUPTA,rohan.gupta45@gmail.com,3794794517,,home & kitchen,Mixer Grinder,5,$70.00,0%,Net  Banking,  Returned  
+ORD00406,13 Nov 2026,09:58 AM,15-11-2026,SNEHA JOSHI,sneha.joshi77@yahoo.com,5607053044,pune,home & kitchen,  Air Fryer  ,2,55000.00,20,NET BANKING,  Delivered  
+ORD00681,"November 11, 2026",12:05,"November 16, 2026",  Anita Reddy  ,anita.reddy48@outlook.com,0718049502,  Jaipur  ,Books,Python  Handbook,3,30.00,15%,upi,Returned
+ORD00048,"November 14, 2026",18:18,21/11/2026,Priya Nair   ,priya.nair20@yahoo.com,7398826513,MUMBAI,Clothing,T-Shirt   ,five,15.00,0 %,Credit Card,Delivered
+ORD00158,15 Nov 2026,18:32,2026-11-19,MEERA JOSHI,meera.joshi46@gmail.com,+91-58254 53957,  Pune  ,Books   ,Python Handbook,5,$30.00,25,Credit  Card,Pending   
+ORD00755,03/11/2026,21:26:57,2026/11/09,Vikram  Reddy,vikram.reddy73outlook.com,331230,,Home & Kitchen,Air Fryer   ,5,110.00 $,25,Net  Banking,returned
+ORD00654,"November 23, 2026",04:14 PM,"November 24, 2026",Meera Singh   ,meera.singh95@gmail.com,6813667493,Bengaluru   ,home & kitchen,Air  Fryer, 3 ,$110.00,20%,NET BANKING,Delivered
+ORD00632,2026-11-11,01:53:13,2026-11-15,Karan  Joshi,karan.joshi31@yahoo.com,+91-15664 86502,Bengaluru,Books,PYTHON HANDBOOK,1,USD 30,25%,,Cancelled   
+ORD00542,09 Nov 2026,10:42 PM,"November 15, 2026",Karan Joshi,karan.joshi82@outlook.com,5321947131,Mumbai   ,BOOKS,Data Science Guide,5 units,$ 40,20%,UPI,delivered
+ORD00383,"November 20, 2026",04:42 AM,"November 25, 2026",neha mehta,neha.mehta89@gmail.com,0442328399,BENGALURU,books,Python  Handbook,2 units,$ 30,5,Cash on Delivery   ,Returned
+ORD00219,2026/11/02,01:12,2026-11-06,  Neha Verma  ,neha.verma17@gmail.com,3606523072,  Kolkata  ,  Electronics  ,Wireless Mouse   ,3 units,$ 25,0.00,Cash on Delivery   ,Cancelled   
+ORD00936,2026/11/17,00:52,20 Nov 2026,,arjun.nair60@yahoo.com,7064658154,Kolkata,  Books  ,  Python Handbook  ,3,$30.00,25%,,Delivered   
+ORD00879,03/11/2026,17:06,,SNEHA SHARMA,sneha.sharma7@gmail.com,6799336933,Mumbai,HOME & KITCHEN,mixer grinder,-2,USD 70,0,Cash  on  Delivery,Returned
+ORD00091,2026-11-03,19:55:02,04 Nov 2026,Divya Reddy   ,divya.reddy91@gmail.com,(640) 394-5956,HYDERABAD,Clothing,jacket,1,$90.00,0.20,CASH ON DELIVERY,Delivered
+ORD00653,2026/11/01,11:37 PM,2026/11/08,karan joshi,karan.joshi92outlook.com,1414153622,Hyderabad,ELECTRONICS,Bluetooth  Speaker,4,60.00,20,Cash on Delivery   ,SHIPPED
+ORD00806,16-11-2026,14:26,18 Nov 2026,Aarav  Verma,aarav.verma4@outlook.com,2712090225,Pune   ,electronics,Smart Watch   ,1,-180.00,0%,Credit Card,  Returned  
+ORD00055,2026-11-11,17:11:58,12 Nov 2026,ROHAN SHARMA,rohan.sharma71@gmail.com,8419369055,  Jaipur  ,  Electronics  ,LAPTOP,0,"$1,100.00",0,upi,Returned
+ORD00754,"November 14, 2026",23:33:43,16/11/2026,rohan khan,rohan.khan3@gmail.com,+91-85028 27905,Delhi,Books,python handbook,none,30.00 $,0.25,Debit Card   ,Shipped
+ORD00458,"November 08, 2026",07:05:02,2026/11/13,DIVYA VERMA,,6353949315,Chennai   ,Home & Kitchen   ,Air  Fryer,2,55000.00,0 %,Net  Banking,returned
+ORD00992,17-11-2026,15:26,2026/11/23,  Meera Mehta  ,meera.mehta37@yahoo.com,4534028627,Pune,clothing,jeans,two,45.00,15,debit card,Delivered   
+ORD00128,2026/11/17,05:44 PM,"November 24, 2026",Priya  Joshi,priya.joshi79@yahoo.com,8694649033,kolkata,  Home & Kitchen  ,cookware set,five,$85.00,5,CREDIT CARD,Shipped
+ORD00110,2026/11/22,02:42,2026/11/24,neha nair,neha.nair16yahoo.com,2218049095,,Books   ,python handbook,3,USD 30,20 %,Credit Card   ,  Shipped  
+ORD00485,2026/11/17,13:52:39,22-11-2026,Priya Mehta,priya.mehta44@outlook.com,6167606436,  Delhi  ,Books,  Data Science Guide  ,1 units,$40.00,20,CASH ON DELIVERY,returned
+ORD00044,06-11-2026,16:54:59,2026/11/12,rohan gupta,rohan.gupta9@outlook.com,+91-20109 59527,Pune,home & kitchen,  Cookware Set  ,N/A,85.00,25%,cash on delivery,pending
+ORD00423,15-11-2026,06:50:52,,Aarav Mehta,aarav.mehta84@yahoo.com,9808551149,CHENNAI,electronics,Wireless Mouse   , 3 ,$25.00,10%,Debit  Card,  Cancelled  
+ORD00594,2026/11/12,08:34 AM,"November 11, 2026",Arjun Nair   ,arjun.nair78@gmail.com,7938420163,  Hyderabad  ,Electronics,smart watch,2,180.00,25%,CREDIT CARD,pending
+ORD00832,24/11/2026,02:26,2026/11/27,Rohan  Sharma,rohan.sharma8@gmail.com,3044111066,Delhi,Books   ,PYTHON HANDBOOK,4 units,30.00 $,0,credit card,Shipped
+ORD00810,13/11/2026,04:57,2026/11/08,RAHUL KHAN,rahul.khan25@yahoo.com,4855096634,Pune,ELECTRONICS,  Wireless Mouse  ,1 units,$ 25,15 %,NET BANKING,cancelled
+ORD00589,10-11-2026,05:17,14-11-2026,Meera Sharma   ,meera.sharma28@gmail.com,9678187668,DELHI,Electronics,Laptop,1,$ 1100,0,credit card,Shipped
+ORD00976,03 Nov 2026,05:49 AM,2026-11-06,Priya Joshi   ,priya.joshi95@yahoo.com,5189940424,hyderabad,  Books  ,Python Handbook   ,4,-30.00,5 %,CREDIT CARD,  Shipped  
+ORD00736,07 Nov 2026,12:22 PM,14-11-2026,DIVYA MEHTA,divya.mehta21@outlook.com,8968988249,Chennai   ,Books,  Data Science Guide  ,1,$40.00,20%,NET BANKING,Delivered
+ORD00807,2026-11-15,05:42 PM,"November 22, 2026",Arjun Reddy,arjun.reddy41@outlook.com,+91-88941 90174,Mumbai,electronics,wireless mouse,3,25.00,15,UPI,SHIPPED
+ORD00942,2026/11/10,05:18:44,17/11/2026,NEHA KHAN,neha.khan61@yahoo.com,8190875866,bengaluru,  Electronics  ,wireless mouse,3,25.00 $,,credit card,Returned
+ORD00146,15/11/2026,23:31,2026/11/19,Rahul Verma,rahul.verma24@outlook.com,1441572426,Delhi,Electronics,  Bluetooth Speaker  ,1 units,USD 60,20%,NET BANKING,Returned   
+ORD00088,23/11/2026,01:03 PM,2026/11/20,DIVYA KHAN,divya.khan19@outlook.com,8951006043,Chennai,Home & Kitchen,COOKWARE SET,2 units,85.00 $,,UPI,Returned   
+ORD00989,09/11/2026,06:31 AM,13 Nov 2026,  Rohan Verma  ,rohan.verma45@gmail.com,882201,BENGALURU,Clothing,Jacket   ,2,USD 90,0,  Debit Card  ,Delivered
+ORD00900,14 Nov 2026,19:33,16 Nov 2026,Vikram Reddy,vikram.reddy18@yahoo.com,5102769417,Pune   ,clothing,JACKET,2,$90.00,5 %,UPI   ,Cancelled   
+ORD00708,"November 12, 2026",07:22 PM,2026-11-13,Priya  Patel,priya.patel16@yahoo.com,+91-34559 19883,delhi,Clothing   ,  Jacket  ,3,90.00 $,20%,debit card,Cancelled   
+ORD00290,2026-11-16,11:08 AM,17-11-2026,ARJUN SHARMA,arjun.sharma7@yahoo.com,(759) 597-1749,  Kolkata  ,  Electronics  ,Wireless Mouse,none,25.00,25,UPI   ,Shipped
+ORD00886,03 Nov 2026,05:35 AM,08-11-2026,Rohan Verma   ,rohan.verma98@gmail.com,+91-90888 00928,  Chennai  ,ELECTRONICS,Laptop,5,"$1,100.00",0%,  Debit Card  ,Shipped
+ORD00316,2026-11-23,19:24:48,"November 28, 2026",,aarav.reddy94@yahoo.com,7450744131,  Bengaluru  ,Books   ,DATA SCIENCE GUIDE,4,USD 40,25,NET BANKING,  Delivered  
+ORD00650,2026/11/21,03:08:51,24/11/2026,Rahul  Verma,rahul.verma60@outlook.com,+91-13333 65041,Hyderabad,  Clothing  ,Jacket   ,5,$90.00,5%,  Debit Card  ,Pending
+ORD00469,01/11/2026,03:22:00,2026-11-04,Vikram  Nair,vikram.nair25@gmail.com,+91-04425 09101,  Hyderabad  ,  Home & Kitchen  ,Cookware  Set,1,USD 85,0.00,Credit Card,  Returned  
+ORD00099,16-11-2026,01:57,23/11/2026,Divya Khan,divya.khan10@yahoo.com,8320812459,hyderabad,Books,PYTHON HANDBOOK,1,$30.00,5%,NET BANKING,Returned
+ORD00227,2026-11-19,00:50:46,2026-11-24,Rohan  Gupta,rohan.gupta43@outlook.com,6892351154,Mumbai,Home  &  Kitchen,Air Fryer   ,2,$110.00,15 %,UPI,shipped
+ORD00451,07 Nov 2026,07:22:43,11/11/2026,  Rohan Mehta  ,rohan.mehta46@outlook.com,+91-94494 29960,Bengaluru   ,Electronics,bluetooth speaker,4,USD 60,15 %,CREDIT CARD,  Shipped  
+ORD00382,13-11-2026,17:11,15 Nov 2026,Sneha Sharma   ,,+91-82164 48463,PUNE,ELECTRONICS,Wireless Mouse   ,-2,25.00,25 %,debit card,Cancelled
+ORD00865,2026/11/23,09:27:09,30-11-2026,AARAV SINGH,aarav.singh36@outlook.com,174404,chennai,clothing,Jeans   ,four,USD 45,0%,Cash  on  Delivery,  Cancelled  
+ORD00462,11/11/2026,22:20:32,2026/11/14,Rohan Patel,rohan.patel79@gmail.com,(431) 880-8326,chennai,Books,DATA SCIENCE GUIDE,3,40.00,25,Cash on Delivery   ,Shipped
+ORD00200,15-11-2026,03:55 PM,"November 16, 2026",Meera Patel,meera.patel20@gmail.com,2455955447,Jaipur,Electronics,Smart  Watch,2,N/A,25%,upi,Pending
+ORD00278,04 Nov 2026,16:42:58,09/11/2026,rohan patel,rohan.patel34@gmail.com,383400,JAIPUR,Electronics,Wireless Mouse   ,1 units,$25.00,10%,Cash on Delivery   ,Pending   
+ORD00322,"November 21, 2026",10:00,27/11/2026,Aarav  Patel,aarav.patel36@outlook.com,0746417651,MUMBAI,Home & Kitchen,  Mixer Grinder  , 1 ,$70.00,0,UPI,pending
+ORD00916,"November 05, 2026",03:53 PM,2026/11/08,Divya  Mehta,divya.mehta13@outlook.com,3445573300,chennai,clothing,Jacket,4,$90.00,0.00,UPI   ,pending
+ORD00862,2026-11-12,06:08 AM,"November 17, 2026",  Karan Sharma  ,karan.sharma16@yahoo.com,5172045777,Delhi,books,  Data Science Guide  ,-2,$40.00,5,Cash  on  Delivery,delivered
+ORD00484,2026-11-24,17:37:50,30-11-2026,Rahul Gupta   ,rahul.gupta90@yahoo.com,5059048124,  Mumbai  ,Electronics,  Laptop  ,-2,"USD 1,100",5,  Net Banking  ,Pending   
+ORD00443,06-11-2026,07:50:57,11 Nov 2026,  Rohan Verma  ,rohan.verma31@yahoo.com,+91-02077 15903,  Kolkata  ,Clothing,Jacket,1,$90.00,0%,CREDIT CARD,Delivered   
+ORD00504,"November 12, 2026",02:27 PM,2026-11-14,Rohan Sharma   ,rohan.sharma77@gmail.com,+91-71467 66800,JAIPUR,home & kitchen,mixer grinder,four,$ 70,25%,DEBIT CARD,  Delivered  
+ORD00640,12 Nov 2026,01:54 AM,14-11-2026,,aarav.mehta79@yahoo.com,3608672082,  Mumbai  ,  Clothing  ,  Jacket  ,5,$90.00,,Credit Card,Shipped
+ORD00583,"November 17, 2026",11:02,22-11-2026,VIKRAM GUPTA,vikram.gupta17@gmail.com,2078759136,chennai,Books   ,PYTHON HANDBOOK,4,$ 30,10%,Credit Card,Delivered
+ORD00733,23/11/2026,09:52 PM,2026-11-26,anita verma,anita.verma16@outlook.com,+91-03908 23366,Pune,HOME & KITCHEN,mixer grinder, 1 ,$ 70,20,  Debit Card  ,Delivered
+ORD00711,09 Nov 2026,12:01,15/11/2026,  Karan Joshi  ,,9568575869,HYDERABAD,  Home & Kitchen  ,  Mixer Grinder  , 5 ,70.00,25%,  Cash on Delivery  ,Cancelled   
+ORD00577,2026-11-13,00:19:27,2026/11/18,ANITA PATEL,anita.patel70@gmail.com,(542) 209-8956,Hyderabad,Books,Python Handbook   ,,$ 30,10,upi,PENDING
+ORD00719,2026-11-24,06:19 PM,2026/11/28,divya gupta,divya.gupta21@gmail.com,5032471015,Chennai   ,Electronics,Wireless Mouse   , 1 ,25.00,10%,upi,Delivered
+ORD00756,"November 19, 2026",06:04,22-11-2026,Arjun  Nair,arjun.nair85@gmail.com,979712,  Kolkata  ,  Books  ,Python  Handbook,1,USD 30,10%,NET BANKING,returned
+ORD00735,2026-11-01,13:46,05 Nov 2026,rahul singh,rahul.singh35@yahoo.com,(652) 223-9739,,clothing,JEANS,two,45.00,5,net banking,Cancelled
+ORD00668,19 Nov 2026,14:50:40,2026/11/21,Divya  Nair,divya.nair44@outlook.com,8794523068,bengaluru,clothing,JACKET,-2,USD 90,15,Debit  Card,Pending
+ORD00189,05 Nov 2026,10:55,,ANITA VERMA,anita.verma82@gmail.com,2162210734,mumbai,CLOTHING,T-Shirt,3,$ 15,0%,Cash on Delivery,Delivered
+ORD00891,2026/11/22,02:06 PM,24 Nov 2026,Meera  Joshi,meera.joshi11@gmail.com,7547352985,Jaipur,  Electronics  ,bluetooth speaker,4,$ 60,,Debit Card,  Cancelled  
+ORD00491,18/11/2026,01:49 PM,2026/11/24,Priya Reddy   ,priya.reddy46outlook.com,5807982713,mumbai,Clothing   ,JACKET,2,-90.00,25%,Credit Card   ,Delivered
+ORD00867,05/11/2026,10:40 PM,,anita reddy,anita.reddy52@gmail.com,8879326817,Mumbai   ,BOOKS,Python  Handbook,2,$ 30,NA,Cash  on  Delivery,Returned   
+ORD00998,02/11/2026,20:26,"November 07, 2026",Arjun Singh   ,ARJUN.SINGH13@OUTLOOK.COM,3724018944,Jaipur,Home  &  Kitchen,AIR FRYER,1,$110.00,20%,UPI,Delivered
+ORD00123,13-11-2026,12:51:25,,Divya Singh   ,divya.singh67@gmail.com,0289392619,Delhi   ,Electronics,Smart Watch   ,1,-,NA,  Cash on Delivery  ,  Pending  
+ORD00010,2026/11/02,13:01,04/11/2026,arjun verma,arjun.verma46@outlook.com,6198988073,Mumbai,Home & Kitchen,  Air Fryer  ,,$110.00,10 %,UPI,Shipped
+ORD00796,21-11-2026,01:16 AM,27/11/2026,Anita  Joshi,anita.joshi98@outlook.com,4509710656,  Bengaluru  ,ELECTRONICS,smart watch,1,180.00,25%,Credit Card   ,Shipped
+ORD00165,2026-11-21,01:04 PM,2026/11/25,,arjun.reddy95@gmail.com,+91-75405 35849,Kolkata,BOOKS,Python  Handbook,4 units,$30.00,,NET BANKING,Delivered
+ORD00623,05/11/2026,22:27:43,"November 11, 2026",Priya Patel   ,priya.patel95@outlook.com,8752128416,Kolkata,books,Data  Science  Guide,2,$ 40,0.25,debit card,delivered
+ORD00102,20 Nov 2026,04:59 AM,24/11/2026,Priya Nair,priya.nair93@outlook.com,(111) 252-7204,Jaipur,Home & Kitchen,Cookware Set, 4 ,$85.00,20%,Credit  Card,delivered
+ORD00773,18-11-2026,02:31:03,24 Nov 2026,Rahul Khan,rahul.khan13@gmail.com,+91-54021 32563,MUMBAI,Electronics,  Wireless Mouse  ,1 units,USD 25,10,UPI   ,DELIVERED
+ORD00352,08/11/2026,02:59,2026/11/14,Karan Patel,karan.patel79@gmail.com,7374559283,Kolkata,Clothing,T-SHIRT,1.0,$15.00,5%,  Debit Card  ,Cancelled
+ORD00374,13 Nov 2026,06:50 PM,"November 17, 2026",Meera Sharma   ,meera.sharma89@gmail.com,+91-27514 71448,Jaipur,Clothing,Jacket,1,$90.00,,upi,Shipped
+ORD00572,21 Nov 2026,14:11:38,25/11/2026,PRIYA SHARMA,priya.sharma33@yahoo.com,241455,pune,BOOKS,PYTHON HANDBOOK,1,USD 30,10%,DEBIT CARD,pending
+ORD00561,"November 06, 2026",05:13,07-11-2026,divya reddy,divya.reddy94@outlook.com,888256,Chennai,electronics,WIRELESS MOUSE,2,USD 25,20%,Credit Card,Shipped
+ORD00939,"November 21, 2026",02:46 AM,23-11-2026,  Meera Nair  ,meera.nair28@gmail.com,1774233411,Delhi,ELECTRONICS,Bluetooth Speaker   ,5,30000.00,10,UPI,RETURNED
+ORD00622,2026-11-11,08:07 PM,17/11/2026,Karan Nair   ,karan.nair66@yahoo.com,1943250988,Bengaluru   ,Clothing,T-SHIRT,4.0,$15.00,0%,upi,Delivered
+ORD00776,09 Nov 2026,08:10 AM,12-11-2026,Arjun Khan,arjun.khan92@yahoo.com,2077022777,jaipur,Electronics   ,laptop,none,1100.00,-,Debit Card,Pending
+ORD00840,20-11-2026,11:55 PM,2026-11-21,Rahul Patel   ,rahul.patel79@outlook.com,2500975176,KOLKATA,BOOKS,data science guide,2,40.00,25 %,Net Banking,Delivered
+ORD00240,16/11/2026,17:13:47,"November 23, 2026",Karan Mehta,karan.mehta48@outlook.com,8963033146,Pune,BOOKS,data science guide,4,USD 40,0.00,UPI,Cancelled
+ORD00579,15/11/2026,09:42 PM,22 Nov 2026,Aarav Gupta,aarav.gupta51gmail.com,+91-38469 47394,jaipur,Clothing,JACKET,5 units,$90.00,10,,Delivered
+ORD00077,2026/11/01,04:31,08/11/2026,  Meera Sharma  ,meera.sharma55@gmail.com,8388030660,Delhi,Electronics,Laptop,1,"$1,100.00",25%,Cash on Delivery,Delivered
+ORD00224,23-11-2026,13:36,2026-11-28,NEHA REDDY,neha.reddy61@yahoo.com,7628422431,delhi,  Clothing  ,Jeans   ,5,$45.00,10,  Cash on Delivery  ,  Returned  
+ORD00663,2026/11/24,07:30 PM,2026/11/28,Priya Patel   ,priya.patel27@outlook.com,+91-02446 90704,  Chennai  ,electronics,WIRELESS MOUSE,4,null,25,,Returned   
+ORD00643,"November 21, 2026",05:53:03,24 Nov 2026,Meera  Nair,meera.nair90@yahoo.com,+91-51925 54358,Delhi,HOME & KITCHEN,Mixer  Grinder,five,USD 70,15,Net Banking   ,pending
+ORD00749,2026-11-15,08:49 AM,22/11/2026,Divya Verma,,+91-92924 10831,Bengaluru,home & kitchen,cookware set,4,USD 85,0.00,Credit Card   ,returned
+ORD00903,2026-11-07,10:07 PM,"November 03, 2026",Karan Verma   ,karan.verma47gmail.com,+91-02139 31194,Jaipur,Clothing,T-Shirt,4,$15.00,10 %,Cash  on  Delivery,Pending
+ORD00519,20-11-2026,05:11:30,2026/11/23,anita khan,anita.khan49@yahoo.com,+91-19082 27511,BENGALURU,CLOTHING,  Jeans  , 3 ,45.00 $,-,  Credit Card  ,  Pending  
+ORD00978,2026-11-21,06:52 AM,23/11/2026,ANITA JOSHI,anita.joshi94@outlook.com,6888804004,,Books,data science guide,one,$ 40,0.10,,Returned   
+ORD00461,16 Nov 2026,00:14,19 Nov 2026,sneha nair,sneha.nair68@outlook.com,1138840375,PUNE,ELECTRONICS,  Bluetooth Speaker  ,five,60.00,0.25,UPI   ,Cancelled
+ORD00312,16-11-2026,20:18,21 Nov 2026,rohan sharma,rohan.sharma54@outlook.com,5646132247,DELHI,Books,python handbook,4,30.00,0.00,  Debit Card  ,Cancelled
+ORD00019,2026-11-10,09:09,"November 12, 2026",SNEHA MEHTA,sneha.mehta16@outlook.com,+91-12479 52112,Pune,Books,Data Science Guide   ,2,USD 40,0.00,Credit Card   ,  Cancelled  
+ORD00192,08/11/2026,10:49,10-11-2026,Rohan Reddy   ,rohan.reddy81@yahoo.com,4088944878,delhi,  Home & Kitchen  ,Mixer Grinder   ,five,$ 70,0,Credit  Card,Shipped
+ORD00414,24 Nov 2026,02:33 PM,28 Nov 2026,Vikram Verma   ,vikram.verma32@gmail.com,679044,,  Home & Kitchen  ,AIR FRYER,5,-,10%,  Net Banking  ,Delivered
+ORD00983,02-11-2026,08:56,"November 04, 2026",,priya.patel32@gmail.com,1582009856,Chennai   ,  Clothing  ,jacket,3,90.00,0,UPI,CANCELLED
+ORD00855,19/11/2026,02:13 AM,"November 15, 2026",Divya  Patel,divya.patel12@gmail.com,9340909177,  Chennai  ,Home & Kitchen,COOKWARE SET,5,85.00,15%,Cash on Delivery   ,Returned
+ORD00281,11-11-2026,12:23 AM,17/11/2026,MEERA KHAN,meera.khan42@gmail.com,6512688084,  Jaipur  ,  Electronics  ,Wireless Mouse,4.0,$25.00,20,UPI   ,RETURNED
+ORD00500,20-11-2026,11:56:44,26 Nov 2026,Vikram Sharma,vikram.sharma8@gmail.com,9512409095,jaipur,Clothing   ,Jacket,1 units,$90.00,0,NET BANKING,Returned
+ORD00329,03 Nov 2026,23:30:17,05-11-2026,Sneha  Sharma,sneha.sharma28@yahoo.com,6423809416,Delhi,  Electronics  ,Laptop,2,"USD 1,100",15%,  Credit Card  ,  Returned  
+ORD00001,2026-11-24,10:00:48,2026/11/26,  Neha Verma  ,neha.verma87@outlook.com,4025016525,chennai,ELECTRONICS,WIRELESS MOUSE,3.0,$25.00,10%,UPI   ,Cancelled
+ORD00573,2026/11/24,00:37:10,29-11-2026,neha reddy,NEHA.REDDY61@GMAIL.COM,6463214663,Chennai   ,Electronics   ,bluetooth speaker,1,$60.00,25%,credit card,Pending   
+ORD00874,"November 20, 2026",07:36:16,2026-11-22,Karan Singh,karan.singh28@yahoo.com,+91-34772 17826,BENGALURU,Books,  Data Science Guide  , 1 ,$40.00,0.10,Debit  Card,shipped
+ORD00742,16/11/2026,09:38 AM,23 Nov 2026,  Anita Khan  ,anita.khan35@outlook.com,2535844280,Kolkata   ,  Electronics  ,laptop,2,"$1,100.00",NA,UPI,Cancelled   
+ORD00340,07-11-2026,08:10,2026-11-09,neha verma,neha.verma84@gmail.com,+91-99887 52263,Delhi,  Clothing  ,Jeans   ,2,$45.00,0.25,DEBIT CARD,RETURNED
+ORD00183,"November 04, 2026",14:00,2026/11/07,Neha Patel,neha.patel88@yahoo.com,9488893066,DELHI,  Home & Kitchen  ,  Air Fryer  ,1 units,$ 110,,UPI,CANCELLED
+ORD00494,2026/11/07,06:16,2026/11/12,Aarav Khan   ,aarav.khan72@gmail.com,8028063419,Hyderabad,  Clothing  ,Jacket,1,,0%,UPI,Shipped   
+ORD00909,2026-11-14,09:42:07,2026-11-20,KARAN JOSHI,karan.joshi96@gmail.com,9917623109,Mumbai,  Home & Kitchen  ,  Cookware Set  ,5,$85.00,,,pending
+ORD00097,15-11-2026,11:00 AM,2026/11/21,Divya  Joshi,divya.joshi75gmail.com,998552,PUNE,HOME & KITCHEN,Mixer Grinder   ,one,null,0.25,Debit  Card,Delivered
+ORD00667,13-11-2026,03:21:13,16/11/2026,  Karan Joshi  ,karan.joshi48@yahoo.com,4893260941,CHENNAI,clothing,  Jeans  ,three,$45.00,25%,UPI,shipped
+ORD00056,2026/11/17,17:02:24,20/11/2026,PRIYA MEHTA,priya.mehta21@outlook.com,+91-17757 18885,hyderabad,BOOKS,Python Handbook,2,30.00,10%,UPI   ,
+ORD00351,02 Nov 2026,07:38 PM,06-11-2026,NEHA NAIR,neha.nair22@gmail.com,+91-24094 48488,Chennai,Clothing   ,jeans,1.0,45.00,0.20,DEBIT CARD,Shipped   
+ORD00040,17/11/2026,13:10:25,18/11/2026,Rohan  Singh,rohan.singh44@yahoo.com,1275575686,Mumbai,  Electronics  ,Laptop,2,$1100.00,25,CASH ON DELIVERY,PENDING
+ORD00523,2026-11-12,07:45,14-11-2026,Rohan Reddy,rohan.reddy30@outlook.com,6128687231,  Hyderabad  ,Home & Kitchen,Cookware Set,4 units,$85.00,20%,Cash on Delivery,PENDING
+ORD00990,15-11-2026,12:37,2026-11-20,Neha Mehta,neha.mehta41@yahoo.com,2170911878,Jaipur,electronics,bluetooth speaker,3,30000.00,10%,UPI,Shipped
+ORD00911,"November 20, 2026",06:38 AM,2026-11-22,karan verma,karan.verma28@outlook.com,4365266992,  Jaipur  ,Electronics   ,Bluetooth Speaker,four,-,0%,cash on delivery,  Delivered  
+ORD00305,"November 17, 2026",16:09:31,18/11/2026,sneha singh,sneha.singh42@outlook.com,4681373464,jaipur,ELECTRONICS,Wireless Mouse   ,5,$25.00,25%,Net Banking   ,CANCELLED
+ORD00216,2026/11/06,00:18,"November 07, 2026",SNEHA REDDY,sneha.reddy2@gmail.com,6718682990,JAIPUR,Home  &  Kitchen,  Air Fryer  ,3,USD 110,20,Debit  Card,Pending
+ORD00299,"November 05, 2026",09:50 AM,2026-11-11,  Aarav Reddy  ,aarav.reddy65@gmail.com,3890078586,,ELECTRONICS,  Laptop  ,five,"$1,100.00",20,upi,shipped
+ORD00372,19 Nov 2026,11:28 PM,23/11/2026,divya joshi,divya.joshi58@outlook.com,2964848227,  Jaipur  ,electronics,LAPTOP,4,$ 1100,5,CASH ON DELIVERY,CANCELLED
+ORD00539,11/11/2026,06:24 PM,,Rohan Gupta,rohan.gupta41outlook.com,(973) 357-9712,Mumbai,BOOKS,Python Handbook,1,$30.00,20,CREDIT CARD,Cancelled
+ORD00979,22/11/2026,11:11 PM,"November 29, 2026",Karan  Singh,,+91-03443 03984,hyderabad,Books,python handbook,5,30.00,0%,UPI,Pending   
+ORD00697,18 Nov 2026,02:26 AM,"November 23, 2026",Anita Reddy,anita.reddy91@gmail.com,9955711414,Delhi,home & kitchen,Cookware Set   , 4 ,85.00,5,CREDIT CARD,DELIVERED
+ORD00238,23/11/2026,11:00 AM,2026-11-28,Arjun Joshi,arjun.joshi76@yahoo.com,+91-98157 82276,Delhi,  Books  ,Data Science Guide   ,3,$ 40,10%,Debit  Card,SHIPPED
+ORD00377,2026/11/10,09:34,14-11-2026,Anita  Sharma,anita.sharma35@outlook.com,6308905314,kolkata,clothing,Jacket   ,N/A,$ 90,10%,UPI   ,  Shipped  
+ORD00089,2026/11/10,11:44,12 Nov 2026,Neha Joshi   ,neha.joshi82@yahoo.com,9697251361,JAIPUR,Electronics   ,smart watch,0,USD 180,15%,debit card,DELIVERED
+ORD00791,08/11/2026,20:55:09,12 Nov 2026,VIKRAM MEHTA,vikram.mehta28@outlook.com,1935524275,pune,CLOTHING,Jeans,,$45.00,10%,CREDIT CARD,shipped
+ORD00530,10 Nov 2026,03:14 AM,2026-11-14,Karan Mehta,karan.mehta55@outlook.com,+91-30232 15324,CHENNAI,Books   ,Data  Science  Guide,3,$40.00,0.20,Cash  on  Delivery,DELIVERED
+ORD00959,05 Nov 2026,01:59,2026/11/11,ARJUN VERMA   ,arjun.verma99@yahoo.com,2083677629,  Kolkata  ,  Books  ,Python  Handbook,5.0,USD 30,-,Debit Card,Delivered
+ORD00269,19/11/2026,01:21 AM,22-11-2026,arjun reddy,arjun.reddy11@outlook.com,886719,Kolkata,Books,Data  Science  Guide,2,$40.00,5,Net  Banking,Returned
+ORD00039,2026-11-17,19:01,2026/11/22,ANITA PATEL,anita.patel50@yahoo.com,+91-06335 32896,chennai,Books,Data  Science  Guide,2 units,USD 40,10 %,  Net Banking  ,CANCELLED
+ORD00153,11-11-2026,16:03,17 Nov 2026,Rohan Gupta,rohan.gupta36gmail.com,6523317220,Mumbai,  Home & Kitchen  ,Cookware  Set,4,$85.00,5,Net Banking   ,Returned   
+ORD00080,19-11-2026,02:27 AM,"November 20, 2026",Aarav  Sharma,aarav.sharma51@outlook.com,+91-74465 10099,delhi,Electronics,  Wireless Mouse  ,two,$25.00,15%,  Credit Card  ,Pending   
+ORD00430,14 Nov 2026,09:08,2026-11-20,Divya  Singh,divya.singh81@yahoo.com,5336838375,Delhi,Home & Kitchen   ,COOKWARE SET,1,$85.00,25,Credit Card,  Pending  
+ORD00242,"November 06, 2026",03:15,2026-11-07,Neha  Sharma,neha.sharma21@yahoo.com,2248115706,  Chennai  ,Clothing,T-Shirt,four,$ 15,0.15,DEBIT CARD,Cancelled
+ORD00882,2026/11/09,08:56:19,16-11-2026,AARAV KHAN,aarav.khan52@outlook.com,0131086833,PUNE,clothing,jeans,5,45.00,5 %,Credit  Card,
+ORD00346,2026-11-11,17:03,13-11-2026,Anita Singh   ,anita.singh87@outlook.com,9164878093,hyderabad,Clothing   ,t-shirt,1 units,USD 15,0 %,NET BANKING,Pending
+ORD00175,2026-11-18,10:23:07,20 Nov 2026,  Neha Gupta  ,neha.gupta21@gmail.com,5432769149,  Mumbai  ,clothing,JACKET,5,$90.00,25%,  UPI  ,Cancelled   
+ORD00943,2026/11/15,13:27,19/11/2026,PRIYA JOSHI,priya.joshi37@outlook.com,8334199832,Bengaluru   ,clothing,Jeans,1,45.00 $,10%,debit card,  Returned  
+ORD00507,"November 21, 2026",22:20:03,2026/11/22,Arjun Mehta,arjun.mehta79@outlook.com,3723513009,Kolkata   ,  Electronics  ,Smart Watch   ,5,180.00,10,,  Shipped  
+ORD00952,2026/11/18,10:10,2026-11-24,Neha Gupta,neha.gupta21@yahoo.com,+91-18103 02526,  Kolkata  ,electronics,smart watch,2,$180.00,,cash on delivery,Pending
+ORD00025,"November 18, 2026",01:44 PM,2026-11-22,  Sneha Singh  ,sneha.singh74@yahoo.com,0778368940,Delhi   ,  Home & Kitchen  ,Cookware Set,four,42500.00,0 %,cash on delivery,Cancelled   
+ORD00162,2026-11-18,00:23:06,"November 17, 2026",AARAV JOSHI,aarav.joshi13@outlook.com,2210096896,Kolkata,Clothing,Jeans   , 2 ,-45.00,0.10,  UPI  ,Delivered
+ORD00817,2026/11/08,01:10 AM,14/11/2026,Neha  Gupta,neha.gupta74@gmail.com,+91-55298 70475,kolkata,home & kitchen,Air Fryer   ,2,$110.00,0%,,Delivered   
+ORD00695,2026-11-10,02:14:12,13 Nov 2026,Anita Joshi   ,anita.joshi50@outlook.com,8161523351,  Chennai  ,electronics,  Wireless Mouse  ,4,USD 25,20%,CREDIT CARD,Returned
+ORD00938,2026/11/15,10:06 PM,17-11-2026,  Divya Khan  ,divya.khan86@outlook.com,(353) 657-1100,DELHI,  Home & Kitchen  ,  Air Fryer  ,1,USD 110,20 %,DEBIT CARD,CANCELLED
+ORD00120,18/11/2026,00:02:37,25-11-2026,Karan Nair   ,karan.nair54@yahoo.com,(494) 738-9854,kolkata,CLOTHING,Jacket,one,USD 90,0%,Cash  on  Delivery,Shipped
+ORD00059,21 Nov 2026,23:30,2026/11/25,Karan Reddy   ,karan.reddy49@yahoo.com,8181931987,Kolkata   ,  Clothing  ,T-SHIRT,3,$15.00,25%,Credit Card,
+ORD00263,01-11-2026,08:10:01,2026-11-02,Karan Gupta   ,karan.gupta46@outlook.com,667949,MUMBAI,  Books  ,Python Handbook   ,2,$ 30,25%,UPI   ,cancelled
+ORD00571,2026-11-02,21:38:49,05 Nov 2026,SNEHA JOSHI,sneha.joshi54@outlook.com,1950460023,Hyderabad,CLOTHING,T-Shirt,2 units,$15.00,20%,Cash on Delivery   ,Delivered
+ORD00169,01 Nov 2026,17:39:37,06/11/2026,Sneha Reddy   ,sneha.reddy76@outlook.com,6373078324,HYDERABAD,  Clothing  ,t-shirt,2,USD 15,5 %,UPI,Delivered
+ORD00082,"November 24, 2026",06:31 PM,2026-11-25,Aarav Singh   ,aarav.singh6@yahoo.com,1908762293,JAIPUR,ELECTRONICS,Bluetooth Speaker   ,4.0,$60.00,10,,Delivered   
+ORD00767,2026-11-12,07:12:24,19-11-2026,SNEHA MEHTA,sneha.mehta87@yahoo.com,+91-00152 79231,Jaipur   ,  Books  ,python handbook,3,$30.00,15%,debit card,Returned
+ORD00739,05 Nov 2026,09:37,07/11/2026,  Karan Verma  ,karan.verma61@outlook.com,3430108858,Pune   ,Home & Kitchen,Mixer  Grinder,2,USD 70,5%,Cash on Delivery   ,Delivered
+ORD00256,"November 08, 2026",03:37 PM,2026/11/10,Priya  Nair,,6114211018,BENGALURU,home & kitchen,  Cookware Set  ,5,85.00,0%,upi,cancelled
+ORD00222,2026-11-18,04:11,20/11/2026,  Sneha Khan  ,sneha.khan98yahoo.com,0118735108,delhi,HOME & KITCHEN,mixer grinder,3,,20 %,Cash  on  Delivery,Delivered
+ORD00537,03/11/2026,04:28,"November 09, 2026",MEERA MEHTA   ,meera.mehta2@yahoo.com,+91-46738 02309,  Pune  ,BOOKS,DATA SCIENCE GUIDE,3,$ 40,5 %,CREDIT CARD,
+ORD00985,24 Nov 2026,03:44 PM,"November 26, 2026",Karan  Khan,karan.khan40@outlook.com,1186515319,Jaipur,Electronics,WIRELESS MOUSE,4 units,N/A,0.20,UPI,Shipped
+ORD00969,09 Nov 2026,00:51:42,"November 11, 2026",Sneha Joshi,sneha.joshi86@gmail.com,+91-48772 07360,Delhi,clothing,Jacket,0,$90.00,0.10,UPI   ,CANCELLED
+ORD00847,not a date,18:15:32,20 Nov 2026,  Rahul Patel  ,RAHUL.PATEL58@GMAIL.COM,0268584771,kolkata,HOME & KITCHEN,  Mixer Grinder  ,-2,$70.00,25 %,UPI,RETURNED
+ORD00688,11/11/2026,08:57:33,2026-11-13,Arjun Reddy,,8367632408,  Bengaluru  ,books,PYTHON HANDBOOK,5 units,USD 30,0.05,CREDIT CARD,shipped
+ORD00864,2026-11-05,18:04,12-11-2026,Sneha  Nair,sneha.nair49@outlook.com,1089482723,Hyderabad,Books   ,PYTHON HANDBOOK,5,USD 30,10,Credit Card   ,Delivered
+ORD00084,17 Nov 2026,03:02 PM,23/11/2026,Meera Verma,meera.verma75@gmail.com,350612,BENGALURU,Electronics   ,Bluetooth Speaker,2,60.00,0%,net banking,
+ORD00093,"November 13, 2026",01:15 AM,18-11-2026,Rahul  Khan,rahul.khan87@outlook.com,+91-49121 00628,Delhi,  Home & Kitchen  ,Mixer Grinder   ,3,35000.00,0,Net Banking   ,  Pending  
+ORD00302,13-11-2026,14:00,"November 17, 2026",  Sneha Joshi  ,sneha.joshi24@outlook.com,3530689985,Kolkata,Books,Python Handbook, 5 ,30.00,0.25,UPI   ,  Returned  
+ORD00020,11 Nov 2026,06:42 AM,12 Nov 2026,meera verma,meera.verma9@yahoo.com,6189025456,kolkata,Books   ,Data Science Guide   ,1,$40.00,5%,UPI,DELIVERED
+ORD00559,"November 17, 2026",20:33,,  Karan Reddy  ,karan.reddy25@yahoo.com,+91-04795 39928,kolkata,electronics,Wireless Mouse,5 units,USD 25,0%,Credit Card,Pending   
+ORD00186,02 Nov 2026,02:14 PM,2026-11-05,Karan  Khan,karan.khan87@yahoo.com,0513857634,BENGALURU,CLOTHING,Jacket,1,$90.00,10%,credit card,Shipped
+ORD00228,02/11/2026,13:25,2026/10/30,Karan  Joshi,karan.joshi21@gmail.com,739283,hyderabad,ELECTRONICS,Laptop,4.0,"$1,100.00",5%,net banking,  Pending  
+ORD00210,12/11/2026,04:19,17 Nov 2026,Priya Verma,priya.verma48@outlook.com,(133) 201-7493,Delhi   ,clothing,Jacket,N/A,USD 90,10,  Cash on Delivery  ,PENDING
+ORD00334,07/11/2026,07:16 PM,"November 10, 2026",Anita Reddy,,6134909542,  Delhi  ,HOME & KITCHEN,MIXER GRINDER,5.0,$70.00,NA,  Net Banking  ,CANCELLED
+ORD00608,"November 10, 2026",04:59 AM,12/11/2026,Karan Mehta   ,,4463398746,jaipur,  Electronics  ,Laptop,3,"$1,100.00",0,  Credit Card  ,Pending   
+ORD00528,14-11-2026,22:35,"November 18, 2026",Divya Reddy   ,divya.reddy52@gmail.com,+91-21440 67166,Hyderabad,Clothing   ,  Jacket  ,2,$90.00,0.25,UPI,Delivered   
+ORD00232,2026/11/24,06:04 AM,2026/11/25,Priya Mehta   ,priya.mehta42@outlook.com,(934) 213-0602,Chennai,Electronics,BLUETOOTH SPEAKER,5,60.00,25 %,Net Banking   ,shipped
+ORD00509,2026-11-08,11:12:12,11 Nov 2026,  Priya Sharma  ,priya.sharma95@gmail.com,8802695420,HYDERABAD,CLOTHING,T-Shirt   ,-2,$15.00,15 %,UPI   ,Pending   
+ORD00429,"November 09, 2026",13:30:05,2026/11/14,  Priya Patel  ,priya.patel85@outlook.com,0582287656,JAIPUR,Clothing,t-shirt,five,15.00,15%,DEBIT CARD,Delivered
+ORD00315,21 Nov 2026,14:35,2026/11/23,Vikram Verma,vikram.verma10@gmail.com,7075905388,pune,  Electronics  ,LAPTOP,5,1100.00,0%,  Debit Card  ,pending
+ORD00081,22-11-2026,23:57,2026-11-28,aarav gupta,aarav.gupta90@gmail.com,5771172870,  Delhi  ,  Electronics  ,Smart Watch   ,4,90000.00,5%,UPI,Pending
+ORD00618,"November 21, 2026",17:00:01,27 Nov 2026,Priya Joshi,priya.joshi70@gmail.com,+91-15881 43001,  Mumbai  ,CLOTHING,Jacket,-2,$90.00,20%,Cash  on  Delivery,Shipped
+ORD00552,2026/11/02,05:58:19,06-11-2026,  Meera Sharma  ,meera.sharma51@yahoo.com,+91-08152 57085,Pune,Clothing   ,T-Shirt   ,5,$ 15,25%,Credit Card   ,  Cancelled  
+ORD00818,2026-11-18,17:06:38,"November 21, 2026",Priya Joshi,priya.joshi88@outlook.com,4863173360,Pune,Home & Kitchen   ,mixer grinder,two,70.00,25%,Credit Card,  Shipped  
+ORD00996,2026/11/24,12:57 PM,2026/11/21,  Anita Khan  ,anita.khan24@yahoo.com,5735829148,  Mumbai  ,Clothing,Jacket,4 units,$90.00,0.25,debit card,  Cancelled  
+ORD00239,2026-11-17,04:00,21/11/2026,  Sneha Gupta  ,sneha.gupta26@gmail.com,+91-19849 16001,Hyderabad,Books,Python Handbook,1,$ 30,0.00,CREDIT CARD,Pending
+ORD00138,"November 02, 2026",16:45,05-11-2026,Vikram Mehta,vikram.mehta75@gmail.com,0397771865,Kolkata,Clothing,t-shirt,4,15.00,-,Net Banking,Returned
+ORD00026,11-11-2026,19:25:42,15-11-2026,arjun reddy,arjun.reddy70@gmail.com,+91-62209 77112,  Chennai  ,BOOKS,PYTHON HANDBOOK,5,$ 30,5%,Credit Card   ,Returned   
+ORD00950,14 Nov 2026,08:31,2026-11-19,,neha.gupta29@outlook.com,1959696746,Mumbai,CLOTHING,jeans,0,$45.00,10,NET BANKING,Delivered
+ORD00980,14/11/2026,07:32:43,2026/11/20,Divya  Gupta,divya.gupta11@outlook.com,2885891504,jaipur,Books,python handbook,-2,30.00,15 %,credit card,Cancelled
+ORD00341,2026-11-18,10:06,"November 19, 2026",NEHA VERMA,neha.verma17@outlook.com,2740807044,hyderabad,Electronics   ,Smart Watch,1 units,$ 180,25,Debit Card   ,  Pending  
+ORD00062,07-11-2026,09:23 PM,13 Nov 2026,Sneha Reddy   ,sneha.reddy27@yahoo.com,217779,chennai,electronics,wireless mouse,4,25.00,NA,UPI,cancelled
+ORD00308,17 Nov 2026,02:07 PM,21 Nov 2026,Karan  Nair,karan.nair31@outlook.com,8361709996,Mumbai,CLOTHING,Jacket,five,$90.00,-,UPI,  Returned  
+ORD00159,"November 02, 2026",12:30:29,2026/11/07,meera reddy,meera.reddy66@yahoo.com,3921653726,jaipur,  Home & Kitchen  ,Cookware Set,1,42500.00,5%,net banking,cancelled
+ORD00524,2026/11/02,03:35 AM,"November 03, 2026",rohan joshi,rohan.joshi13@yahoo.com,9296610868,  Kolkata  ,CLOTHING,jeans,3,$45.00,5%,DEBIT CARD,Shipped
+ORD00753,09 Nov 2026,16:25:33,16/11/2026,Divya Mehta   ,divya.mehta6@outlook.com,0575492093,Hyderabad   ,Home & Kitchen   ,Air Fryer   ,4,110.00,0.20,NET BANKING,DELIVERED
+ORD00472,"November 18, 2026",11:53:33,23 Nov 2026,Vikram  Gupta,vikram.gupta28@gmail.com,+91-71140 16452,  Delhi  ,  Books  ,Data Science Guide   ,2,$40.00,-,credit card,cancelled
+ORD00018,2026-11-01,17:59:49,08-11-2026,MEERA SINGH,meera.singh46@yahoo.com,7209074766,Kolkata,BOOKS,data science guide,3 units,40.00,15,net banking,Cancelled
+ORD00970,14/11/2026,17:51:13,18-11-2026,Rohan Singh,rohan.singh80@gmail.com,9268177524,Jaipur,CLOTHING,  Jeans  ,4,45.00 $,5%,UPI,
+ORD00068,05 Nov 2026,09:47 AM,08 Nov 2026,rohan verma,rohan.verma22@yahoo.com,7397464103,Kolkata,Books   ,PYTHON HANDBOOK,5,$30.00,10%,  Debit Card  ,cancelled
+ORD00849,19-11-2026,05:06 PM,21 Nov 2026,Rohan Reddy   ,rohan.reddy29@outlook.com,139493,Bengaluru   ,  Home & Kitchen  ,  Cookware Set  ,3 units,$85.00,20,Net Banking,Cancelled   
+ORD00824,2026-11-07,13:47,2026-11-13,Karan  Sharma,karan.sharma1@outlook.com,6066857094,Bengaluru,Electronics   ,Bluetooth Speaker   ,four,USD 60,,Cash on Delivery,Cancelled
+ORD00722,2026-11-08,13:50,2026/11/03,Divya Patel   ,divya.patel83@yahoo.com,0306004012,Chennai,ELECTRONICS,LAPTOP,5,1100.00,0.20,Credit Card   ,Cancelled
+ORD00113,2026/11/11,00:36:53,15 Nov 2026,RAHUL SHARMA,rahul.sharma83@outlook.com,5709173074,BENGALURU,Books,  Data Science Guide  , 5 ,$40.00,10,UPI,Pending   
+ORD00981,2026/11/13,12:15 AM,,  Rahul Khan  ,rahul.khan30@outlook.com,6736476489,  Pune  ,  Books  ,Data Science Guide,2 units,$40.00,0.10,Debit Card   ,
+ORD00726,16 Nov 2026,02:05,"November 20, 2026",  Sneha Patel  ,SNEHA.PATEL9@GMAIL.COM,7650411450,  Jaipur  ,electronics,Bluetooth  Speaker,5,$ 60,-,,returned
+ORD00619,17 Nov 2026,05:38 PM,2026/11/18,Aarav Patel,aarav.patel85@outlook.com,(825) 591-2305,Bengaluru   ,  Home & Kitchen  ,Air  Fryer,one,$110.00,0.05,cash on delivery,Shipped
+ORD00517,08/11/2026,11:19:41,15/11/2026,arjun khan,arjun.khan74@outlook.com,5887924986,Bengaluru,Clothing,JACKET,3,null,10,upi,Returned
+ORD00059,21 Nov 2026,23:30,2026/11/25,Karan Reddy   ,karan.reddy49@yahoo.com,8181931987,Kolkata   ,  Clothing  ,T-SHIRT,3,$15.00,25%,Credit Card,
+ORD00103,2026-11-10,09:36 AM,14-11-2026,ROHAN SHARMA,rohan.sharma38@yahoo.com,7070861346,  Delhi  ,  Clothing  ,  Jeans  ,4,$ 45,15,Debit Card,Shipped
+ORD00416,03/11/2026,04:49 PM,2026/11/08,rohan nair,rohan.nair13@yahoo.com,0866835274,BENGALURU,  Home & Kitchen  ,MIXER GRINDER,one,$70.00,0,Debit Card,RETURNED
+ORD00829,08-11-2026,09:45 AM,12-11-2026,Vikram Joshi   ,vikram.joshi79@yahoo.com,+91-73349 91012,  Pune  ,  Clothing  ,T-Shirt,one,USD 15,25%,Net Banking,  Shipped  
+ORD00488,2026/11/06,04:27 PM,2026-11-10,Meera Reddy,meera.reddy40@yahoo.com,0002909882,Jaipur,  Clothing  ,Jeans   ,4,45.00,20,DEBIT CARD,DELIVERED
+ORD00474,2026/11/02,07:32:40,03-11-2026,Neha  Joshi,neha.joshi71@gmail.com,+91-70155 58641,  Jaipur  ,Electronics,WIRELESS MOUSE,4,25.00,15%,debit card,Delivered
+ORD00815,23/11/2026,06:04:35,30/11/2026,meera khan,meera.khan7@gmail.com,6079941173,Pune,Electronics   ,Laptop,3,1100.00,20,  Cash on Delivery  ,Shipped
+ORD00935,04/11/2026,09:09 PM,2026-11-10,Karan Sharma   ,karan.sharma98@gmail.com,6780558706,Delhi   ,clothing,Jeans   ,5,$45.00,0,DEBIT CARD,Returned
+ORD00766,01/11/2026,06:57,06-11-2026,priya sharma,priya.sharma10@yahoo.com,6017947205,  Delhi  ,Electronics,LAPTOP,3,"USD 1,100",0.25,Net Banking   ,  Returned  
+ORD00292,2026/11/13,04:35:06,"November 17, 2026",MEERA NAIR,meera.nair59@gmail.com,9158568155,HYDERABAD,HOME & KITCHEN,Mixer  Grinder,2 units,70.00,0%,Cash on Delivery   ,Shipped
+ORD00264,16 Nov 2026,01:26 PM,19-11-2026,  Neha Verma  ,neha.verma1@gmail.com,+91-14798 14713,  Kolkata  ,Electronics,  Smart Watch  ,3 units,$180.00,5 %,  Cash on Delivery  ,  Pending  
+ORD00252,2026/11/18,17:56,"November 25, 2026",Karan  Nair,karan.nair94@gmail.com,(986) 469-7777,Jaipur   ,  Electronics  ,SMART WATCH,5 units,$180.00,10%,Debit Card   ,Cancelled
+ORD00606,15/11/2026,01:26,"November 17, 2026",AARAV PATEL,aarav.patel44@gmail.com,1086020702,,clothing,  Jacket  ,5,$90.00,,Cash on Delivery,PENDING
+ORD00672,09-11-2026,07:50,2026-11-13,Karan Reddy,karan.reddy85@gmail.com,+91-72856 00046,Kolkata,clothing,Jeans   ,5 units,$ 45,0%,credit card,Shipped
+ORD00884,02 Nov 2026,11:01:15,"November 03, 2026",Divya Singh,divya.singh28@gmail.com,4741237705,Delhi,Electronics,WIRELESS MOUSE,N/A,$25.00,10,Net Banking,Returned
+ORD00863,2026/11/23,10:57 PM,2026/11/26,Anita  Patel,anita.patel23@outlook.com,(379) 999-4020,chennai,home & kitchen,Air Fryer   ,4,110.00 $,5%,Credit Card,Delivered   
+ORD00002,2026/11/13,02:52,2026/11/18,Arjun Khan,arjun.khan47@outlook.com,6798834813,Mumbai   ,Books,PYTHON HANDBOOK,4,$30.00,25 %,NET BANKING,Cancelled
+ORD00550,"November 06, 2026",22:16:08,13 Nov 2026,priya gupta,priya.gupta42@yahoo.com,+91-58136 66042,HYDERABAD,Books   ,  Data Science Guide  ,3,$40.00,20,  Cash on Delivery  ,Delivered   
+ORD00376,01 Nov 2026,17:54:16,"November 07, 2026",Anita Verma   ,anita.verma48@gmail.com,6919916277,,clothing,jeans,3,$45.00,0 %,cash on delivery,Shipped
+ORD00381,16 Nov 2026,11:24:47,21/11/2026,sneha singh,sneha.singh76gmail.com,3449894841,Kolkata,BOOKS,  Data Science Guide  ,4,40.00 $,0.05,Debit Card   ,SHIPPED
+ORD00843,"November 03, 2026",09:32,07 Nov 2026,  Rohan Reddy  ,rohan.reddy44outlook.com,2868488656,chennai,books,python handbook,4,30.00 $,5 %,UPI,Delivered   
+ORD00368,04 Nov 2026,16:38:50,06-11-2026,  Neha Mehta  ,neha.mehta10@outlook.com,6092690288,JAIPUR,ELECTRONICS,Bluetooth Speaker   ,3,-60.00,20,UPI,  Cancelled  
+ORD00403,2026-11-07,09:16 AM,2026-11-11,Rahul Khan   ,rahul.khan36@outlook.com,+91-04954 31138,PUNE,Electronics,Wireless  Mouse,2 units,$25.00,0.00,Credit Card,Cancelled   
+ORD00679,"November 12, 2026",01:04 AM,"November 19, 2026",ANITA SINGH,anita.singh41@yahoo.com,6590926934,JAIPUR,Electronics   ,Bluetooth Speaker,N/A,$60.00,25%,UPI,Cancelled
+ORD00896,18 Nov 2026,18:01:39,2026-11-21,Neha  Nair,neha.nair58@gmail.com,6308295617,  Jaipur  ,clothing,Jacket,N/A,90.00 $,0%,Credit Card,
+ORD00003,11 Nov 2026,14:36:21,2026-11-14,Divya Mehta,divya.mehta28@outlook.com,+91-61175 74539,Mumbai,CLOTHING,T-Shirt,1,15.00,15,net banking,Pending
+ORD00096,2026/11/16,21:22:03,21 Nov 2026,ROHAN PATEL,ROHAN.PATEL96@OUTLOOK.COM,0872222658,Mumbai   ,Books,PYTHON HANDBOOK,3,$ 30,0.10,  Cash on Delivery  ,  Cancelled  
+ORD00536,02/11/2026,05:38:57,04/11/2026,Anita Sharma,anita.sharma21@gmail.com,2317777119,mumbai,  Clothing  ,Jeans   ,2.0,$45.00,0%,DEBIT CARD,  Cancelled  
+ORD00772,2026-11-17,02:11 PM,24-11-2026,,aarav.singh86@gmail.com,3464164397,Jaipur   ,Home  &  Kitchen,Mixer  Grinder,one,$70.00,25%,Credit  Card,  Pending  
+ORD00497,01 Nov 2026,19:13:20,2026/11/03,Rahul Nair   ,rahul.nair67@outlook.com,9646335140,BENGALURU,Books,Data Science Guide,3,40.00,20 %,Net Banking   ,  Shipped  
+ORD00913,03-11-2026,03:35 PM,2026-11-07,Anita  Khan,anita.khan65@yahoo.com,8569950990,CHENNAI,  Clothing  ,Jacket   ,1 units,$90.00,5%,CREDIT CARD,Pending   
+ORD00984,09/11/2026,12:36,13/11/2026,Rahul Singh   ,rahul.singh41@gmail.com,8157023346,Chennai,Books,Data Science Guide   ,3,$40.00,0.05,UPI,Returned
+ORD00285,"November 09, 2026",03:24 PM,"November 11, 2026",divya verma,divya.verma19@yahoo.com,+91-28106 42904,  Jaipur  ,clothing,t-shirt,4,$ 15,10,,Shipped   
+ORD00212,2026-11-22,19:21:51,2026-11-24,Vikram Singh   ,vikram.singh32@outlook.com,0535493105,mumbai,ELECTRONICS,WIRELESS MOUSE,1,$25.00,25 %,Debit Card,pending
+ORD00411,06 Nov 2026,12:24 AM,07 Nov 2026,Neha Nair   ,neha.nair35gmail.com,+91-25047 46205,Jaipur,Home & Kitchen   ,Cookware  Set,five,$85.00,15 %,UPI,Returned
+ORD00646,2026/11/01,18:39:42,"November 08, 2026",Anita Reddy   ,ANITA.REDDY6@OUTLOOK.COM,2182912600,Bengaluru,Books   ,data science guide,two,$40.00,20,Cash  on  Delivery,Delivered   
+ORD00174,16-11-2026,12:37,20/11/2026,arjun sharma,,2964363568,mumbai,BOOKS,  Python Handbook  ,3,30.00 $,10%,  UPI  ,Shipped   
+ORD00288,18/11/2026,09:22 AM,24 Nov 2026,Anita Reddy,anita.reddy2@yahoo.com,(568) 842-5614,Bengaluru   ,Books,Data  Science  Guide,3.0,$40.00,15%,credit card,  Pending  
+ORD00846,2026-11-18,00:31,2026-11-22,ROHAN NAIR,ROHAN.NAIR63@OUTLOOK.COM,3062655333,mumbai,ELECTRONICS,Bluetooth Speaker,-2,60.00,10%,net banking,Returned   
+ORD00143,"November 08, 2026",20:51:30,10-11-2026,Vikram Khan,vikram.khan43@yahoo.com,+91-15883 75199,DELHI,clothing,JEANS,three,-45.00,15,  UPI  ,CANCELLED
+ORD00413,18 Nov 2026,19:56:57,"November 25, 2026",arjun mehta,arjun.mehta68@gmail.com,5687284293,Pune,HOME & KITCHEN,Cookware Set   ,2,-85.00,5%,Credit  Card,Pending   
+ORD00193,01-11-2026,02:35 PM,,Anita Khan,anita.khan11@gmail.com,9878673472,kolkata,BOOKS,  Python Handbook  ,,$30.00,20%,Net  Banking,Shipped
+ORD00114,2026-11-02,00:10,07 Nov 2026,Rahul  Nair,,7298116216,delhi,Clothing,T-Shirt,2,$ 15,10,UPI,Shipped
+ORD00402,2026/11/20,05:04 AM,27-11-2026,VIKRAM SINGH,vikram.singh88@outlook.com,+91-37517 86278,  Kolkata  ,Books,python handbook,-2,$30.00,10,  Credit Card  ,  Pending  
+ORD00230,2026/11/04,18:21,11 Nov 2026,  Karan Reddy  ,KARAN.REDDY22@YAHOO.COM,+91-06643 31027,Hyderabad,Home & Kitchen,Mixer Grinder   ,4 units,$70.00,,Credit Card   ,DELIVERED
+ORD00929,10 Nov 2026,12:20:53,17 Nov 2026,meera verma,meera.verma37@yahoo.com,(026) 420-4430,Chennai   ,Books,  Data Science Guide  ,three,40.00,5%,  Cash on Delivery  ,Shipped
+ORD00759,22-11-2026,21:51:09,24 Nov 2026,Karan  Nair,karan.nair7@outlook.com,+91-46988 92713,bengaluru,Clothing   ,  Jeans  ,4,$45.00,10%,  UPI  ,delivered
+ORD00218,13-11-2026,07:05:07,2026-11-16,  Divya Sharma  ,divya.sharma95@gmail.com,021360,bengaluru,Home & Kitchen,mixer grinder,2,$70.00,0.20,Cash on Delivery,Returned   
+ORD00598,08-11-2026,12:40:21,14 Nov 2026,Divya  Joshi,divya.joshi8@gmail.com,4684163246,Jaipur   ,Electronics   ,  Laptop  ,1,1100.00,10,Cash on Delivery,Shipped
+ORD00762,07-11-2026,03:39,"November 11, 2026",divya nair,divya.nair23@outlook.com,5664443384,Bengaluru,clothing,JEANS,4.0,USD 45,0.00,  UPI  ,PENDING
+ORD00155,"November 04, 2026",02:46 PM,"November 11, 2026",Priya  Mehta,priya.mehta72@outlook.com,4522140264,BENGALURU,Clothing,Jacket,5,N/A,15,UPI   ,  Delivered  
+ORD00431,24/11/2026,07:48:39,26 Nov 2026,Aarav  Patel,aarav.patel2@outlook.com,6880960257,Pune   ,CLOTHING,T-Shirt,one,$15.00,5,,Delivered
+ORD00404,"November 14, 2026",08:45 AM,16 Nov 2026,Divya Khan,divya.khan97@yahoo.com,2057193501,DELHI,  Home & Kitchen  ,AIR FRYER,5,$110.00,5%,UPI,DELIVERED
+ORD00182,17 Nov 2026,07:54:02,"November 23, 2026",VIKRAM GUPTA,vikram.gupta97outlook.com,7998461618,Kolkata,electronics,Wireless Mouse,5,$25.00,0.25,UPI   ,Delivered
+ORD00336,11/11/2026,10:12 PM,13/11/2026,arjun reddy,ARJUN.REDDY88@GMAIL.COM,6735194724,Delhi,BOOKS,Python Handbook   ,2,$ 30,5,  Debit Card  ,Pending
+ORD00914,2026-11-07,07:58:17,08/11/2026,Rohan  Singh,rohan.singh46@yahoo.com,9055827014,CHENNAI,Books,Data Science Guide   ,3.0,$40.00,5%,Credit  Card,
+ORD00075,2026-11-20,05:04 AM,2026/11/27,SNEHA SHARMA,,1925959817,MUMBAI,BOOKS,Python  Handbook,2,30.00 $,0.15,Debit Card   ,Cancelled
+ORD00809,"November 17, 2026",18:02:01,2026-11-23,  Sneha Nair  ,sneha.nair45@outlook.com,(681) 485-6209,  Kolkata  ,Clothing,  Jeans  ,3,USD 45,5%,  UPI  ,
+ORD00415,2026-11-24,00:18:32,"November 26, 2026",Meera Verma,meera.verma90@outlook.com,402869,Jaipur   ,Electronics,WIRELESS MOUSE, 4 ,null,20%,UPI   ,Pending
+ORD00436,11-11-2026,01:48 PM,17 Nov 2026,Rahul Patel,rahul.patel97@yahoo.com,8654490175,  Kolkata  ,Clothing,Jeans,1 units,$ 45,NA,UPI,Cancelled
+ORD00429,"November 09, 2026",13:30:05,2026/11/14,  PRIYA PATEL  ,priya.patel85@outlook.com,0582287656,JAIPUR,Clothing,t-shirt,five,15.00,15%,DEBIT CARD,Delivered
+ORD00626,17/11/2026,05:37 PM,2026-11-19,Aarav Singh,aarav.singh39@outlook.com,+91-92450 24494,  Hyderabad  ,electronics,Bluetooth Speaker,five,$60.00,0,net banking,  Delivered  
+ORD00641,2026/11/17,12:59 PM,"November 23, 2026",Karan Patel,karan.patel53@outlook.com,2562525767,Pune   ,Books,Python Handbook   ,5,$ 30,,UPI   ,SHIPPED
+ORD00234,02/11/2026,08:40,2026/11/08,Meera  Mehta,meera.mehta18@yahoo.com,0748727320,Bengaluru   ,  Clothing  ,Jacket   ,4,USD 90,15%,CREDIT CARD,Delivered
+ORD00021,18/11/2026,02:43,14/11/2026,neha khan,neha.khan61yahoo.com,+91-22802 27581,Mumbai,Clothing,T-SHIRT, 5 ,$ 15,10,Cash on Delivery,Returned
+ORD00947,12-11-2026,22:43:40,15/11/2026,Neha  Nair,neha.nair19@yahoo.com,+91-16469 99326,Delhi   ,Books,Data Science Guide,,$40.00,5%,Debit Card,  Cancelled  
+ORD00770,2026-11-07,01:54 PM,11 Nov 2026,Aarav  Mehta,aarav.mehta19@gmail.com,6154943072,MUMBAI,Home & Kitchen,Mixer Grinder,5,$70.00,10%,Credit Card,DELIVERED
+ORD00997,04/11/2026,01:40 AM,07-11-2026,VIKRAM KHAN   ,vikram.khan94@outlook.com,9835577699,Pune,BOOKS,Data  Science  Guide,-2,$40.00,20 %,  UPI  ,DELIVERED
+ORD00804,03 Nov 2026,08:25,05/11/2026,Priya Reddy,priya.reddy76outlook.com,3030778942,JAIPUR,Electronics,smart watch, 3 ,180.00 $,10%,CASH ON DELIVERY,  Shipped  
+ORD00610,03/11/2026,11:46 PM,"November 04, 2026",Aarav Khan,aarav.khan44@gmail.com,8491323507,Pune,  Books  ,Data Science Guide,4,$ 40,15%,Net Banking   ,cancelled
+ORD00590,12 Nov 2026,02:35 AM,16-11-2026,ANITA NAIR,anita.nair50@outlook.com,(269) 825-0388,Hyderabad   ,Clothing   ,  T-Shirt  ,N/A,15.00,10,CREDIT CARD,Pending
+ORD00031,2026-11-08,04:35 AM,15/11/2026,Priya Nair   ,priya.nair27@outlook.com,+91-31908 11216,Chennai,ELECTRONICS,smart watch,4,USD 180,0.15,cash on delivery,Pending   
+ORD00291,05 Nov 2026,03:09 PM,2026-11-10,Vikram Verma   ,vikram.verma39@outlook.com,1780565633,  Jaipur  ,Clothing,JEANS,3 units,45.00 $,10,Debit Card   ,Pending   
+ORD00253,13 Nov 2026,06:12:25,16-11-2026,Anita Singh,anita.singh70@gmail.com,2063999589,hyderabad,books,data science guide,3,-40.00,10%,Credit Card,  Returned  
+ORD00070,"November 12, 2026",19:32,"November 17, 2026",Priya  Verma,priya.verma99@gmail.com,6096379402,  Bengaluru  ,books,  Python Handbook  ,5,$ 30,0%,Cash on Delivery,  Cancelled  
+ORD00088,23/11/2026,01:03 PM,2026/11/20,DIVYA KHAN,divya.khan19@outlook.com,8951006043,Chennai,Home & Kitchen,COOKWARE SET,2 units,85.00 $,,UPI,Returned   
+ORD00866,"November 11, 2026",06:08:12,10/11/2026,  Priya Joshi  ,priya.joshi96@outlook.com,4246275268,Pune,Clothing   ,Jeans   ,1,$ 45,0.00,Credit Card,Returned
+ORD00115,03-11-2026,07:02 AM,06 Nov 2026,  Anita Khan  ,anita.khan85@yahoo.com,5891377623,chennai,  Home & Kitchen  ,Cookware Set   ,5,$85.00,5%,NET BANKING,Cancelled
+ORD00549,06/11/2026,00:13,2026/11/12,rahul nair,rahul.nair13@outlook.com,0169196355,Chennai,  Home & Kitchen  ,COOKWARE SET,one,$85.00,-,  Cash on Delivery  ,Cancelled
+ORD00092,2026/11/21,10:37,2026-11-22,Priya Patel,priya.patel51@yahoo.com,+91-05183 42422,Chennai   ,  Clothing  ,T-Shirt   ,1,null,25 %,Cash on Delivery   ,  Shipped  
+ORD00466,08 Nov 2026,08:08 PM,13/11/2026,Rohan Mehta,rohan.mehta84@yahoo.com,(582) 534-4678,chennai,electronics,Smart Watch   , 4 ,USD 180,0.05,Cash on Delivery   ,  Pending  
+ORD00957,14-11-2026,05:20 PM,2026-11-20,,anita.verma28@outlook.com,(125) 556-6705,pune,books,Data  Science  Guide,5,N/A,15,debit card,Delivered   
+ORD00709,"November 15, 2026",20:25:54,22 Nov 2026,Anita  Reddy,ANITA.REDDY7@OUTLOOK.COM,(111) 716-0580,CHENNAI,CLOTHING,JACKET,2,90.00,0%,Net Banking,RETURNED
+ORD00168,21 Nov 2026,10:57 AM,24/11/2026,RAHUL SINGH,rahul.singh25@gmail.com,6895462011,Jaipur,Books,python handbook,4,$30.00,15,Credit Card,Delivered   
+ORD00408,"November 04, 2026",04:50 PM,"November 09, 2026",neha gupta,neha.gupta20@outlook.com,+91-08750 50101,HYDERABAD,  Clothing  ,JACKET,two,$90.00,0,  Credit Card  ,Shipped
+ORD00617,02 Nov 2026,04:09,06/11/2026,Divya  Gupta,divya.gupta53@outlook.com,0060688445,pune,Clothing   ,jeans,one,$ 45,5%,Net Banking   ,pending
+ORD00321,06/11/2026,11:04 PM,13-11-2026,ROHAN JOSHI,rohan.joshi72@yahoo.com,6543034672,JAIPUR,  Electronics  ,bluetooth speaker,1,USD 60,10%,UPI   ,Delivered   
+ORD00753,09 Nov 2026,16:25:33,16/11/2026,Divya Mehta   ,divya.mehta6@outlook.com,0575492093,Hyderabad   ,Home & Kitchen   ,Air Fryer   ,4,110.00,0.20,NET BANKING,DELIVERED
+ORD00586,"November 21, 2026",08:11 PM,25-11-2026,Neha Verma,neha.verma81@yahoo.com,9379972529,Delhi,ELECTRONICS,  Laptop  ,3,"USD 1,100",0.00,CASH ON DELIVERY,Pending   
+ORD00078,14/11/2026,04:48,2026/11/18,KARAN VERMA,karan.verma94@gmail.com,2388660561,Kolkata   ,Home  &  Kitchen,  Mixer Grinder  ,,$70.00,25%,cash on delivery,returned
+ORD00705,"November 05, 2026",04:59:30,2026/11/11,Rahul  Verma,rahul.verma45@outlook.com,624037,Bengaluru,Electronics   ,  Wireless Mouse  ,2,USD 25,10,Debit Card,Pending   
+ORD00567,16-11-2026,14:38,2026/11/19,  Arjun Khan  ,arjun.khan81@outlook.com,(158) 957-8738,  Mumbai  ,Electronics,  Laptop  ,2,"$1,100.00",20 %,Net Banking,  Delivered  
+ORD00532,"November 19, 2026",16:24,"November 22, 2026",Vikram Joshi   ,vikram.joshi34@gmail.com,6510346499,Pune,HOME & KITCHEN,AIR FRYER,1,$110.00,0.15,Debit Card,Shipped
+ORD00599,19-11-2026,06:15:12,2026-11-24,ROHAN VERMA,rohan.verma48@yahoo.com,+91-02502 83120,Chennai,electronics,wireless mouse,,USD 25,0.10,upi,DELIVERED
+ORD00691,2026/11/05,01:58 AM,2026-11-12,ROHAN REDDY,rohan.reddy54@outlook.com,230472,MUMBAI,home & kitchen,  Mixer Grinder  ,1,$70.00,15%,  Net Banking  ,shipped
+ORD00258,23 Nov 2026,16:13,2026/11/24,Rahul Khan,rahul.khan44@yahoo.com,2701528899,Kolkata,  Clothing  ,  T-Shirt  ,5,15.00 $,10%,debit card,Delivered   
+ORD00256,"November 08, 2026",03:37 PM,2026/11/10,Priya  Nair,,6114211018,BENGALURU,home & kitchen,  Cookware Set  ,5,85.00,0%,upi,cancelled
+ORD00728,2026/11/14,21:43:28,17 Nov 2026,,sneha.reddy72@outlook.com,8565553910,  Kolkata  ,books,PYTHON HANDBOOK, 2 ,$30.00,25%,  Debit Card  ,DELIVERED
+ORD00515,2026-11-14,05:43 PM,"November 15, 2026",anita joshi,anita.joshi72@yahoo.com,9398023158,pune,Clothing,T-Shirt,4,15.00,10%,NET BANKING,Shipped   
+ORD00706,05/11/2026,03:22 PM,,Karan Mehta   ,karan.mehta83@gmail.com,8460438659,Chennai,Electronics,Smart  Watch,2 units,180.00,20,DEBIT CARD,  Returned  
+ORD00498,2026/11/03,20:08,29/10/2026,anita gupta,anita.gupta10@yahoo.com,9142074310,Delhi   ,Electronics,Smart Watch   ,2,180.00,5%,  Net Banking  ,Cancelled   
+ORD00899,01-11-2026,10:33 AM,2026-11-05,Priya Patel,priya.patel94@outlook.com,7534824238,  Hyderabad  ,Electronics,LAPTOP,5,550000.00,5%,NET BANKING,Delivered   
+ORD00131,"November 03, 2026",15:22:23,,Divya Patel,divya.patel37@outlook.com,+91-48126 62610,pune,CLOTHING,Jeans,1,$45.00,15%,debit card,returned
+ORD00826,22 Nov 2026,23:23:42,2026/11/28,VIKRAM PATEL,vikram.patel15@gmail.com,+91-87169 22789,bengaluru,Home & Kitchen   ,Air  Fryer,-2,$110.00,20,  Credit Card  ,Pending
+ORD00101,2026/11/13,00:41:46,15 Nov 2026,  Rohan Singh  ,rohan.singh94@gmail.com,+91-36082 50966,Kolkata,Clothing   ,t-shirt,2,$15.00,0.00,  UPI  ,Delivered
+ORD00172,2026-11-14,09:49,2026/11/20,RAHUL KHAN,rahul.khan27@outlook.com,7096813631,mumbai,ELECTRONICS,Smart Watch   ,4,$ 180,0.25,Debit  Card,shipped
+ORD00492,"November 16, 2026",18:23:31,2026-11-19,Priya  Joshi,priya.joshi45@gmail.com,6320588646,CHENNAI,Books,Data Science Guide   ,5,40.00,25,UPI   ,
+ORD00703,2026/11/01,01:26:03,2026/11/08,Neha Gupta,NEHA.GUPTA3@OUTLOOK.COM,3773553218,BENGALURU,clothing,  Jeans  , 2 ,45.00,0.05,Credit Card,Delivered
+ORD00968,2026-11-05,16:44:43,10 Nov 2026,Rohan  Singh,rohan.singh55@gmail.com,9573767368,Bengaluru,Home & Kitchen,  Air Fryer  ,three,$ 110,NA,Credit Card   ,SHIPPED
+ORD00454,"November 13, 2026",19:41,15/11/2026,Rohan Gupta,rohan.gupta29@outlook.com,0383754125,mumbai,Home & Kitchen   ,  Mixer Grinder  ,5.0,$70.00,20,UPI,Returned   
+ORD00111,12-11-2026,08:03 AM,2026-11-14,  Anita Mehta  ,anita.mehta38@gmail.com,+91-45761 32692,Pune   ,Books,python handbook,5,-,20,  Cash on Delivery  ,delivered
+ORD00656,2026/11/08,15:24:37,2026/11/14,  Vikram Sharma  ,vikram.sharma9@yahoo.com,3246839371,Bengaluru,Home & Kitchen   ,  Mixer Grinder  ,2.0,$ 70,0%,UPI   ,Cancelled
+ORD00962,2026-11-13,20:53:04,15 Nov 2026,aarav patel,aarav.patel68@gmail.com,+91-10492 28968,  Delhi  ,Clothing,Jeans,2,$45.00,5,debit card,Returned
+ORD00201,20 Nov 2026,09:39 AM,"November 23, 2026",Rohan Singh   ,rohan.singh24@gmail.com,8150114689,Chennai,Books,Data  Science  Guide,3 units,$40.00,5%,Credit Card,Shipped
+ORD00203,2026/11/08,02:12 AM,"November 03, 2026",Anita  Nair,anita.nair9@yahoo.com,(449) 360-2132,HYDERABAD,books,Data  Science  Guide,four,-,0.05,NET BANKING,Cancelled
+ORD00713,2026/11/08,17:50:28,10-11-2026,divya mehta,divya.mehta35@outlook.com,6629015336,Jaipur,BOOKS,Data Science Guide   ,2,40.00,NA,net banking,SHIPPED
+ORD00828,07 Nov 2026,07:11 AM,13/11/2026,ANITA PATEL,anita.patel2@gmail.com,5393772799,HYDERABAD,clothing,T-Shirt,3 units,-,5,UPI   ,DELIVERED
+ORD00661,19/11/2026,05:45 AM,,Arjun  Reddy,arjun.reddy49@yahoo.com,0287839730,Pune   ,  Home & Kitchen  ,  Air Fryer  ,5,$110.00,0%,  UPI  ,SHIPPED
+ORD00781,10/11/2026,05:12,"November 15, 2026",ANITA SINGH,anita.singh57@yahoo.com,+91-13059 45950,Mumbai,HOME & KITCHEN,Air Fryer,0,USD 110,0.10,  Net Banking  ,RETURNED
+ORD00456,13 Nov 2026,16:17,17/11/2026,RAHUL GUPTA,rahul.gupta4@outlook.com,0676464585,Chennai   ,Clothing   ,JACKET,1,90.00 $,25,Net Banking,Returned
+ORD00634,21/11/2026,12:45 PM,"November 26, 2026",,vikram.mehta51@yahoo.com,7316063281,  Jaipur  ,Books,data science guide,2,40.00 $,15 %,CREDIT CARD,shipped
+ORD00137,20-11-2026,16:07,2026-11-23,Rahul Mehta   ,rahul.mehta48@yahoo.com,7652792943,mumbai,Clothing,jacket,2.0,45000.00,25%,UPI   ,Pending   
+ORD00521,"November 24, 2026",05:22:24,2026-11-26,meera reddy,meera.reddy17@outlook.com,4102089631,Chennai,Books   ,Data  Science  Guide,1.0,$40.00,25%,Debit  Card,Shipped
+ORD00660,16 Nov 2026,01:02 PM,21/11/2026,  Priya Reddy  ,priya.reddy58@outlook.com,3812627348,Jaipur,Clothing   ,  Jeans  ,2,45.00,20%,UPI,Returned   
+ORD00570,2026-11-05,14:11:28,08/11/2026,divya joshi,,4212286241,,  Electronics  ,Laptop,2 units,"$1,100.00",20%,  Cash on Delivery  ,Shipped
+ORD00379,14/11/2026,08:29 AM,16/11/2026,Priya Joshi   ,priya.joshi42@outlook.com,+91-19612 68010,Bengaluru,Electronics,Wireless  Mouse,two,$25.00,5%,  Debit Card  ,pending
+ORD00707,17-11-2026,18:44,"November 18, 2026",Neha Singh,neha.singh58@outlook.com,(931) 968-5645,mumbai,books,Data Science Guide   ,4,$40.00,20%,  Cash on Delivery  ,Cancelled
+ORD00271,17 Nov 2026,16:23,"November 20, 2026",  Arjun Sharma  ,arjun.sharma80@outlook.com,651135,Delhi,ELECTRONICS,Laptop,4,"1,100.00 $",10%,credit card,Cancelled   
+ORD00607,22 Nov 2026,01:21:25,25 Nov 2026,  Karan Verma  ,karan.verma88@outlook.com,+91-44127 73034,MUMBAI,Books,Data Science Guide,2,40.00 $,25%,net banking,Cancelled
+ORD00064,2026/11/21,08:25,22 Nov 2026,AARAV SINGH,aarav.singh65@yahoo.com,+91-66440 50529,Delhi,Books   ,PYTHON HANDBOOK,5,USD 30,NA,credit card,  Returned  
+ORD00394,19/11/2026,12:47,,Priya Singh,priya.singh82@outlook.com,8107511092,Bengaluru,Books,Python Handbook,2,$30.00,0.00,credit card,
+ORD00071,"November 24, 2026",05:09:29,"November 27, 2026",MEERA SINGH,meera.singh67@yahoo.com,7400703189,Chennai   ,  Electronics  ,  Wireless Mouse  ,4,USD 25,25%,  Cash on Delivery  ,Delivered
+ORD00535,21-11-2026,03:55 AM,"November 22, 2026",Arjun Reddy,arjun.reddy92@outlook.com,+91-66750 59937,Mumbai,Books,Python  Handbook,4 units,30.00,15%,UPI,delivered
+ORD00893,"November 22, 2026",05:26 AM,"November 24, 2026",NEHA VERMA,neha.verma1@outlook.com,+91-82277 72672,Pune,CLOTHING,Jeans, 4 ,22500.00,20,Debit  Card,Cancelled
+ORD00272,23 Nov 2026,05:20 PM,24-11-2026,Aarav  Nair,aarav.nair20@yahoo.com,5970879220,Mumbai,BOOKS,Python Handbook,1,$30.00,0.15,NET BANKING,CANCELLED
+ORD00544,"November 06, 2026",02:20:19,"November 13, 2026",rohan gupta,rohan.gupta13@gmail.com,+91-26875 85592,Pune   ,Clothing   ,Jacket,3,90.00 $,,  Credit Card  ,Shipped   
+ORD00779,08-11-2026,18:05:43,12/11/2026,NEHA REDDY,neha.reddy9@outlook.com,4231516059,Bengaluru,CLOTHING,Jeans, 2 ,USD 45,10 %,  UPI  ,
+ORD00161,2026/11/16,07:23 PM,18-11-2026,neha joshi,neha.joshi61@yahoo.com,0946960969,Pune,books,Data  Science  Guide,4 units,40.00 $,0.25,NET BANKING,pending
+ORD00966,13 Nov 2026,09:37 AM,"November 20, 2026",AARAV PATEL,AARAV.PATEL55@YAHOO.COM,0589351748,Chennai,home & kitchen,Cookware  Set, 1 ,USD 85,0%,UPI,RETURNED
+ORD00170,05 Nov 2026,04:02 AM,12-11-2026,Karan Gupta,karan.gupta98@yahoo.com,(179) 955-2458,Kolkata,ELECTRONICS,SMART WATCH,5,$180.00,5 %,Net Banking,Returned
+ORD00037,11 Nov 2026,06:07 AM,"November 12, 2026",Priya Nair   ,priya.nair66@gmail.com,7882116761,,Home & Kitchen   ,Mixer  Grinder,5 units,70.00,10 %,  Debit Card  ,  Delivered  
+ORD00244,22/11/2026,01:15 AM,2026/11/27,  Rahul Verma  ,rahul.verma36@outlook.com,2290817892,Pune,CLOTHING,Jacket,3,90.00,10,  Cash on Delivery  ,Delivered   
+ORD00083,2026-11-12,07:18 AM,2026-11-15,Vikram  Khan,vikram.khan32@yahoo.com,9775719056,Kolkata,Books,python handbook,5,$30.00,0,Debit  Card,Cancelled
+ORD00261,19/11/2026,10:55 PM,2026/11/26,Karan Gupta   ,karan.gupta58@gmail.com,144481,Bengaluru,HOME & KITCHEN,Mixer Grinder,4,$70.00,0 %,NET BANKING,Delivered   
+ORD00946,2026-11-19,21:13:21,2026/11/24,Priya Patel,priya.patel15yahoo.com,+91-08963 51184,  Delhi  ,home & kitchen,Mixer Grinder,5,$70.00,25,  UPI  ,Pending   
+ORD00861,17-11-2026,06:00 AM,24 Nov 2026,karan reddy,karan.reddy70@outlook.com,4356120222,Kolkata,  Clothing  ,Jeans,4,$45.00,0.05,  Credit Card  ,Shipped
+ORD00373,14 Nov 2026,04:46 PM,2026/11/20,karan reddy,karan.reddy47@yahoo.com,7221186695,  Bengaluru  ,BOOKS,  Data Science Guide  ,4,40.00,NA,CREDIT CARD,shipped
+ORD00827,2026-11-17,11:26,21 Nov 2026,  Sneha Reddy  ,sneha.reddy43@yahoo.com,0438964929,Kolkata,Books,Data  Science  Guide,none,$40.00,15,Net Banking   ,  Shipped  
+ORD00023,23 Nov 2026,18:02:22,26/11/2026,karan nair,karan.nair5@yahoo.com,1788084056,mumbai,  Home & Kitchen  ,Air  Fryer,1,$110.00,5,debit card,Pending
+ORD00338,12/11/2026,15:01:58,"November 18, 2026",sneha reddy,sneha.reddy27@yahoo.com,0842224765,JAIPUR,electronics,Bluetooth Speaker   ,3,60.00,0.20,  UPI  ,Returned
+ORD00309,06/11/2026,06:31 PM,"November 12, 2026",priya singh,priya.singh39@yahoo.com,8584331187,Chennai,home & kitchen,air fryer,3,$110.00,5,upi,Pending
+ORD00882,2026/11/09,08:56:19,16-11-2026,AARAV KHAN,aarav.khan52@outlook.com,0131086833,PUNE,clothing,jeans,5,45.00,5 %,Credit  Card,
+ORD00752,2026/11/02,23:29:52,2026/11/08,,vikram.nair44@outlook.com,8591321706,Kolkata,  Clothing  ,T-Shirt,1,$15.00,5 %,UPI,returned
+,2026-11-22,04:33:44,28 Nov 2026,SNEHA SINGH,sneha.singh73@yahoo.com,980347,kolkata,home & kitchen,COOKWARE SET,N/A,$85.00,5,Net Banking,Shipped
+ORD00221,12/11/2026,07:06:52,2026/11/14,SNEHA VERMA,sneha.verma44@gmail.com,+91-95359 64147,  Bengaluru  ,Electronics   ,LAPTOP,3,null,5%,credit card,Delivered
+ORD00014,06-11-2026,17:16,10 Nov 2026,  Sneha Patel  ,sneha.patel99@outlook.com,4723801312,JAIPUR,  Books  ,  Data Science Guide  ,0,20000.00,0.15,Cash on Delivery,cancelled
+ORD00153,11-11-2026,16:03,17 Nov 2026,ROHAN GUPTA,rohan.gupta36gmail.com,6523317220,Mumbai,  Home & Kitchen  ,Cookware  Set,4,$85.00,5,Net Banking   ,Returned   
+ORD00673,2026-11-18,15:11:27,25-11-2026,,priya.joshi70@gmail.com,6021825735,  Delhi  ,Clothing,Jacket,1,90.00,20 %,CREDIT CARD,  Pending  
+ORD00585,"November 23, 2026",14:36,"November 24, 2026",Neha Nair,neha.nair55@gmail.com,1765001925,Delhi,electronics,Wireless Mouse,-2,$25.00,0,Debit Card,Returned
+ORD00512,"November 18, 2026",13:40:09,2026/11/23,RAHUL KHAN,rahul.khan62@gmail.com,9300517105,Mumbai,CLOTHING,T-Shirt,3,$15.00,25 %,Debit  Card,Shipped
+ORD00178,13/11/2026,10:32:20,2026-11-18,vikram khan,vikram.khan39@yahoo.com,0029846844,Hyderabad,Clothing   ,T-Shirt,4,USD 15,-,Cash  on  Delivery,delivered
+ORD00277,17 Nov 2026,04:18,2026/11/23,karan patel,karan.patel71@gmail.com,+91-04650 79037,MUMBAI,Electronics,BLUETOOTH SPEAKER,5,null,0.25,credit card,DELIVERED
+ORD00880,"November 02, 2026",09:57 PM,"November 03, 2026",,RAHUL.JOSHI51@OUTLOOK.COM,4974377556,,  Electronics  ,  Wireless Mouse  , 5 ,$ 25,15,  Credit Card  ,Cancelled
+ORD00548,06/11/2026,02:28 PM,2026/11/10,Karan Nair   ,karan.nair40gmail.com,(015) 197-1687,Delhi   ,  Electronics  ,laptop,one,1100.00,NA,Credit  Card,  Delivered  
+ORD00839,21 Nov 2026,06:02 AM,22 Nov 2026,Karan  Patel,karan.patel15@yahoo.com,(297) 808-1476,  Hyderabad  ,Home & Kitchen   ,Cookware Set,four,85.00 $,20%,upi,Returned
+ORD00720,2026-11-05,23:31,2026/11/09,RAHUL SINGH,RAHUL.SINGH72@YAHOO.COM,+91-29681 33706,  Pune  ,Clothing,T-Shirt,3,$15.00,25%,DEBIT CARD,Returned   
+ORD00477,2026-11-20,06:05 PM,24 Nov 2026,Rahul Reddy   ,rahul.reddy82@gmail.com,(568) 352-4302,PUNE,HOME & KITCHEN,COOKWARE SET,four,$85.00,0.20,Net Banking   ,Cancelled   
+ORD00226,21 Nov 2026,18:39,2026-11-28,karan singh,karan.singh30@outlook.com,(577) 747-3176,,ELECTRONICS,laptop,-2,-,15%,Cash  on  Delivery,Returned
+ORD00633,2026-11-08,04:04 AM,13-11-2026,Rohan  Joshi,,0849996226,Pune,books,data science guide,1,$40.00,20%,Credit  Card,Pending   
+ORD00217,19-11-2026,04:40 AM,25 Nov 2026,,vikram.khan30@outlook.com,8096668046,Delhi,Clothing   ,  T-Shirt  ,5,15.00 $,,  UPI  ,  Pending  
+ORD00030,2026/11/05,02:09 PM,"November 09, 2026",Neha  Nair,neha.nair54@outlook.com,+91-40449 03498,Chennai,  Clothing  ,jacket,1,$90.00,-,Debit  Card,Pending
+ORD00860,"November 08, 2026",06:38 AM,"November 10, 2026",Aarav  Joshi,aarav.joshi44@outlook.com,+91-85518 14505,Mumbai,books,Python Handbook   ,-2,30.00,-,Credit Card   ,Returned
+ORD00701,"November 01, 2026",13:10:27,07/11/2026,  Arjun Singh  ,arjun.singh54@gmail.com,+91-75090 70381,Chennai   ,Electronics   ,Laptop,3,-,20,DEBIT CARD,cancelled
+ORD00723,09 Nov 2026,13:13:47,"November 13, 2026",rohan khan,rohan.khan51@yahoo.com,+91-64424 61754,Kolkata,HOME & KITCHEN,Air  Fryer,4,$110.00,5,credit card,  Cancelled  
+ORD00838,22-11-2026,10:31,27/11/2026,Arjun Singh   ,ARJUN.SINGH91@OUTLOOK.COM,0668366246,,Clothing   ,Jeans,3.0,$45.00,0.10,  Debit Card  ,Pending
+ORD00181,14/11/2026,04:04:03,2026/11/10,karan sharma,karan.sharma26gmail.com,6549030016,Jaipur,CLOTHING,T-Shirt,-2,15.00,-,Debit Card   ,Pending
+ORD00919,2026/11/01,06:08,08/11/2026,meera patel,meera.patel80@outlook.com,1171143898,  Delhi  ,Clothing,Jeans,3,$45.00,5%,,Cancelled   
+ORD00746,20/11/2026,07:28 PM,24 Nov 2026,rohan verma,,0304425827,PUNE,Books,PYTHON HANDBOOK,3,$30.00,25%,Debit  Card,Shipped   
+ORD01000,2026/11/15,13:41:51,2026/11/22,Sneha  Gupta,,2894302441,Hyderabad,ELECTRONICS,  Wireless Mouse  ,2,$25.00,,NET BANKING,Pending
+ORD00460,15/11/2026,03:54,2026/11/18,Sneha Verma,sneha.verma28@outlook.com,2479074306,Pune,Home & Kitchen,air fryer,4,USD 110,0 %,Net Banking   ,Returned   
+ORD00997,04/11/2026,01:40 AM,07-11-2026,Vikram Khan   ,vikram.khan94@outlook.com,9835577699,Pune,BOOKS,Data  Science  Guide,-2,$40.00,20 %,  UPI  ,DELIVERED
+ORD00678,04/11/2026,17:41,06/11/2026,aarav reddy,aarav.reddy53@gmail.com,186111,Pune,Electronics,smart watch,5,$180.00,0,debit card,Delivered
+ORD00639,14 Nov 2026,08:41 PM,20/11/2026,PRIYA SINGH,PRIYA.SINGH71@GMAIL.COM,8792174679,  Delhi  ,Books,Data Science Guide   ,1 units,$40.00,10,Cash on Delivery,Returned
+ORD00045,2026-11-03,15:40:40,,,rohan.nair38@yahoo.com,2471447964,kolkata,Electronics   ,Laptop,1 units,"$1,100.00",15,CREDIT CARD,DELIVERED
+ORD00475,2026/11/17,10:01:56,"November 21, 2026",  Karan Gupta  ,,438647,  Mumbai  ,home & kitchen,  Air Fryer  ,,$110.00,20,DEBIT CARD,Returned
+ORD00265,13/11/2026,03:02 AM,18 Nov 2026,RAHUL KHAN,rahul.khan89@outlook.com,3283411938,KOLKATA,BOOKS,PYTHON HANDBOOK,2,$30.00,0.05,Cash  on  Delivery,Delivered
+ORD00065,08/11/2026,10:55,"November 14, 2026",  Priya Sharma  ,priya.sharma12@yahoo.com,+91-00144 75805,Pune,Clothing,Jacket,0,$90.00,,NET BANKING,Returned
+ORD00129,23/11/2026,02:54,25/11/2026,Priya Verma,PRIYA.VERMA9@YAHOO.COM,3702168322,Jaipur,home & kitchen,cookware set,none,$85.00,5,NET BANKING,Pending   
+ORD00215,2026-11-20,18:22,27/11/2026,  Arjun Mehta  ,arjun.mehta82@yahoo.com,+91-26329 39196,  Hyderabad  ,Books   ,Python Handbook, 1 ,USD 30,NA,credit card,Returned   
+ORD00136,"November 18, 2026",15:08,"November 25, 2026",  Neha Sharma  ,neha.sharma79@yahoo.com,8025123165,,Electronics   ,smart watch,4 units,-180.00,5%,  Net Banking  ,pending
+ORD00897,"November 12, 2026",05:10 AM,17/11/2026,Divya Joshi   ,divya.joshi40@yahoo.com,(925) 648-6322,Kolkata   ,  Home & Kitchen  ,Air Fryer,1,$ 110,0.10,debit card,Cancelled   
+ORD00851,"November 14, 2026",09:59:50,15/11/2026,aarav nair,aarav.nair77@yahoo.com,9082562948,Kolkata   ,Home & Kitchen   ,Mixer Grinder,5,70.00 $,20%,Credit Card,CANCELLED
+ORD00247,2026/11/16,23:28:08,22/11/2026,Divya  Gupta,divya.gupta13@yahoo.com,7180558455,,Clothing   ,Jeans,5,45.00,0%,Debit Card   ,Shipped
+ORD00176,2026-11-24,16:05,27 Nov 2026,Neha  Reddy,neha.reddy6@gmail.com,+91-06233 61577,Delhi   ,  Clothing  ,JACKET,5,USD 90,25 %,  UPI  ,Shipped
+ORD00399,2026-11-17,00:26:34,2026/11/18,VIKRAM KHAN,vikram.khan68@gmail.com,3242642156,Mumbai,  Home & Kitchen  ,Mixer Grinder   ,1.0,USD 70,15%,UPI,  Cancelled  
+ORD00902,16-11-2026,20:53:30,23 Nov 2026,priya singh,priya.singh98@yahoo.com,(344) 454-3274,Delhi   ,electronics,BLUETOOTH SPEAKER,five,$60.00,20,UPI,  Returned  
+ORD00173,17 Nov 2026,15:23:54,2026-11-20,  Anita Mehta  ,anita.mehta58@yahoo.com,+91-45884 36698,mumbai,Home & Kitchen,Air Fryer,1,$ 110,5,Net  Banking,delivered
+ORD00333,09-11-2026,09:43 AM,13 Nov 2026,ARJUN MEHTA,arjun.mehta13@gmail.com,267644,Hyderabad,  Books  ,PYTHON HANDBOOK,2,$ 30,0%,Net Banking,Returned   
+ORD00033,"November 14, 2026",12:20 PM,2026/11/21,Karan Verma,karan.verma41@yahoo.com,9640047310,,Books,  Python Handbook  ,N/A,USD 30,20%,NET BANKING,Shipped
+ORD00032,"November 17, 2026",08:03,2026/11/22,arjun nair,ARJUN.NAIR39@YAHOO.COM,9841748311,Kolkata   ,Electronics   ,laptop,5,1100.00,0.00,Net  Banking,  Shipped  
+ORD00745,"November 17, 2026",17:43:33,13-11-2026,Neha  Khan,neha.khan53@yahoo.com,8516773363,Mumbai,ELECTRONICS,Laptop,2,"USD 1,100",15%,UPI,cancelled
+ORD00236,2026/11/24,06:23 AM,27 Nov 2026,  Vikram Reddy  ,,3719087344,Pune,Clothing   ,Jacket,1,$90.00,20%,DEBIT CARD,returned
+ORD00375,10-11-2026,02:24,13/11/2026,Anita Khan,anita.khan58@yahoo.com,3818119456,  Mumbai  ,Clothing,T-Shirt,4,15.00,0,Net  Banking,  Cancelled  
+ORD00398,"November 16, 2026",01:13 AM,"November 19, 2026",neha joshi,,6452910011,Hyderabad,Electronics,LAPTOP,1 units,"USD 1,100",5%,UPI,Returned
+ORD00409,2026-11-17,17:50:19,2026-11-23,Rahul Nair   ,rahul.nair93@yahoo.com,+91-65758 42918,,Home & Kitchen,Air Fryer   ,-2,$110.00,15%,Debit Card,  Shipped  
+ORD00700,13/11/2026,13:16,19 Nov 2026,Anita  Joshi,ANITA.JOSHI52@YAHOO.COM,6652220719,CHENNAI,  Books  ,Python Handbook   ,2,$30.00,0%,UPI,Pending
+ORD00686,"November 17, 2026",13:24:55,20-11-2026,vikram sharma,vikram.sharma94@yahoo.com,8227791296,kolkata,  Books  ,Python  Handbook,2,30.00,0.00,net banking,
+ORD00419,24-11-2026,09:31 PM,2026/11/29,Meera Sharma,meera.sharma37yahoo.com,(590) 844-8598,Bengaluru,Electronics   ,laptop,1,"USD 1,100",15%,  Debit Card  ,  Delivered  
+ORD00390,08 Nov 2026,02:49,2026-11-13,aarav sharma,aarav.sharma80@gmail.com,+91-93351 02148,Jaipur,home & kitchen,COOKWARE SET,2,$85.00,25,  Credit Card  ,Shipped
+ORD00145,"November 15, 2026",08:59 AM,2026/11/19,Aarav Khan,aarav.khan95@yahoo.com,(955) 670-1488,Kolkata   ,Books,Data Science Guide,4,40.00,10%,CASH ON DELIVERY,returned
+ORD00816,20-11-2026,01:04 PM,2026/11/24,  Anita Mehta  ,anita.mehta9@outlook.com,2460423907,Kolkata,Books,PYTHON HANDBOOK,5,$30.00,,Credit Card,Pending
+ORD00551,"November 10, 2026",18:07,"November 13, 2026",Arjun Khan,arjun.khan74@yahoo.com,5888142493,kolkata,Electronics   ,Laptop   ,3,1100.00,0.05,  Net Banking  ,delivered
+ORD00266,02 Nov 2026,03:51,2026/11/08,Meera Khan,meera.khan21@gmail.com,2084741594,Pune,BOOKS,Data Science Guide,none,40.00 $,0,  Cash on Delivery  ,Returned   
+ORD00578,2026/11/01,06:53:07,2026-11-07,ARJUN SHARMA,arjun.sharma9@yahoo.com,2443552824,mumbai,Home  &  Kitchen,Mixer  Grinder,2,$ 70,0,NET BANKING,
+ORD00987,08/11/2026,01:57,14/11/2026,ANITA KHAN,anita.khan97@outlook.com,2112273437,Jaipur   ,Home  &  Kitchen,Mixer Grinder   ,4 units,$70.00,0%,UPI,Delivered
+ORD00015,2026/11/18,07:53 PM,25/11/2026,  Sneha Reddy  ,SNEHA.REDDY29@YAHOO.COM,+91-36414 16035,Mumbai,books,  Data Science Guide  ,4,40.00,0.15,  UPI  ,Cancelled
+ORD00095,09/11/2026,15:10:27,,Sneha Reddy,sneha.reddy28@yahoo.com,+91-88513 51880,Hyderabad,books,Data  Science  Guide,3,null,0,CREDIT CARD,  Cancelled  
+ORD00529,11 Nov 2026,11:14:30,2026/11/13,Rahul Khan,rahul.khan82@yahoo.com,0108743954,JAIPUR,  Electronics  ,Laptop   ,3,1100.00,0.15,  Cash on Delivery  ,Cancelled   
+ORD00392,18-11-2026,05:47 PM,25/11/2026,Neha  Sharma,neha.sharma37@yahoo.com,8539753645,Hyderabad,Electronics   ,  Laptop  ,4,"$1,100.00",5%,upi,  Returned  
+ORD00854,15 Nov 2026,07:22:19,16-11-2026,Rahul  Gupta,rahul.gupta39@gmail.com,(627) 019-8271,Jaipur   ,books,Data Science Guide,1,N/A,25%,debit card,Returned   
+ORD00730,"November 18, 2026",02:25 AM,24-11-2026,VIKRAM REDDY,vikram.reddy54@gmail.com,(711) 815-2530,delhi,  Clothing  ,JEANS,five,$45.00,-,Cash on Delivery   ,Cancelled   
+ORD00802,"November 10, 2026",11:01:21,2026/11/13,ROHAN GUPTA,rohan.gupta34@outlook.com,5372443098,Kolkata,  Home & Kitchen  ,Cookware  Set,1 units,$85.00,0.20,Debit  Card,  Pending  
+ORD00079,09 Nov 2026,23:28:11,10/11/2026,  Divya Khan  ,divya.khan93@outlook.com,(088) 261-3677,Delhi   ,Clothing,t-shirt,-2,7500.00,10,Net  Banking,
+ORD00604,20 Nov 2026,02:04:52,22 Nov 2026,NEHA NAIR,neha.nair86@yahoo.com,8357758593,Jaipur,Electronics   ,smart watch,2,$ 180,0.10,UPI,Cancelled
+ORD00388,"November 02, 2026",07:36 AM,04-11-2026,AARAV MEHTA,aarav.mehta90@gmail.com,(812) 597-2551,chennai,  Clothing  ,Jacket,4 units,$90.00,25,,SHIPPED
+ORD00184,08/11/2026,15:27:46,2026-11-14,Neha  Khan,,(936) 995-1414,Jaipur,  Books  ,Python  Handbook,2,30.00,0.05,,Pending
+ORD00836,23 Nov 2026,23:20:51,2026-11-27,Meera Khan   ,meera.khan48@outlook.com,+91-58879 16236,Delhi   ,Clothing   ,T-Shirt,1,USD 15,25%,  Credit Card  ,Delivered
+ORD00191,2026/11/18,13:38,24/11/2026,anita nair,anita.nair55@yahoo.com,8937809686,kolkata,Electronics,Laptop,1,"USD 1,100",15%,Cash on Delivery,
+ORD00365,2026-11-07,11:10 PM,12-11-2026,Rahul Singh,rahul.singh45@gmail.com,5587811800,Chennai,ELECTRONICS,Bluetooth Speaker   ,1,60.00,20,  UPI  ,  Pending  
+ORD00869,2026/11/19,18:22,21 Nov 2026,divya reddy,divya.reddy47@yahoo.com,8498698791,  Hyderabad  ,Electronics,Wireless Mouse,5,-25.00,10,DEBIT CARD,Cancelled
+ORD00246,2026/11/17,23:40,20 Nov 2026,rohan joshi,rohan.joshi32@gmail.com,3517796048,Jaipur,Electronics,Wireless Mouse,5,$25.00,20,cash on delivery,Delivered   
+ORD00882,2026/11/09,08:56:19,16-11-2026,AARAV KHAN,aarav.khan52@outlook.com,0131086833,PUNE,clothing,jeans,5,45.00,5 %,Credit  Card,
+ORD00275,2026/11/20,05:55 AM,"November 25, 2026",Vikram Joshi   ,vikram.joshi82@yahoo.com,9008009176,Jaipur,clothing,  Jacket  ,4,USD 90,15%,credit card,  Returned  
+ORD00148,2026/11/06,05:23,07-11-2026,Aarav Gupta,aarav.gupta5@outlook.com,3019126655,delhi,clothing,t-shirt,N/A,N/A,5%,Credit  Card,cancelled
+ORD00295,"November 21, 2026",08:30 PM,"November 24, 2026",Rohan Patel   ,rohan.patel98@outlook.com,963465,Kolkata,Clothing,Jeans,,$45.00,25%,cash on delivery,Shipped
+ORD00325,"November 12, 2026",21:04,15-11-2026,Arjun Nair,arjun.nair58@outlook.com,9515946623,bengaluru,ELECTRONICS,  Laptop  ,1,"USD 1,100",15,  Debit Card  ,pending
+ORD00771,18 Nov 2026,07:32,17 Nov 2026,Rahul  Reddy,rahul.reddy51@yahoo.com,+91-70464 92416,Delhi,  Books  ,PYTHON HANDBOOK,4.0,$30.00,20%,  Net Banking  ,Pending
+ORD00800,08-11-2026,00:38:47,12 Nov 2026,neha patel,neha.patel14@yahoo.com,+91-63271 66357,Kolkata,Home & Kitchen,COOKWARE SET,1,$85.00,,  UPI  ,  Returned  
+ORD00540,22/11/2026,02:41:30,26 Nov 2026,  Meera Patel  ,meera.patel89@gmail.com,+91-53562 35781,PUNE,BOOKS,Python Handbook   ,2,$30.00,,  Credit Card  ,  Shipped  
+ORD00677,06 Nov 2026,16:19,2026/11/12,  Meera Gupta  ,meera.gupta50@yahoo.com,(403) 000-2991,mumbai,Home & Kitchen,Mixer  Grinder,1,35000.00,25%,  Cash on Delivery  ,Pending   
+ORD00901,2026/11/17,23:57,2026-11-20,Karan Mehta,karan.mehta13@gmail.com,0325070572,Kolkata,electronics,Wireless Mouse   ,3,$ 25,-,UPI   ,CANCELLED
+ORD00769,22-11-2026,04:40 AM,24-11-2026,Rohan  Verma,rohan.verma34@outlook.com,139575,  Pune  ,electronics,Bluetooth  Speaker,3,$ 60,10%,Credit Card,Pending
+ORD00006,16 Nov 2026,14:49:14,2026-11-18,  Arjun Joshi  ,arjun.joshi46@yahoo.com,+91-06607 81151,Delhi,Books,Python Handbook   , 1 ,$30.00,NA,  Cash on Delivery  ,  Shipped  
+ORD00975,14 Nov 2026,13:45,18 Nov 2026,  Aarav Reddy  ,aarav.reddy72@outlook.com,+91-45898 95469,  Mumbai  ,home & kitchen,Mixer Grinder,5,$70.00,20,net banking,  Shipped  
+ORD00104,2026/11/04,15:08,"November 09, 2026",Divya  Reddy,divya.reddy24@outlook.com,068919,Bengaluru,electronics,Bluetooth Speaker   ,5,$60.00,0.05,cash on delivery,RETURNED
+ORD00211,2026/11/21,16:46,28-11-2026,Meera Gupta   ,meera.gupta94@yahoo.com,+91-63930 64201,Delhi,Clothing   ,Jacket,5,USD 90,0.20,NET BANKING,Returned   
+ORD00042,"November 08, 2026",14:03,"November 09, 2026",Aarav Mehta   ,aarav.mehta13@outlook.com,1286174002,Kolkata,books,DATA SCIENCE GUIDE,1,$40.00,20,Cash on Delivery,  Delivered  
+ORD00378,03-11-2026,16:22,2026-11-09,ARJUN MEHTA,,1721052007,Hyderabad,home & kitchen,Air  Fryer,1,$110.00,25%,CREDIT CARD,Delivered
+ORD00147,06 Nov 2026,12:12,2026-11-11,,rohan.gupta19@gmail.com,3792189070,HYDERABAD,BOOKS,Python Handbook   ,4 units,30.00,20%,CREDIT CARD,pending
+ORD00206,05/11/2026,15:36,2026-11-09,Meera  Nair,meera.nair88@yahoo.com,7750347430,  Pune  ,  Books  ,Python  Handbook,three,$ 30,10%,credit card,Pending   
+ORD00028,2026/11/08,10:06 PM,15/11/2026,ARJUN SINGH,arjun.singh80@yahoo.com,(686) 963-4570,Mumbai   ,books,Data Science Guide   ,3,-,15 %,UPI,Cancelled
+ORD00205,2026-11-15,04:02:19,16 Nov 2026,  Divya Verma  ,divya.verma72@gmail.com,1237774813,JAIPUR,  Electronics  ,laptop,2,"$1,100.00",15%,UPI,SHIPPED
+ORD00671,2026-11-19,09:32 AM,2026-11-24,PRIYA VERMA,priya.verma24@outlook.com,+91-75049 06522,Chennai   ,Clothing,Jeans,2,USD 45,20%,Credit Card,SHIPPED
+ORD00625,16 Nov 2026,05:34:05,2026/11/23,NEHA PATEL,neha.patel1@yahoo.com,4112016340,  Delhi  ,books,Data Science Guide,1,40.00 $,0.05,CREDIT CARD,Cancelled   
+ORD00412,05/11/2026,07:08:53,06-11-2026,Vikram  Joshi,vikram.joshi29gmail.com,0141784592,Hyderabad,HOME & KITCHEN,  Mixer Grinder  ,-2,$70.00,0.10,Net  Banking,  Cancelled  
+ORD00741,2026-11-21,09:40 PM,24-11-2026,divya joshi,divya.joshi96@outlook.com,(561) 244-4894,  Chennai  ,  Home & Kitchen  ,  Mixer Grinder  ,4,-70.00,15%,Cash on Delivery   ,Cancelled
+ORD01000,2026/11/15,13:41:51,2026/11/22,Sneha  Gupta,,2894302441,Hyderabad,ELECTRONICS,  Wireless Mouse  ,2,$25.00,,NET BANKING,Pending
+ORD00074,09/11/2026,08:11 AM,2026-11-14,  Meera Khan  ,meera.khan96@yahoo.com,1783807591,pune,Home & Kitchen,  Mixer Grinder  ,,$70.00,0.25,UPI,Pending
+ORD00999,2026-11-19,03:37:09,"November 22, 2026",priya singh,priya.singh32@yahoo.com,+91-62050 41154,JAIPUR,Clothing,T-Shirt,four,USD 15,20%,Credit Card,Delivered
+ORD00207,13/11/2026,16:14:42,"November 19, 2026",Rahul Khan   ,rahul.khan80@outlook.com,8678053785,Pune   ,clothing,Jacket,1,-90.00,10,debit card,Returned   
+ORD00868,"November 02, 2026",05:02 AM,2026-11-06,Karan  Patel,karan.patel82@yahoo.com,8358705940,  Jaipur  ,Electronics,Bluetooth Speaker   ,4,$60.00,15%,upi,Returned
