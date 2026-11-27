@@ -1,0 +1,426 @@
+"""Clean raw_orders.csv, compute KPIs, and (optionally) email them to a manager via Gmail.
+
+Usage:
+    python clean_and_report.py              # clean + KPIs, print report, save files
+    python clean_and_report.py --send       # also email the report to your manager
+
+Gmail setup (one time):
+    1. Turn on 2-Step Verification on your Google account.
+    2. Create an App Password: https://myaccount.google.com/apppasswords
+    3. Set environment variables (never hard-code the password):
+         GMAIL_USER          your.address@gmail.com
+         GMAIL_APP_PASSWORD  the 16-character app password
+         MANAGER_EMAIL       manager@company.com   (comma-separate for several)
+
+Overall flow of this script:
+    1. Read the raw CSV (everything as text, so nothing is silently changed)
+    2. clean()        -> fix text, numbers, dates, duplicates, nulls, outliers
+    3. compute_kpis() -> calculate business numbers from the cleaned data
+    4. build_html()   -> turn the KPIs into a nicely formatted email body
+    5. send_email()   -> (only with --send) email the report via Gmail
+"""
+
+# ----------------------------------------------------------------- imports
+import argparse                      # reads command-line options such as --send
+import logging                       # prints timestamped progress messages
+import os                            # reads environment variables (Gmail credentials)
+import re                            # regular expressions for pattern-based text cleaning
+import smtplib                       # sends email through Gmail's SMTP server
+import ssl                           # makes the email connection encrypted/secure
+from datetime import datetime        # used to stamp the report with the current time
+from email.message import EmailMessage  # builds the email (subject, body, attachments)
+
+import numpy as np                   # numeric helpers (np.nan = "missing number")
+import pandas as pd                  # main library for working with tables (DataFrames)
+
+# ----------------------------------------------------------------- config
+# File names used by the script - change them here if you want different names.
+RAW_FILE = "raw_orders.csv"          # the messy input file
+CLEAN_FILE = "cleaned_orders.csv"    # the cleaned output file
+KPI_FILE = "daily_kpis.csv"          # the KPI summary output file
+REPORT_HTML = "daily_report.html"    # the report saved as a web page (email preview)
+
+# Set this to True to email the report when running inside Jupyter/Spyder, where you
+# cannot type "--send". In a normal terminal you can leave it False and use --send.
+SEND_EMAIL = False
+
+# ---- Gmail details: type them between the empty quotes below --------------------
+# GMAIL_USER         = your Gmail address, e.g. "anmol@gmail.com"
+# GMAIL_APP_PASSWORD = the 16-character App Password from myaccount.google.com/apppasswords
+#                      (NOT your normal Gmail password)
+# MANAGER_EMAIL      = who receives the report; several addresses separated by commas
+# If you leave a value empty, the script falls back to the environment variable of the
+# same name. Never share this file or upload it anywhere once a password is typed in.
+GMAIL_USER = os.environ.get("GMAIL_USER", "")
+GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
+MANAGER_EMAIL = os.environ.get("MANAGER_EMAIL", "")
+
+# Text values that really mean "no data". They are all converted to proper nulls.
+NULL_TOKENS = {"", "n/a", "na", "null", "none", "nan", "-", "--", "nil", "unknown", "?"}
+
+# Lets us convert a quantity written in words (e.g. "three") into the number 3.
+NUMBER_WORDS = {"zero": 0, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5,
+                "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10}
+
+# Maps every spelling of a status (lower-case) to one standard label.
+STATUS_MAP = {"delivered": "Delivered", "shipped": "Shipped", "cancelled": "Cancelled",
+              "canceled": "Cancelled", "returned": "Returned", "pending": "Pending"}
+
+# Pattern for a valid email: text + "@" + domain + "." + ending, e.g. name@gmail.com
+EMAIL_RE = re.compile(r"^[\w.+-]+@[\w-]+\.[\w.-]+$")
+
+# Every date layout we expect to see in the raw data. Each one is tried in order.
+DATE_FORMATS = ["%Y-%m-%d", "%Y/%m/%d", "%d/%m/%Y", "%d-%m-%Y",
+                "%d %b %Y", "%d %B %Y", "%B %d, %Y", "%b %d, %Y"]
+
+# Set up logging so progress is printed like: "2026-11-24 14:49 | INFO | message"
+logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
+log = logging.getLogger("cleaner")
+
+
+# ----------------------------------------------------------------- helpers
+def to_snake(col: str) -> str:
+    """Turn a column name like ' Order Date' into 'order_date'."""
+    # lower-case it, replace any run of non-letters/digits with "_", trim stray "_" at the ends
+    return re.sub(r"[^0-9a-z]+", "_", col.strip().lower()).strip("_")
+
+
+def clean_text(s: pd.Series) -> pd.Series:
+    """Strip, collapse inner whitespace, turn null-like tokens into NaN."""
+    # convert to pandas' text type, squeeze repeated spaces into one, remove spaces at both ends
+    s = s.astype("string").str.replace(r"\s+", " ", regex=True).str.strip()
+    # wherever the value is a "null-like" word (N/A, -, null ...), replace it with a real null
+    return s.mask(s.str.lower().isin(NULL_TOKENS))
+
+
+def parse_number(s: pd.Series) -> pd.Series:
+    """'$1,200.50', 'USD 1,200', '3 units', 'three', ' 4 ' -> float."""
+    s = clean_text(s).str.lower()                     # tidy the text first
+    words = s.map(NUMBER_WORDS)                       # 'three' -> 3 (non-words become NaN)
+    # remove thousands commas, then delete every character that is not a digit, "." or "-"
+    # (this strips $, USD, "units", spaces, etc.)
+    s = s.str.replace(",", "", regex=False).str.replace(r"[^0-9.\-]", "", regex=True)
+    nums = pd.to_numeric(s, errors="coerce")          # convert to numbers; bad ones become NaN
+    # where digits gave no number, use the word-based number instead (e.g. "three")
+    return nums.fillna(pd.to_numeric(words, errors="coerce")).astype(float)
+
+
+def parse_percent(s: pd.Series) -> pd.Series:
+    """'10%', '10', '0.10', '10 %' -> 0.10 (fraction)."""
+    n = parse_number(s)                               # first get the plain number (10, 10, 0.10, 10)
+    # values above 1 are treated as whole percentages (10 -> 0.10); values <= 1 are already fractions
+    return n.where(n.isna() | (n <= 1), n / 100)
+
+
+def parse_dates(s: pd.Series) -> pd.Series:
+    """Try each known format explicitly (avoids dayfirst flipping ISO dates).
+    Ambiguous slash/dash dates are read as day-first (DD/MM/YYYY)."""
+    s = clean_text(s)                                 # remove spaces / null-like text
+    # start with an all-empty (NaT = "not a time") result column
+    parsed = pd.Series(pd.NaT, index=s.index, dtype="datetime64[ns]")
+    for fmt in DATE_FORMATS:                          # try every known date layout in turn
+        mask = parsed.isna() & s.notna()              # only rows still unparsed and not empty
+        parsed[mask] = pd.to_datetime(s[mask], format=fmt, errors="coerce")  # unmatched -> NaT
+    return parsed                                     # rows that matched no format stay NaT
+
+
+def parse_times(s: pd.Series) -> pd.Series:
+    """Return a timedelta since midnight so it can be added to a date."""
+    s = clean_text(s)
+    parsed = pd.Series(pd.NaT, index=s.index, dtype="datetime64[ns]")
+    for fmt in ("%H:%M:%S", "%I:%M %p", "%H:%M"):     # 14:30:05 | 02:30 PM | 14:30
+        mask = parsed.isna() & s.notna()              # only rows not parsed yet
+        parsed[mask] = pd.to_datetime(s[mask], format=fmt, errors="coerce")
+    # the parse gives a full timestamp on a dummy date; subtracting midnight leaves just the time
+    return parsed - parsed.dt.normalize()
+
+
+def null_outliers_iqr(values: pd.Series, groups: pd.Series, k: float = 3.0) -> pd.Series:
+    """Set values outside [Q1 - k*IQR, Q3 + k*IQR] (within each group) to NaN."""
+    def _fix(x):
+        q1, q3 = x.quantile(0.25), x.quantile(0.75)   # 25th and 75th percentile of this group
+        iqr = q3 - q1                                 # spread of the middle 50% of values
+        # keep values inside the allowed range, turn everything else into NaN
+        return x.where(x.between(q1 - k * iqr, q3 + k * iqr))
+    # run _fix separately for each group (e.g. per product) so a Laptop price is not
+    # compared with a T-Shirt price
+    return values.groupby(groups).transform(_fix)
+
+
+# ----------------------------------------------------------------- cleaning
+def clean(df: pd.DataFrame):
+    """Run every cleaning step. Returns (cleaned DataFrame, dict of cleaning statistics)."""
+    stats = {"rows_raw": len(df)}                     # remember how many rows we started with
+    df = df.copy()                                    # work on a copy, never touch the original
+    df.columns = [to_snake(c) for c in df.columns]    # standard column names: order_date, unit_price ...
+
+    # --- TEXT COLUMNS ---------------------------------------------------
+    text_cols = ["order_id", "customer_name", "email", "phone", "city", "category",
+                 "product", "payment_method", "status"]
+    for c in text_cols:
+        df[c] = clean_text(df[c])                     # trim spaces, fix null-like words
+    df["order_id"] = df["order_id"].str.upper()       # IDs are always upper-case (ord001 -> ORD001)
+    for c in ["customer_name", "city", "category", "product", "payment_method"]:
+        df[c] = df[c].str.title()                     # "JAIPUR" / "jaipur" -> "Jaipur"
+    df["category"] = df["category"].str.replace("&", "&", regex=False)  # keeps "&" consistent in names like "Home & Kitchen"
+    df["status"] = df["status"].str.lower().map(STATUS_MAP)  # many spellings -> one standard label
+    df["email"] = df["email"].str.lower()             # emails are case-insensitive, store lower-case
+    # count emails that are present but do not match the email pattern (for the quality report)
+    stats["invalid_emails"] = int((df["email"].notna() & ~df["email"].str.match(EMAIL_RE, na=False)).sum())
+    # replace every invalid email with a null (better empty than wrong)
+    df.loc[~df["email"].str.match(EMAIL_RE, na=False), "email"] = pd.NA
+
+    # --- PHONE NUMBERS --------------------------------------------------
+    digits = df["phone"].str.replace(r"\D", "", regex=True)  # remove everything that is not a digit (+, -, (), spaces)
+    digits = digits.str[-10:]                         # keep the last 10 digits (drops country code like +91)
+    # count phones that are present but not exactly 10 digits
+    stats["invalid_phones"] = int((digits.notna() & (digits.str.len() != 10)).sum())
+    df["phone"] = digits.where(digits.str.len() == 10)  # keep only valid 10-digit numbers, others -> null
+
+    # --- DROP ROWS WITHOUT A PRIMARY KEY -------------------------------
+    stats["missing_order_id"] = int(df["order_id"].isna().sum())
+    df = df.dropna(subset=["order_id"])               # a row without an order ID cannot be trusted
+
+    # --- DATES AND TIMES ------------------------------------------------
+    df["order_date"] = parse_dates(df["order_date"])  # many date layouts -> one real date type
+    df["ship_date"] = parse_dates(df["ship_date"])
+    time_delta = parse_times(df["order_time"])        # time of day, as an offset from midnight
+    stats["unparseable_order_dates"] = int(df["order_date"].isna().sum())
+    df = df.dropna(subset=["order_date"])             # no usable order date -> drop the row
+    time_delta = time_delta.loc[df.index]             # keep times only for the rows that survived
+    # combine date + time into one timestamp; if the time is missing, use midnight
+    df["order_datetime"] = df["order_date"].dt.normalize() + time_delta.fillna(pd.Timedelta(0))
+    df["order_date"] = df["order_datetime"].dt.normalize()  # order_date = date part only
+    df = df.drop(columns=["order_time"])              # no longer needed, it is inside order_datetime
+    bad_ship = df["ship_date"] < df["order_date"]     # shipped BEFORE ordered = impossible
+    stats["ship_before_order"] = int(bad_ship.sum())
+    df.loc[bad_ship, "ship_date"] = pd.NaT            # clear those impossible dates
+
+    # --- NUMERIC COLUMNS ------------------------------------------------
+    df["quantity"] = parse_number(df["quantity"])     # "3 units", "three", " 3 " -> 3.0
+    df["unit_price"] = parse_number(df["unit_price"]) # "$1,200.00", "USD 1,200" -> 1200.0
+    df["discount"] = parse_percent(df["discount"])    # "10%", "10", "0.10" -> 0.10
+    stats["invalid_quantity"] = int((df["quantity"] <= 0).sum())   # quantity of 0 or negative is invalid
+    stats["invalid_price"] = int((df["unit_price"] <= 0).sum())    # price of 0 or negative is invalid
+    df.loc[df["quantity"] <= 0, "quantity"] = np.nan  # invalid values become null (filled later)
+    df.loc[df["unit_price"] <= 0, "unit_price"] = np.nan
+    df.loc[~df["discount"].between(0, 0.9), "discount"] = np.nan   # discount must be 0%-90%
+
+    # Outliers: a price far outside the normal range for its product (e.g. a $55,000 mouse)
+    before_out = df["unit_price"].notna().sum()       # prices present before outlier removal
+    df["unit_price"] = null_outliers_iqr(df["unit_price"], df["product"])
+    stats["price_outliers"] = int(before_out - df["unit_price"].notna().sum())  # how many were removed
+
+    # --- DUPLICATES -----------------------------------------------------
+    n0 = len(df)                                      # row count before removing duplicates
+    df = df.drop_duplicates()                         # step 1: remove rows that are 100% identical
+    df["_filled"] = df.notna().sum(axis=1)            # helper: how many non-empty cells each row has
+    # step 2: if the same order_id still appears twice, keep the row with the most data
+    df = (df.sort_values(["order_id", "_filled"], ascending=[True, False])
+            .drop_duplicates(subset="order_id", keep="first")
+            .drop(columns="_filled"))                 # remove the helper column
+    stats["duplicates_removed"] = n0 - len(df)
+
+    # --- NULL HANDLING (fill missing values) ----------------------------
+    stats["nulls_before_fill"] = int(df.isna().sum().sum())
+    # missing price -> median price of the same product
+    df["unit_price"] = df["unit_price"].fillna(df.groupby("product")["unit_price"].transform("median"))
+    # missing quantity -> median quantity of the same product (rounded to a whole number)
+    df["quantity"] = df["quantity"].fillna(df.groupby("product")["quantity"].transform("median")).round()
+    df["quantity"] = df["quantity"].fillna(1)         # still missing? assume 1 unit
+    df["discount"] = df["discount"].fillna(0.0)       # missing discount = no discount
+    for c in ["customer_name", "city", "payment_method"]:
+        df[c] = df[c].fillna("Unknown")               # label unknown text values clearly
+    df["status"] = df["status"].fillna("Pending")     # missing status -> treat as pending
+    df["quantity"] = df["quantity"].astype(int)       # quantity is a whole number
+    df = df.dropna(subset=["unit_price"])             # a product with no usable price at all -> drop
+
+    # --- DERIVED COLUMNS (new calculated columns) ----------------------
+    df["gross_amount"] = (df["quantity"] * df["unit_price"]).round(2)       # before discount
+    df["discount_amount"] = (df["gross_amount"] * df["discount"]).round(2)  # money discounted
+    df["net_amount"] = (df["gross_amount"] - df["discount_amount"]).round(2)  # what the customer pays
+    df["unit_price"] = df["unit_price"].round(2)
+
+    df = df.sort_values("order_datetime").reset_index(drop=True)  # oldest order first, fresh row numbers
+    stats["rows_clean"] = len(df)                     # final row count
+    stats["nulls_after"] = int(df.isna().sum().sum()) # nulls that remain (e.g. missing email/phone)
+    return df, stats
+
+
+# ----------------------------------------------------------------- KPIs
+def compute_kpis(df: pd.DataFrame, stats: dict):
+    """Calculate the business numbers (KPIs) for the report."""
+    latest = df["order_date"].max()                   # the most recent day in the data = "today's report"
+    day = df[df["order_date"] == latest]              # all orders on that day
+    # revenue should ignore cancelled and returned orders
+    valid = df[~df["status"].isin(["Cancelled", "Returned"])]
+    valid_day = day[~day["status"].isin(["Cancelled", "Returned"])]
+    # valid orders from the day before (to compare against)
+    prev_day = valid[valid["order_date"] == latest - pd.Timedelta(days=1)]
+
+    def growth(cur, prev):
+        """Percentage change from prev to cur (None if there is no previous value)."""
+        return None if not prev else round((cur - prev) / prev * 100, 1)
+
+    kpis = {
+        "Report date (latest data day)": latest.strftime("%d %b %Y"),   # e.g. 24 Nov 2026
+        "Orders (latest day)": len(day),                                 # number of orders that day
+        "Net revenue (latest day)": round(valid_day["net_amount"].sum(), 2),
+        "Revenue vs previous day (%)": growth(valid_day["net_amount"].sum(), prev_day["net_amount"].sum()),
+        "Total orders (all days)": len(df),
+        "Total net revenue": round(valid["net_amount"].sum(), 2),
+        "Average order value": round(valid["net_amount"].mean(), 2),    # revenue per order
+        "Units sold": int(valid["quantity"].sum()),
+        # count distinct customers, ignoring the "Unknown" placeholder
+        "Unique customers": int(df.loc[df["customer_name"] != "Unknown", "customer_name"].nunique()),
+        "Total discount given": round(valid["discount_amount"].sum(), 2),
+        "Cancellation rate (%)": round((df["status"] == "Cancelled").mean() * 100, 1),  # share of cancelled orders
+        "Return rate (%)": round((df["status"] == "Returned").mean() * 100, 1),         # share of returned orders
+        "Avg shipping days": round((df["ship_date"] - df["order_date"]).dt.days.mean(), 1),
+        # idxmax() returns the name of the group with the highest total revenue
+        "Top category": valid.groupby("category")["net_amount"].sum().idxmax(),
+        "Top city": valid[valid["city"] != "Unknown"].groupby("city")["net_amount"].sum().idxmax(),
+        "Top product": valid.groupby("product")["net_amount"].sum().idxmax(),
+        # mode() = the most frequent value
+        "Most used payment method": df.loc[df["payment_method"] != "Unknown", "payment_method"].mode().iat[0],
+    }
+    # table: orders, units and revenue per category, biggest revenue first
+    by_category = (valid.groupby("category")
+                   .agg(orders=("order_id", "count"), units=("quantity", "sum"), revenue=("net_amount", "sum"))
+                   .round(2).sort_values("revenue", ascending=False).reset_index())
+    # table: orders and revenue per day for the last 7 days
+    by_day = (valid.groupby("order_date").agg(orders=("order_id", "count"), revenue=("net_amount", "sum"))
+              .round(2).tail(7).reset_index())
+    by_day["order_date"] = by_day["order_date"].dt.strftime("%d %b")    # show dates as "24 Nov"
+    # summary of what the cleaning step fixed (shown at the bottom of the report)
+    quality = {
+        "Raw rows": stats["rows_raw"], "Clean rows": stats["rows_clean"],
+        "Duplicates removed": stats["duplicates_removed"],
+        "Rows dropped (no ID / bad date)": stats["missing_order_id"] + stats["unparseable_order_dates"],
+        "Price outliers fixed": stats["price_outliers"],
+        "Invalid emails / phones cleared": f'{stats["invalid_emails"]} / {stats["invalid_phones"]}',
+        "Ship-before-order dates cleared": stats["ship_before_order"],
+        "Nulls remaining": stats["nulls_after"],
+    }
+    return kpis, by_category, by_day, quality
+
+
+# ----------------------------------------------------------------- report
+def fmt(v):
+    """Format a value for display: 1234.5 -> '1,234.50', 1234 -> '1,234', text stays text."""
+    return f"{v:,.2f}" if isinstance(v, float) else f"{v:,}" if isinstance(v, int) else str(v)
+
+
+def build_html(kpis, by_category, by_day, quality) -> str:
+    """Build the HTML email body from the KPI dictionaries and tables."""
+    def kv(d):
+        # turn a {name: value} dictionary into HTML table rows (None is shown as 'n/a')
+        return "".join(f"<tr><td style='padding:4px 12px 4px 0'>{k}</td><td><b>{fmt(v) if v is not None else 'n/a'}</b></td></tr>"
+                       for k, v in d.items())
+    # one big HTML string; the {...} parts are replaced with real values
+    return f"""<html><body style="font-family:Arial,sans-serif;font-size:14px;color:#222">
+<h2>Daily Sales Report &ndash; {kpis['Report date (latest data day)']}</h2>
+<h3>Key metrics</h3><table>{kv(kpis)}</table>
+<h3>Revenue by category</h3>{by_category.to_html(index=False, border=0, justify='left')}
+<h3>Last 7 days</h3>{by_day.to_html(index=False, border=0, justify='left')}
+<h3>Data quality summary</h3><table>{kv(quality)}</table>
+<p style="color:#888">Generated automatically on {datetime.now():%d %b %Y %H:%M}. Cleaned dataset attached.</p>
+</body></html>"""
+
+
+def send_email(html: str, subject: str, attachments: list):
+    """Send the HTML report (plus attachment files) through Gmail."""
+    # take the Gmail details from the config block at the top of the file
+    user = GMAIL_USER.strip()
+    pwd = GMAIL_APP_PASSWORD.replace(" ", "")         # App Passwords are shown with spaces; remove them
+    # MANAGER_EMAIL may hold several addresses separated by commas -> make a clean list
+    to = [a.strip() for a in MANAGER_EMAIL.split(",") if a.strip()]
+    if not (user and pwd and to):                     # stop early with a clear message if anything is missing
+        raise RuntimeError("Fill in GMAIL_USER, GMAIL_APP_PASSWORD and MANAGER_EMAIL in the config block "
+                           "near the top of the script (or set them as environment variables).")
+
+    msg = EmailMessage()                              # create an empty email
+    msg["From"], msg["To"], msg["Subject"] = user, ", ".join(to), subject
+    msg.set_content("Please view this email in an HTML-capable client.")  # plain-text fallback
+    msg.add_alternative(html, subtype="html")         # the formatted HTML version of the body
+    for path in attachments:                          # attach each file (cleaned data + KPI csv)
+        with open(path, "rb") as f:
+            msg.add_attachment(f.read(), maintype="text", subtype="csv", filename=os.path.basename(path))
+
+    ctx = ssl.create_default_context()                # secure-connection settings
+
+    def _send_ssl():
+        # Option A: port 465 - the connection is encrypted from the very first byte
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ctx, timeout=30) as server:
+            server.login(user, pwd)
+            server.send_message(msg)
+
+    def _send_starttls():
+        # Option B: port 587 - connect normally, then upgrade to an encrypted connection
+        with smtplib.SMTP("smtp.gmail.com", 587, timeout=30) as server:
+            server.ehlo()
+            server.starttls(context=ctx)
+            server.ehlo()
+            server.login(user, pwd)
+            server.send_message(msg)
+
+    try:
+        try:
+            _send_ssl()                               # try port 465 first
+        except (smtplib.SMTPServerDisconnected, ConnectionError, TimeoutError, ssl.SSLError) as e:
+            # the connection was dropped or blocked (firewall, antivirus, VPN, network) -> try 587
+            log.warning("Port 465 failed (%s). Retrying on port 587...", e)
+            _send_starttls()
+    except smtplib.SMTPAuthenticationError:
+        # Gmail reached us but refused the login
+        raise RuntimeError("Gmail rejected the login. Use a 16-character App Password "
+                           "(myaccount.google.com/apppasswords), not your normal password, "
+                           "and check GMAIL_USER is your full address.") from None
+    except (smtplib.SMTPServerDisconnected, ConnectionError, TimeoutError, ssl.SSLError) as e:
+        raise RuntimeError(f"Could not keep a connection to Gmail on ports 465 and 587 ({e}). "
+                           "Check internet access and try turning off VPN/antivirus email "
+                           "scanning, or try a different network (e.g. mobile hotspot).") from None
+    log.info("Report emailed to %s", ", ".join(to))
+
+
+# ----------------------------------------------------------------- main
+def main():
+    # define the command-line options: --input <file> and --send
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--input", default=RAW_FILE)
+    ap.add_argument("--send", action="store_true", help="email the report to MANAGER_EMAIL")
+    # parse_known_args ignores extra arguments we did not define. This matters in Jupyter,
+    # which silently passes its own "-f kernel.json" argument and would otherwise crash us.
+    args, _ = ap.parse_known_args()
+    send = args.send or SEND_EMAIL                    # email if --send was given OR SEND_EMAIL is True
+
+    log.info("Reading %s", args.input)
+    # read everything as text (dtype=str) and do not auto-convert "NA"/"null" - our code handles them
+    raw = pd.read_csv(args.input, dtype=str, keep_default_na=False)
+    df, stats = clean(raw)                            # STEP 1: clean the data
+    df.to_csv(CLEAN_FILE, index=False)                # save the cleaned table
+    log.info("Cleaned %d -> %d rows, saved %s", stats["rows_raw"], stats["rows_clean"], CLEAN_FILE)
+
+    kpis, by_category, by_day, quality = compute_kpis(df, stats)   # STEP 2: calculate KPIs
+    pd.DataFrame({"kpi": kpis.keys(), "value": kpis.values()}).to_csv(KPI_FILE, index=False)
+    html = build_html(kpis, by_category, by_day, quality)          # STEP 3: build the report
+    with open(REPORT_HTML, "w", encoding="utf-8") as f:
+        f.write(html)                                 # save the report as a web page for preview
+
+    # print the same numbers in the terminal
+    print("\n=== KPIs ===")
+    for k, v in kpis.items():
+        print(f"{k:34s} {v}")
+    print("\n=== Data quality ===")
+    for k, v in quality.items():
+        print(f"{k:34s} {v}")
+    print("\n", by_category.to_string(index=False))
+
+    if send:                                          # STEP 4: email only when sending is switched on
+        send_email(html, f"Daily Sales Report - {kpis['Report date (latest data day)']}", [CLEAN_FILE, KPI_FILE])
+    else:
+        log.info("Dry run: use --send to email the report (open %s to preview it).", REPORT_HTML)
+
+
+if __name__ == "__main__":                            # run main() only when executed directly
+    main()
